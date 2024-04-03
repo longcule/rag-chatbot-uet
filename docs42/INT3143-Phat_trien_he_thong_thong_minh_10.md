@@ -1,0 +1,8 @@
+10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học phần: PHÁT TRIỂN HỆ THỐNG THÔNG MINH
+10.1. Phương pháp hình thức kiểm tra đánh giá: PHÁT TRIỂN HỆ THỐNG THÔNG MINH Hình Phương Mục CLO được Trọng thức pháp đích đánh giá số (Chuyên (Viết vấn cần giữa đáp thực kỳ kết hành bài thúc học tập lớn phần ...) ...) Bài tập lớn Làm theo Đánh giá kỹ CLO1 30% nhóm xây năng nghiên dựng một cứu và vận CLO2 sản phẩm có dụng kiến thành phần thức đã CLO4 AIML học rèn trình bày luyện kỹ CLO5 trước lớp năng mềm về sản phẩm CLO6 và trải nghiệm Kiểm tra Thi viết Đánh giá CLO1 20% giữa kỳ hoặc vấn kiến thức đáp kỹ năng học CLO2 viên đạt được sau CLO3 nửa học kỳ CLO4 CLO5 CLO6 Thi kết Thi viết Đánh giá CLO1 50% thúc học hoặc vấn kiến thức phần đáp kỹ năng học CLO2 viên đạt được khi CLO4 kết thúc học phần CLO5 CLO6 CLO7 CLO8 Tổng: 100% PHÁT TRIỂN HỆ THỐNG THÔNG MINH 10.2. Tiêu chí đánh giá: PHÁT TRIỂN HỆ THỐNG THÔNG MINH Mức chất lượng Thang điểm Mô tả mức chất lượngYêu cầu Xuất sắc 910 Nắm vững kiến thức ở mức xuất sắc ở tất cảhầu hết kiến thức
+Khá giỏi 78 Nắm vững kiến thức ở mức tốt vẫn còn một vài kiến thức chưa nắm được
+Đạt 56 Nắm vững kiến thức cơ bản
+Chưa đạt 04 Không nắm được phần lớn kiến thức cơ bản
+10.3. Lịch thi và kiểm tra: PHÁT TRIỂN HỆ THỐNG THÔNG MINH Hình thức kiểm tra Thời gian Dự thời gian tiến hành Kiểm tra giữa kỳ Tuần 8
+Thi cuối kỳ Theo lịch của Trường
+Hà Nội ngày tháng năm 2023 Duyệt Chủ nhiệm Khoa Chủ nhiệm Bộ môn PHÁT TRIỂN HỆ THỐNG THÔNG MINH

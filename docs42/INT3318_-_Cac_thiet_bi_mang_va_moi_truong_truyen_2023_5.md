@@ -1,0 +1,7 @@
+5. Tóm tắt nội dung học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
+Trước tiên sinh viên sẽ được giới thiệu về ý nghĩa của học phần quan hệ
+của nó với các học phần khác trong chương trình đào tạo và một số vị trí
+công việc thực tế cần kiến thức các thiết bị mạng và môi trường truyền.
+Sau đó sinh viên sẽ được học lý thuyết chung về các thiết bị mạng và
+môi truờng truyền. Cụ thể là: Giới thiệu về mạng Các chuẩn của mạng và mô hình OSI Cơ bản về truyền thông và phương tiện truyền dẫn Giới thiệu về các giao thức TCPIP Các tô pô và chuẩn Ethernet Phần cứng mạng WAN và kết nối từ xa Mạng không dây Các hệ điều hành mạng Mạng TCPIP chuyên sâu Thoại và video qua IP An ninh mạng Khắc phục sự cố mạng Bảo đảm tính nguyên vẹn và sẵn sang Quản trị mạng
+CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN

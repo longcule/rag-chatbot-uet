@@ -1,0 +1,9 @@
+10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học phần: LẬP TRÌNH MẠNG
+10.1. Phương pháp hình thức kiểm tra đánh giá: LẬP TRÌNH MẠNG Hình Phương Mục CLO được Trọng thức pháp đích đánh giá số (Chuyên (Viết vấn cần giữa đáp thực kỳ kết hành bài thúc học tập lớn phần ...) ...) Thực hành Làm thực Áp dụng các CLO1 CLO2 40% hành trên kiến thức CLO4 lớp học được để lập trình giao tiếp giữa các máy tính Kết thúc Làm dự án Áp dụng tất CLO2 CLO3 60% học phần phần mềm cả các kiến CLO4 CLO5 theo nhóm thức và kỹ CLO6 CLO7 năng được CLO8 học để phát triển một ứng dụng mạng theo yêu cầu của một bài toán thực tế Tổng: 100% LẬP TRÌNH MẠNG 10.2. Tiêu chí đánh giá: LẬP TRÌNH MẠNG Mức chất lượng Thang điểm Mô tả mức chất lượngYêu cầu Xuất sắc 910 Hoàn thành tốt các yêu cầu đề ra thể hiện khả năng vận dụng thành thạo các kiến thức đã học
+Khá giỏi 78 Hoàn thành khoảng 7080% các yêu cầu đề ra thể hiện khả năng vận dụng cơ bản các kiến thức đã học
+Đạt 56 Hoàn thành khoảng 5060% các yêu cầu đề ra mới dừng\
+lại ở mức mô tả lại kiến thức đã học
+Chưa đạt 04 Hoàn thành dưới 50% yêu cầu đề ra trên 50% yêu cầu\
+quan trọng chưa đạt 10.3. Lịch thi và kiểm tra: LẬP TRÌNH MẠNG Hình thức kiểm tra Thời gian Dự thời gian tiến hành Kiểm tra các bài thực hành Theo lịch thực hành Tuần 1 15
+Kết thúc học phần Theo lịch thi của trường
+Hà Nội ngày tháng năm 2023 Duyệt Chủ nhiệm Khoa Chủ nhiệm Bộ môn 

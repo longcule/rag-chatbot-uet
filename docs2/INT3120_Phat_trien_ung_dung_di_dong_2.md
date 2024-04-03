@@ -1,0 +1,22 @@
+2. Thông tin chung về học phần: PHÁT TRIỂN ỨNG DỤNG DI ĐỘNG
+===========================================================
+
+-   Tên học phần:
+
+    -   Tiếng Việt: Phát triển ứng dụng di động
+
+    -   Tiếng Anh: Mobile Application Development
+
+-   Mã số học phần: INT3120
+
+-   Số tín chỉ: 3
+
+-   Giờ tín chỉ đối với các hoạt động (LT/ThH/TH): 45/0/0
+
+-   Học phần tiên quyết: INT2204 - Lập trình hướng đối tượng
+
+-   Các yêu cầu đối với học phần (nếu có):
+
+-   Bộ môn, Khoa phụ trách học phần: Bộ môn Công nghệ phần mềm, Khoa
+    > CNTT
+

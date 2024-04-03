@@ -1,0 +1,86 @@
+6. Nội dung chi tiết học phần: PHÂN TÍCH KINH DOANH
+===================================================
+
+Chương 1. Tổng quan về phân tích kinh doanh
+
+1.1. Giới thiệu học phần
+
+1.2. Các khái niệm trong phân tích kinh doanh
+
+1.3. Các ứng dụng phân tích kinh doanh
+
+1.4. Giới thiệu các công cụ cần thiết cho học phần
+
+Chương 2. Dữ liệu và biến đổi dữ liệu
+
+2.1. Các kiểu và các dạng dữ liệu
+
+2.2. Mẫu dữ liệu và lấy mẫu dữ liệu
+
+2.3. Các vấn đề của dữ liệu: nhiễu, thiếu khuyết, mất cân bằng ...
+
+2.4. Tiền xử lý và biến đổi dữ liệu
+
+Chương 3. Xác suất, thống kê và ra quyết định với tri thức không chắc
+chắn
+
+3.1. Xác suất và phân bố xác suất
+
+3.2. Các dạng phân bố dữ liệu điển hình
+
+3.3. Ra quyết định với tri thức không chắc chắn
+
+3.4. Ước lượng điểm và ước lượng khoảng
+
+3.5. Kiểm thử giả thuyết thống kê
+
+Chương 4. Phân tích dữ liệu mô tả
+
+4.1. Các thống kê mô tả trên dữ liệu
+
+4.2. Quan hệ giữa các biến trong dữ liệu
+
+4.3. Trực quan hoá dữ liệu
+
+4.4. Phân tích cụm dữ liệu
+
+4.5. Khám phá mẫu phổ biến và luật kết hợp
+
+Chương 5. Phân tích dữ liệu dự báo
+
+5.1. Các khái niệm trong phân tích dự báo
+
+5.2. Các cách tiếp cận phân tích dự báo
+
+5.3. Dự báo với các mô hình hồi quy
+
+5.4. Dự báo trên dữ liệu chuỗi thời gian
+
+5.5. Các mô hình đoán nhận dựa trên học máy
+
+Chương 6. Phân tích dữ liệu khuyến nghị
+
+6.1. Các khái niệm trong phân tích khuyến nghị
+
+6.2. Các cách tiếp cận và các mô hình tối ưu
+
+6.3. Các mô hình tối ưu tuyến tính
+
+6.4. Các mô hình tối ưu phi tuyến
+
+Chương 7. Một số ứng dụng phân tích kinh doanh
+
+7.1. Phân tích dữ liệu bán lẻ
+
+7.2. Phân tích dữ liệu marketing
+
+7.3. Phân tích dữ liệu tài chính
+
+7.4. Phân tích giá cả
+
+7.5. Phân tích chuỗi cung ứng
+
+7.6. Phân tích dữ liệu sức khoẻ
+
+7.7. Phân tích dữ liệu truyền thông trực tuyến
+

@@ -1,0 +1,29 @@
+5. Tóm tắt nội dung học phần: CHƯƠNG TRÌNH DỊCH
+===============================================
+
+Trước tiên sinh viên sẽ được giới thiệu về ý nghĩa của môn học, quan hệ
+của nó với các môn học khác trong chương trình đào tạo và một số vị trí
+công việc thực tế cần kiến thức chương trình dịch. Sau đó, sinh viên sẽ
+được học lý thuyết chung về chương trình dịch bao gồm: cấu trúc chương
+trình dịch, các thuật toán, các phương pháp cơ bản để xây dựng nên các
+thành phần một chương trình dịch. Cụ thể là:
+
+-   Biểu diễn từ vựng sử dụng biểu thức chính qui và phân tích từ vựng
+    > sử dụng otomat hữu hạn trạng thái
+
+-   Biểu diễn cú pháp ngôn ngữ lập trình bằng văn phạm phi ngữ cảnh và
+    > phân tích cú pháp bằng các thuật toán LL, LR
+
+-   Kỹ thuật dịch cú pháp điều khiển
+
+-   Phân tích ngữ nghĩa dựa vào cú pháp điều khiển
+
+-   Sinh mã trung gian ở dạng biểu diễn 3 địa chỉ
+
+-   Một số vấn đề về sinh mã đích
+
+Sinh viên cũng được hướng dẫn để thực hành xây dựng một số thành phần
+của chương trình dịch như mô-đun phân tích từ vựng, mô-đun phân tích cú
+pháp, v.v. với mục tiêu là dịch một ngôn ngữ là biến thể (đơn giản hóa)
+của C++ ra ngôn ngữ máy ảo Java (JVM).
+

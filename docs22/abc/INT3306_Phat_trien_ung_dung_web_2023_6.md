@@ -1,0 +1,284 @@
+6. Nội dung chi tiết học phần: PHÁT TRIỂN ỨNG DỤNG WEB
+======================================================
+
+***Phần 1: Kiến trúc ứng dụng web***
+
+> \- Khái niệm ứng dụng web
+>
+> \- Mô hình client-server
+>
+> \- Chức năng của web server và web client (đặc biệt là trình duyệt
+> web)
+>
+> \- Tăng tính năng của trình duyệt bằng plugins; quan hệ giữa trình
+> duyệt và các plugins.
+>
+> \- HTTP
+>
+> \- Ứng dụng web, tài nguyên web và URL
+>
+> \- Phân loại web tĩnh và động
+>
+> \- Giới thiệu một số công nghệ web được sử dụng rộng rãi
+>
+> \- Giới thiệu các web server tương ứng với các công nghệ web được sử
+> dụng rộng rãi
+>
+> \- Giới thiệu các trình duyệt web phổ biến hiện nay
+>
+> \- Quan hệ giữa web server với các trình biên/phiên dịch ngôn ngữ lập
+> trình đa năng được sử dụng trong các công nghệ web: API module, chương
+> trình CGI.
+>
+> \- Thực hành bắt và phân tích các gói HTTP Request và HTTP Response
+>
+> \- Thực hành cài đặt và quản trị web server cùng các trình biên/phiên
+> dịch ngôn ngữ lập trình đa năng được sử dụng.
+
+***Phần 2: Phát triển frontend***
+
+> \- Phân biệt ứng dụng web và trang web
+>
+> \- Chức năng thông dịch của trình duyệt web
+>
+> \- Mã nguồn được thông dịch và thực thi tại trình duyệt web
+>
+> \- Đối tượng tài liệu
+>
+> \- HTML
+>
+> \+ Vai trò của HTML
+>
+> \+ Cấu trúc trang web
+>
+> \+ Sử dụng các thẻ HTML để khai báo các đối tượng tài liệu
+>
+> \+ Sự phát triển của HTML: HTML5
+>
+> \- CSS
+>
+> \+ Vai trò của CSS
+>
+> \+ Nguyên lý kỹ nghệ phần mềm dẫn đến sự cần thiết sử dụng CSS
+>
+> \+ Khai báo và sử dụng các bảng định dạng CSS
+>
+> \+ Bộ chọn và kết hợp các bộ chọn
+>
+> \+ Lớp giả, phần tử giả
+>
+> \+ Kế thừa bảng định dạng
+>
+> \+ Giải quyết xung đột
+>
+> \+ Trình diễn đối tượng, mô hình cái hộp
+>
+> \+ Xác định vị trí trình diễn đối tượng
+>
+> \+ Sự phát triển của CSS: CSS3
+>
+> \- Thiết kế thích ứng (RWD)
+>
+> \+ Dàn trang thích ứng: flexbox, grid, multi-column layout
+>
+> \+ Hình ảnh thích ứng
+
+-   Resolution Switching
+
+-   Art Direction
+
+-   CSS image
+
+> \+ Văn bản thích ứng
+
+-   Phông chữ
+
+-   Cỡ chữ
+
+-   Số ký tự trên một dòng
+
+-   Giãn dòng/chiều cao dòng
+
+-   Giãn cách ký tự trên dòng
+
+-   Stepped Typography
+
+-   Fluid Typography
+
+> \+ Giao diện thích ứng
+
+-   Truy vấn phương tiện và CSS có điều kiện
+
+-   Kết hợp các thành phần thích ứng để tạo giao diện thích ứng
+
+> \- JavaScript
+>
+> \+ Vai trò của các ngôn ngữ kịch bản phía client
+>
+> \+ Lý do sử dụng JavaScript
+>
+> \+ Cơ bản về JavaScript; khai báo và sử dụng biến, hàm, đối tượng bằng
+> JavaScript.
+>
+> \+ Chèn mã JavaScript vào trang web
+>
+> \+ JavaScript không đồng bộ, AJAX, promise, JSON
+>
+> \- DOM
+>
+> \+ Quản lý các đối tượng tài liệu trong bộ nhớ của trình duyệt theo
+> DOM
+>
+> \+ Những phương thức và thuộc tính chung của các lớp đối tượng tài
+> liệu
+>
+> \+ Đối tượng *window*, đối tượng *document*
+>
+> \+ Sử dụng JavaScript để quản lý các đối tượng tài liệu theo DOM
+
+\- PWA
+
+\+ Service Worker
+
+\+ CacheStorage
+
+\+ Lưu response và duyệt offline
+
+\+ Manifest
+
+\+ Homescreen
+
+\+ Push notifications
+
+\+ BackgroundSync
+
+> \- Hỗ trợ HTML, CSS và JavaScript không giống nhau của các trình
+> duyệt; những giải pháp được áp dụng để trang web có thể chạy trên
+> nhiều trình duyệt khác nhau.
+>
+> \- Thực hành sử dụng HTML, CSS và JavaScript để tạo trang giới thiệu,
+> trang danh sách sản phẩm, và trang nhập thông tin sản phẩm trong ứng
+> dụng quảng cáo sản phẩm trực tuyến.
+
+***Phần 3: Phát triển backend***
+
+> \- Kiến trúc ứng dụng web động
+>
+> \+ Tạo nội dung web động khi có yêu cầu
+>
+> \+ Kiến trúc ba tầng, các thành phần trong mỗi tầng, giao tiếp giữa
+> các tầng
+>
+> \+ Vai trò của ngôn ngữ lập trình đa năng trong việc tạo web động
+>
+> \- Ngôn ngữ lập trình tạo web động (ví dụ PHP hoặc ASP.NET hoặc JSP)
+>
+> \+ Cơ bản về ngôn ngữ lập trình web động: các kiểu dữ liệu, hằng,
+> biến, mảng, xâu, các toán tử, các cấu trúc điều khiển, hàm, lớp, đối
+> tượng, không gian tên, xử lý ngoại lệ, bao hàm tệp.
+>
+> \+ Trang web động: tên tệp mở rộng, cách nhúng các phân đoạn web động,
+> phân tích tình huống nên/không nên nhúng/trộn các phân đoạn web động
+> vào nội dung web.
+>
+> \+ Các hàm thư viện cần thiết để nhận và phân tích yêu cầu (http
+> request) được gửi từ web client.
+>
+> \+ Các hàm thư viện cần thiết để ghi vào tiêu đề và thân đáp ứng (http
+> response).
+>
+> \+ Các hàm thư viện cần thiết để lưu trạng thái làm việc giữa web
+> server và web client.
+>
+> \- Mẫu thiết kế MVC
+>
+> \- Viết lại và định tuyến URL
+>
+> \- REST API
+>
+> \- Thao tác với cơ sở dữ liệu (ví dụ MySQL hoặc MSSQL hoặc JavaDB)
+>
+> \+ Thao tác CSDL từ ứng dụng web: Mở/đóng kết nối CSDL, truy vấn CSDL,
+> cập nhật CSDL.
+>
+> \+ Xử lý kết quả truy vấn
+>
+> \+ Truy vấn và cập nhật theo dữ liệu người dùng
+>
+> \+ Đảm bảo tính nhất quán và toàn vẹn dữ liệu, xử lý truy cập đồng
+> thời
+>
+> \+ Ánh xạ đối tượng -- quan hệ (ORM)
+>
+> \- Xử lý hợp thức
+>
+> \+ Mục đích và yêu cầu xử lý hợp thức
+>
+> \+ Các bước xử lý hợp thức
+>
+> \+ Xử lý hợp thức phía client
+>
+> \+ Xử lý hợp thức phía server
+>
+> \- Phiên và cookie
+>
+> \+ Tính phi trạng thái của HTTP
+>
+> \+ Lợi ích của việc biết trạng thái làm việc giữa web client và web
+> server
+>
+> \+ Lưu trạng thái ở trình duyệt: Tạo và sử dụng cookie, các vấn đề về
+> hiệu năng, an ninh và tính riêng tư khi sử dụng cookie, những tình
+> huống nên/không nên sử dụng cookie.
+>
+> \+ Lưu trạng thái ở web server: Tạo và sử dụng phiên, các vấn đề về
+> hiệu năng, an ninh khi sử dụng phiên, những tình huống nên/không nên
+> sử dụng phiên.
+>
+> \- Xác thực và an ninh
+>
+> \+ Mục đích của xác thực và an ninh
+>
+> \+ Xác thực HTTP
+>
+> \+ Xác thực IP
+>
+> \+ Xác thực sử dụng HTML form
+>
+> \+ JSON web token (JWT)
+>
+> \+ Duy trì phiên
+>
+> \+ Điều khiển truy cập
+>
+> \+ Bảo vệ dữ liệu bằng mã hóa
+>
+> \+ Sử dụng SSL, HTTPS
+>
+> \+ Các rủi ro an ninh với ứng dụng web và cách khắc phục
+>
+> \- Khung phát triển backend
+>
+> \+ Khung phát triển backend ứng dụng web là gì
+>
+> \+ Lợi ích của sử dụng khung phát triển ứng dụng web
+>
+> \+ Tìm hiểu, lựa chọn và sử dụng khung phát triển ứng dụng web
+>
+> \- Kiểm thử ứng dụng web
+>
+> \+ Phương pháp và công cụ kiểm thử
+>
+> \+ Viết kịch bản kiểm thử
+>
+> \+ Kiểm thử frontend
+>
+> \+ Kiểm thử backend
+>
+> \+ Kiểm thử tích hợp
+>
+> \- Thực hành hoàn thành ứng dụng web động quảng cáo sản phẩm trực
+> tuyến: bổ xung kịch bản phía server cho các trang đã tạo ở Chương 2;
+> thêm các trang chính cho backend và frontend; thao tác CSDL, xử lý hợp
+> thức, xác thực và an ninh ở tất cả các trang.
+

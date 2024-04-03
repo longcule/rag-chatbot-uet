@@ -1,0 +1,17 @@
+5. Tóm tắt nội dung học phần: PHÂN TÍCH KINH DOANH
+Học phần trước tiên đề cập đến vai trò quan trọng của phân tích kinh
+doanh ở các doanh nghiệp trong thời kỳ chuyển đổi số. Tiếp theo là các
+phần nội dung cụ thể như hiểu dữ liệu kinh doanh; tiền xử lý và biến
+đổi dữ liệu; các kỹ thuật và phương pháp phân tích mô tả; các kỹ
+thuật và phương pháp phân tích dự báo; các kỹ thuật và phương pháp
+phân tích khuyến nghị; trực quan hoá dữ liệu ... Các nội dung trong
+học phần này có nhiều kiến thức giao thoa với lĩnh vực như thống kê
+(statistics) khai phá dữ liệu (data mining) học máy (machine
+learning) cũng như vận trù học (operations research). Bên cạnh các vấn
+đề kỹ thuật học phần cũng chú trọng định hướng cho sinh viên việc tiếp
+cận hiểu và giải quyết các vấn đề thực tiễn trong thương mại và kinh
+doanh.
+Học phần sẽ định hướng sinh viên thực hành trên một số công cụ tiện
+dụng quen thuộc nhưng được trang bị nhiều tính năng phân tích dữ liệu
+như Microsoft Excel cũng như lập trình phân tích dữ liệu với ngôn ngữ
+lập trình Python hay R.

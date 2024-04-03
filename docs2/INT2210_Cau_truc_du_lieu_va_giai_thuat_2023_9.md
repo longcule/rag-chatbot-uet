@@ -1,0 +1,18 @@
+9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT
+=================================================================================================
+
+-   Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không
+    > được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh.
+
+-   Sau giờ học sinh viên cần chủ động cài đặt lại các thuật toán và cấu
+    > trúc đã học trên lớp, làm bài tập được ra hàng tuần. Không được để
+    > đến giờ thực hành mới bắt đầu làm.
+
+-   Giờ Thực hành/Bài tập trên lớp được dùng để trao đổi và chữa bài
+    > tập, hỏi đáp về cài đặt các cấu trúc dữ liệu và thuật toán đã học.
+    > Sinh viên giỏi có thể chọn làm bài tập lớn thay cho bài tập hàng
+    > tuần.
+
+-   Sinh viên gian lận mã nguồn trong các bài tập sẽ bị điểm kết luận
+    > học phần là 0.
+

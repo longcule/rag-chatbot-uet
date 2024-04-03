@@ -1,0 +1,1 @@
+3. Mục tiêu học phần: NHẬP MÔN LẬP TRÌNH Học phần cung cấp cho sinh viên kiến thức nhập môn cơ bản về ngôn ngữ lập trình bậc cao kỹ năng xây dựng chương trình sử dụng một trong các ngôn ngữ lập trình C. Sinh viên có thể tự viết được các chương trình nhỏ đơn giản và bước đầu làm quen với việc lập trình theo yêu cầu.

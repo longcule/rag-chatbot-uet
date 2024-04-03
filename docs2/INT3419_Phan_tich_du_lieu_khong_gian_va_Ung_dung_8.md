@@ -1,0 +1,105 @@
+8. Hình thức tổ chức dạy học: PHÂN TÍCH DỮ LIỆU KHÔNG GIAN VÀ ỨNG DỤNG
+======================================================================
+
+8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): PHÂN TÍCH DỮ LIỆU KHÔNG GIAN VÀ ỨNG DỤNG
+----------------------------------------------------------------------------------------------------
+
++----------------+----------------+----------------+----------------+
+| **Hình thức    | **Số           | **Từ tuần ...  | **Địa điểm**   |
+| dạy**          | tiết/tuần**    | đến tuần ...** |                |
+|                |                |                | **(Giảng       |
+|                |                |                | đường, PM,     |
+|                |                |                | online)**      |
++================+================+================+================+
+| Lý thuyết      | 3              | 1-15           | Giảng đườn*g*  |
++----------------+----------------+----------------+----------------+
+| Thực hành      |                |                |                |
++----------------+----------------+----------------+----------------+
+| Tự học bắt     |                |                |                |
+| buộc           |                |                |                |
++----------------+----------------+----------------+----------------+
+
+8.2. Lịch trình dạy cụ thể: PHÂN TÍCH DỮ LIỆU KHÔNG GIAN VÀ ỨNG DỤNG
+--------------------------------------------------------------------
+
++----------+----------------------------+----------------------------+
+| **Tuần** | **Nội dung Lý thuyết**     | **Nội dung Thực hành**     |
++==========+============================+============================+
+| 1        | **Giới thiệu chung:** Tổng | Đọc tài liệu tham khảo     |
+|          | quan về các dữ liệu không  |                            |
+|          | gian; Cách tiếp cận phân   |                            |
+|          | tích dữ liệu không gian;   |                            |
+|          | Các ứng dụng phổ biến      |                            |
++----------+----------------------------+----------------------------+
+| 2        | **Các phương pháp thu thập | Đọc tài liệu tham khảo và  |
+|          | và xử lý ảnh vệ tinh:**    | làm bài tập                |
+|          | Giới thiệu về ảnh vệ tinh  |                            |
+|          | quang học và radar; Các    |                            |
+|          | phương pháp thu thập dữ    |                            |
+|          | liệu vệ tinh               |                            |
++----------+----------------------------+----------------------------+
+| 3        | **Các phương pháp thu thập | Đọc tài liệu tham khảo và  |
+|          | và xử lý ảnh vệ tinh:**    | làm bài tập                |
+|          | Các công cụ xử lý ảnh vệ   |                            |
+|          | tinh                       |                            |
++----------+----------------------------+----------------------------+
+| 4        | **Các phương pháp thu thập | Đọc tài liệu tham khảo và  |
+|          | và xử lý ảnh vệ tinh:**    | làm bài tập                |
+|          | Các phương pháp tiền xử lý |                            |
+|          | dữ liệu ảnh vệ tinh; và    |                            |
+|          | đánh giá chất lượng ảnh vệ |                            |
+|          | tinh                       |                            |
++----------+----------------------------+----------------------------+
+| 5        | **Các phương pháp thu thập | Đọc tài liệu tham khảo và  |
+|          | và xử lý số liệu quan trắc | làm bài tập                |
+|          | mặt đất:** Giới thiệu về   |                            |
+|          | một số hình thức quan trắc |                            |
+|          | mặt đất; Phương pháp lấy   |                            |
+|          | mẫu và xử lý số liệu thực  |                            |
+|          | địa                        |                            |
++----------+----------------------------+----------------------------+
+| 6        | **Các phương pháp thu thập | Đọc tài liệu tham khảo và  |
+|          | và xử lý số liệu quan trắc | làm bài tập                |
+|          | mặt đất:** Phương pháp thu |                            |
+|          | thập và xử lý số liệu trạm |                            |
+|          | quan trắc tự động hoặc thủ |                            |
+|          | công                       |                            |
++----------+----------------------------+----------------------------+
+| 7        | **Các phương pháp kết hợp  | Đọc tài liệu tham khảo và  |
+|          | dữ liệu đa nguồn:** Các    | làm bài tập                |
+|          | phương pháp kết hợp ảnh vệ |                            |
+|          | tinh, tái phân tích, mô    |                            |
+|          | hình; các phương pháp kết  |                            |
+|          | hợp ảnh vệ tinh/mô hình và |                            |
+|          | dữ liệu quan trắc mặt đất  |                            |
++----------+----------------------------+----------------------------+
+| 8        | **Các phương pháp kết hợp  | Đọc tài liệu tham khảo và  |
+|          | dữ liệu đa nguồn:** Các    | làm bài tập                |
+|          | phương pháp kết hợp ảnh và |                            |
+|          | dữ liệu quan trắc mặt đất  |                            |
++----------+----------------------------+----------------------------+
+| 9        | **Kiểm tra giữa kỳ**       | Đọc tài liệu tham khảo,    |
+|          |                            | Sinh viên chia nhóm làm    |
+|          | **Bài tập lớn:** Giới      | một dự án cụ thể           |
+|          | thiệu một số ứng dụng điển |                            |
+|          | hình và bài báo liên quan  |                            |
++----------+----------------------------+----------------------------+
+| 10       | **Bài tập lớn:** Thu thập  | Sinh viên chia nhóm làm    |
+|          | và tiền xử lý dữ liệu      | một dự án cụ thể           |
++----------+----------------------------+----------------------------+
+| 11       | **Bài tập lớn:** Thu thập  | Sinh viên chia nhóm làm    |
+|          | và tiền xử lý dữ liệu      | một dự án cụ thể           |
++----------+----------------------------+----------------------------+
+| 12       | **Bài tập lớn:** Mô hình   | Sinh viên chia nhóm làm    |
+|          | hóa và Thực nghiệm         | một dự án cụ thể           |
++----------+----------------------------+----------------------------+
+| 13       | **Bài tập lớn:** Mô hình   | Sinh viên chia nhóm làm    |
+|          | hóa và Thực nghiệm         | một dự án cụ thể           |
++----------+----------------------------+----------------------------+
+| 14       | **Bài tập lớn:** Trình bày | Sinh viên chia nhóm làm    |
+|          | bài tập lớn                | một dự án cụ thể           |
++----------+----------------------------+----------------------------+
+| 15       | **Bài tập lớn:** Trình bày | Sinh viên chia nhóm làm    |
+|          | bài tập lớn                | một dự án cụ thể           |
++----------+----------------------------+----------------------------+
+

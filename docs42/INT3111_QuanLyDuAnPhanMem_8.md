@@ -1,0 +1,77 @@
+8. Hình thức tổ chức dạy học: Quản lý dự án phần mềm
+8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): Quản lý dự án phần mềm Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 3 115 Giảng đường 8.2. Lịch trình dạy cụ thể: Quản lý dự án phần mềm Tuần Tiết Nội dung Nội dung SV tự học 1 1 Các khái niệm cơ bản về quản lý dự án Một số vấn đề về đạo đức nghề nghiệp trong quản lý dự án
+2 Mười miền tri thức cần có của một quản lý dự án
+Các tiêu chí đánh giá dự án
+3 Các kỹ năng cần có của người quản lý dự án
+2 4 Hiểu về tổ chức Văn hóa doanh nghiệptổ chức
+Quản lý các bên liên quan
+5 Tổng quan về các pha và vòng đời của một dự án
+Một số đặc trưng của dự án phần mềm
+6 Các xu hướng ảnh hưởng đến việc quản lý các dự án phần mềm.
+3 7 Quy trình quản lý dự án Một số mô hình phát triển phần mềm: thác nước xoắn ốc RAD RUP Scrum
+Ánh xạ giữa các pha trong quy trình với các miền tri thức
+8 Tổng quan về một số mô hình phát triển phần mềm: thác nước xoắn ốc RAD RUP Scrum
+9 Mối quan hệ giữa các quy trình quản lý dự án và các mô hình phát triển phần mềm
+4 10 Khái niệm phạm vi dự án Xây dựng WBS cho một dự án đơn giản
+Một số đặc thù của phạm viyêu cầu của dự án phần mềm
+11 Lập kế hoạch quản lý phạm vi dự án
+Thu thập yêu cầu
+12 Tạo cấu trúc phân rã công việc (WBS)
+Thẩm định phạm vi dự án
+Giám sát phạm vi dự án
+5 13 Tầm quan trọng của lịch trình dự án Lập lịch trình cho một dự án đơn giản
+Lập kế hoạch quản lý lịch trình dự án
+14 Định nghĩa các công việc
+Ước lượng các công việcĐặc thù của việc ước lượng các công việc trong dự án phần mềm
+15 Lập lịch trình dự án
+Phân tích đường găng
+Giám sát lịch trình dự án
+6 16 Tầm quan trọng của quản lý chi phí Lập dự toán kinh phí cho một dự án đơn giản
+Các nguyên lý cơ bản của quản lý chi phí
+17 Lập kế hoạch quản lý chi phí dự án
+Ước lượng chi phí dự án
+18 Lập dự toán kinh phí dự án
+Giám sát chi phí
+Một số phương pháp quản lý chi phí của dự án phần mềm
+7 19 Tầm quan trọng của quản lý chất lượng Các tiêu chí đảm bảo chất lượng
+Quản lý chất lượng dự án
+20 Lập kế hoạch quản lý chất lượng dự án
+Đảm bảo chất lượng
+21 Giám sát chất lượng dự án
+Một số mô hình quản lý chất lượng của dự án phần mềm
+Một số phương pháp và công cụ giám sát chất lượng dự án
+8 22 Tầm quan trọng của quản lý nguồn nhân lực Lập kế hoạch sử dụng nguồn nhân lực cho một dự án đơn giản
+Quản lý nguồn nhân lực cho dự án
+23 Một số nguyên lý cơ bản về quản lý nguồn nhân lực
+Lập kế hoạch quản lý nguồn nhân lực
+24 Xây dựng và quản lý nhóm
+Một số đặc thù quản lý nhân lực công nghệ phần mềm
+9 25 Tầm quan trọng của quản lý giao tiếp Xây dựng kế hoạch quản lý giao tiếp trong nhóm làm việc
+Một số nguyên lý cơ bản để giao tiếp tốt
+26 Lập kế hoạch quản lý giao tiếp
+Quản lý giao tiếp trong dự án
+27 Giám sát quá trình giao tiếp trong dự án
+Một số phương pháp giao tiếp trong các dự án phát triển phần mềm
+10 28 Tầm quan trọng của quản lý rủi ro Xây dựng kế hoạch phòng chống rủi ro cho một dự án đơn giản
+Lập kế hoạch quản lý rủi ro
+29 Một số nguồn rủi ro cơ bản cho các dự án CNTTdự án phần mềm
+Xác định rủi ro
+Phân tích rủi ro
+30 Lựa chọn rủi ro để quản lý
+Lập kế hoạch phòng chống rủi ro
+Giám sát rủi ro
+11 31 Các khái niệm và tầm quan trọng của quản lý cấu hình trong phát triển phần mềm. Lập kế hoạch quản lý cấu hình. Một số công cụ hỗ trợ quản lý phiên bản quản lý mã nguồn phổ biến
+32 Các thông tin cần quản lý trong quản lý cấu hình việc kiểm tra và giám sát cấu hình phần mềm.
+33 Một số công cụ phổ biến trong quản lý cấu hình phần mềm: Git TFS v.v
+12 34 Tầm quan trọng của quản lý các bên liên quan Lập kế hoạch quản lý các bên liên quan cho một dự án đơn giản
+Xác định các bên liên quan
+35 Lập kế hoạch quản lý các bên liên quan
+Quản lý sự tham gia dự án của các bên liên quan
+36 Một số phương pháp quản lý các bên liên quan trong các mô hình phát triển phần mềm phổ biến
+13 37 Sinh viên trình bàydoanh nghiệp trình bày kinh nghiệm quản lý dự án thực tiễn
+38
+39
+14 40 Sinh viên trình bàydoanh nghiệp trình bày kinh nghiệm quản lý dự án thực tiễn
+41
+42
+15 43 Ôn tập

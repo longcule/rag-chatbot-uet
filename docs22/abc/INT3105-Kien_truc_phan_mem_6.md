@@ -1,0 +1,75 @@
+6. Nội dung chi tiết học phần: KIẾN TRÚC PHẦN MỀM
+=================================================
+
+-   Giới thiệu về kiến trúc phần mềm
+
+    -   Định nghĩa kiến trúc phần mềm
+
+    -   Vai trò của kiến trúc phần mềm
+
+    -   Vai trò của kiến trúc sư phần mềm
+
+-   Các nguyên lý thiết kế
+
+    -   KISS
+
+    -   DRY
+
+    -   YAGNI
+
+    -   SOLID
+
+    -   Nguyên lý thiết kế cho các thành phần
+
+-   Mẫu thiết kế
+
+    -   Khái niệm
+
+    -   Một số mẫu thiết kế khởi tạo
+
+    -   Một số mẫu thiết kế cấu trúc
+
+    -   Một số mẫu thiết kế hành vi
+
+-   Thuộc tính chất lượng
+
+    -   Giới thiệu về thuộc tính chất lượng
+
+    -   Mối quan hệ giữa các thuộc tính chất lượng và kiến trúc phần mềm
+
+    -   Một số chiến thuật cho các thuộc tính chất lượng
+
+-   Các kiểu kiến trúc
+
+> Giới thiệu các kiểu kiến trúc cơ bản như kiểu kiến trúc client-server,
+> phân tầng, đối tượng phân tán.
+
+-   Một số phương pháp thiết kế kiến trúc
+
+    -   Phương pháp ADD (Attribute-Driven Design)
+
+    -   Phương pháp của Microsoft
+
+    -   Phương pháp kiến trúc sạch gọn (clean architecture)
+
+-   Kiến trúc ứng dụng dựa trên .NET và Java EE
+
+    -   Kiến trúc ứng dụng .NET
+
+    -   Kiến trúc ứng dụng Java EE
+
+-   Vi dịch vụ (Microservices)
+
+    -   Khái niệm
+
+    -   Các phương pháp chuyển từ đơn khối sang vi dịch vụ
+
+    -   Quản lý API
+
+-   Bài tập thiết kế kiến trúc
+
+Các nhóm sinh viên tìm hiểu và xây dựng (lại) kiến trúc của một số phần
+mềm có đặc trưng kiến trúc hiện đại. Sinh viên phải biết xác định yêu
+cầu kiến trúc, giải quyết các yêu cầu đó qua việc ứng dụng các kỹ thuật
+đã biết và phân tích kiến trúc xây dựng đáp ứng yêu cầu đặt ra.
+

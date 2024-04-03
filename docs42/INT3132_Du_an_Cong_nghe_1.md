@@ -1,0 +1,2 @@
+1. Thông tin về các giảng viên học phần: Dự án công nghệ
+STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoại Email Ghi chú 1 BM KHMT Trưởng môn học

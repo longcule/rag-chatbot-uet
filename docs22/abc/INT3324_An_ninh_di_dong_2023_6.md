@@ -1,0 +1,103 @@
+6. Nội dung chi tiết học phần: AN NINH DI ĐỘNG
+==============================================
+
+1.  **Hệ sinh thái di động**
+
+    1.  Hệ sinh thái
+
+    2.  Mô hình rủi ro
+
+```{=html}
+<!-- -->
+```
+1.  **Hệ điều hành iOS**
+
+    1.  iOS an toàn như thế nào?
+
+        1.  Jailbreak iOS
+
+        2.  Jailbreak dựa trên boot
+
+        3.  Jailbreak từ xa
+
+        4.  Corona/absinthe
+
+        5.  envasi0n
+
+    2.  Tấn công các máy iPhone khác: điểm yếu của JailbreakMe3.0
+
+        1.  Tấn công các máy iPhone khác: Tấn công iKee
+
+        2.  Tấn công các máy iPhone khác: Tấn công The FOCUS 11 MITM
+
+        3.  Tấn công các máy iPhone khác: ứng dụng chứa mã độc
+            > HandyLight, InstaStock
+
+        4.  Tấn công các máy iPhone khác: app có điểm yếu
+
+        5.  Tấn công các máy iPhone khác: truy cập vật lý
+
+2.  **Hệ điều hành Android**
+
+    1.  Lịch sử phát triển
+
+    2.  Mô hình anh toàn (security model)
+
+    3.  Lưu trữ dữ liệu
+
+    4.  Near field communication (NFC)
+
+    5.  Phát triển ứng dụng Android
+
+    6.  Rooting
+
+    7.  Decompiling và disassembly
+
+    8.  Chặn lưu thông mạng
+
+    9.  Tấn công dựa trên intent
+
+3.  **Mobile malware**
+
+    1.  Android malware
+
+    2.  iOS Malware
+
+    3.  Malware: Android vs. iOS
+
+4.  **Dịch vụ mobile và mobile web**
+
+    1.  Tấn công các dịch vụ web dựa trên XML
+
+    2.  Các framework xác thực và uỷ quyền phổ biến
+
+    3.  An toàn trình duyệt và WebView mobile
+
+5.  **Quản lý thiết bị di động (MDM)**
+
+    1.  MDM Framework
+
+    2.  Device provision
+
+    3.  Vượt qua MDM
+
+    4.  Biên dịch ngược và debug ứng dụng
+
+    5.  Phát hiện Jailbreak
+
+    6.  Xoá dữ liệu và khoá máy từ xa
+
+6.  **An toàn phát triển ứng dụng mobile**
+
+    1.  Mô hình nguy cơ của ứng dụng mobile
+
+    2.  Hướng dẫn phát triển ứng dụng mobile an toàn
+
+7.  **Thanh toán mobile**
+
+    1.  Thế hệ hiện tại
+
+    2.  Thanh toán không chạm
+
+    3.  Ví Google
+

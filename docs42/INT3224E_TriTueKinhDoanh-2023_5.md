@@ -1,0 +1,2 @@
+5. Tóm tắt nội dung học phần: TRÍ TUỆ KINH DOANH
+Từ những mục tiêu chính nêu trên nội dung chính của học phần bao gồm: Mục đích ý nghĩa tầm quan trọng của hệ thống BI Mối quan hệ giữa hệ thống BI với chiến lược kinh doanh Kiến trúc của hệ thống BI Phương pháp xây dựng hệ thống BI Các mô hình biểu diễn dữ liệu đa chiều trong Kho dữ liệu Các bước xây dựng hệ thống BI Các công cụ để xây dựng hệ thống BI Bài học ứng dụng BI trong các lĩnh vực kinh doanh cụ thể Làm bài tập lớn với với dự án BI nhỏ

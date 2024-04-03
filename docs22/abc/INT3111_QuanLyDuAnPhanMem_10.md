@@ -1,0 +1,94 @@
+10. Phương pháp, hình thức kiểm tra, đánh giá kết quả học tập học phần: Quản lý dự án phần mềm
+==============================================================================================
+
+10.1. Phương pháp, hình thức kiểm tra, đánh giá: Quản lý dự án phần mềm
+-----------------------------------------------------------------------
+
++-------------+-------------+-------------+-------------+-------------+
+| **Hình      | **Phương    | **Mục       | **CLO được  | **Trọng     |
+| thức**      | pháp**      | đích**      | đánh giá**  | số**        |
+|             |             |             |             |             |
+| *(Chuyên    | *(Viết, vấn |             |             |             |
+| cần, giữa   | đáp, thực   |             |             |             |
+| kỳ, kết     | hành, bài   |             |             |             |
+| thúc học    | tập lớn,    |             |             |             |
+| phần, ...)* | ...)*       |             |             |             |
++=============+=============+=============+=============+=============+
+| \- Kiểm tra | \- Kiểm tra | Đánh giá    | CLO1.1,     | 40%         |
+| hàng tuần   | viết (10-15 | khả năng    | CLO1.2,     |             |
+|             | phút) hoặc  | nắm vững    | CLO2.1,     |             |
+| \- Dự án    | các câu hỏi | kiến thức   | CLO2.2,     |             |
+| theo nhóm/  | trên lớp    | từng buổi   | CLO3.1      |             |
+| đánh giá    |             | học, chuyên |             |             |
+| theo các    | \- Dự án    | cần, \...   |             |             |
+| bài tập nhỏ | nhỏ làm     |             |             |             |
+| hàng tuần   | việc theo   | \- Đánh giá |             |             |
+|             | nhóm/đánh   | kiến thức,  |             |             |
+| \- Bài tập  | giá theo    | kỹ năng     |             |             |
+| lớn         | các bài tập | sinh viên   |             |             |
+|             | nhỏ hàng    | đạt được    |             |             |
+| \- Kiểm tra | tuần        | sau nửa học |             |             |
+| giữa kì     |             | kỳ thông    |             |             |
+|             | \- Kiểm tra | qua thực    |             |             |
+|             | giữa kì     | hành dự án  |             |             |
++-------------+-------------+-------------+-------------+-------------+
+| Thi kết     | Thi vấn đáp | Đánh giá    | CLO1.1,     | 60%         |
+| thúc môn    | hoặc thi    | kiến thức,  | CLO1.2,     |             |
+| học         | viết        | kỹ năng     | CLO2.1,     |             |
+|             |             | sinh viên   | CLO2.2,     |             |
+|             |             | đạt được    | CLO3.1      |             |
+|             |             | khi kết     |             |             |
+|             |             | thúc môn    |             |             |
+|             |             | học         |             |             |
++-------------+-------------+-------------+-------------+-------------+
+| **Tổng:**   |             | **100%**    |             |             |
++-------------+-------------+-------------+-------------+-------------+
+
+ Quản lý dự án phần mềm
+----------------------
+
+10.2. Tiêu chí đánh giá: Quản lý dự án phần mềm
+-----------------------------------------------
+
+  **Mức chất lượng**   **Thang điểm**   **Mô tả mức chất lượng/Yêu cầu**
+  -------------------- ---------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Xuất sắc             9-10             Hoàn thành tốt các yêu cầu đề ra, thể hiện khả năng vận dụng thành thạo các kiến thức đã học với dự án cụ thể trong quá trình học nói chung và làm việc nhóm nói riêng
+  Khá, giỏi            7-8              Hoàn thành cơ bản các yêu cầu đề ra, thể hiện khả năng vận dụng cơ bản các kiến thức đã học
+  Đạt                  5-6              Hoàn thành khoảng 50-60% các yêu cầu đề ra, mới dừng lại ở mức mô tả lại kiến thức đã học
+  Chưa đạt             0-4              Hoàn thành dưới 50% yêu cầu đề ra, trên 50% yêu cầu quan trọng chưa đạt
+
+> ***+*** Tiêu chí đánh giá cụ thể với từng đầu điểm của học phần:
+>
+> \- Kiểm tra hàng tuần: sinh viên phải hiểu và vận dụng được các kiến
+> thức đã học và phải chuẩn bị bài học mới.
+>
+> \- Bài tập lớn: đánh giá kiến thức, kỹ năng, khả năng viết báo cáo,
+> khả năng làm việc nhóm, ... của sinh viên thông qua thực hành các dự
+> án tuân thủ quy trình được dạy
+>
+> \- Kết thúc môn: nắm được kiến thức, kỹ năng đã học trong cả 15 tuần
+> của học kỳ.
+
+Tùy vào mức độ đóng góp và hoàn thành dự án và điểm các bài kiểm tra mà
+sinh viên sẽ được cho điểm theo thang điểm 10 và sẽ được tổng hợp và
+chuyển sang hệ điểm theo quy định của trường.
+
+10.3. Lịch thi và kiểm tra: Quản lý dự án phần mềm
+--------------------------------------------------
+
+  **Hình thức kiểm tra**   **Thời gian**    **Dự thời gian tiến hành**
+  ------------------------ ---------------- ----------------------------
+  Báo cáo dự án            30 phút / nhóm   Tuần thứ 15
+  Thi giữa kì              45 phút          Tuần thứ 8
+  Thi cuối kỳ              90 phút          Theo lịch của Trường
+
+*Hà Nội, ngày tháng năm 2023*
+
+  ----------- -------------------- ----------------------
+  **Duyệt**   **Chủ nhiệm Khoa**   **Chủ nhiệm Bộ môn**
+  ----------- -------------------- ----------------------
+
+ Quản lý dự án phần mềm
+======================
+
+**PHỤ LỤC**

@@ -1,0 +1,9 @@
+3. Mục tiêu học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
+============================================================
+
+> Cung cấp cho học viên kiến thức và khả năng cài đặt, cấu hình và khắc
+> phục sự cố của hệ thống mạng máy tính. Học viên được cung cấp kỹ năng
+> để xây dựng hệ thống mạng máy tính từ đầu, bảo trì, nâng cấp và khắc
+> phục sự cố mạng. Học phần cung cấp cho học viên các ví dụ thực tế từ
+> các vấn đề mạng.
+

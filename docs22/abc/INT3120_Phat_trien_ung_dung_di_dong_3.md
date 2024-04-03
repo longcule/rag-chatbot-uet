@@ -1,0 +1,15 @@
+3. Mục tiêu học phần: PHÁT TRIỂN ỨNG DỤNG DI ĐỘNG
+=================================================
+
+> Học phần giới thiệu các kiến thức nền tảng về lập trình động. Sau khi
+> hoàn thành học phần này, sinh viên sẽ
+
+-   Biết được xu hướng công nghệ và kinh doanh ảnh hưởng đến ứng dụng di
+    > động
+
+-   Nắm được các đặc điểm và kiến trúc cơ bản của ứng dụng di động
+
+-   Nắm được các yêu cầu ở mức doanh nghiệp đối với các ứng dụng di động
+
+-   Có thể sử dụng một khung ứng dụng để phát triển ứng dụng di động
+
