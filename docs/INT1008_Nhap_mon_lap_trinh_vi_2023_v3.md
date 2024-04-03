@@ -1,19 +1,19 @@
-HỌC PHẦN: NHẬP MÔN LẬP TRÌNH
-1. Thông tin về các giảng viên học phần: NHẬP MÔN LẬP TRÌNH
+# HỌC PHẦN: NHẬP MÔN LẬP TRÌNH
+# 1. Thông tin về các giảng viên học phần: NHẬP MÔN LẬP TRÌNH
 STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoại Email Ghi chú 1 Lê Đức Trọng TS BM KHMT trongld\@vnu.edu.vn
 2 Lê Nguyên Khôi TS BM KHMT khoi.n.le\@vnu.edu.vn
 3 Đặng Trần Bình TS BM KHMT binhdt\@vnu.edu.vn
 4 Ma Thị Châu TS BM KHMT chaumt\@vnu.edu.vn
 5 Ngô Thị Duyên TS BM KHMT duyennt\@vnu.edu.vn
 6 Nguyễn Văn Vinh TS BM KHMT vinhnv\@vnu.edu.vn
-2. Thông tin chung về học phần: NHẬP MÔN LẬP TRÌNH Tên học phần:
+# 2. Thông tin chung về học phần: NHẬP MÔN LẬP TRÌNH Tên học phần:
 {html}
 ! Tiếng Việt: Nhập môn Lập trình Tiếng Anh: Fundamentals of Programming
 {html}
 ! Mã số học phần: INT1008 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 242100 Học phần tiên quyết (tên và mã số học phần): \.... Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn KHMT Khoa CNTT
-3. Mục tiêu học phần: NHẬP MÔN LẬP TRÌNH 
+# 3. Mục tiêu học phần: NHẬP MÔN LẬP TRÌNH 
 Học phần cung cấp cho sinh viên kiến thức nhập môn cơ bản về ngôn ngữ lập trình bậc cao kỹ năng xây dựng chương trình sử dụng một trong các ngôn ngữ lập trình C. Sinh viên có thể tự viết được các chương trình nhỏ đơn giản và bước đầu làm quen với việc lập trình theo yêu cầu.
-4. Chuẩn đầu ra: NHẬP MÔN LẬP TRÌNH
+# 4. Chuẩn đầu ra: NHẬP MÔN LẬP TRÌNH
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Nắm vững kiến thức cơ bản: kiểu dữ liệu cấu trúc điều khiển cấu trúc hàm cấu trúc dữ liệu.
@@ -27,8 +27,9 @@ Mức độ tự chủ và trách nhiệm
 CLO7 Tự xây dựng được chương trình hoàn chỉnh
 CLO8 Thể hiện có tinh thần trung thực chịu trách nhiệm khi thực hiện hoạt động thực hành cá nhân Ma trận liên kết giữa Chuẩn đầu ra học phần (CLO) và Chuẩn đầu ra
 chương trình đào tạo (PLO): Chuẩn CTĐT đầu CNTT ra CTĐT KHMT CCĐT MMT CCĐT H TTT PLO PLO PLO PLO PLO PLO PLO PLO 1.2 1.3 2.2 2.4 2.5 2.8 3.1 3.2 CLO1 3 2 CLO2 2 2 CLO3 2 2 2 CLO4 2 3 3 CLO5 2 2 CLO6 2 CLO7 2 CLO8 2 3 2 2 3 3 2 2 2 Tổng hợp Ghi chú: Số lượng CLO nên dưới 10 Mỗi CLO nên đóng góp vào 1 PLO của mỗi CTĐT. Học phần xuất hiện trong nhiều CTĐT thì phải đóng góp vào PLO của các CTĐT đó. Chú ý với các PLO mức trường và mức chung của Khoa thì nên có sự đóng góp giống nhau giữa các CTĐT. Chuẩn đầu ra học phần (CLO) đóng góp cho chuẩn đầu ra CTĐT (PLO) nào thì ghi mức của CLO theo thang Bloom (căn cứ theo động từ mô tả CLO) vào ô tương ứng. Dòng Tổng hợp ghi đóng góp của các CLO cho PLO tương ứng (theo giá trị max) và phải khớp với MA TRẬN CĐR của CTĐT. Có thể đặt bảng này vào phần Phụ lục ở cuối đề cương.
-5. Tóm tắt nội dung học phần: NHẬP MÔN LẬP TRÌNH Sinh viên được giới thiệu các khái niệm lập trình cơ bản như: ngôn ngữ lập trình kiểu dữ liệu cơ bản biến phép toán cấu trúc điều khiển nhập xuất dữ liệu. Sau đó sinh viên được giới thiệu các khái niệm trừu tượng hơn của các ngôn ngữ lập trình bậc cao như: mảng kiểu dữ liệu trừu tượng hàm lập trình thủ tục lập trình hướng đối tượng và các thao tác với tệp dữ liệu.
-6. Nội dung chi tiết học phần: NHẬP MÔN LẬP TRÌNH
+# 5. Tóm tắt nội dung học phần: NHẬP MÔN LẬP TRÌNH
+Sinh viên được giới thiệu các khái niệm lập trình cơ bản như: ngôn ngữ lập trình kiểu dữ liệu cơ bản biến phép toán cấu trúc điều khiển nhập xuất dữ liệu. Sau đó sinh viên được giới thiệu các khái niệm trừu tượng hơn của các ngôn ngữ lập trình bậc cao như: mảng kiểu dữ liệu trừu tượng hàm lập trình thủ tục lập trình hướng đối tượng và các thao tác với tệp dữ liệu.
+# 6. Nội dung chi tiết học phần: NHẬP MÔN LẬP TRÌNH
 1. Giới thiệu
 1. Khái niệm về lập trình
 2. Các ngôn ngữ lập trình
@@ -74,7 +75,7 @@ chương trình đào tạo (PLO): Chuẩn CTĐT đầu CNTT ra CTĐT KHMT CCĐT
 4. Cấu trúc struct
 5. Khởi tạo biến cấu trúc đối tượng
 6. Hàm thành viên
-7. Học liệu NHẬP MÔN LẬP TRÌNH
+# 7. Học liệu NHẬP MÔN LẬP TRÌNH
 7.1. Học liệu bắt buộc: NHẬP MÔN LẬP TRÌNH 1. Bài giảng của giảng viên
 2. Hồ Sĩ Đàm (chủ biên) Trần Thị Minh Châu Lê Sỹ Vinh Giáo trình: Lập trình căn bản C NXB ĐHQG 2011
 7.2. Học liệu tham khảo: NHẬP MÔN LẬP TRÌNH 3. Walter Savitch Absolute C 6th edition Pearson 2016.
@@ -84,13 +85,13 @@ AddisonWesley Professional 2000
 Professional 2012
 6. J. Glenn Brookshear Computer Science: An Overview Addision
 Wesley 2009
-8. Hình thức tổ chức dạy học: NHẬP MÔN LẬP TRÌNH
+# 8. Hình thức tổ chức dạy học: NHẬP MÔN LẬP TRÌNH
 8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): NHẬP MÔN LẬP TRÌNH Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 2 112 Giảng đường Hướng dẫn Thực 3 215 Online qua hành Microsoft Teams Tự học bắt 115 buộc 8.2. Lịch trình dạy cụ thể: NHẬP MÔN LẬP TRÌNH Tuần Nội dung Lý thuyết Nội dung Thực hành 1 Giới thiệu về học phần Làm bài tập về cấu trúc các bước xây dựng chương chương trình trình in ra màn hình 2 Các kiểu dữ liệu cơ bản và Làm bài tập về các phép các phép toán toán Đánh giá thường xuyên (01) 3 Cấu trúc điều khiển: tuần Làm bài tập về cấu trúc tự rẽ nhánh điều khiển Biểu thức điều kiện Tìm hiểu các chủ đề bài tập lớn Đánh giá thường xuyên (02) 4 Cấu trúc điều khiển: vòng Làm bài tập về cấu trúc lặp điều khiển Các lệnh thao tác với vòng Đánh giá thường xuyên lặp (03) 5 Hàm: khai báo định nghĩa Làm bài tập về hàm Truyền tham số cho hàm Lựa chọn chủ đề bài tập lớn Đánh giá thường xuyên (04) 6 Nhập xuất dữ liệu Làm bài tập về hàm và nhập xuất dữ liệu Đánh giá thường xuyên (05) 7 Kiểm tra giữa kỳ Ôn tập kiểm tra giữa kỳ 8 Mảng và các thao tác trên Làm bài tập về hàm nhập mảng xuất dữ liệu vào mảng thao tác mảng Đánh giá thường xuyên (06) 9 Các kiểu dữ liệu trừu Làm bài tập về các kiểu dữ tượng và các phương pháp liệu trừu tượng lập trình Tổ chức môđun hóa chương trình của dự án Đánh giá thường xuyên (07) 10 Con trỏ và Kiểu dữ liệu Làm bài tập về con trỏ địa chỉ Đánh giá thường xuyên (08) 11 Xâu ký tự và các thao tác Làm bài tập về hàm nhập trên xâu ký tự xuất xâu ký tự xử lý xấu ký tự Đánh giá thường xuyên (09) 12 Hàm (nâng cao): hàm nạp Làm bài tập về hàm đệ quy chồng toán tử hàm đệ khuôn mẫu hàm quy khuôn mẫu hàm Đánh giá thường xuyên (10) 1315 Ôn tập làm các bài tập tổng hợp Ôn tập kiểm tra cuối kỳ 8.3. Hướng dẫn thực hiện nội dung thực hành: NHẬP MÔN LẬP TRÌNH Giảng viên Lý thuyết Quản lý chung các nội dung thực hành Triển khai giờ hỗ trợ giải đáp thắc mắc cho sinh viên (Online tối đa 2hbuổi 2 tuầnlần) từ tuần 02 tới tuần 12. Sinh viên cần đặt lịch với Giảng viên qua email. Giảng viên Thực hành Chuẩn bị các bài tập tự thực hành theo tuần cho Sinh viên theo từng nội dung lý thuyết Chuẩn bị bài kiểm tra đánh giá thường xuyên theo tuần theo từng nội dung lý thuyết Triển khai giờ hướng dẫn thực hành (Online 2hbuổituần): Hướng dẫn chữa một số bài tập chọn lọc trong bài kiểm tra đánh giá thường xuyên tương ứng Triển khai giờ hỗ trợ giải đáp thắc mắc cho Sinh viên (Online tối đa 2hbuổituần). Sinh viên cần đặt lịch với Giảng viên qua email. Trợ giảng (Mentors) Thường xuyên kiểm tra theo dõi tiến độ thực hiện các yêu cầu hoạt động học tập của Sinh viên được giao phụ trách; định kỳ theo tuần báo cáo tình hình học tập của Sinh viên với tập thể Giảng viên giảng dạy. Hỗ trợ Giảng viên thực hành chuẩn bị nội dung kịch bản kiểm thử và đáp án các bài tập thực hành kiểm tra đánh giá thường xuyên theo tuần. Sắp xếp thời gian hỗ trợ Sinh viên thực hiện các bài tập tự thực hành khi có yêu cầu. Thời gian hỗ trợ linh hoạt theo nhu cầu của Sinh viên không quá 10htuần Sinh viên Chủ động hoàn thành toàn bộ các bài tập tự thực hành và bài tập đánh giá thường xuyên theo tuần theo từng nội dung lý thuyết hàng tuần trước giờ Hướng dẫn thực hành Tham gia đầy đủ và thực hiện các yêu cầu của Giảng viên Thực hành trong các giờ Hướng dẫn thực hành. Chủ động đặt lịch tư vấn với Giảng viên và Trợ giảng khi cần hỗ trợ.
-9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: NHẬP MÔN LẬP TRÌNH
+# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: NHẬP MÔN LẬP TRÌNH
 Ghi chú: Phần này nêu yêu cầu và cách thức đánh giá sự hiện diện trên
 lớp mức độ tích cực tham gia các hoạt động trên lớp các qui định về
 thời hạn chất lượng các bài tập bài kiểm tra .... Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét cộng điểm học phần. Với các nội dung liên quan đến lập trình (ví dụ bài tập lớn) nếu sinh viên gian lận mã nguồn thì sẽ bị điểm học phần là 0.
-10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học phần: NHẬP MÔN LẬP TRÌNH
+# 10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học phần: NHẬP MÔN LẬP TRÌNH
 10.1. Phương pháp hình thức kiểm tra đánh giá: NHẬP MÔN LẬP TRÌNH Hình Phương Mục CLO được Trọng thức pháp đích đánh giá số (Chuyên (Viết vấn cần giữa đáp thực kỳ kết hành bài thúc học tập lớn phần ...) ...) Kiểm tra Kiểm tra Đánh giá CLO1 CLO2 20% đánh giá thực hành kiến thức thường kỹ năng lập CLO3 CLO4 xuyên trình của sinh viên CLO5 CLO6 CLO7 CLO8 Kiểm tra Thi tự luận Đánh giá CLO1 CLO2 20% giữa kỳ Thi thực kiến thức hành kỹ năng lập CLO3 CLO4 trình của sinh viên CLO5 CLO7 đạt được sau nửa học kỳ Thi kết Thi tự luận Đánh giá CLO1 CLO2 60% thúc học Thi thực kiến thức phần hành kỹ năng CLO3 CLO4 sinh viên đạt được CLO5 CLO7 khi kết thúc học phần Tổng: 100% 10.2. Tiêu chí đánh giá: NHẬP MÔN LẬP TRÌNH Mức chất lượng Thang điểm Mô tả mức chất lượngYêu cầu Xuất sắc 910 Hoàn thành tốt các yêu cầu đề ra thể hiện khả năng vận dụng thành thạo các kiến thức đã học
 Khá giỏi 78 Hoàn thành khoảng 7080% các yêu cầu đề ra thể hiện khả năng vận dụng cơ bản các kiến thức đã học
 Đạt 56 Hoàn thành khoảng 5060% các yêu cầu đề ra mới dừng lại ở mức mô tả lại kiến thức đã học
