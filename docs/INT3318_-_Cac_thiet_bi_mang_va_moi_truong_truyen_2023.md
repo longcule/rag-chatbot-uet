@@ -1,15 +1,17 @@
 HỌC PHẦN: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
-1. Thông tin về các giảng viên học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
+# 1. Thông tin về các giảng viên học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
 STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoại Email Ghi chú 1 Trần Trúc Mai TS Phòng 406E3 mai.tran\@vnu.edu.vn Giảng viên
 2 Phạm Mạnh Linh TS Phòng 406E3 linhmp\@vnu.edu.vn Giảng viên
-2. Thông tin chung về học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN Tên học phần:
+# 2. Thông tin chung về học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN 
+Tên học phần:
 {html}
 ! Tiếng Việt: Các thiết bị mạng và môi trường truyền Tiếng Anh: Network Devices and Transmission Environment
 {html}
 ! Mã số học phần: INT3318 Số tín chỉ: 03 Giờ tín chỉ đối với các hoạt động (LTThHTH): 30 15 0 Học phần tiên quyết (tên và mã số học phần): Mạng máy tính INT2213 Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn mạng và truyền thông máy
 tính khoa CNTT
-3. Mục tiêu học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN Cung cấp cho học viên kiến thức và khả năng cài đặt cấu hình và khắc phục sự cố của hệ thống mạng máy tính. Học viên được cung cấp kỹ năng để xây dựng hệ thống mạng máy tính từ đầu bảo trì nâng cấp và khắc phục sự cố mạng. Học phần cung cấp cho học viên các ví dụ thực tế từ các vấn đề mạng.
-4. Chuẩn đầu ra: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
+# 3. Mục tiêu học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN 
+Cung cấp cho học viên kiến thức và khả năng cài đặt cấu hình và khắc phục sự cố của hệ thống mạng máy tính. Học viên được cung cấp kỹ năng để xây dựng hệ thống mạng máy tính từ đầu bảo trì nâng cấp và khắc phục sự cố mạng. Học phần cung cấp cho học viên các ví dụ thực tế từ các vấn đề mạng.
+# 4. Chuẩn đầu ra: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Hiểu đặc điểm và nguyên lý hoạt động của tầng vật lý trong mạng máy tính
@@ -19,24 +21,10 @@ CLO3 Vận dụng kiến thức đã học để thiết kế cấu hìnhkhắc 
 CLO4 Vận dụng kiến thức đã học để thiết kế cấu hìnhkhắc phục sự cố mạng có thiết bị switch
 CLO5 Vận dụng kiến thức đã học để thiết kếcấu hìnhkhắc phục sự cố mạng WLAN
 Mức độ tự chủ và trách nhiệm
-CLO6 Vận dụng được các kiến thức đã học để tự họcnghiên cứu về các công nghệ mới liên quan đến lĩnh vực mạng máy tính. Ma trận liên kết giữa Chuẩn đầu ra học phần (CLO) và Chuẩn đầu ra
-chương trình đào tạo (PLO):
-Chuẩn đầu ra CTĐT MMT&TTDL PLO1.4 PLO1.5 PLO2.4 PLO2.6 PLO3.1
-CLO1 x4 x4
-CLO2 x4 x4
-CLO3 x3 x3
-CLO4 x3 x3
-CLO5 x3 x3
-CLO6 x2
-Tổng hợp x4 x4 x3 x3 x2
-5. Tóm tắt nội dung học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
-Trước tiên sinh viên sẽ được giới thiệu về ý nghĩa của học phần quan hệ
-của nó với các học phần khác trong chương trình đào tạo và một số vị trí
-công việc thực tế cần kiến thức các thiết bị mạng và môi trường truyền.
-Sau đó sinh viên sẽ được học lý thuyết chung về các thiết bị mạng và
-môi truờng truyền. Cụ thể là: Giới thiệu về mạng Các chuẩn của mạng và mô hình OSI Cơ bản về truyền thông và phương tiện truyền dẫn Giới thiệu về các giao thức TCPIP Các tô pô và chuẩn Ethernet Phần cứng mạng WAN và kết nối từ xa Mạng không dây Các hệ điều hành mạng Mạng TCPIP chuyên sâu Thoại và video qua IP An ninh mạng Khắc phục sự cố mạng Bảo đảm tính nguyên vẹn và sẵn sang Quản trị mạng
-CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
-6. Nội dung chi tiết học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
+CLO6 Vận dụng được các kiến thức đã học để tự họcnghiên cứu về các công nghệ mới liên quan đến lĩnh vực mạng máy tính.
+# 5. Tóm tắt nội dung học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
+Trước tiên sinh viên sẽ được giới thiệu về ý nghĩa của học phần quan hệ của nó với các học phần khác trong chương trình đào tạo và một số vị trí công việc thực tế cần kiến thức các thiết bị mạng và môi trường truyền. Sau đó sinh viên sẽ được học lý thuyết chung về các thiết bị mạng và môi truờng truyền. Cụ thể là: Giới thiệu về mạng Các chuẩn của mạng và mô hình OSI Cơ bản về truyền thông và phương tiện truyền dẫn Giới thiệu về các giao thức TCPIP Các tô pô và chuẩn Ethernet Phần cứng mạng WAN và kết nối từ xa Mạng không dây Các hệ điều hành mạng Mạng TCPIP chuyên sâu Thoại và video qua IP An ninh mạng Khắc phục sự cố mạng Bảo đảm tính nguyên vẹn và sẵn sang Quản trị mạng CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
+# 6. Nội dung chi tiết học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
 Chương 1. Giới thiệu về mạng
 1.1 Sử dụng mạng để làm gì?
 1.2 Các loại mạng
@@ -153,13 +141,13 @@ Chương 15. Quản trị mạng
 15.3 Quản trị tài sản
 15.4 Quản trị biến đổi
 15.5 Bài tập chương
-7. Học liệu (Nên dùng các tài liệu từ 2015 trở lại đây) CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
+# 7. Học liệu (Nên dùng các tài liệu từ 2015 trở lại đây) CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
 Ghi chú: Học liệu được sắp xếp theo thứ tự ưu tiên. Thông tin học liệu bao gồm: tên tác giả tên sáchgiáo trình... nhà xuất bản năm xuất bản. CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
 7.1. Học liệu bắt buộc: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN \[1\]. James F. Kurose Computer Networking A TopDown Approach 2020
 \[2\]. Wendell Odom CCNA 200301 Official Cert Guide Library 2019
 7.2. Học liệu tham khảo: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN \[1\]. ...\....
 \[2\]. ...\....
-8. Hình thức tổ chức dạy học: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
+# 8. Hình thức tổ chức dạy học: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
 8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 2 115 Giảng đường Bài tậpThực 2 115 PM hành 8.2. Lịch trình dạy cụ thể: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN Tuần Nội dung Lý thuyết Nội dung Thực hành 1 Giới thiệu về mạng
 2 Các chuẩn của mạng và mô hình OSI
 3 Cơ bản về truyền thông và phương tiện truyền dẫn
@@ -175,14 +163,14 @@ Ghi chú: Học liệu được sắp xếp theo thứ tự ưu tiên. Thông ti
 13 Khắc phục sự cố mạng
 14 Bảo đảm tính nguyên vẹn và sẵn sàng
 15 Quản trị mạng
-9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
+# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
 \ Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) mà không có
 lý do chính đáng sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm
 danh.
 \ Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời
 câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét
 cộng điểm môn học.
-10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
+# 10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
 10.1. Phương pháp hình thức kiểm tra đánh giá: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN Hình Phương Mục CLO được Trọng thức pháp đích đánh giá số (Chuyên (Viết vấn cần giữa đáp thực kỳ kết hành bài thúc học tập lớn phần ...) ...) Giữa kỳ Thực hành Đánh giá CLO1 CLO2 40% kiến thức CLO3 CLO4 kỹ năng CLO5 CLO6 sinh viên đạt được sau nửa học kỳ Kết thúc Thực hành Đánh giá CLO1 CLO2 60% học phần kiến thức CLO3 CLO4 kỹ năng CLO5 CLO6 sinh viên đạt được khi kết thúc môn học Tổng: 100% CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN 10.2. Tiêu chí đánh giá: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN Mức chất lượng Thang điểm Mô tả mức chất lượngYêu cầu Xuất sắc 910 Hoàn thành tốt các yêu cầu đề ra thể hiện khả năng vận dụng thành thạo các kiến thức đã học
 Khá giỏi 78 Hoàn thành khoảng 7080% các yêu cầu đề ra thể hiện khả năng vận dụng cơ bản các kiến thức đã học
 Đạt 56 Hoàn thành khoảng 5060% các yêu cầu đề ra mới dừng lại ở mức mô tả lại kiến thức đã học

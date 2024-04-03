@@ -26,7 +26,7 @@ CLO6 Sử dụng tiếng Anh nhằm chủ động tìm hiểu các thư viện l
 Mức độ tự chủ và trách nhiệm
 CLO7 Tự xây dựng được chương trình hoàn chỉnh
 CLO8 Thể hiện có tinh thần trung thực chịu trách nhiệm khi thực hiện hoạt động thực hành cá nhân Ma trận liên kết giữa Chuẩn đầu ra học phần (CLO) và Chuẩn đầu ra
-chương trình đào tạo (PLO): Chuẩn CTĐT đầu CNTT ra CTĐT KHMT CCĐT MMT CCĐT H TTT PLO PLO PLO PLO PLO PLO PLO PLO 1.2 1.3 2.2 2.4 2.5 2.8 3.1 3.2 CLO1 3 2 CLO2 2 2 CLO3 2 2 2 CLO4 2 3 3 CLO5 2 2 CLO6 2 CLO7 2 CLO8 2 3 2 2 3 3 2 2 2 Tổng hợp Ghi chú: Số lượng CLO nên dưới 10 Mỗi CLO nên đóng góp vào 1 PLO của mỗi CTĐT. Học phần xuất hiện trong nhiều CTĐT thì phải đóng góp vào PLO của các CTĐT đó. Chú ý với các PLO mức trường và mức chung của Khoa thì nên có sự đóng góp giống nhau giữa các CTĐT. Chuẩn đầu ra học phần (CLO) đóng góp cho chuẩn đầu ra CTĐT (PLO) nào thì ghi mức của CLO theo thang Bloom (căn cứ theo động từ mô tả CLO) vào ô tương ứng. Dòng Tổng hợp ghi đóng góp của các CLO cho PLO tương ứng (theo giá trị max) và phải khớp với MA TRẬN CĐR của CTĐT. Có thể đặt bảng này vào phần Phụ lục ở cuối đề cương.
+
 # 5. Tóm tắt nội dung học phần: NHẬP MÔN LẬP TRÌNH
 Sinh viên được giới thiệu các khái niệm lập trình cơ bản như: ngôn ngữ lập trình kiểu dữ liệu cơ bản biến phép toán cấu trúc điều khiển nhập xuất dữ liệu. Sau đó sinh viên được giới thiệu các khái niệm trừu tượng hơn của các ngôn ngữ lập trình bậc cao như: mảng kiểu dữ liệu trừu tượng hàm lập trình thủ tục lập trình hướng đối tượng và các thao tác với tệp dữ liệu.
 # 6. Nội dung chi tiết học phần: NHẬP MÔN LẬP TRÌNH
