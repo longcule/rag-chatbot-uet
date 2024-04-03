@@ -117,7 +117,7 @@ class VectorMemory:
         # print(texts)
         # print(texts)
         metadatas = [doc.metadata for doc in chunks]
-        print("metadataaaaa: ", metadatas)
+        # print("metadataaaaa: ", metadatas)
         memory_index = Chroma.from_texts(
             texts=texts,
             embedding=embedding,

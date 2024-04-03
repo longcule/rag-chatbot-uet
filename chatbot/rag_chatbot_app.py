@@ -171,25 +171,25 @@ def main(parameters) -> None:
 
         # Display assistant response in chat message container
         start_time = time.time()
-        # with st.chat_message("assistant"):
-        #     message_placeholder = st.empty()
-        #     full_response = ""
-        #     with st.spinner(
-        #         text="Tớ đang tìm kiếm thông tin, đợi tí bro!"
-        #         "Mất khoảng 1 phút đó."
-        #     ):
-        #         streamer, fmt_prompts = conversational_retrieval.context_aware_answer(
-        #             ctx_synthesis_strategy, user_input, retrieved_contents
-        #         )
-        #         # for token in streamer:
-        #         #     full_response += llm.parse_token(token)
-        #         #     message_placeholder.markdown(full_response + "▌")
+        with st.chat_message("assistant"):
+            message_placeholder = st.empty()
+            full_response = ""
+            with st.spinner(
+                text="Tớ đang tìm kiếm thông tin, đợi tí bro!"
+                "Mất khoảng 1 phút đó."
+            ):
+                streamer, fmt_prompts = conversational_retrieval.context_aware_answer(
+                    ctx_synthesis_strategy, user_input, retrieved_contents
+                )
+                # for token in streamer:
+                #     full_response += llm.parse_token(token)
+                #     message_placeholder.markdown(full_response + "▌")
 
-        #         message_placeholder.markdown(streamer)
+                message_placeholder.markdown(streamer)
 
-        #         conversational_retrieval.update_chat_history(user_input, streamer)
-        # # Add assistant response to chat history
-        # st.session_state.messages.append({"role": "assistant", "content": streamer})
+                conversational_retrieval.update_chat_history(user_input, streamer)
+        # Add assistant response to chat history
+        st.session_state.messages.append({"role": "assistant", "content": streamer})
         took = time.time() - start_time
         logger.info(f"\n--- Took {took:.2f} seconds ---")
 

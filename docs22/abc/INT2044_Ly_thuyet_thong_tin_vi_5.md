@@ -1,9 +1,0 @@
-5. Tóm tắt nội dung học phần: LÝ THUYẾT THÔNG TIN
-=================================================
-
-> Lý thuyết thông tin giúp khám phá các giới hạn cơ bản của biểu diễn và
-> truyền thông tin. Khóa học này tập trung vào định nghĩa và hàm ý của
-> entropy, định lý mã hóa nguồn, và định lý mã hóa kênh. Các khái niệm
-> này cung cấp một nền tảng cho sinh viên trong các lĩnh vực nén dữ
-> liệu, xử lý tín hiệu, điều khiển, và nhận dạng mẫu.
-
