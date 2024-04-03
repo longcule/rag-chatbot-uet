@@ -1,0 +1,32 @@
+HỌC PHẦN: CÁC CHUYÊN ĐỀ TRONG TRUYỀN THÔNG VÀ MẠNG MÁY TÍNH 
+# 1. Thông tin về các giảng viên học phần 
+Họ và Chức Địa Điện Ghi STT tên danh chỉ liên thoại chú học vị hệ Email 1 Hoàng TS. BM 
+[tunghx\ [Trưởng Xuân TT&MMT @vnu.edu học Tùng .vn]{.un p derline} hần]{.un derline} 2 Dương Lê TS. BM [[mi Minh TT&MMT nhdl\@vn u.edu.vn ]{.under line}](m ailto:mi nhdl@vnu .edu.vn) 3 Nguyễn TS. BM [sonnh\ Hoài Sơn TT&MMT @vnu.edu .vn]{.un derline} 
+# 2. Thông tin chung về học phần 
+Tên học phần: Các chuyên đề trong Truyền thông và Mạng máy tính Mã số học phần: INT3125 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 21024 Học phần tiên quyết: INT2213Mạng máy tính Bộ môn Khoa phụ trách học phần: Bộ môn Truyền thông và Mạng máy tính Khoa CNTT. 
+# 3. Mục tiêu học phần 
+Kiến thức: Sinh viên nắm được một số phương pháp thiết kế và xây dựng các hệ thống truyền thông và mạng trong các định hướng của ngành Truyền thông và Mạng máy tính Kỹ năng: Sinh viên có thể cài đặt được phương pháp được học trên các nền tảng tính toán hiện đại đang được sử dụng nhiều trong công nghiệp. Sinh viên có khả năng sử dụng phương pháp được học để giải quyết một số bài toán ứng dụng trong CNTT. 
+# 4. Chuẩn đầu ra
+Nội dung chuẩn đầu ra\ (*Bắt đầu bằng động từ theo thang Bloom*) Kiến thức CLO1.1 Vận dụng được các kiến thức về cơ chế truyền tín hiệu số trong môi trường có dây và không dây CLO1.2 Vận dụng được các kiến thức trong lĩnh vực quản trị mạng; CLO1.3 Vận dụng được kiến thức chuyên sâu theo định hướng "Mạng máy tính" bao gồm các chuyên đề về quản trị mạng thực hành an ninh mạng mạng không dây truyền thông đa phương tiện lập trình mạng CLO1.4 Vận dụng được kiến thức chuyên sâu theo định hướng "Truyền thông" bao gồm các chuyên đề về mạng không dây mạng quang thiết kế và quản trị mạng viễn thông mã hóa ... CLO1.5 Hiểu về phương pháp nghiên cứu và quá trình xây dựng sản phẩm phục vụ cho mục đích khoa học hoặc đời sống; Kỹ năng CLO2.1 Lập trình thành thạo và biết sử dụng các công cụ phần mềm hỗ trợ; CLO2.2 Biết tìm kiếm cập nhật tổng hợp khai thác thông tin CLO2.3 Có năng lực tiếp thu công nghệ và áp dụng vào thực tế CLO2.4 Có năng lực hợp tác với các thành viên khác trong nhóm. Mức độ tự chủ và trách nhiệm 
+# 5. Tóm tắt nội dung học phần 
+Học phần này sẽ hướng dẫn sinh viên tìm hiểu về một số công nghệ mới trong các định hướng của ngành Truyền thông và mạng máy tính. Học phần sẽ tập trung vào các công nghệ hiện đại để truyền dữ liệu và xử lý phân tán đang hoặc sẽ được sử dụng rộng rãi. Học phần yêu cầu sinh viên cài đặt và thử nghiệm các công nghệ được học trên hạ tầng mạng sẵn có. Sinh viên sẽ nắm được các kiến thức nền tảng của phương pháp ứng dụng để giải quyết một số bài toán và xu hướng phát triển của phương pháp được học trong tương lai.
+# 6. Nội dung chi tiết học phần 
+[Tuần 1:]{.underline} Giới thiệu tổng quan về bài toán và các công
+nghệ sẽ học Tại sao lại học công nghệ này? Tính mới của công nghệ. Ưu điểmnhược điểm của công nghệ này so với các công nghệ khác tương tự Xu hướng ứng dụng công nghệ này trong công nghiệp hiện tại và tương lai Một số ví dụ về các ứng dụng sử dụng công nghệ này 
+[Tuần 234:]{.underline} Phân tích các yếu tố nền tảng của các công
+nghệ được học Giới thiệu về cơ sở khoa học của các công nghệ được học Môi trường để phát triển và cài đặt công cụ mới (hệ điều hành phần mềm phần cứng ngôn ngữ lập trình...) 
+[Tuần 5 6:]{.underline} Triển khai và tích hợp hệ thống. Cài đặt môi trường Cài đặt phần mềm Báo cáo kết quả thử nghiệm Tài liệu hướng dẫn cần có 
+[Tuần 7 8 9 10 11 12 13 14:]{.underline} Sinh viên chia nhóm
+làm một dự án áp dụng các công nghệ vừa được học. Mỗi nhóm từ 23 sinh
+viên. Yêu cầu chính của một dự án Phân tích yêu cầu bài toán và lựa chọn công nghệ Thiết kế thuật toán trên nền tảng công nghệ đã chọn Lập trình Triển khai chương trình để áp dụng và đánh giá hiệu quả của chương trình Sản phẩm tài liệu báo cáo 
+[Tuần 7 8 9 10 11:]{.underline} Xêmina về các phương pháp khác
+nhau hiện có giải các bài toán tương tự. 
+[Tuần 15:]{.underline} Báo cáo dự án và tổng kết. Sinh viên báo cáo dự án (tài liệu phân tích thiết kế hướng dẫn sử dụng demo sản phẩm) Tổng kết điểm mạnh và yếu của phương pháp vừa học dựa vào các sản phẩm vừa làm của sinh viên 
+# 7. Tài liệu tham khảo 
+Sean Owen Robin Anil Ted Dunning and Ellen Friedman *Mahout in Action* Manning Publications 2011.  
+# 8. Hình thức tổ chức dạy học 
+8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần) Hình thức dạy Số tiếttuần Từ tuần ...đến tuần... Địa điểm Lý thuyết 2 16 (2Ttuần) 715 (1Ttuần) Giảng đường Thực hành Tự học bắt buộc 6 415 Tại nhà 8.2 Lịch trình dạy cụ thể *Tuần* *Nội dung giảng dạy lý thuyếtthực hành* *Nội dung sinh viên tự học* 1 Giới thiệu tổng quan về phương pháp sẽ học 2 Phân tích các yếu tố nền tảng của phương pháp được học 3 Xử lý dữ liệu vàora cho phương pháp được học 4 Công cụ và môi trường phát triển chương trình cho phương pháp được học (phần 1) 5 Công cụ và môi trường phát triển chương trình cho phương pháp được học (phần 2) 6 Triển khai và tích hợp hệ thống. 711 Xêmina về các chủ để khác nhau hiện có Sinh viên chia nhóm làm một dự án liên quan đến chủ đề vừa được học 1214 Dự án môn học Sinh viên chia nhóm làm một dự án áp dụng phương pháp vừa được học 15 Báo cáo dự án và tổng kết Sinh viên báo cáo dự án 
+# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên 
+Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi. Sinh viên gian lận mã nguồn thì sẽ bị điểm học phần là 0. 
+# 10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học
+phần Hình thức Phương pháp Mục đích CLO được đánh giá Trọng số Kiểm tra giữa kỳ Thi viết Đánh giá kiến thức kỹ năng sinh viên đạt được sau nửa học kỳ 1.11.21.3 1.4 30% Kiểm tra kết thúc học phần Đánh giá sản phẩm cuối kì: sản phẩm demo báo cáo. Đánh giá kiến thức kỹ năng sinh viên đạt được khi kết thúc học phần 1.1 1.2 1.3 1.4 1.5 2.1 2.2 2.3 2.4 70% Tổng 100% 10.3. Lịch thi và kiểm tra Hình thức thi và kiểm tra Thời gian Kiểm tra giữa kỳ Tuần 8 Thi cuối kỳ Theo lịch của Trường Duyệt Chủ nhiệm Khoa Chủ nhiệm bộ môn 
