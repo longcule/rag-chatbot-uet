@@ -24,5 +24,5 @@ class CustomJSONEncoder(json.JSONEncoder):
         return super().default(o)
 
 # Export documents to a JSON file using the custom encoder
-with open('product.json', 'w', encoding='utf-8') as file:
+with open('product2.json', 'w', encoding='utf-8') as file:
     json.dump(list(documents), file, cls=CustomJSONEncoder)
