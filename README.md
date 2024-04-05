@@ -3,7 +3,7 @@
 # Check List
 - [x]  Collect data 
 - [x]  Convert docx2md 
-- [ ] Clean data(clean table, rewrite.md format) 
+- [x] Clean data(clean table, rewrite.md format) 
 - [x] Build Chatbot RAG MVP(Minimum Viable Product)
 - [ ] Build Chatbot with History Conventions 
 - [ ] Process Input RAG(Refine the input question) 
