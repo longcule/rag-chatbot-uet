@@ -1,0 +1,2 @@
+# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên LẬP TRÌNH NHÚNG VÀ THỜI GIAN THỰC
+Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web học phần) sẽ được xem xét cộng điểm học phần. Với các nội dung liên quan đến lập trình (bài tập lớn các bài tập thực hành) nếu sinh viên gian lận mã nguồn thì sẽ bị điểm học phần là 0

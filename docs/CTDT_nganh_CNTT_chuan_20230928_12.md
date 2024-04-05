@@ -1,0 +1,12 @@
+### V.2. Các học phần lựa chọn chương trình đào tạo ngành CNTT, Tổng số tín chỉ: 27/106 ngành CÔNG NGHỆ THÔNG TIN
+#### V.2.2. Nhóm các học phần về Hệ thống thông tin chương trình đào tạo ngành CNTT, Tổng số tín chỉ: ngành CÔNG NGHỆ THÔNG TIN
+Mã số học phần: INT3202, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Hệ quản trị cơ sở dữ liệu\nDatabase Management Systems, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
+Mã số học phần: INT3209, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Khai phá dữ liệu \nData Mining, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
+Mã số học phần: INT3225, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Trí tuệ kinh doanh\nBusiness Intelligence, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
+Mã số học phần: INT3229, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kỹ thuật và công nghệ dữ liệu lớn\nBigData Techniques and Technologies, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
+Mã số học phần: INT3230, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Mật mã và an toàn thông tin\nCryptography and Information Security, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT1050
+Mã số học phần: INT3228, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thiết kế và phân tích thực nghiệm\nDesign and Analysis of Experiments, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: MAT1101
+Mã số học phần: INT2020, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phân tích thiết kế các HTTT\nInformation System Analysis and Design, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
+Mã số học phần: INT3505, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiến trúc hướng dịch vụ \nService Oriented Architecture, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
+Mã số học phần: INT3506, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Các hệ thống thương mại điện tử\nE-commerce Systems, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT1009
+Mã số học phần: INT3501, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Khoa học dịch vụ\nService Sciences, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211

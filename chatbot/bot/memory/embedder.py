@@ -15,10 +15,9 @@ class Embedder(ABC):
 
 
 class EmbedderHuggingFace(Embedder):
-    # def __init__(self, model_name: str = "keepitreal/vietnamese-sbert"):
-    def __init__(self, model_name: str = "all-MiniLM-L6-v2"):
+    def __init__(self, model_name: str = "keepitreal/vietnamese-sbert"):
+    # def __init__(self, model_name: str = "all-MiniLM-L6-v2"):
     # def __init__(self, model_name: str = "text-embedding-3-small"):
         self.embedder = HuggingFaceEmbeddings(model_name=model_name)
         # self.embedder = OpenAIEmbeddings(model=model_name, show_progress_bar=True)
-
-        
+   

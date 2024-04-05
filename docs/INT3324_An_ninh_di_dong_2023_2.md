@@ -1,0 +1,14 @@
+# 4. Chuẩn đầu ra: AN NINH DI ĐỘNG
+Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
+CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
+CLO1 Hiểu và giải thích được các kiến thức nền tảng trong lĩnh vực máy tính như mạng máy tính cơ sở dữ liệu lập trình.
+CLO2 Hiểu và vận dụng các kiến thức về mạng máy tính giao thức mạng truyền tải dữ liệu trong mạng không dây di động
+CLO3 Hiểu và vận dụng các kiến thức CNTT liên quan để lựa chọn được các giải pháp tiên tiến đảm bảo an toàn an ninh cho các thiết bị di động.
+Kỹ năng
+CLO4 Phân tích và đề xuất giải pháp đảm bảo truyền thông dữ liệu di động an toàn
+CLO5 Phát triển và triển khai được giải pháp và đánh giá được hiệu quả cho các bài toán an ninh di động thực tế
+CLO6 Sáng tạo các giải pháp cho các vấn đề bài toán mới các dạng tấn công mới trong an ninh di động
+Mức độ tự chủ và trách nhiệm
+CLO7 Thể hiện trách nhiệm thái độ học tập chủ động khi làm bài tập lớn và làm việc nhóm
+# 5. Tóm tắt nội dung học phần: AN NINH DI ĐỘNG
+Nội dung môn học được tiếp cận một cách hệ thống từ việc tìm hiểu về hệ sinh thái di động đến các dạng tấn công mã độc với từng thiết bị vật lý từng hệ điều hành di động khác nhau ví dụ như các kỹ thuật jailbreak thiết bị các dạng tấn công xảy ra sau khi thiết bị bị jailbreak\... Tiếp theo tìm hiểu đến các nguy cơ về an toàn thông tin đối với các ứng dụng dịch vụ cụ thể trên các thiết bị di động như các ứng dụng có sử dụng Webview và cách phòng tránh. Các lỗ hổng trong quá trình phát triển ứng dụng mobile cũng được tìm hiểu sau đó đưa ra được các biện pháp đối phó như các kỹ thuật phòng chống dịch ngược mã (reverse engineering) kỹ thuật che dấu mã (obfuscation)\...

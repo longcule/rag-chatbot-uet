@@ -1,0 +1,20 @@
+# 4. Đội ngũ cán bộ giảng dạy ngành CÔNG NGHỆ THÔNG TIN
+## Các giảng viên học phần: Toán học rời rạc - Discrete Mathematics ngành CÔNG NGHỆ THÔNG TIN
+Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Xác suất thống kê, đơn vị: Trường ĐHCN
+Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Thanh Hải, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Cao Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Thị Điệp, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+## Các giảng viên học phần: Nguyên lý hệ điều hành - Principles of operating systems ngành CÔNG NGHỆ THÔNG TIN
+Tên giảng viên: Nguyễn Hải Châu, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Phan Xuân Hiếu, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thị Hậu, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trọng Hiếu, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+## Các giảng viên học phần: Mạng máy tính - Computer Network ngành CÔNG NGHỆ THÔNG TIN
+Tên giảng viên: Hồ Đắc Phương, chức danh: ThS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trúc Mai, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN

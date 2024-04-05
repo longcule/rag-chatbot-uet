@@ -1,0 +1,4 @@
+# 7. Học liệu PHÂN TÍCH THIẾT KẾ CÁC HỆ THỐNG THÔNG TIN
+7.1. Học liệu bắt buộc [1] *Modern Systems Analysis and Design* 9^th^ Edition by Jeffrey A. Hoffer; Joey F. George; Joseph S. Valacich Prentice Hall 2020 ISBN10: 0134204921 • ISBN13: 978134204925. [2] *Systems Analysis and Design* 10^th^ Global Edition by Kenneth E. Kendall & Julie E. Kendall Pearson 2020. [3] *Information Systems for Business and Beyond* (2019) David Bourgeois [[https:opentextbook.siteinformationsystems2019]{.underline}](https:opentextbook.siteinformationsystems2019)
+7.2 Học liệu tham khảo
+[4] *ObjectOriented systems Analysis and Design Using UML* 4th Edition by Simon Bennett Steve McRobb and Ray Farmer Mc Graw Hill 2010 ISBN10: 0077125363. [5] *System Analysis & Design Methods* Seventh Edition by Jeffery L. Whitten Lonnie D. Bentley McGraw Hill 2007 ISBN 0073052337.

@@ -64,11 +64,28 @@ def split_chunks(sources: List, chunk_size: int = 512, chunk_overlap: int = 10) 
     #     doc.page_content = data
         # data = doc[0].metadata.get("source")
         # doc[0].page_content = data
+
     chunks = []
-    splitter = MarkdownTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
-    for chunk in splitter.split_documents(sources):
-        print("chunk: ", chunk, "\n")
+    print(type(sources))
+
+    # splitter = MarkdownTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
+    # print(splitter)
+    for chunk in sources:
+        print("chunk: ", type(chunk), chunk, "\n")
         chunks.append(chunk)
+        # chunk_type = type(chunk)
+        # new_object = chunk_type()
+        # print("new_obj",new_object)
+        # data = {
+        # 'page_content': chunk111['page_content'],
+        # 'metadata': chunk111['metadata']
+        # }
+
+        #         #       print(doc[0].metadata.get("source"))
+        # #       data = read_md_file(doc[0].metadata.get("source"))
+        # new_object[0].page_content = data['page_content']
+        # new_object[0].metadata = data['metadata']
+        # print("chunk_new: ", type(new_object), new_object, "\n")
     # for chunk in sources:
     #     chunks.append(chunk)
     return chunks

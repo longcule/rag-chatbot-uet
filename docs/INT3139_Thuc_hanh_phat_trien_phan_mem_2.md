@@ -1,0 +1,26 @@
+# 4. Chuẩn đầu ra: THỰC HÀNH PHÁT TRIỂN PHẦN MỀM
+Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
+CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
+CLO1 Vận dụng được các kiến thức về phân tích thiết kế để xây dựng yêu cầu tiến hành phân tích và thiết kế các hệ thống phần mềm theo quy trình phù hợp với thị trường Nhật Bản.
+CLO2 Vận dụng được các kiến thức kỹ thuật từ cơ bản đến chuyên sâu và các công nghệ mới trong ngành Công nghệ thông tin trong xử lý dữ liệu phát triển các phần mềm tích hợp dịch vụ bảo đảm chất lượng và an toàn an ninh cho hệ thống.
+Kỹ năng
+CLO3 Biết và vận dụng qui trình lập kế hoạch sắp xếp công việc quản lý thời gian và nguồn lực.
+CLO4 Biết tối ưu hóa phương pháp triển khai công việc.
+CLO5 Biết hợp tác với các thành viên khác trong nhóm.
+CLO6 Biết quản lý dự án thông qua thực hành một số dự án đơn giản sử dụng các công cụ quản lý dự án.
+CLO7 Biết cách lập luận sắp xếp ý tưởng.
+CLO8 Biết giao tiếp bằng văn bản giao tiếp điện tử đa truyền thông và làm tài liệu dự án. Mức độ tự chủ và trách nhiệm CLO9 Vận dụng khả năng tự nghiên cứu có tính trung thực trong làm việc nhóm
+
+# 6. Nội dung chi tiết học phần: THỰC HÀNH PHÁT TRIỂN PHẦN MỀM
+Chương 1. Tìm hiểu bài toán
+1. Mục tiêu bài toán
+2. Ý nghĩa bài toán
+3. Phương pháp phát triển sản phẩm
+Chương 2. Cách viết tài liệu liên quan
+1. Luận cứ
+2. Lập kế hoạch dự án
+3. Đánh giá rủi ro
+Chương 3. Phân tích và thiết kế hệ thống
+Chương 4. Cài đặt phần mềm
+Chương 5. Đóng gói sản phẩm
+Chương 6. Hoàn thiện báo cáo môn học

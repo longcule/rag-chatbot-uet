@@ -1,0 +1,10 @@
+# 6. Nội dung chi tiết học phần: PHÂN TÍCH DỮ LIỆU KHÔNG GIAN VÀ ỨNG DỤNG
+Ghi chú: Nội dung học phần được mô tả chi tiết đến 2 mức chương bài
+ví dụ:
+Chương 1: Giới thiệu chung Tổng quan về các dữ liệu không gian Cách tiếp cận phân tích dữ liệu không gian Các ứng dụng phổ biến
+Chương 2: Các phương pháp thu thập và xử lý ảnh vệ tinh Giới thiệu về ảnh vệ tinh quang học và radar Các phương pháp thu thập dữ liệu vệ tinh Các công cụ xử lý dữ liệu vệ tinh (ví dụ: GDAL ArcMap Google Earth Engine) Các phương pháp tiền xử lý dữ liệu vệ tinh Phương pháp đánh giá chất lượng dữ liệu vệ tinh
+Chương 3: Các phương pháp thu thập và xử lý số liệu quan trắc mặt
+đất Giới thiệu về một số hình thức quan trắc mặt đất Phương pháp lấy mẫu và xử lý số liệu thực địa Phương pháp thu thập và xử lý số liệu trạm quan trắc tự độngthủ công
+Chương 4: Các phương pháp kết hợp dữ liệu đa nguồn Các phương pháp kết hợp ảnh từ vệ tinh tái phân tích mô hình Các phương pháp kết hợp ảnh và dữ liệu quan trắc mặt đất
+Chương 5: Phân tích và mô hình hóa dữ liệu đa nguồn Giới thiệu một số kỹ thuật phân tích dữ liệu không gian đa nguồn Giới thiệu một số kỹ thuật mô hình hóa dữ liệu đa nguồn dùng học máyhọc sâu
+Chương 6: Bài tập lớn Giới thiệu một số ứng dụng điển hình và bài báo liên quan Đọc hiểu bài báo khoa học liên quan Thu thập dữ liệu và Tiền xử lý dữ liệu Mô hình hóa và Thực nghiệm Phân tích và Đánh giá kết quả Trình bày Bài tập lớn

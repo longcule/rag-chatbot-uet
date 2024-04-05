@@ -1,0 +1,23 @@
+# 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
+## Mã học phần: MAT1042
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Giải tích 2 - Calculus 2, Số tín chỉ: 4, Danh mục tài liệu tham khảo học phần Giải tích 2 - Calculus 2 là:
+1. Tài liệu bắt buộc
+- Nguyễn Đình Trí, Tạ Văn Đĩnh, Nguyễn Hồ Quỳnh, Toán học cao cấp (Tập 2) - Phép tính giải tích một biến số, NXB. Giáo dục, 2001.
+- Nguyễn Thủy Thanh, Toán cao cấp (Tập 2 và Tập 3) - Phép tính vi phân các hàm - Phép tính tích phân - Lý thuyết chuỗi - Phương trình vi phân, NXB Đại học Quốc gia Hà Nội, 2005.
+2. Tài liệu tham khảo thêm
+- Trần Đức Long, Nguyễn Đình Sang, Hoàng Quốc Toàn, Giải tích tập I, II, Bài tập giải tích tập I, II, NXB ĐHQGHN 2005.
+- James Stewart, Calculus: Early Transcendentals, Cengage Learning 7th edition, 2010.
+## Mã học phần: EPN1095
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Vật lý đại cương 1 - General Physics 1, Số tín chỉ: 2, Danh mục tài liệu tham khảo học phần Vật lý đại cương 1 - General Physics 1 là:
+1. Tài liệu bắt buộc
+- Lương Duyên Bình, Vật lí đại cương 1, NXB KHKT 2010.
+- Halliday và cộng sự, Cơ sở Vật lí 1, NXB Giáo dục 2005.
+2. Tài liệu tham khảo thêm
+- Hoàng Nam Nhật, Cơ học Đại cương, NXB Giáo dục 2005.
+## Mã học phần: EPN1096
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Vật lý đại cương 2 - General Physics 2, Số tín chỉ: 2, Danh mục tài liệu tham khảo học phần Vật lý đại cương 2 - General Physics 2 là:
+1. Tài liệu bắt buộc
+- D. Haliday, R. Resnick and J.Walker, Cơ sở vật lý Tập 3,4; Bản dịch NXB Giáo dục, Hà Nội – 2001.
+- Lương Duyên Bình, Dư Chí Công, Nguyễn Hữu Hồ, Vật lý đại cương, Tập 2 Điện -Dao động - Sóng, NXB Giáo dục, 2007.
+2. Tài liệu tham khảo thêm
+- Richard Wolfson and Jay M. Pasachoff, Physics with Modern Physics for Scientists and Engineers, Harper Collin College Publishers- New York,1995.
