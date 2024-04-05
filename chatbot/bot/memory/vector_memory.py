@@ -86,10 +86,10 @@ class VectorMemory:
         matched_docs = self.index.similarity_search_with_relevance_scores(query, k=k)
         print("matched doc: ", type(matched_docs))
         # file_name = [doc.metadata['source'] for doc in matched_docs ]
-        for doc in matched_docs:
-              print(doc[0].metadata.get("source"))
-              data = read_md_file(doc[0].metadata.get("source"))
-              doc[0].page_content = data
+        # for doc in matched_docs:
+        #       print(doc[0].metadata.get("source"))
+        #       data = read_md_file(doc[0].metadata.get("source"))
+        #       doc[0].page_content = data
         # print(file_name)
         filtered_docs_by_threshold = [doc for doc in matched_docs ]
         # if doc[1] > threshold

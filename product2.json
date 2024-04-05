@@ -3856,5 +3856,889 @@
         "user_add": "linh",
         "date": "02:33:03 04/04/2024",
         "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4843c4e4f3927be370c3",
+        "id": 276,
+        "word": "gingival retraction cord",
+        "meaning": "ch\u1ec9 co n\u01b0\u1edbu",
+        "note": "d\u00f9ng \u0111\u1ec3 co n\u01b0\u1edbu \u0111\u1ec3 l\u1ea5y d\u1ea5u r\u00f5 v\u00e0 \u0111\u1ea7y \u0111\u1ee7 v\u00f9ng \u0111\u01b0\u1eddng ho\u00e0n t\u1ea5t ",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/yWyxHnF/8248095b431e.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:27:15 04/04/2024",
+        "subject": "PHC\u0110 + PHTL"
+    },
+    {
+        "_id": "660e4879c4e4f3927be370c4",
+        "id": 277,
+        "word": "Fixed bridge",
+        "meaning": "C\u1ea7u r\u0103ng",
+        "note": "...",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/YT62QSm/fb621c30a9f7.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:28:09 04/04/2024",
+        "subject": "PHC\u0110 + PHTL"
+    },
+    {
+        "_id": "660e48d4c4e4f3927be370c5",
+        "id": 278,
+        "word": "Porcelain fused to metal crown (PFM)",
+        "meaning": "M\u00e3o s\u1ee9 kim lo\u1ea1i",
+        "note": "...",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/c6ZTVhG/147e77421175.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:29:40 04/04/2024",
+        "subject": "PHC\u0110+PHTL"
+    },
+    {
+        "_id": "660e48f7c4e4f3927be370c6",
+        "id": 279,
+        "word": "Dental Articulator",
+        "meaning": "Gi\u00e1 kh\u1edbp",
+        "note": "...",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/VgLdZBm/2314813fa960.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:30:15 04/04/2024",
+        "subject": "PHC\u0110+PHTL"
+    },
+    {
+        "_id": "660e493ac4e4f3927be370c7",
+        "id": 280,
+        "word": "Face bow",
+        "meaning": "Cung m\u1eb7t",
+        "note": "...",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/1ss7Knj/edddbc24b347.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:31:22 04/04/2024",
+        "subject": "PHC\u0110+PHTL"
+    },
+    {
+        "_id": "660e495dc4e4f3927be370c8",
+        "id": 281,
+        "word": "Wax- up",
+        "meaning": "T\u00e1i t\u1ea1o r\u0103ng b\u1eb1ng s\u00e1p/nh\u1ef1a tr\u00ean m\u1eabu h\u00e0m",
+        "note": "...",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/FDvYZRr/16bb2ab075b1.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:31:57 04/04/2024",
+        "subject": "PHC\u0110+PHTL"
+    },
+    {
+        "_id": "660e49d6c4e4f3927be370c9",
+        "id": 282,
+        "word": "Apical cyst",
+        "meaning": "nang quanh ch\u00f3p",
+        "note": "Nang quanh ch\u00f3p - R\u0103ng b\u1ecb ch\u1ebft t\u1ee7y - Th\u1ea5u quang \u0111\u1ed3ng nh\u1ea5t h\u01a1n - K\u00edch th\u01b0\u1edbc l\u1edbn - Th\u1eddi gian l\u00e0nh th\u01b0\u01a1ng cho 10mm l\u00e0 2,5 n\u0103m",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/bdQF42w/73caa11c4afd.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:33:58 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4a08c4e4f3927be370ca",
+        "id": 283,
+        "word": "Chronic Apical abscess",
+        "meaning": "\u00e1p xe quanh ch\u00f3p m\u1ea1n",
+        "note": "Thu\u031b\u01a1\u0300ng i\u0301t ho\u1ea1\u0306c kho\u0302ng co\u0301 tri\u1eb9\u0302u ch\u01b0\u0301ng la\u0302m sa\u0300ng Ca\u0309m th\u00e2\u0301y e\u0302/kha\u0301c bi\u1eb9\u0302t khi go\u0303 Co\u0301 mu\u0309 cha\u0309y qua l\u00f4\u0303 do\u0300 Ca\u0309m gia\u0301c ho\u031bi tr\u00f4\u0300i, ho\u031bi lung lay Th\u01b0\u0309 tu\u0309y: (-) X quang:Khoa\u0309ng da\u0302y ch\u0103\u0300ng nha chu da\u0303n nhe\u0323",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/8DRDBKH/5a0fe5d6a9a7.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:34:48 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4a88c4e4f3927be370cb",
+        "id": 284,
+        "word": "Apical cementoma",
+        "meaning": "vi\u00eam x\u01b0\u01a1ng t\u1ee5 c\u1ed1t",
+        "note": "Ph\u1ea3n \u1ee9ng kho\u00e1ng h\u00f3a qu\u00e1 m\u1ee9c c\u1ee7a x\u01b0\u01a1ng v\u00f9ng quanh ch\u00f3p do k\u00edch th\u00edch nh\u1eb9 v\u00f9ng quanh ch\u00f3p  Th\u01b0\u1eddng kh\u00f4ng/\u00edt tri\u1ec7u ch\u1ee9ng Ph\u00e1t hi\u1ec7n b\u1eb1ng Xquang ",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/84DN0B1/38c72edc83ab.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:36:56 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4aafc4e4f3927be370cc",
+        "id": 285,
+        "word": "cementoblastoma ",
+        "meaning": "u x\u01b0\u01a1ng r\u0103ng",
+        "note": "U x\u01b0\u01a1ng r\u0103ng li\u00ean quan m\u1eadt thi\u1ebft v\u1edbi ch\u00e2n r\u0103ng, ph\u00e1t tri\u1ec3n ch\u1eadm, l\u00e0m ph\u1ed3ng x\u01b0\u01a1ng. Khi  u c\u00f2n nh\u1ecf \u00edt c\u00f3 tri\u1ec7u ch\u1ee9ng, \u0111au th\u01b0\u1eddng xu\u1ea5t hi\u1ec7n s\u1edbm, ki\u1ec3u \u0111au gi\u1ed1ng \u0111au c\u1ee7a vi\u00eam t\u1ee7y, th\u1eed t\u1ee7y  th\u01b0\u1eddng d\u01b0\u01a1ng t\u00ednh. Hi\u1ebfm th\u1ea5y u li\u00ean quan \u0111\u1ebfn r\u0103ng ng\u1ea7m. Khi u ph\u00e1t tri\u1ec3n to c\u00f3 th\u1ec3 b\u1ed9i nhi\u1ec5m  vi\u00eam v\u00e0 g\u00e2y vi\u00eam x\u01b0\u01a1ng v\u00e0 r\u00f2 ra ngo\u00e0i da",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/QdvnRTD/e73a042dae76.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:37:35 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4ae7c4e4f3927be370cd",
+        "id": 286,
+        "word": "Acute Apical Periodontitis",
+        "meaning": "Vi\u00eam quanh ch\u00f3p c\u1ea5p",
+        "note": "- LS: C\u00f3 ph\u1ea3n \u1ee9ng \u0111au c\u1ea5p t\u00ednh v\u1edbi l\u1ef1c nhai ho\u1eb7c th\u1eed nghi\u1ec7m g\u00f5.  - R\u0103ng n\u00e0y c\u00f3 th\u1ec3 c\u00f3 ho\u1eb7c kh\u00f4ng \u0111\u00e1p \u1ee9ng v\u1edbi th\u1eed nghi\u1ec7m tu\u1ef7 r\u0103ng - Tr\u00ean X quang h\u00ecnh \u1ea3nh c\u1ee7a r\u0103ng th\u01b0\u1eddng bi\u1ec3u hi\u1ec7n s\u1ef1 gi\u00e3n r\u1ed9ng c\u1ee7a d\u00e2y ch\u1eb1ng nha chu, c\u00f3 th\u1ec3 c\u00f3 ho\u1eb7c kh\u00f4ng c\u00f3 th\u1ea5u quang quanh ch\u00f3p \u1edf m\u1ed9t ho\u1eb7c t\u1ea5t c\u1ea3 c\u00e1c ch\u00e2n r\u0103ng.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/Nx6BThP/fec0661209d3.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:38:30 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4b0fc4e4f3927be370ce",
+        "id": 287,
+        "word": "Chronic Apical Periodontitis",
+        "meaning": "vi\u00eam quanh ch\u00f3p m\u1ea1n",
+        "note": "- LS: Kh\u00f4ng bi\u1ec3u hi\u1ec7n tri\u1ec7u ch\u1ee9ng  - R\u0103ng n\u00e0y kh\u00f4ng \u0111\u00e1p \u1ee9ng v\u1edbi th\u1eed nghi\u1ec7m \u0111\u1ed9 s\u1ed1ng tu\u1ef7 - X quang bi\u1ec3u hi\u1ec7n th\u1ea5u quang quang ch\u00f3p. R\u0103ng th\u01b0\u1eddng kh\u00f4ng nh\u1ea1y c\u1ea3m v\u1edbi l\u1ef1c c\u1eafn nh\u01b0ng khi g\u00f5 b\u1ec7nh nh\u00e2n c\u00f3 th\u1ec3 c\u00f3 \u201cc\u1ea3m gi\u00e1c kh\u00e1c\u201d so v\u1edbi c\u00e1c r\u0103ng kh\u00e1c.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/sPnKHDh/2f4e7f10b147.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:39:11 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4b3dc4e4f3927be370cf",
+        "id": 288,
+        "word": "Dry socket",
+        "meaning": "Vi\u00eam \u1ed5 r\u0103ng kh\u00f4",
+        "note": "- L\u00e0 bi\u1ebfn ch\u1ee9ng g\u00e2y ch\u1eadm l\u00e0nh th\u01b0\u01a1ng nh\u01b0ng kh\u00f4ng li\u00ean quan \u0111\u1ebfn nhi\u1ec5m tr\u00f9ng, bi\u1ec3u hi\u1ec7n ch\u1ee7 y\u1ebfu b\u1eb1ng tri\u1ec7u ch\u1ee9ng \u0111au \u1edf m\u1ee9c \u0111\u1ed9 v\u1eeba ph\u1ea3i \u0111\u1ebfn d\u1eef d\u1ed9i nh\u01b0ng kh\u00f4ng c\u00f3 d\u1ea5u hi\u1ec7u th\u00f4ng th\u01b0\u1eddng c\u1ee7a nhi\u1ec5m tr\u00f9ng nh\u01b0 s\u1ed1t, s\u01b0ng. - Tri\u1ec7u ch\u1ee9ng \u0111au th\u01b0\u1eddng xu\u1ea5t hi\u1ec7n v\u00e0o ng\u00e0y th\u1ee9 ba ho\u1eb7c th\u1ee9 t\u01b0 sau nh\u1ed5 r\u0103ng v\u1edbi m\u1ee9c \u0111\u1ed9 thay \u0111\u1ed5i, th\u01b0\u1eddng d\u1eef d\u1ed9i theo ki\u1ec3u m\u1ea1ch \u0111\u1eadp, lan \u0111\u1ebfn v\u00f9ng tr\u01b0\u1edbc tai v\u00e0 th\u00e1i d\u01b0\u01a1ng, \u00edt ph\u1ea3n \u1ee9ng v\u1edbi thu\u1ed1c gi\u1ea3m \u0111au th\u00f4ng th\u01b0\u1eddng -> Kh\u00e1m th\u1ea5y h\u00f3c x\u01b0\u01a1ng r\u1ed7ng, kh\u00f4ng c\u00f2n c\u1ee5c m\u00e1u \u0111\u00f4ng",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/HChtjkT/a1df75eee99f.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:39:57 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4b66c4e4f3927be370d0",
+        "id": 289,
+        "word": "Parotitis",
+        "meaning": "vi\u00eam tuy\u1ebfn mang tai",
+        "note": "NN: do vi r\u00fat, vk .          Do virus                         LS: S\u01b0ng , \u0111au v\u00f9ng tuy\u1ebfn , s\u1edd \u0111au , n\u00f3ng , ni\u00eam m\u1ea1c mi\u1ec7ng kh\u00f4 \u0111\u1ecf , gi\u1ea3m ti\u1ebft n\u01b0\u1edbc b\u1ecdt                          L\u1ed7 \u1ed1ng stenon n\u1ec1, \u0111\u1ecf , c\u00f3 m\u1ee7 n\u1ebfu b\u1ed9i nhi\u1ec5m        Bi\u1ebfn ch\u1ee9ng ; vi\u00eam tinh to\u00e0n hay g\u1eb7p",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/BNSXhny/86ce688d86e6.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:40:37 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4b8ac4e4f3927be370d1",
+        "id": 290,
+        "word": "Geographic tongue",
+        "meaning": "l\u01b0\u1ee1i b\u1ea3n \u0111\u1ed3",
+        "note": "\u0111\u1eb7c \u0111i\u1ec3m ls: t\u1ed5n th\u01b0\u01a1ng t\u1ed3n t\u1ea1i th\u1eddi gian ng\u1eafn trong 1 khu v\u1ef1c, bi\u1ebfn m\u1ea5t trong v\u00f2ng v\u00e0i ng\u00e0y v\u00e0 ph\u00e1t tri\u1ec3n \u1edf 1 khu v\u1ef1c kh\u00e1c. \u0111i\u1ec1u tr\u1ecb: k c\u1ea7n thi\u1ebft, sau 1 th\u1eddi gian t\u1ef1 h\u1ebft.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/khGN6jR/4e05eae2ef2b.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:41:14 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4bb2c4e4f3927be370d2",
+        "id": 291,
+        "word": "Pericoronitis",
+        "meaning": "Vi\u00eam quanh th\u00e2n r\u0103ng",
+        "note": "NN: th\u01b0\u1eddng do r\u0103ng kh\u00f4n h\u00e0m d\u01b0\u1edbi Kh\u00e1m t\u1ea1i ch\u1ed7: th\u01b0\u1eddng c\u00f3 l\u1ee3i tr\u00f9m che m\u1ed9t ph\u1ea7n hay to\u00e0n b\u1ed9 m\u1eb7t nhai \u0110i\u1ec1u tr\u1ecb: nh\u1ed5 r\u0103ng kh\u00f4n m\u1ecdc l\u1ec7ch hay m\u1ecdc ng\u1ea7m, ho\u1eb7c ch\u1ec9 c\u1eaft l\u1ee3i tr\u00f9m",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/T12sS8w/05c421eb85dc.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:41:54 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4bdfc4e4f3927be370d3",
+        "id": 292,
+        "word": "Odontogenic Keratocyst",
+        "meaning": "Nang s\u1eebng do r\u0103ng",
+        "note": "Ph\u00e1t sinh t\u1eeb ph\u1ea7n c\u00f2n l\u1ea1i c\u1ee7a t\u1ebf b\u00e0o l\u00e1 r\u0103ng - th\u01b0\u1eddng xu\u1ea5t hi\u1ec7n \u1edf h\u00e0m d\u01b0\u1edbi, v\u00f9ng g\u00f3c h\u00e0m - Kh\u00f4ng g\u00e2y ph\u1ed3ng x\u01b0\u01a1ng \u0110i\u1ec1u tr\u1ecb: b\u00f3c t\u00e1ch l\u1ea5y nang v\u00e0 n\u1ea1o",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/2YRGvBP/38c62bd87e6e.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:42:39 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4c05c4e4f3927be370d4",
+        "id": 293,
+        "word": "Torus palatinus",
+        "meaning": "L\u1ed3i x\u01b0\u01a1ng kh\u1ea9u c\u00e1i",
+        "note": "L\u00e0 m\u1ed9t u x\u01b0\u01a1ng l\u00e0nh t\u00ednh \u1edf x\u01b0\u01a1ng h\u00e0m  B\u00ecnh th\u01b0\u1eddng kh\u00f4ng c\u1ea7n ph\u1eabu thu\u1eadt, ch\u1ec9 can thi\u1ec7p ph\u1eabu thu\u1eadt khi n\u00f3 ph\u00e1t tri\u1ec3n qu\u00e1 l\u1edbn l\u00e0m \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn t\u00e2m l\u00fd, ch\u1ee9c n\u0103ng nhai, nu\u1ed1t, n\u00f3i v\u00e0 ",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/qWmfFF0/547419b5aa57.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:43:16 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4c29c4e4f3927be370d5",
+        "id": 294,
+        "word": "Temporomandibular disorders",
+        "meaning": "R\u1ed1i lo\u1ea1n th\u00e1i d\u01b0\u01a1ng h\u00e0m",
+        "note": "Thu\u1eadt ng\u1eef mi\u00eau t\u1ea3 c\u00e1c r\u1ed1i lo\u1ea1n \u1edf kh\u1edbp v\u00e0 c\u00e1c b\u1ea5t th\u01b0\u1eddng \u1edf ch\u1ee9c n\u0103ng c\u1ee7a h\u1ec7 th\u1ed1ng nhai",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/ZzX1bPj/fcaa54b4da1c.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:43:53 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4c52c4e4f3927be370d6",
+        "id": 295,
+        "word": "Recurrent aphthous stomatitis - RAS",
+        "meaning": "\u00c1p t\u01a1 ni\u00eam m\u1ea1c mi\u1ec7ng  ",
+        "note": "L\u00e0 b\u1ec7nh th\u01b0\u1eddng g\u1eb7p, h\u1ea7u h\u1ebft ng\u01b0\u1eddi l\u1edbn \u0111\u00e3 t\u1eebng b\u1ecb \u00e1pto trong cu\u1ed9c \u0111\u1eddi - ban \u0111\u1ea7u l\u00e0 nh\u1eefng s\u1ea9n, d\u00e1t \u0111\u1ecf, nh\u1ecf, \u0111au. Sau \u0111\u00f3 l\u00e0 v\u1ebft lo\u00e9t, ph\u1ee7 gi\u1ea3 m\u1ea1c v\u00e0ng, b\u1edd vi\u00eam \u0111\u1ecf, r\u00f5 - V\u1ecb tr\u00ed: \u1edf ni\u00eam m\u1ea1c mi\u1ec7ng h\u1ea7u, h\u1eadu m\u00f4n sinh d\u1ee5c - Th\u01b0\u1eddng t\u1ef1 gi\u1edbi h\u1ea1n, l\u00e0nh kh\u00f4ng \u0111\u1ec3 l\u1ea1i s\u1eb9o",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/P4VYcpW/28dd9bdf9603.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:44:34 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4ca0c4e4f3927be370d7",
+        "id": 296,
+        "word": "Sialadenitis",
+        "meaning": "Vi\u00eam nhi\u1ec5m tuy\u1ebfn n\u01b0\u1edbc b\u1ecdt do vi khu\u1ea9n (ph\u1ed5 bi\u1ebfn nh\u1ea5t l\u00e0 Staphylococcus Aureus)",
+        "note": "Ph\u1ed5 bi\u1ebfn nh\u1ea5t l\u00e0 tuy\u1ebfn mang tai, ti\u1ebfp theo l\u00e0 tuy\u1ebfn d\u01b0\u1edbi h\u00e0m v\u00e0 tuy\u1ebfn d\u01b0\u1edbi l\u01b0\u1ee1i. Kh\u00f4ng n\u00ean nh\u1ea7m l\u1eabn v\u1edbi b\u1ec7nh sialadenosis (sialosis), m\u1ed9t t\u00ecnh tr\u1ea1ng ph\u00ec \u0111\u1ea1i c\u00e1c tuy\u1ebfn n\u01b0\u1edbc b\u1ecdt ch\u00ednh kh\u00f4ng g\u00e2y vi\u00eam  Tri\u1ec7u ch\u1ee9ng: S\u01b0ng, \u0111au v\u00e0 \u0111\u1ed5i m\u00e0u c\u1ee7a m\u1ed9t ho\u1eb7c nhi\u1ec1u tuy\u1ebfn n\u01b0\u1edbc b\u1ecdt. S\u1ed1t (khi t\u00ecnh tr\u1ea1ng vi\u00eam d\u1eabn \u0111\u1ebfn nhi\u1ec5m tr\u00f9ng). Gi\u1ea3m n\u01b0\u1edbc b\u1ecdt (m\u1ed9t tri\u1ec7u ch\u1ee9ng c\u1ee7a c\u1ea3 vi\u00eam tuy\u1ebfn n\u01b0\u1edbc b\u1ecdt c\u1ea5p t\u00ednh v\u00e0 m\u00e3n t\u00ednh). \u0110au khi \u0103n. Kh\u00f4 mi\u1ec7ng (xerostomia) . S\u01b0ng \u1edf v\u00f9ng m\u00e1 v\u00e0 c\u1ed5.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/SVV5N0s/e736f314d9ef.png"
+            },
+            {
+                "id": 1,
+                "link": "https://i.ibb.co/V0yYcMB/9f3142369904.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:45:51 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4d1dc4e4f3927be370d8",
+        "id": 297,
+        "word": "Warthin Tumor",
+        "meaning": "U warthin",
+        "note": "Lo\u1ea1i u l\u00e0nh n\u00e0y g\u1eb7p \u1edf tuy\u1ebfn mang tai, ph\u00e1t hi\u1ec7n b\u1edfi Albarran (1885), \u0111\u01b0\u1ee3c Warthin m\u00f4 t\u1ea3 (1929) v\u00e0 chi\u1ebfm 10- 20 % u tuy\u1ebfn mang tai. -L\u00e2m s\u00e0ng: U l\u00e0nh, s\u01b0ng th\u00e0nh kh\u1ed1i, \u0111\u00f4i khi m\u1ec1m, di \u0111\u1ed9ng d\u1ec5, th\u01b0\u1eddng n\u1eb1m \u1edf thu\u1ef3 n\u00f4ng c\u1ee7a tuy\u1ebfn, ti\u1ebfn tri\u1ec3n kh\u00f4ng c\u00f3 tri\u1ec7u ch\u1ee9ng g\u00ec. -Ch\u1ee5p MRI tuy\u1ebfn n\u01b0\u1edbc b\u1ecdt th\u1ea5y u c\u00f3 ranh gi\u1edbi r\u00f5. -\u0110i\u1ec1u tr\u1ecb: ph\u1eabu thu\u1eadt c\u1eaft b\u1ecf u, ho\u1eb7c ph\u1eabu thu\u1eadt c\u1eaft thu\u1ef3 n\u00f4ng tuy\u1ebfn mang tai v\u00e0 u.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/h9nMdJc/156c7e2d78a5.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:47:57 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4d47c4e4f3927be370d9",
+        "id": 298,
+        "word": "Pleomorphic adenoma",
+        "meaning": "U h\u1ed7n h\u1ee3p tuy\u1ebfn n\u01b0\u1edbc b\u1ecdt - U \u0111a h\u00ecnh",
+        "note": "- U hay g\u1eb7p nh\u1ea5t trong c\u00e1c u tuy\u1ebfn n\u01b0\u1edbc b\u1ecdt v\u00e0 th\u01b0\u1eddng \u1edf tuy\u1ebfn mang tai. - Chi\u1ebfm kho\u1ea3ng 50%20c\u00e1c u tuy\u1ebfn n\u01b0\u1edbc b\u1ecdt, ho\u1eb7c 90%20c\u00e1c u l\u00e0nh tuy\u1ebfn mang tai. - \u0110\u1eb7c \u0111i\u1ec3m l\u00e0 l\u00e0nh t\u00ednh, ti\u1ebfn tri\u1ec3n ch\u1eadm, d\u1ec5 t\u00e1i ph\u00e1t, v\u00e0 c\u00f3 th\u1ec3 bi\u1ebfn th\u00e0nh \u00e1c t\u00ednh n\u1ebfu kh\u00f4ng \u0111\u01b0\u1ee3c \u0111i\u1ec1u tr\u1ecb.   - G\u1ed3m 3 giai \u0111o\u1ea1n    Giai \u0111o\u1ea1n \u0111\u1ea7u   Giai \u0111o\u1ea1n to\u00e0n ph\u00e1t   Giai \u0111o\u1ea1n cu\u1ed1i hay giai \u0111o\u1ea1n tho\u00e1i ho\u00e1",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/G39Ns5y/dab2c93d3885.png"
+            },
+            {
+                "id": 1,
+                "link": "https://i.ibb.co/4KQVzBJ/93e1e828521a.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:48:39 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4da9c4e4f3927be370da",
+        "id": 299,
+        "word": "Mumps",
+        "meaning": "Quai b\u1ecb",
+        "note": "B\u1ec7nh xu\u1ea5t hi\u1ec7n v\u00e0o m\u00f9a xu\u00e2n v\u00e0 m\u00f9a h\u00e8, hay g\u1eb7p \u1edf tr\u1ebb trai nhi\u1ec1u h\u01a1n tr\u1ebb g\u00e1i. Truy\u1ec1n b\u1ec7nh tr\u1ef1c ti\u1ebfp qua trung gian n\u01b0\u1edbc b\u1ecdt, nh\u1ea5t l\u00e0 \u1edf th\u1eddi k\u00ec \u0111\u1ea7u c\u1ee7a b\u1ec7nh. Virus quai b\u1ecb \u0111\u01b0\u1ee3c c\u00f4 l\u1eadp b\u1edfi Johnson v\u00e0 Goodpasture t\u1eeb 1934, nu\u00f4i c\u1ea5y tr\u00ean m\u00f4i tr\u01b0\u1eddng ph\u00f4i. G\u1ed3m 3 th\u1eddi k\u1ef3: Nung b\u1ec7nh To\u00e0n ph\u00e1t Ti\u1ebfn tri\u1ec3n - Ch\u1ea9n \u0111o\u00e1n d\u01b0\u01a1ng t\u00ednh d\u1ef1a v\u00e0o y\u1ebfu t\u1ed1 d\u1ecbch t\u1ec5, s\u1ed1t nh\u1eb9 b\u00e1o hi\u1ec7u v\u00e0 s\u01b0ng n\u1ec1 hai b\u00ean tuy\u1ebfn mang tai kh\u00f4ng m\u01b0ng m\u1ee7. - Ch\u1ea9n \u0111o\u00e1n ph\u00e2n bi\u1ec7t v\u1edbi vi\u00eam tuy\u1ebfn mang tai c\u1ea5p t\u00ednh do vi khu\u1ea9n th\u01b0\u1eddng \u1edf ch\u1ed7 quai b\u1ecb l\u00e0 c\u1ea3 hai b\u00ean tuy\u1ebfn c\u00f9ng b\u1ecb v\u00e0 kh\u00f4ng m\u01b0ng m\u1ee7. C\u00f3 kh\u1ea3 n\u0103ng vi\u00eam tuy\u1ebfn mang tai do quai b\u1ecb t\u00e1i ph\u00e1t ho\u1eb7c m\u00e3n t\u00ednh v\u00e0 \u0111\u01b0\u1ee3c x\u00e1c nh\u1eadn b\u1eb1ng \u0111o l\u01b0\u1eddng amylase m\u00e1u, ph\u1ea3n \u1ee9ng huy\u1ebft thanh v\u1edbi kh\u00e1ng th\u1ec3 \u0111\u1eb7c hi\u1ec7u, test \u1edf da c\u00f3 ph\u1ea3n \u1ee9ng khi ti\u00eam trong da m\u1ed9t h\u1ed7n d\u1ecbch virus quai b\u1ecb ch\u1ebft",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/4VWPyjW/3438a2b53584.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:50:16 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4dcdc4e4f3927be370db",
+        "id": 300,
+        "word": "Dentigerous cyst",
+        "meaning": "Nang th\u00e2n r\u0103ng",
+        "note": "- L\u00e0 m\u1ed9t nang \u0111\u01b0\u1ee3c l\u00f3t b\u1edfi bi\u1ec3u m\u00f4 v\u00e0 l\u00e0 nang ph\u00e1t tri\u1ec3n do r\u0103ng.  - Nang th\u00e2n r\u0103ng bao b\u1ecdc quanh r\u0103ng ch\u01b0a m\u1ecdc v\u00e0 \u0111\u01b0\u1ee3c g\u1eafn v\u00e0o r\u0103ng t\u1ea1i ch\u1ed7 n\u1ed1i men-cement. - C\u01a1 ch\u1ebf c\u00f3 th\u1ec3 do t\u00edch t\u1ee5 ch\u1ea5t d\u1ecbch gi\u1eefa bi\u1ec3u m\u00f4 men tho\u00e1i h\u00f3a v\u00e0 th\u00e2n r\u0103ng.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/h7Bx9bZ/0349d21cad55.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:50:53 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4df4c4e4f3927be370dc",
+        "id": 301,
+        "word": "Leukoplakia",
+        "meaning": "B\u1ea1ch s\u1ea3n",
+        "note": "-L\u00e0 m\u1ed9t m\u1ea3ng ho\u1eb7c m\u1ed9t \u0111\u00e1m m\u00e0u tr\u1eafng, b\u00e1m ch\u1eafc v\u00e0o ni\u00eam m\u1ea1c mi\u1ec7ng, kh\u00f4ng th\u1ec3 \u0111\u01b0\u1ee3c ph\u00e2n lo\u1ea1i nh\u01b0 c\u00e1c b\u1ec7nh th\u1ef1c th\u1ec3. -B\u1ea1ch s\u1ea3n ni\u00eam m\u1ea1c mi\u1ec7ng \u0111\u01b0\u1ee3c cho l\u00e0 t\u1ed5n th\u01b0\u01a1ng ti\u1ec1n ung th\u01b0. -C\u00f3 3 d\u1ea1ng l\u00e2m s\u00e0ng: D\u1ea1ng \u0111\u1ed3ng nh\u1ea5t (th\u01b0\u1eddng g\u1eb7p); D\u1ea1ng \u0111\u1ed1m (\u00edt g\u1eb7p); D\u1ea1ng n\u1ed5i m\u1ee5n (hi\u1ebfm)",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/HqR2RLL/78d4dcda587e.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:51:32 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4e18c4e4f3927be370dd",
+        "id": 302,
+        "word": "Median rhomboid glossitis",
+        "meaning": "Vi\u00eam gi\u1eefa l\u01b0\u1ee1i h\u00ecnh thoi",
+        "note": "-L\u00e0 t\u00ecnh tr\u1ea1ng hi\u1ebfm x\u1ea3y ra duy nh\u1ea5t tr\u00ean l\u01b0ng l\u01b0\u1ee1i -Nguy\u00ean nh\u00e2n: do ph\u00e1t tri\u1ec3n ho\u1eb7c nhi\u00eam n\u1ea5m Candida albicans -L\u00e2m s\u00e0ng: ban \u0111\u1ecf ranh gi\u1edbi r\u00f5, h\u00ecnh thoi d\u1ecdc theoe \u0111\u01b0\u1eddng gi\u1eefa c\u1ee7a l\u01b0ng l\u01b0\u1ee1i, ngay tr\u01b0\u1edbc nh\u00fa circumvallate, b\u1ec1 m\u1eb7t m\u1ecbn ho\u1eb7c chia th\u00f9y con -\u0110i\u1ec1u tr\u1ecb: kh\u00f4ng c\u1ea7n thi\u1ebft",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/nQ7y7Dh/231c31ef0343.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:52:08 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4e3cc4e4f3927be370de",
+        "id": 303,
+        "word": "Ankyloglossia",
+        "meaning": "T\u1eadt d\u00ednh l\u01b0\u1ee1i",
+        "note": "-L\u00e0 m\u1ed9t t\u1eadt b\u1ea9m sinh nh\u1eb9 do d\u00e2y th\u1eafng l\u01b0\u1ee1i (l\u1edbp m\u00e0ng m\u1ecfng ni\u00eam m\u1ea1c d\u01b0\u1edbi l\u01b0\u1ee1i) ng\u1eafn, l\u00e0m h\u1ea1n ch\u1ebf c\u1eed \u0111\u1ed9ng b\u00ecnh th\u01b0\u1eddng c\u1ee7a l\u01b0\u1ee1i. - C\u00f3 th\u1ec3 g\u1eb7p t\u00ecnh tr\u1ea1ng d\u00ednh ho\u00e0n to\u00e0n ho\u1eb7c m\u1ed9t ph\u1ea7n - NN: Kh\u00f4ng x\u00e1c \u0111\u1ecbnh, nhi\u1ec1u gi\u1ea3 thuy\u1ebft do di truy\u1ec1n n\u00ean kh\u00f4ng th\u1ec3 ph\u00f2ng ng\u1eeba",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/b6mDF13/79216b1b09b3.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:52:44 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4e60c4e4f3927be370df",
+        "id": 304,
+        "word": "Granulomatous gingivitis",
+        "meaning": "Vi\u00eam l\u1ee3i u h\u1ea1t",
+        "note": "-L\u00e0 m\u1ed9t t\u00ecnh tr\u1ea1ng vi\u00eam m\u1ea1n t\u00ednh v\u1edbi m\u1ed9t m\u1eabu m\u00f4 b\u1ec7nh h\u1ecdc \u0111\u1eb7c tr\u01b0ng -L\u00e2m s\u00e0ng: M\u1ed9t v\u00f9ng ban \u0111\u1ecf lan t\u1ecfa v\u00e0 h\u01a1i ph\u00f9 n\u1ec1 \u1edf v\u00f9ng l\u1ee3i t\u1ef1 do v\u00e0 l\u1ee3i d\u00ednh v\u00e0 l\u1ee3i nh\u00fa k\u1ebd r\u0103ng. Th\u01b0\u1eddng nh\u1ea1y c\u1ea3m v\u00e0 \u0111au nh\u1eb9. Kh\u00e1ng \u0111i\u1ec1u tr\u1ecb t\u1ea1i ch\u1ed7 th\u00f4ng th\u01b0\u1eddng.  -\u0110i\u1ec1u tr\u1ecb: t\u1ea1i ch\u1ed7 ho\u1eb7c corticoid, c\u00f3 th\u1ec3 ph\u1eabu thu\u1eadt c\u1eaft b\u1ecf n\u1ebfu c\u1ea7n.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/Q8d1sGK/1e902c361e8a.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:53:19 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4e93c4e4f3927be370e0",
+        "id": 305,
+        "word": "Angular Cheilitis/ Angular Stomatitis",
+        "meaning": "Ch\u1ed1c m\u00e9p",
+        "note": "Sang th\u01b0\u01a1ng \u0111\u1ecf, ch\u1ee3t, nhi\u1ec1u r\u00e3nh, xu\u1ea5t hi\u1ec7n \u1edf 2 b\u00ean kh\u00f3e m\u00e9p Th\u01b0\u1eddng \u0111au, kh\u00f3 ch\u1ecbu.  Nguy\u00ean nh\u00e2n th\u01b0\u1eddng g\u1eb7p: m\u1ea5t k\u00edch th\u01b0\u1edbc d\u1ecdc \u0110i\u1ec1u tr\u1ecb: t\u00f9y nguy\u00ean nh\u00e2n g\u00e2y b\u1ec7nh (do virus, vi khu\u1ea9n, n\u1ea5m, do thi\u1ebfu vitamin,...) m\u00e0 c\u00f3 h\u01b0\u1edbng \u0111i\u1ec1u tr\u1ecb ph\u00f9 h\u1ee3p.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/23BBSVf/6930dcf14299.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:54:11 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4ed4c4e4f3927be370e1",
+        "id": 306,
+        "word": "Trigeminal neuralgia",
+        "meaning": "\u0110au d\u00e2y TK sinh ba (TK V)",
+        "note": "Giai \u0111o\u1ea1n \u0111\u1ea7u: c\u00f3 th\u1ec3 \u0111au \u00e2m \u1ec9, b\u1ecfng r\u00e1t, \u0111au t\u0103ng d\u1ea7n theo th\u1eddi gian, c\u00f3 th\u1ec3 t\u1eebng c\u01a1n d\u1eef d\u1ed9i k\u00e9o d\u00e0i kh\u00f4ng qu\u00e1 2 ph\u00fat. N\u1eef > nam (1,5:1) Ph\u1ea3i > Tr\u00e1i Tu\u1ed5i: >50, tuy nhi\u00ean c\u0169ng g\u1eb7p \u1edf BN tr\u1ebb V\u1ecb tr\u00ed: c\u00f3 th\u1ec3 b\u1ecb 1 hay nhi\u1ec1u nh\u00e1nh k\u1ebft h\u1ee3p. \u0110au t\u0103ng khi: r\u1eeda m\u1eb7t, c\u1ea1o r\u00e2u, \u0103n u\u1ed1ng, \u0111\u00e1nh r\u0103ng, gi\u00f3 th\u1ed5i,... \u0110i\u1ec1u tr\u1ecb: \u0110\u1ea7u tay: Carbamazepine (80%20BN c\u00f3 \u0111\u00e1p \u1ee9ng). C\u00e1c thu\u1ed1c ch\u1ed1ng \u0111\u1ed9ng kinh kh\u00e1c (phenytoin, gabapentin\u2026) N\u1ebfu \u0111i\u1ec1u tr\u1ecb thu\u1ed1c th\u1ea5t b\u1ea1i: Ph\u1eabu thu\u1eadt ch\u00e8n d\u00e2y TK, c\u1eaft b\u1ecf d\u00e2y TK c\u00f3 th\u1ec3 gi\u1ea3m c\u00e1c c\u01a1n \u0111au trong v\u00f2ng 10 n\u0103m, tuy nhi\u00ean c\u00f3 th\u1ec3 c\u00f3 bi\u1ebfn ch\u1ee9ng t\u00ea v\u00f9ng m\u1eb7t, nghe k\u00e9m.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/8N5g0qz/0b1c2aac42d8.png"
+            },
+            {
+                "id": 1,
+                "link": "https://i.ibb.co/5jJXjVS/62f9aa5ac6a7.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:55:16 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4f20c4e4f3927be370e2",
+        "id": 307,
+        "word": "Anterior Disc Displacement (with reduction/ without reduction)",
+        "meaning": "D\u1eddi ch\u1ed7 \u0111\u0129a ra tr\u01b0\u1edbc (c\u00f3 h\u1ed3i ph\u1ee5c/ kh\u00f4ng h\u1ed3i ph\u1ee5c)",
+        "note": "*C\u01a1 ch\u1ebf d\u1eddi ch\u1ed7 \u0111\u0129a ra tr\u01b0\u1edbc: D\u00e2y ch\u1eb1ng b\u1ecb d\u00e3n (do ch\u1ea5n th\u01b0\u01a1ng, c\u1ea3n tr\u1edf c\u1eafn kh\u1edbp, t\u0103ng ho\u1ea1t \u0111\u1ed9ng c\u01a1 (nghi\u1ebfn, si\u1ebft ch\u1eb7t R), c\u01a1 \u0111\u1ecba d\u00e2y ch\u1eb1ng l\u1ecfng l\u1ebbo)  --> \u0111\u0129a kh\u1edbp d\u1eddi ch\u1ed7 theo tr\u01b0\u01a1ng l\u1ef1c c\u1ee7a c\u01a1 ch\u00e2n b\u01b0\u1edbm ngo\u00e0i b\u00f3 tr\u00ean. ",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/cgBNkcb/33ca42404b15.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:56:32 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4f44c4e4f3927be370e3",
+        "id": 308,
+        "word": "Sialolithiasis (salivary gland stones - calculi) ",
+        "meaning": "S\u1ecfi tuy\u1ebfn n\u01b0\u1edbc b\u1ecdt",
+        "note": "G\u00e2y t\u1eafc ngh\u1ebdn c\u01a1 h\u1ecdc \u1ed1ng tuy\u1ebfn n\u01b0\u1edbc b\u1ecdt C\u1ea3n tr\u1edf d\u00f2ng ch\u1ea3y c\u1ee7a n\u01b0\u1edbc b\u1ecdt t\u1eeb tuy\u1ebfn n\u01b0\u1edbc b\u1ecdt \u0111\u1ebfn khoang mi\u1ec7ng Th\u01b0\u1eddng g\u1eb7p \u1edf tuy\u1ebfn d\u01b0\u1edbi h\u00e0m, hi\u1ebfm g\u1eb7p \u1edf tuy\u1ebfn d\u01b0\u1edbi l\u01b0\u1ee1i Tri\u1ec7u ch\u1ee9ng: s\u01b0ng, \u0111au (\u0111\u1eb7c bi\u1ec7t trong b\u1eefa \u0103n khi n\u01b0\u1edbc b\u1ecdt ti\u1ebft ra nhi\u1ec1u -> t\u1eafc ngh\u1ebdn \u1ed1ng d\u1eabn c\u1ea5p t\u00ednh)",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/2Wz00hk/092c8432be31.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:57:07 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4f65c4e4f3927be370e4",
+        "id": 309,
+        "word": "Sturge-Weber syndrome",
+        "meaning": "H\u1ed9i ch\u1ee9ng Sturge-Weber",
+        "note": "- Ch\u1ee9ng b\u01b0\u1edbu m\u1ea1ch n\u00e3o - m\u1eb7t l\u00e0 m\u1ed9t h\u1ed9i ch\u1ee9ng ph\u1ee9c t\u1ea1p bao g\u1ed3m b\u01b0\u1edbu m\u1ea1ch m\u00e1u \u1edf da d\u1ecdc theo s\u1ef1 ph\u00e2n b\u1ed1 c\u1ee7a d\u00e2y th\u1ea7n kinh V3, b\u01b0\u1edbu m\u1ea1ch m\u00e1u \u1edf m\u00e0ng n\u00e3o m\u1ec1m, v\u00f4i h\u00f3a n\u1ed9i s\u1ecd, li\u1ec7t n\u1eeda m\u1eb7t \u0111\u1ed1i b\u00ean v\u00e0 \u0111\u1ed9ng kinh.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/94PxcjM/4a9dbd902d29.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:57:41 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4f8cc4e4f3927be370e5",
+        "id": 310,
+        "word": "Angioneurotic edema",
+        "meaning": "Ph\u00f9 th\u1ea7n kinh m\u1ea1ch",
+        "note": "B\u1ec7nh nh\u00e2n b\u1ecb s\u01b0ng ph\u00f9 m\u00f4i tr\u00ean m\u1ed7i khi b\u1ecb g\u00e2y t\u00ea t\u1ea1i ch\u1ed7. Ph\u00f9 Quincke hay ph\u00f9 th\u1ea7n kinh m\u1ea1ch do s\u1ef1 gi\u00e3n n\u1edf khu tr\u00fa v\u00e0 \u0111\u1ed9t ng\u1ed9t c\u1ee7a th\u00e0nh m\u1ea1ch m\u00e1u v\u00e0 cho ph\u00e9p d\u1ecbch tho\u00e1t ra ngo\u00e0i m\u00f4 m\u1ec1m. Ph\u1ea3n \u1ee9ng n\u00e0y c\u0169ng c\u00f3 th\u1ec3 x\u1ea3y ra \u1edf nh\u1eefng ng\u01b0\u1eddi nh\u1ea1y c\u1ea3m v\u1edbi m\u1ed9t lo\u1ea1i thu\u1ed1c n\u00e0o \u0111\u00f3, m\u1ef9 ph\u1ea9m ho\u1eb7c th\u1ee9c \u0103n. Bi\u1ec3u hi\u1ec7n ch\u1ee7 y\u1ebfu l\u00e0 s\u01b0ng ph\u00f9 \u1edf v\u00f9ng m\u00f4i, m\u00e1 v\u00e0 m\u00ed m\u1eaft, th\u01b0\u1eddng kh\u00f4ng k\u00e9o d\u00e0i qu\u00e1 1 \u0111\u1ebfn 2 ng\u00e0y. Adrenaline hay thu\u1ed1c kh\u00e1ng Histamin c\u00f3 th\u1ec3 gi\u00fap l\u00e0m gi\u1ea3m tri\u1ec7u ch\u1ee9ng, nh\u01b0ng th\u01b0\u1eddng kh\u00f4ng c\u1ea7n \u0111\u1ebfn thu\u1ed1c. Ri\u00eang \u0111\u1ed1i v\u1edbi m\u1ed9t s\u1ed1 tr\u01b0\u1eddng h\u1ee3p ph\u00f9 thanh qu\u1ea3n n\u1eb7ng c\u00f3 th\u1ec3 ph\u1ea3i m\u1edf kh\u00ed qu\u1ea3n.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/cN4wh8x/358f515d11a5.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:58:19 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4fadc4e4f3927be370e6",
+        "id": 311,
+        "word": "Black hairy tongue",
+        "meaning": "L\u01b0\u1ee1i l\u00f4ng \u0111en",
+        "note": "- Do s\u1ef1 t\u0103ng sinh d\u00e0i ra c\u1ee7a c\u00e1c gai ch\u1ec9 m\u00e0 kh\u00f4ng tr\u00f3c \u0111i. - M\u00e0u n\u00e2u, \u0111en, v\u00e0ng, tr\u1eafng t\u00f9y theo nguy\u00ean nh\u00e2n g\u00e2y ra. - NN: do s\u1ef1 thay \u0111\u1ed5i m\u00f4i tr\u01b0\u1eddng mi\u1ec7ng b\u1ecb x\u00e1o tr\u1ed9n b\u00e0i ti\u1ebft n\u01b0\u1edbc b\u1ecdt hay x\u00e1o tr\u1ed9n th\u00e0nh ph\u1ea7n t\u1ea1p khu\u1ea9n mi\u1ec7ng. Vd: nhi\u1ec5m n\u1ea5m Candida albicans, x\u00e1o tr\u1ed9n to\u00e0n th\u00e2n, do thu\u1ed1c, do ph\u00f3ng x\u1ea1,... - \u0110i\u1ec1u tr\u1ecb: V\u1ec7 sinh r\u0103ng mi\u1ec7ng, \u0111i\u1ec1u tr\u1ecb NN.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/M5k7kz3/bb3b8a45a573.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:58:53 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4fcec4e4f3927be370e7",
+        "id": 312,
+        "word": "calcifying odontogenic cyst",
+        "meaning": "Nang do R canxi h\u00f3a",
+        "note": "Tr\u00ean phim ch\u1ee5p X quang nha khoa , u nang v\u00f4i h\u00f3a t\u1ea1o men xu\u1ea5t hi\u1ec7n d\u01b0\u1edbi d\u1ea1ng th\u1ea5u quang m\u1ed9t m\u1eaft (m\u1ed9t v\u00f2ng tr\u00f2n) (v\u00f9ng t\u1ed1i). Trong m\u1ed9t ph\u1ea7n ba tr\u01b0\u1eddng h\u1ee3p, c\u00f3 li\u00ean quan \u0111\u1ebfn r\u0103ng b\u1ecb \u1ea3nh h\u01b0\u1edfng ",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/3TtCsTj/e36858c47018.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "06:59:25 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e4ff6c4e4f3927be370e8",
+        "id": 313,
+        "word": "Radicular cyst",
+        "meaning": "Nang ch\u00e2n R",
+        "note": "l\u00e0 nang hay g\u1eb7p nh\u1ea5t trong c\u00e1c lo\u1ea1i nang do R. c\u00f3 ngu\u1ed3n g\u1ed1c t\u1eeb bi\u1ec3u m\u00f4 Malassez c\u00f2n s\u00f3t l\u1ea1i trong d\u00e2y ch\u1eb1ng quanh R v\u00e0 l\u00e0 k\u1ebft qu\u1ea3 c\u1ee7a vi\u00eam quanh cu\u1ed1ng, sau khi R b\u1ecb ch\u1ebft v\u00e0 ho\u1ea1i t\u1eed t\u1ee7y.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/VDC3p01/b951a0156ee0.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:00:06 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e5026c4e4f3927be370e9",
+        "id": 314,
+        "word": "eruption cyst",
+        "meaning": "Nang tr\u00ean R m\u1ecdc",
+        "note": "v\u1ec1 c\u01a1 b\u1ea3n n\u00f3 gi\u1ed1ng nh\u01b0 1 nang th\u00e2n R, h\u00ecnh th\u00e0nh trong m\u00f4 m\u1ec1m b\u00ean trong th\u00e2n 1 r\u0103ng \u0111ang m\u1ecdc kh\u1ed1i s\u01b0ng m\u00e0u xanh, do \u0111\u00f3 \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 u m\u00e1u m\u1ecdc R \u201c eruption hematoma\u201d th\u01b0\u1eddng \u1edf tr\u1ebb em",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/VjqzWN3/5a00c296c3ad.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:00:54 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e504bc4e4f3927be370ea",
+        "id": 315,
+        "word": "Periodontitis ",
+        "meaning": "Vi\u00eam nha chu ",
+        "note": "L\u00e0 b\u1ec7nh l\u00fd vi\u00eam nhi\u1ec5m c\u1ee7a m\u00f4 n\u00e2ng \u0111\u1ee1 r\u0103ng g\u00e2y n\u00ean b\u1edfi c\u00e1c vi khu\u1ea9n \u0111\u1eb7c hi\u1ec7u , \u0111\u00e3 \u0111\u1ebfn s\u1ef1 ph\u00e1 h\u1ee7y d\u00e2y ch\u1eb1ng nha chu , x\u01b0\u01a1ng \u1ed5 r\u0103ng v\u1edbi s\u1ef1 h\u00ecnh th\u00e0nh t\u00fai nha chu , t\u1ee5t n\u01b0\u1edbu hay c\u1ea3 hai ",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/k0Fv3sg/1476ebcadb78.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:01:31 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e5068c4e4f3927be370eb",
+        "id": 316,
+        "word": "Ranula ",
+        "meaning": "Nang nh\u00e1i s\u00e0n mi\u1ec7ng",
+        "note": "Nang th\u01b0\u1eddng \u1edf n\u00f4ng v\u00f9ng s\u00e0n mi\u1ec7ng , m\u00e0u xanh hay \u0111\u1ecf t\u00edm , gi\u1ed1ng nh\u01b0 b\u1ee5ng nh\u00e1i , th\u01b0\u1eddng li\u00ean quan tuy\u1ebfn d\u01b0\u1edbi l\u01b0\u1ee1i ",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/rH0HNzt/26f96568322b.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:02:00 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e508bc4e4f3927be370ec",
+        "id": 317,
+        "word": "Gingival enlargement",
+        "meaning": "N\u01b0\u1edbu tri\u1ec5n d\u01b0\u1ee1ng",
+        "note": "Nguy\u00ean nh\u00e2n ch\u1ee7 y\u1ebfu do 3 lo\u1ea1i  U\u1ee9c ch\u1ebf mi\u1ec5n d\u1ecbch : cyclosporin Ch\u1ed1ng \u0111\u1ed9ng kinh : phenytoin Thu\u1ed1c ch\u1eb9n k\u00ean canci : Nifedipine  LS: N\u01b0\u1edbu kh\u00f4ng vi\u00eam , c\u1ee9ng dai , m\u00e0u h\u1ed3ng nh\u1ea1t , b\u1ec1 m\u1eb7t s\u1ea7n s\u00f9i , kh\u00f4ng ch\u1ea3y m\u00e1u t\u1ef1 ph\u00e1t ",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/rM62nNq/d8929a17119f.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:02:34 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e545490ddd44a413668e1",
+        "id": 318,
+        "word": "cleft lip",
+        "meaning": "Khe h\u1edf m\u00f4i",
+        "note": "L\u00e0 m\u1ed9t d\u1ea1ng d\u1ecb t\u1eadt b\u1ea9m sinh Tr\u1ebb b\u1ecb khe h\u1edf m\u00f4i s\u1ebd g\u1eb7p c\u00e1c r\u1ed1i lo\u1ea1n ch\u1ee9c n\u0103ng nh\u01b0: R\u1ed1i lo\u1ea1n v\u1ec1 \u0103n u\u1ed1ng, r\u1ed1i lo\u1ea1n v\u1ec1 h\u00f4 h\u1ea5p, r\u1ed1i lo\u1ea1n v\u1ec1 ph\u00e1t \u00e2m, \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn th\u1ea9m m\u1ef9 v\u00e0 t\u00e2m l\u00fd c\u1ee7a tr\u1ebb",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/mGxxSBh/920e029ba59b.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:18:43 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e547f67b6b1815ef50616",
+        "id": 319,
+        "word": "cleft palate",
+        "meaning": "Khe h\u1edf h\u00e0m \u1ebfch",
+        "note": "H\u1edf h\u00e0m \u1ebfch l\u00e0 t\u00ecnh tr\u1ea1ng v\u00f2m mi\u1ec7ng b\u1ecb khi\u1ebfm khuy\u1ebft trong qu\u00e1 tr\u00ecnh ph\u00e1t tri\u1ec3n t\u1ea1o ra khe h\u1edf \u1edf gi\u1eefa khoang m\u0169i v\u00e0 v\u00f2m mi\u1ec7ng Khe h\u1edf h\u00e0m \u1ebfch th\u01b0\u1eddng \u0111i k\u00e9m v\u1edbi khe h\u1edf m\u00f4i",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/pnx4KqN/fa2a275b0ac5.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:19:26 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e54a267b6b1815ef50617",
+        "id": 320,
+        "word": "Molar Incisor Hypomineralization (MIH)",
+        "meaning": "Gi\u1ea3m kho\u00e1ng h\u00f3a men r\u0103ng",
+        "note": "L\u00e0 t\u00ecnh tr\u1ea1ng k\u00e9m kho\u00e1ng h\u00f3a men r\u0103ng, m\u00e0 nguy\u00ean nh\u00e2n m\u1eafc b\u1ec7nh kh\u00f4ng r\u00f5 r\u00e0ng v\u00e0 B\u00e1c s\u0129 hay g\u1eb7p th\u1ea5t b\u1ea1i khi \u0111i\u1ec1u tr\u1ecb theo ph\u01b0\u01a1ng ph\u00e1p x\u00e2m l\u1ea5n t\u1ed5i thi\u1ec3u. Nhi\u1ec1u tr\u01b0\u1eddng h\u1ee3p MIH \u0111i\u1ec1u tr\u1ecb kh\u00f4ng k\u1ecbp th\u1eddi b\u1ecb ph\u00e1 h\u1ee7y n\u1eb7ng ph\u1ea3i ch\u1ec9 \u0111\u1ecbnh nh\u1ed5 b\u1ecf s\u1edbm.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/zQ3XNpk/c1ff06267471.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:20:02 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e54da67b6b1815ef50618",
+        "id": 321,
+        "word": "Scleroderma",
+        "meaning": "X\u01a1 c\u1ee9ng b\u00ec",
+        "note": "X\u01a1 c\u1ee9ng b\u00ec lan t\u1ecfa l\u00e0 m\u1ed9t b\u1ec7nh to\u00e0n th\u00e2n c\u1ee7a m\u00f4 li\u00ean k\u1ebft li\u00ean quan \u0111\u1ebfn b\u1ec7nh t\u1ef1 mi\u1ec5n. H\u00ecnh \u1ea3nh l\u00e2m s\u00e0ng ti\u00eau bi\u1ec3u nh\u1ea5t l\u00e0 x\u01a1 c\u1ee9ng da, c\u00e1c s\u1ee3i collagen \u1edf l\u1edbp b\u00ec ph\u1ed3ng l\u00ean v\u00e0 sau \u0111\u00f3 teo l\u1ea1i, b\u1ecb n\u00e9n ch\u1eb7t v\u00e0o nhau t\u1ea1o th\u00e0nh m\u00f4 li\u00ean k\u1ebft d\u00e0y \u0111\u1eb7c tr\u01b0ng t\u01b0\u01a1ng t\u1ee5 nh\u01b0 m\u00f4 s\u1eb9o l\u00e0m h\u1ea1n ch\u1ebf c\u1eed \u0111\u1ed9ng.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/Np99k37/6c5a44694389.png"
+            },
+            {
+                "id": 1,
+                "link": "https://i.ibb.co/bF3T7Gh/ea95c96020c8.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:20:57 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e551c67b6b1815ef50619",
+        "id": 322,
+        "word": "Papilloma",
+        "meaning": "B\u01b0\u1edbu gai Papilloma",
+        "note": "B\u01b0\u1edbu gai l\u00e0 s\u1ef1 t\u00e2n sinh l\u00e0nh t\u00ednh c\u1ee7a bi\u1ec3u m\u00f4 gai. C\u00f3 nhi\u1ec1u d\u1ea1ng l\u00e2m s\u00e0ng. B\u01b0\u1edbu gai c\u00f3 th\u1ec3 c\u00f3 ch\u00e2n r\u1ed9ng b\u00e1m ch\u1eafc v\u00e0o b\u1ec1 m\u1eb7t ho\u1eb7c c\u00f3 th\u1ec3 c\u00f3 cu\u1ed1ng v\u00e0 di \u0111\u1ed9ng d\u1ec5 d\u00e0ng. B\u1ec1 m\u1eb7t c\u1ee7a t\u1ed5n th\u01b0\u01a1ng th\u01b0\u1eddng tr\u1eafng do m\u1ee9c \u0111\u1ed9 s\u1eebng h\u00f3a cao v\u00e0 xu h\u01b0\u1edbng l\u01b0u gi\u1eef ch\u1ea5t s\u1eebng.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/mqdh8W0/0c0ccc4b7df5.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:22:04 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e553f67b6b1815ef5061a",
+        "id": 323,
+        "word": "plasma cell myeloma",
+        "meaning": "U t\u1ee7y x\u01b0\u01a1ng b\u00e0o",
+        "note": "U t\u1ee7y t\u01b0\u01a1ng b\u00e0o l\u00e0 m\u1ed9t u \u00e1c li\u00ean quan ch\u1ee7 y\u1ebfu \u0111\u1ebfn t\u1ee7y x\u01b0\u01a1ng, c\u00f3 \u0111\u1eb7c \u0111i\u1ec3m l\u00e0 ph\u00e1 h\u1ee7y x\u01b0\u01a1ng d\u1ea7n d\u1ea7n. Th\u01b0\u1eddng g\u1eb7p nh\u1ea5t \u1edf l\u1ee9a tu\u1ed5i 40, v\u00e0 \u1edf nam th\u01b0\u1eddng h\u01a1n \u1edf n\u1eef. C\u00e1c t\u1ed5n th\u01b0\u01a1ng x\u01b0\u01a1ng c\u00f3 \u0111\u01b0\u1eddng vi\u1ec1n r\u00f5, ch\u1ee9a nh\u1eefng t\u1ebf b\u00e0o s\u00e1t nhau gi\u1ed1ng nh\u01b0 t\u01b0\u01a1ng b\u00e0o. \u0110a s\u1ed1 c\u00e1c tr\u01b0\u1eddng h\u1ee3p, nh\u01b0ng kh\u00f4ng ph\u1ea3i t\u1ea5t c\u1ea3, c\u00f3 protein Bence Jones trong n\u01b0\u1edbc ti\u1ec3u.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/XbgNNvm/c88cbef523b8.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:22:39 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e558267b6b1815ef5061b",
+        "id": 324,
+        "word": "basal cell carcinoma",
+        "meaning": "Ung th\u01b0 t\u1ebf b\u00e0o \u0111\u00e1y",
+        "note": "Ung th\u01b0 th\u01b0\u1eddng xu\u1ea5t ph\u00e1t t\u1eeb nh\u1eefng t\u1ebf b\u00e0o \u0111\u00e1y c\u1ee7a th\u01b0\u1ee3ng b\u00ec, nh\u01b0ng c\u0169ng c\u00f3 th\u1ec3 xu\u1ea5t ph\u00e1t t\u1eeb nh\u1eefng t\u1ebf b\u00e0o t\u1eadn c\u00f9ng c\u1ee7a nang l\u00f4ng hay tuy\u1ebfn b\u00e3. V\u1ecb tr\u00ed th\u01b0\u1eddng nh\u1ea5t l\u00e0 \u1edf t\u1ea7ng tr\u00ean c\u1ee7a m\u1eb7t. B\u01b0\u1edbu t\u0103ng tr\u01b0\u1eddng r\u1ea5t ch\u1eadm, hi\u1ebfm khi di c\u0103n v\u00e0 c\u00f3 th\u1ec3 ch\u1eefa kh\u1ecfi b\u1eb1ng ph\u1eabu thu\u1eadt hay x\u1ea1 tr\u1ecb.",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/YLWw85d/99645a2da9fa.png"
+            },
+            {
+                "id": 1,
+                "link": "https://i.ibb.co/QN1DtZ1/a58d5ff0fe81.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:23:45 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e55c267b6b1815ef5061c",
+        "id": 325,
+        "word": "Hyperdontia",
+        "meaning": "R\u0103ng d\u01b0 ",
+        "note": "Th\u1eeba r\u0103ng l\u00e0 t\u00ecnh tr\u1ea1ng r\u0103ng mi\u1ec7ng c\u1ee7a b\u1ea1n c\u00f3 s\u1ed1 r\u0103ng nhi\u1ec1u h\u01a1n s\u1ed1 l\u01b0\u1ee3ng r\u0103ng ti\u00eau chu\u1ea9n (\u0111\u1ed1i v\u1edbi r\u0103ng s\u1eefa l\u00e0 20 chi\u1ebfc, r\u0103ng v\u0129nh vi\u1ec5n l\u00e0 32 chi\u1ebfc)",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/tbG9PQF/65188a7a9572.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:24:50 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e55e467b6b1815ef5061d",
+        "id": 326,
+        "word": "Hypodontia ",
+        "meaning": "Thi\u1ebfu r\u0103ng ",
+        "note": "l\u00e0 m\u1ed9t t\u00ecnh tr\u1ea1ng b\u1ea9m sinh ho\u1eb7c di truy\u1ec1n, trong \u0111\u00f3 c\u00f3 r\u0103ng kh\u00f4ng ph\u00e1t tri\u1ec3n ho\u1eb7c thi\u1ebfu m\u1ed9t ho\u1eb7c nhi\u1ec1u r\u0103ng. ",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/pWGwb1f/33d8bd512675.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:25:23 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e560167b6b1815ef5061e",
+        "id": 327,
+        "word": "Gemination ",
+        "meaning": "R\u0103ng sinh \u0111\u00f4i ",
+        "note": "l\u00e0 m\u1ed9t hi\u1ec7n t\u01b0\u1ee3ng x\u1ea3y ra khi m\u1ed9t r\u0103ng ph\u00e1t tri\u1ec3n th\u00e0nh hai r\u0103ng",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/Gt427Rg/8dcf3242e35b.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:25:53 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e562167b6b1815ef5061f",
+        "id": 328,
+        "word": "Fusion ",
+        "meaning": "R\u0103ng dung h\u1ee3p ",
+        "note": "Hai m\u1ea7m r\u0103ng ri\u00eang r\u1ebd s\u1ebd b\u1ecb d\u00ednh v\u00e0o nhau, \u1edf m\u1ed9t giai \u0111o\u1ea1n n\u00e0o \u0111\u00f3 c\u1ee7a s\u1ef1 th\u00e0nh l\u1eadp r\u0103ng. S\u1ef1 dung h\u1ee3p c\u00f3 th\u1ec3 ho\u00e0n to\u00e0n hay kh\u00f4ng ho\u00e0n to\u00e0n (hai r\u0103ng ch\u1ec9 d\u00ednh \u1edf \u0111o\u1ea1n th\u00e2n r\u0103ng), ch\u1ec9 c\u00f3 s\u1ef1 dung h\u1ee3p khi c\u00f3 s\u1ef1 d\u00ednh li\u1ec1n ng\u00e0 r\u0103ng c\u1ee7a hai r\u0103ng k\u1ebf c\u1eadn",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/XF9Lbmr/e5585bdb4753.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:26:24 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
+    },
+    {
+        "_id": "660e564267b6b1815ef50620",
+        "id": 329,
+        "word": "Epulis fissuratum",
+        "meaning": "U l\u1ee3i khe",
+        "note": "T\u0103ng sinh m\u00f4 th\u00e0nh nhi\u1ec1u n\u1ebfp \u1edf \u0111\u00e1y h\u00e0nh lang, nguy\u00ean nh\u00e2n do b\u1edd h\u00e0m gi\u1ea3 kh\u00f4ng kh\u00edt s\u00e1t. Kh\u1edfi \u0111\u1ea7u ch\u1ec9 l\u00e0 nh\u1eefng v\u1ebft lo\u00e9t nh\u1ecf, nh\u01b0ng khi k\u00edch th\u00edch do h\u00e0m g\u1ec9a ti\u1ebfp t\u1ee5c th\u00ec s\u1ebd c\u00f3 ph\u1ea3n \u1ee9ng t\u0103ng s\u1ea3n m\u00f4. T\u1ed5n th\u01b0\u01a1ng n\u00e0y c\u00f2n \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 u l\u1ee3i khe",
+        "image": [
+            {
+                "id": 0,
+                "link": "https://i.ibb.co/ZKXXHNB/5deebe98e499.png"
+            }
+        ],
+        "user_add": "linh",
+        "date": "07:26:57 04/04/2024",
+        "subject": "B\u1ec6NH H\u1eccC MI\u1ec6NG"
     }
 ]

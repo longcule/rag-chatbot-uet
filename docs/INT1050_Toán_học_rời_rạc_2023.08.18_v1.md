@@ -104,7 +104,6 @@ Biểu thức chính quy: LTBT Bài tập bổ sung
 Giới thiệu máy Turing: Lý thuyết Bài tập Bài tập bổ sung
 # 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: TOÁN HỌC RỜI RẠC 
 Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc gửi bài tập qua email) sẽ được xem xét cộng điểm học phần.
-# 10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học phần: TOÁN HỌC RỜI RẠC
 10.1. Phương pháp hình thức kiểm tra đánh giá: TOÁN HỌC RỜI RẠC Hình thức Phương pháp Mục đích CLO được đánh giá Trọng số Bài tập và chuyên cần Bài tập Đánh giá việc vận dụng kiến thức đã học CLO1 CLO2 CLO3 CLO4 15%
 Kiểm tra giữa kỳ Thi viết Đánh giá kiến thức kỹ năng sinh viên đạt được sau nửa học kỳ CLO1 CLO2 CLO3 CLO4 25%
 Thi kết thúc học phần Thi viết Đánh giá kiến thức kỹ năng sinh viên đạt được khi kết thúc học phần CLO1 CLO4 60%

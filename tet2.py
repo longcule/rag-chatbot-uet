@@ -82,37 +82,76 @@
 # add_header_lines(input_folder_path, file_extension)
 
 
-import csv
+# import csv
+# import os
+
+# # Đường dẫn thư mục chứa các file CSV
+# csv_folder = "/path/to/source/folder"  # Đường dẫn đến thư mục chứa các file CSV
+
+# # Đường dẫn thư mục đích để lưu các file txt
+# txt_folder = "/path/to/target/folder"  # Đường dẫn đến thư mục đích
+
+# # Lặp qua các file CSV trong thư mục nguồn
+# for csv_file in os.listdir(csv_folder):
+#     if csv_file.endswith(".csv"):
+#         csv_file_path = os.path.join(csv_folder, csv_file)
+        
+#         # Tạo tên file txt từ tên file CSV
+#         txt_file = os.path.splitext(csv_file)[0] + ".md"
+#         txt_file_path = os.path.join(txt_folder, txt_file)
+
+#         # Mở file CSV và đọc nội dung
+#         with open(csv_file_path, 'r') as file:
+#             # Tạo đối tượng reader để đọc file CSV
+#             reader = csv.reader(file)
+
+#             # Bỏ qua hàng đầu tiên
+#             next(reader)
+
+#             # Mở file txt để ghi kết quả
+#             with open(txt_file_path, 'w') as txt_file:
+#                 # Lặp qua các dòng và ghi vào file txt
+#                 for row in reader:
+#                     processed_row = [column.replace('\n', ' - ') for column in row]
+#                     processed_row = f"Mã học phần: {processed_row[0]}, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): {processed_row[1]}, Số tín chỉ: {processed_row[2]}, Danh mục tài liệu tham khảo học phần {processed_row[1]} là:\n {row[3]}"
+#                     # Ghi kết quả vào file txt
+#                     txt_file.write(f"{processed_row}\n")
+
+
 import os
 
-# Đường dẫn thư mục chứa các file CSV
-csv_folder = "/path/to/source/folder"  # Đường dẫn đến thư mục chứa các file CSV
+def process_file(file_path):
+    with open(file_path, 'r') as file:
+        lines = file.readlines()
 
-# Đường dẫn thư mục đích để lưu các file txt
-txt_folder = "/path/to/target/folder"  # Đường dẫn đến thư mục đích
+    # Tìm chỉ số của dòng có "# 10. Phương pháp" (hoặc dòng bạn muốn xóa)
+    index = -1
+    for i, line in enumerate(lines):
+        if '# 10. Phương pháp' in line:
+            index = i
+            break
 
-# Lặp qua các file CSV trong thư mục nguồn
-for csv_file in os.listdir(csv_folder):
-    if csv_file.endswith(".csv"):
-        csv_file_path = os.path.join(csv_folder, csv_file)
-        
-        # Tạo tên file txt từ tên file CSV
-        txt_file = os.path.splitext(csv_file)[0] + ".md"
-        txt_file_path = os.path.join(txt_folder, txt_file)
+    if index != -1:
+        # Xóa dòng chứa "# 10. Phương pháp"
+        del lines[index]
 
-        # Mở file CSV và đọc nội dung
-        with open(csv_file_path, 'r') as file:
-            # Tạo đối tượng reader để đọc file CSV
-            reader = csv.reader(file)
+        # Ghi lại nội dung đã xóa vào file
+        with open(file_path, 'w', encoding='utf-8') as file:
+            file.writelines(lines)
 
-            # Bỏ qua hàng đầu tiên
-            next(reader)
+        print(f"Đã xóa và lưu lại file {file_path}")
+    else:
+        print(f"Không tìm thấy dòng '# 10. Phương pháp' trong file {file_path}")
 
-            # Mở file txt để ghi kết quả
-            with open(txt_file_path, 'w') as txt_file:
-                # Lặp qua các dòng và ghi vào file txt
-                for row in reader:
-                    processed_row = [column.replace('\n', ' - ') for column in row]
-                    processed_row = f"Mã học phần: {processed_row[0]}, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): {processed_row[1]}, Số tín chỉ: {processed_row[2]}, Danh mục tài liệu tham khảo học phần {processed_row[1]} là:\n {row[3]}"
-                    # Ghi kết quả vào file txt
-                    txt_file.write(f"{processed_row}\n")
+
+def process_folder(folder_path):
+    for file_name in os.listdir(folder_path):
+        if file_name.endswith('.md'):
+            file_path = os.path.join(folder_path, file_name)
+            process_file(file_path)
+
+
+# Thay đổi đường dẫn của thư mục chứa các file .md của bạn tại đây
+folder_path = '/home/longcule/Videos/rag-chatbot/docs'
+
+process_folder(folder_path)

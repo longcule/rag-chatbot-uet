@@ -1,16 +1,15 @@
 HỌC PHẦN: NHẬP MÔN LẬP TRÌNH
 # 1. Thông tin về các giảng viên học phần: NHẬP MÔN LẬP TRÌNH
-STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoại Email Ghi chú 1 Lê Đức Trọng TS BM KHMT trongld\@vnu.edu.vn
+STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoại Email Ghi chú
+1 Lê Đức Trọng TS BM KHMT trongld\@vnu.edu.vn
 2 Lê Nguyên Khôi TS BM KHMT khoi.n.le\@vnu.edu.vn
 3 Đặng Trần Bình TS BM KHMT binhdt\@vnu.edu.vn
 4 Ma Thị Châu TS BM KHMT chaumt\@vnu.edu.vn
 5 Ngô Thị Duyên TS BM KHMT duyennt\@vnu.edu.vn
 6 Nguyễn Văn Vinh TS BM KHMT vinhnv\@vnu.edu.vn
 # 2. Thông tin chung về học phần: NHẬP MÔN LẬP TRÌNH Tên học phần:
-{html}
-! Tiếng Việt: Nhập môn Lập trình Tiếng Anh: Fundamentals of Programming
-{html}
-! Mã số học phần: INT1008 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 242100 Học phần tiên quyết (tên và mã số học phần): \.... Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn KHMT Khoa CNTT
+Tiếng Việt: Nhập môn Lập trình Tiếng Anh: Fundamentals of Programming
+Mã số học phần: INT1008 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 242100 Học phần tiên quyết (tên và mã số học phần): \.... Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn KHMT Khoa CNTT
 # 3. Mục tiêu học phần: NHẬP MÔN LẬP TRÌNH 
 Học phần cung cấp cho sinh viên kiến thức nhập môn cơ bản về ngôn ngữ lập trình bậc cao kỹ năng xây dựng chương trình sử dụng một trong các ngôn ngữ lập trình C. Sinh viên có thể tự viết được các chương trình nhỏ đơn giản và bước đầu làm quen với việc lập trình theo yêu cầu.
 # 4. Chuẩn đầu ra: NHẬP MÔN LẬP TRÌNH
@@ -91,7 +90,6 @@ Wesley 2009
 Ghi chú: Phần này nêu yêu cầu và cách thức đánh giá sự hiện diện trên
 lớp mức độ tích cực tham gia các hoạt động trên lớp các qui định về
 thời hạn chất lượng các bài tập bài kiểm tra .... Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét cộng điểm học phần. Với các nội dung liên quan đến lập trình (ví dụ bài tập lớn) nếu sinh viên gian lận mã nguồn thì sẽ bị điểm học phần là 0.
-# 10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học phần: NHẬP MÔN LẬP TRÌNH
 10.1. Phương pháp hình thức kiểm tra đánh giá: NHẬP MÔN LẬP TRÌNH Hình Phương Mục CLO được Trọng thức pháp đích đánh giá số (Chuyên (Viết vấn cần giữa đáp thực kỳ kết hành bài thúc học tập lớn phần ...) ...) Kiểm tra Kiểm tra Đánh giá CLO1 CLO2 20% đánh giá thực hành kiến thức thường kỹ năng lập CLO3 CLO4 xuyên trình của sinh viên CLO5 CLO6 CLO7 CLO8 Kiểm tra Thi tự luận Đánh giá CLO1 CLO2 20% giữa kỳ Thi thực kiến thức hành kỹ năng lập CLO3 CLO4 trình của sinh viên CLO5 CLO7 đạt được sau nửa học kỳ Thi kết Thi tự luận Đánh giá CLO1 CLO2 60% thúc học Thi thực kiến thức phần hành kỹ năng CLO3 CLO4 sinh viên đạt được CLO5 CLO7 khi kết thúc học phần Tổng: 100% 10.2. Tiêu chí đánh giá: NHẬP MÔN LẬP TRÌNH Mức chất lượng Thang điểm Mô tả mức chất lượngYêu cầu Xuất sắc 910 Hoàn thành tốt các yêu cầu đề ra thể hiện khả năng vận dụng thành thạo các kiến thức đã học
 Khá giỏi 78 Hoàn thành khoảng 7080% các yêu cầu đề ra thể hiện khả năng vận dụng cơ bản các kiến thức đã học
 Đạt 56 Hoàn thành khoảng 5060% các yêu cầu đề ra mới dừng lại ở mức mô tả lại kiến thức đã học

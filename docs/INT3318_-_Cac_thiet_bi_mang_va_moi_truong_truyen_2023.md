@@ -164,18 +164,5 @@ Ghi chú: Học liệu được sắp xếp theo thứ tự ưu tiên. Thông ti
 14 Bảo đảm tính nguyên vẹn và sẵn sàng
 15 Quản trị mạng
 # 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
-\ Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) mà không có
-lý do chính đáng sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm
-danh.
-\ Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời
-câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét
-cộng điểm môn học.
-# 10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
-10.1. Phương pháp hình thức kiểm tra đánh giá: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN Hình Phương Mục CLO được Trọng thức pháp đích đánh giá số (Chuyên (Viết vấn cần giữa đáp thực kỳ kết hành bài thúc học tập lớn phần ...) ...) Giữa kỳ Thực hành Đánh giá CLO1 CLO2 40% kiến thức CLO3 CLO4 kỹ năng CLO5 CLO6 sinh viên đạt được sau nửa học kỳ Kết thúc Thực hành Đánh giá CLO1 CLO2 60% học phần kiến thức CLO3 CLO4 kỹ năng CLO5 CLO6 sinh viên đạt được khi kết thúc môn học Tổng: 100% CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN 10.2. Tiêu chí đánh giá: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN Mức chất lượng Thang điểm Mô tả mức chất lượngYêu cầu Xuất sắc 910 Hoàn thành tốt các yêu cầu đề ra thể hiện khả năng vận dụng thành thạo các kiến thức đã học
-Khá giỏi 78 Hoàn thành khoảng 7080% các yêu cầu đề ra thể hiện khả năng vận dụng cơ bản các kiến thức đã học
-Đạt 56 Hoàn thành khoảng 5060% các yêu cầu đề ra mới dừng lại ở mức mô tả lại kiến thức đã học
-Chưa đạt 04 Hoàn thành dưới 50% yêu cầu đề ra trên 50% yêu cầu quan trọng chưa đạt
-10.3. Lịch thi và kiểm tra: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN Hình thức kiểm tra Thời gian Dự thời gian tiến hành Giữa kỳ Tuần 8
-Kết thúc học phần Theo lịch của trường
-Hà Nội ngày tháng năm 2023 Duyệt Chủ nhiệm Khoa Chủ nhiệm Bộ môn CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
-PHỤ LỤC
+\ Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) mà không có lý do chính đáng sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh.
+\ Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét cộng điểm môn học.

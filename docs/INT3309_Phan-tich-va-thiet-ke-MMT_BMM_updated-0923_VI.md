@@ -52,25 +52,3 @@ Bài tậpThực hành 2 115 Giảng đường hoặc Online
 8.2 Lịch trình dạy cụ thể Tuần Nội dung Nội dung Hình thức giảng dạy lý sinh viên tự giảng dạy thuyếtbài học tậpthực hành 1 Giới thiệu Lý thuyết và chung bài tập: chọn 1 trong 2 hình thức sau: \ Trực tiếp: 100% giảng dạy trên giảng đường \ Hỗn hợp: Không quá 45 tuần giảng dạy Online trên công cụ MS Team hoặc Zoom các tuần còn lại giảng dạy trực tiếp trên giảng đường 2 Nhắc lại kiến thức về mô hình OSI 3 Nhắc lại kiến thức về mô hình TCPIP 4 Tìm hiểu cách sử dụng công cụ cho phép thiết kế topo mạng: Packet Tracer 5 Tìm hiểu cách sử dụng một số công cụ hỗ trợ ghép nối mạng như: kìm bấm mạng máy đo tín hiệu 6 Các chuẩn công nghệ mạng 7 Các thiết bị ghép nối mạng 8 Ghép nối các máy tính và chia sẻ tài nguyên qua dây dẫn tự bấm và switch 9 Hai giao thức định tuyến thông dụng trong mạng IP như: OSPF RIP 10 Tìm hiểu và thu thập báo giá các thiết bị ghép nối mạng 11 Kiểm tra giữa kỳ 12 Thực hành ghép nối các mạng chia VLAN qua switch 13 Thực hành phần mềm giám sát mạng WireShark 14 Quy trình phân tích thiết kế và xây dựng mạng máy tính 15 
 # 9. Tổng kết Chính sách đối với học phần và các yêu cầu khác của giảng viên PHÂN TÍCH VÀ THIẾT KẾ MẠNG MÁY TÍNH 
 Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) mà không có lý do chính đáng sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web học phần) sẽ được xem xét cộng điểm học phần.
-# 10. Kiểm tra đánh giá PHÂN TÍCH VÀ THIẾT KẾ MẠNG MÁY TÍNH 
-10.1. Mục đích và trọng số kiểm tra đánh giá PHÂN TÍCH VÀ THIẾT KẾ MẠNG MÁY TÍNH Hình thức Phương pháp Mục đích CLO được đánh giá Trọng số Kiểm tra giữa kỳ Thực hành hoặc bài tập lớn Đánh giá kiến thức kỹ năng sinh viên đạt được sau nửa học kỳ 1 2 4 9 40%
-Thi kết thúc học phần Thực hành hoặc Báo cáo bài tập lớn Đánh giá kiến thức kỹ năng sinh viên đạt được khi kết thúc học phần 3 5 6 7 8 9 60%
-Tổng 100%
-10.2. Tiêu chí đánh giá PHÂN TÍCH VÀ THIẾT KẾ MẠNG MÁY TÍNH \ Tiêu chí đánh giá cụ thể với từng đầu điểm của học phần:
-\ Kiểm tra giữa kỳ: nắm được kiến thức đã học trong tuần 1 đến tuần 10;
-khả năng vận dụng kiến thức về mạng để lên được danh sách thiết bị phần
-mềm phù hợp yêu cầu.
-\ Kết thúc môn: nắm được kiến thức kỹ năng đã học trong cả 15 tuần của
-học kỳ nếu chọn hình thức thi thực hành hoặc trình bày tổng thể về bài
-tập lớn và demo sản phẩm nếu chọn hình thức báo cáo bài tập lớn.
-\ Cụ thể việc đánh giá kiến thức kỹ năng của sinh viên theo các mức
-đáp ứng được chuẩn đầu ra mức khá mức giỏi:
-Tùy vào mức độ hoàn thành các bài kiểm tra trên mà sinh viên sẽ được
-phân loại thành trung bình khá và giỏi. Giỏi: hoàn thành hết các bài tập được giao với mức độ hoàn thiện cao Khá: hoàn thành được các bài tập cơ bản chưa làm được các bài tập nâng cao hoặc làm chưa hoàn thiện Trung bình: còn một số nội dung chưa làm được.
-\ Tiêu chí đánh giá chung:
-TT Yêu cầu Điểm đạt được Ghi chú 1 Hoàn thành tốt các yêu cầu đề ra thể hiện khả năng vận dụng thành thạo các kiến thức đã học 910
-2 Hoàn thành khoảng 7080% các yêu cầu đề ra thể hiện khả năng vận dụng cơ bản các kiến thức đã học 78
-3 Hoàn thành khoảng 5060% các yêu cầu đề ra mới dừng lại ở mức mô tả lại kiến thức đã học 56
-4 Hoàn thành dưới 50% yêu cầu đề ra trên 50% yêu cầu quan trọng chưa đạt 04
-10.3. Lịch thi và kiểm tra PHÂN TÍCH VÀ THIẾT KẾ MẠNG MÁY TÍNH Hình thức thi và kiểm tra Thời gian Kiểm tra giữa kỳ Tuần 11
-Thi cuối kỳ Theo lịch của Trường Hà Nội ngày tháng năm 2023 Duyệt Chủ nhiệm Khoa Chủ nhiệm Bộ môn 

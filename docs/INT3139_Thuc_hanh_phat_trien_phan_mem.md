@@ -50,11 +50,3 @@ Chương 6. Hoàn thiện báo cáo môn học
 2 15 Tổ chức thành nhóm mỗi nhóm 5 sinh viên thực hiện một dự án và do một thầycô của Khoa CNTT hướng dẫn.
 # 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: THỰC HÀNH PHÁT TRIỂN PHẦN MỀM 
 Sinh viên cần tuân thủ các quy định của Giảng viên hướng dẫn (quy trình báo cáo tiến độ hàng tuần phương pháp làm việc ...) Mỗi sinh viên trong nhóm phải có đóng góp cụ thể và cần có bảng phân công công việc rõ ràng Sinh viên không tuân thủ các yêu cầu trên sẽ bị điểm F.
-# 10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học phần: THỰC HÀNH PHÁT TRIỂN PHẦN MỀM
-10.1. Phương pháp hình thức kiểm tra đánh giá: THỰC HÀNH PHÁT TRIỂN PHẦN MỀM Hình Phương Mục CLO được Trọng thức pháp đích đánh giá số (Chuyên (Viết vấn cần giữa đáp thực kỳ kết hành bài thúc học tập lớn phần ...) ...) Kiểm tra Kiểm tra Đánh giá sự CLO18 40% tiến độ tiến độ sự tham gia hàng tuần tích cực và của mỗi đóng góp sinh viên của từng sinh viên trong nhóm thông qua báo cáo tiến độ của các sinh viên Kiểm tra Sinh viên Đánh giá CLO39 60% sản phẩm và demo nộp kiến thức báo cáo kết báo cáo và kỹ năng thúc dự án giới thiệu sinh viên sản phẩm. đạt được khi kết thúc môn học Tổng: 100% 10.2. Tiêu chí đánh giá: THỰC HÀNH PHÁT TRIỂN PHẦN MỀM Mức chất lượng Thang điểm Mô tả mức chất lượngYêu cầu Xuất sắc 910 Hoàn thành dự án với mức độ hoàn thiện cao (thể hiện qua sản phẩm làm được qua tài liệu v.v.)
-Khá giỏi 78 Toàn thành dự án nhưng mức độ hoàn thiện chưa cao
-Đạt 56 Tham gia đầy đủ môn học (tuân thủ lịch trình giảng dạy và kế hoạch làm việc của nhóm) nhưng kết quả còn hạn chế mới chỉ đạt các yêu cầu cơ bản của dự án.
-Chưa đạt 04 Thiếu sự tham gia môn học (không tuân thủ lịch trình giảng dạy và kế hoạch làm việc của nhóm). Dự án không đạt được những yêu cầu cơ bản.
-10.3. Lịch thi và kiểm tra: THỰC HÀNH PHÁT TRIỂN PHẦN MỀM Hình thức kiểm tra Thời gian Dự thời gian tiến hành Kiểm tra hàng tuần Hàng tuần Kiểm tra hàng tuần
-Kiểm tra sản phẩm và báo cáo kết thúc dự án Do trưởng môn học và Khoa quyết định Kiểm tra sản phẩm và báo cáo kết thúc dự án
-Hà Nội ngày tháng năm 2023 Duyệt Chủ nhiệm Khoa Chủ nhiệm Bộ môn TS. Võ Đình Hiếu THỰC HÀNH PHÁT TRIỂN PHẦN MỀM

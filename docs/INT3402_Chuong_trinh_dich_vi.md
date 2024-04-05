@@ -87,30 +87,6 @@ Principles Techniques and Tools. Prentice Hall Publisher. 2007.
 \[3\] Keith Cooper Linda Torczon. Engineering a Compiler. Morgan
 Kaufmann Publisher. 2011.
 # 8. Hình thức tổ chức dạy học: CHƯƠNG TRÌNH DỊCH
-8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): CHƯƠNG TRÌNH DỊCH Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 3 115 Giảng đường Thực hành (Vd.Phòng máy Phòng thí nghiệm) Tự học bắt buộc 8.2. Lịch trình dạy cụ thể: CHƯƠNG TRÌNH DỊCH Tuần Nội dung giảng dạy lý Nội dung sinh viên tự thuyếtthực hành học 1 Giới thiệu về chương Lịch sử phát triển của trình dịch chương trình dịch. 2 Nhắc lại kiến thức về ngôn ngữ hình thức 3 Phân tích từ vựng Kiến trúc một hệ sinh bộ phân tích từ vựng (ví dụ JFlex) 4 Giới thiệu bài tập lớn số Tìm hiểu cách sử dụng 1. JFlex; Viết biểu thức chính qui mô tả từ tố. Bài toán phân tích cú pháp và các phương pháp phân tích cơ bản 5 Phân tích LL 6 Phân tích LL (tiếp) Cách chuyển đổi văn phạm từ dạng EBNF sang BNF. 7 Phân tích LR 8 Phân tích LR (tiếp) Kiến trúc một hệ sinh bộ phân tích cú pháp theo phương pháp LR (ví dụ CUP). 9 Giới thiệu bài tập lớn 2 Tìm hiểu cách sử dụng CUP một công cụ giúp Biên dịch dựa cú pháp sinh bộ phân tích cú pháp tự động 10 Phân tích ngữ nghĩa tĩnh Cách tạo và quản lý bảng ký hiệu. 11 Sinh mã trung gian Một số kỹ thuật tối ưu mã. 12 Sinh mã đích Tập lệnh của một số bộ vi xử lý thực. 13 Tìm hiểu máy ảo Java Một số vấn đề liên quan đến máy ảo Java. 14 Cách viết cú pháp điều Thực hành viết cú pháp khiển sinh mã máy áo điều khiển cho một số Java. thành phần của chương trình. 15 Tổng kết 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: CHƯƠNG TRÌNH DỊCH Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét cộng điểm môn học. Với các nội dung liên quan đến lập trình (ví dụ bài tập lớn) nếu sinh viên gian lận mã nguồn thì sẽ bị điểm môn học là 0.
-# 10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học phần: CHƯƠNG TRÌNH DỊCH
-10.1. Phương pháp hình thức kiểm tra đánh giá: CHƯƠNG TRÌNH DỊCH Hình Phương Mục CLO được Trọng thức pháp đích đánh giá số (Chuyên (Viết vấn cần giữa đáp thực kỳ kết hành bài thúc học tập lớn phần ...) ...) Bài tập lớn Dự án nhỏ Đánh giá kỹ 15% làm việc năng lập theo nhóm trình xây dựng hệ thống dịch vận dụng kiến thức đã học Kiểm tra Thi viết Đánh giá 25% giữa kỳ kiến thức kỹ năng sinh viên đạt được sau nửa học kỳ Thi kết Thi viết Đánh giá 60% thúc môn kiến thức học kỹ năng sinh viên đạt được khi kết thúc môn học Tổng: 100% CHƯƠNG TRÌNH DỊCH 10.2. Tiêu chí đánh giá: CHƯƠNG TRÌNH DỊCH \ Tiêu chí đánh giá cụ thể với từng đầu điểm của môn học:
-\ Bài tập lớn: đọc hiểu được tài liệu hệ thống CUP; viết được luật phân
-tích từ tốcú phápngữ nghĩasinh mã (trong luật có thể bao gồm mã nguồn
-Java) để dịch ngôn ngữ VC sang ngôn ngữ của JVM; biên dịch thành hệ
-thống chạy được; tùy biến hệ thống theo các yêu cầu của giảng viên.
-\ Kiểm tra giữa kỳ: nắm được kiến thức đã học trong tuần 1 đến tuần 7;
-khả năng vận dụng kiến thức về ngôn ngữ hình thức thuật toán trong xây
-dựng môđun phân tích từ vựng phân tích cú pháp của chương trình dịch.
-\ Kết thúc môn: nắm được kiến thức kỹ năng đã học trong cả 15 tuần của
-học kỳ.
-\ Cụ thể việc đánh giá kiến thức kỹ năng của sinh viên theo các mức
-đáp ứng được chuẩn đầu ra mức khá mức giỏi:
-Tùy vào mức độ hoàn thành các bài kiểm tra trên mà sinh viên sẽ được
-phân loại thành trung bình khá và giỏi. Giỏi: hoàn thành hết các bài tập được giao với mức độ hoàn thiện cao Khá: hoàn thành được các bài tập cơ bản chưa làm được các bài tập nâng cao hoặc làm chưa hoàn thiện Trung bình: còn một số nội dung chưa làm được.
-Tiêu chí đánh giá chung:
-Mức chất lượng Thang điểm Mô tả mức chất lượngYêu cầu Xuất sắc 910 Hoàn thành tốt các yêu cầu đề ra thể hiện khả năng vận dụng thành thạo các kiến thức đã học
-Khá giỏi 78 Hoàn thành khoảng 7080% các yêu cầu đề ra thể hiện khả năng vận dụng cơ bản các kiến thức đã học
-Đạt 56 Hoàn thành khoảng 5060% các yêu cầu đề ra mới dừng lại ở mức mô tả lại kiến thức đã học
-Chưa đạt 04 Hoàn thành dưới 50% yêu cầu đề ra trên 50% yêu cầu quan trọng chưa đạt
-10.3. Lịch thi và kiểm tra: CHƯƠNG TRÌNH DỊCH Hình thức kiểm tra Thời gian Dự kiến thời gian tiến hành Bài tập lớn 1 Tuần 5
-Kiểm tra giữa kỳ Tuần 8
-Bài tập lớn 2 Tuần 9
-Thi cuối kỳ Theo lịch của Trường
-Hà Nội ngày tháng năm 2023 Duyệt Chủ nhiệm Khoa Chủ nhiệm Bộ môn CHƯƠNG TRÌNH DỊCH
-PHỤ LỤC
+8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): CHƯƠNG TRÌNH DỊCH Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 3 115 Giảng đường Thực hành (Vd.Phòng máy Phòng thí nghiệm) Tự học bắt buộc 8.2. Lịch trình dạy cụ thể: CHƯƠNG TRÌNH DỊCH Tuần Nội dung giảng dạy lý Nội dung sinh viên tự thuyếtthực hành học 1 Giới thiệu về chương Lịch sử phát triển của trình dịch chương trình dịch. 2 Nhắc lại kiến thức về ngôn ngữ hình thức 3 Phân tích từ vựng Kiến trúc một hệ sinh bộ phân tích từ vựng (ví dụ JFlex) 4 Giới thiệu bài tập lớn số Tìm hiểu cách sử dụng 1. JFlex; Viết biểu thức chính qui mô tả từ tố. Bài toán phân tích cú pháp và các phương pháp phân tích cơ bản 5 Phân tích LL 6 Phân tích LL (tiếp) Cách chuyển đổi văn phạm từ dạng EBNF sang BNF. 7 Phân tích LR 8 Phân tích LR (tiếp) Kiến trúc một hệ sinh bộ phân tích cú pháp theo phương pháp LR (ví dụ CUP). 9 Giới thiệu bài tập lớn 2 Tìm hiểu cách sử dụng CUP một công cụ giúp Biên dịch dựa cú pháp sinh bộ phân tích cú pháp tự động 10 Phân tích ngữ nghĩa tĩnh Cách tạo và quản lý bảng ký hiệu. 11 Sinh mã trung gian Một số kỹ thuật tối ưu mã. 12 Sinh mã đích Tập lệnh của một số bộ vi xử lý thực. 13 Tìm hiểu máy ảo Java Một số vấn đề liên quan đến máy ảo Java. 14 Cách viết cú pháp điều Thực hành viết cú pháp khiển sinh mã máy áo điều khiển cho một số Java. thành phần của chương trình. 15 Tổng kết 
+# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: CHƯƠNG TRÌNH DỊCH 
+Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét cộng điểm môn học. Với các nội dung liên quan đến lập trình (ví dụ bài tập lớn) nếu sinh viên gian lận mã nguồn thì sẽ bị điểm môn học là 0.

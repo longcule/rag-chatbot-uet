@@ -113,7 +113,6 @@ Algorithms. Cambridge University Press. 2005.
 15 Ôn tập chuẩn bị cho thi học kỳ
 # 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: LÝ THUYẾT THÔNG TIN 
 Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét cộng điểm môn học.
-# 10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học phần: LÝ THUYẾT THÔNG TIN
 10.1. Phương pháp hình thức kiểm tra đánh giá: LÝ THUYẾT THÔNG TIN Hình Phương Mục CLO được Trọng thức pháp đích đánh giá số (Chuyên (Viết vấn cần giữa đáp thực kỳ kết hành bài thúc học tập lớn phần ...) ...) Chuyên cần Điểm danh Đánh giá 10% thảo luận sinh viên làm bài tập về mức độ trên lớp chuyên cần tích cực trong giờ học ở trên lớp Kiểm tra Thi viết Đánh giá 30% giữa kỳ kiến thức kỹ năng sinh viên đạt được sau nửa học kỳ Thi kết Thi viết Đánh giá 60% thúc môn kiến thức học kỹ năng sinh viên đạt được khi kết thúc môn học Tổng: 100% LÝ THUYẾT THÔNG TIN 10.2. Tiêu chí đánh giá: LÝ THUYẾT THÔNG TIN \ Tiêu chí đánh giá cụ thể với từng đầu điểm của môn học: \ Tiểu luận: hiểu và trình bày lại được nội dung tài liệu được giao; báo cáo được trình bày rõ ràng logic. \ Kiểm tra giữa kỳ: nắm được kiến thức đã học trong tuần 1 đến tuần 7. \ Kết thúc môn: nắm được kiến thức kỹ năng đã học trong cả 15 tuần của học kỳ.
 \ Cụ thể việc đánh giá kiến thức kỹ năng của sinh viên theo các mức
 đáp ứng được chuẩn đầu ra mức khá mức giỏi:

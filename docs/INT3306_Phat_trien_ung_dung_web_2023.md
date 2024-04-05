@@ -72,12 +72,3 @@ Công bố bài tập lớn
 15 [Kiểm thử ứng dụng web](https:itest.com.vnlectswebappdevtesting) [Lab. Kiểm tra hợp thức](https:itest.com.vnlectswebappdevvalidationindex.htm) 
 # 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: PHÁT TRIỂN ỨNG DỤNG WEB 
 Sinh viên nghỉ quá 20% tổng số buổi học lý thuyết và thực hành sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét cộng điểm thành phần. Với các nội dung liên quan đến lập trình (ví dụ bài tập lớn) nếu sinh viên gian lận mã nguồn thì sẽ bị điểm môn học là 0.
-# 10. Phương pháp hình thức kiểm tra đánh giá kết quả học tập học phần: PHÁT TRIỂN ỨNG DỤNG WEB
-10.1. Phương pháp hình thức kiểm tra đánh giá: PHÁT TRIỂN ỨNG DỤNG WEB Hình Phương Mục CLO được Trọng thức pháp đích đánh giá số (Chuyên (Viết vấn cần giữa đáp thực kỳ kết hành bài thúc học tập lớn phần ...) ...) Thường Thực hành Vận dụng CLO1CLO8 10% xuyên các lab kiến thức và kỹ năng được học hàng tuần Kiểm tra Trắc nghiệm Hiểu và vận CLO1CLO5 30% giữa kỳ trên máy dụng các tính kiến thức được học sẵn sàng để làm dự án Kết thúc Dự án giả Áp dụng tất CLO1CLO8 60% học phần làm việc cả các kiến theo nhóm thức và kỹ năng được học để phát triển một ứng dụng web theo yêu cầu của một bài toán thực tế Tổng: 100% PHÁT TRIỂN ỨNG DỤNG WEB 10.2. Tiêu chí đánh giá: PHÁT TRIỂN ỨNG DỤNG WEB Mức chất lượng Thang điểm Mô tả mức chất lượngYêu cầu Xuất sắc 910 Hoàn thành tốt các yêu cầu đề ra thể hiện khả năng vận dụng thành thạo các kiến thức đã học
-Khá giỏi 78 Hoàn thành khoảng 7080% các yêu cầu đề ra thể hiện khả năng vận dụng cơ bản các kiến thức đã học
-Đạt 56 Hoàn thành khoảng 5060% các yêu cầu đề ra mới dừng lại ở mức mô tả lại kiến thức đã học
-Chưa đạt 04 Hoàn thành dưới 50% yêu cầu đề ra trên 50% yêu cầu quan trọng chưa đạt
-10.3. Lịch thi và kiểm tra: PHÁT TRIỂN ỨNG DỤNG WEB Hình thức kiểm tra Thời gian Dự thời gian tiến hành Thực hành lab 100 phúttuần Tuần 291115
-Kiểm tra giữa kỳ: Trắc nghiệm trên máy tính 75 phút Tuần 10
-Kết thúc học phần: Làm dự án 8 tuần Báo cáo kết quả theo lịch thi của Trường
-Hà Nội ngày tháng năm 2023 Duyệt Chủ nhiệm Khoa Chủ nhiệm Bộ môn PHÁT TRIỂN ỨNG DỤNG WEB
