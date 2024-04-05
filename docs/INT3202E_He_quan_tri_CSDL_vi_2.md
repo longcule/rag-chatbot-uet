@@ -1,5 +1,3 @@
-# 4. Chuẩn đầu ra HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU
-*Chuẩn đầu ra học phần:* Mã\ Nội dung chuẩn đầu ra\ CĐR (*Bắt đầu bằng động từ theo thang Bloom*) Kiến thức CLO 1 Hiểu được những khái niệm cơ bản về HQTCSDL; mô hình dữ liệu mới theo cách tiếp cận NewSQL NoSQL; vai trò của HQTCSDL trong các hệ thống thông tin của tổ chức. CLO 2 Ứng dụng được những phương pháp công nghệ và kỹ thuật mô hình hoá dữ liệu quan hệ và phi quan hệ trong quản trị CSDL của các hệ thống thông tin. CLO 3 Đánh giá được hiệu năng HQTCSDL với những lược đồ đã thiết kế đề xuất được phương án tối ưu và cải tiến hiệu năng quản trị CSDL. Kỹ năng CLO 4 Khai thác sử dụng được các tính năng nâng cao của HTQ CSDL chẳng hạn như nhân bản dữ liệu phân mảnh ... CLO 5 Thiết kế tối ưu xử lý truy vấn trong các hệ thống thông tin có nghiệp vụ phức tạp
 # 5. Tóm tắt nội dung học phần: HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU
 học phần trước tiên đề cập tới vai trò của hệ quản trị CSDL trong việc
 quản lý dữ liệu. Nội dung tiếp theo sẽ đi sâu vào hệ quản trị CSDL cho

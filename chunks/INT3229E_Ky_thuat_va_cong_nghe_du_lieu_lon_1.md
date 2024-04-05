@@ -1,6 +1,6 @@
 HỌC PHẦN: KỸ THUẬT VÀ CÔNG NGHỆ DỮ LIỆU LỚN
 # 1. Thông tin về các giảng viên học phần KỸ THUẬT VÀ CÔNG NGHỆ DỮ LIỆU LỚN
-*S* *Họ và *Chức *Địa chỉ *Điện *Ghi tên* danh\ liên hệ* thoạ chú* *TT* học vị* iEmail*
+S Họ và Chức Địa chỉ Điện Ghi tên danh\ liên hệ thoạ chú TT học vị iEmail
 1 Nguyễn PGS. TS BM HTTT [[ho Giảng Ngọc Hoá a.nguyen viên \@vnu.ed u.vn]{.u nderline }](mailt o:hoa.ng uyen@vnu .edu.vn)
 2 Hà Quang PGS. TS BM HTTT [[th Giảng Thuỵ uyhq\@vn viên u.edu.vn ]{.under line}](m ailto:th uyhq@vnu .edu.vn)
 3 Vũ Bá ThS.GVC BM HTTT [[ Giảng Duy duyvb\@v viên nu.edu.v n]{.unde rline}]( mailto:d uyvb@vnu .edu.vn)

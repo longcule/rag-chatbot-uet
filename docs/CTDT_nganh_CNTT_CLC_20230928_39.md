@@ -1,6 +1,6 @@
 # 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
 ## Mã học phần: INT3231
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Công nghệ Blockchain (***) Blockchain and Distributed - Ledger Technologies, Số tín chỉ: 4, Danh mục tài liệu tham khảo học phần Công nghệ Blockchain (***) Blockchain and Distributed - Ledger Technologies là:
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Công nghệ Blockchain Blockchain and Distributed - Ledger Technologies, Số tín chỉ: 4, Danh mục tài liệu tham khảo học phần Công nghệ Blockchain Blockchain and Distributed - Ledger Technologies là:
 1. Tài liệu bắt buộc:
 - Imran Bashir, Mastering Blockchain, 4nd Edition, Packt Publishing (Mar 2023)
 2. Tài liệu tham khảo:

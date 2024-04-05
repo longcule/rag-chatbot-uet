@@ -27,9 +27,9 @@ INT3422,Tin học y tế,3
 INT3323,Phát triển ứng dụng Internet of Things,3
 INT3405,Học máy,3
 INT3402,Chương trình dịch,3
-INT3411,Xử lý tiếng nói (***),3
-INT3424,Tác tử thông minh và Rô-bốt (***),3
-INT3227,Tích hợp dịch vụ (***),4
+INT3411,Xử lý tiếng nói,3
+INT3424,Tác tử thông minh và Rô-bốt,3
+INT3227,Tích hợp dịch vụ,4
 Tổng: 22 môn học
 ## Các môn học sẽ học trong học kỳ 1 chương trình đào tạo CNTT chất lượng cao(clc)
 STT,Mã học phần,Học phần,Số tín chỉ

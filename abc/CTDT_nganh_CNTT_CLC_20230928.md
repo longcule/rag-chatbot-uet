@@ -117,8 +117,8 @@ Mã số học phần: INT3507, Tên học phần(Ghi bằng tiếng Việt và 
 Mã số học phần: INT3508, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thực tập chuyên ngành - Professional Internship, số tín chỉ: 3, Lý thuyết: 15, Thực hành: 30, Tự học: , mã số học phần tiên quyết: INT1009
 ### V.2. Các học phần tự chọn chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: 39/120 ngành CÔNG NGHỆ THÔNG TIN
 #### V.2.1. Các học phần tự chọn chung chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: 3/6 ngành CÔNG NGHỆ THÔNG TIN
-Mã số học phần: INT2044, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Lý thuyết thông tin (***) - Information Theory, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: MAT1101
-Mã số học phần: INT3403, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Đồ họa máy tính (***) - Computer Graphics, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
+Mã số học phần: INT2044, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Lý thuyết thông tin - Information Theory, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: MAT1101
+Mã số học phần: INT3403, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Đồ họa máy tính - Computer Graphics, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
 #### V.2.2. Các học phần tự chọn theo các định hướng chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: 36/123 ngành CÔNG NGHỆ THÔNG TIN
 ##### V.2.2.1. Nhóm các học phần về Công nghệ phần mềm chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: ngành CÔNG NGHỆ THÔNG TIN
 Mã số học phần: INT3117, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiểm thử và đảm bảo chất lượng phần mềm - Software Testing and Quality Assurance, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
@@ -130,7 +130,7 @@ Mã số học phần: INT3111, Tên học phần(Ghi bằng tiếng Việt và 
 Mã số học phần: INT3115, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thiết kế giao diện người dùng - User Interface Design, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
 Mã số học phần: INT3120, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng di động  - Mobile Application Development, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT1008
 Mã số học phần: INT3306, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng Web  - Web Application Development, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2204, INT2211
-Mã số học phần: INT3143, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển các hệ thống thông minh (***) - Intelligent Systems Development, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
+Mã số học phần: INT3143, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển các hệ thống thông minh - Intelligent Systems Development, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
 Mã số học phần: INT3110, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phân tích và thiết kế hướng đối tượng - Object-oriented Analysis and Design, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
 ##### V.2.2.2. Nhóm các học phần về Hệ thống thông tin chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: ngành CÔNG NGHỆ THÔNG TIN
 Mã số học phần: INT3202, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Hệ quản trị cơ sở dữ liệu - Database Management Systems, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
@@ -139,12 +139,12 @@ Mã số học phần: INT3224, Tên học phần(Ghi bằng tiếng Việt và 
 Mã số học phần: INT3229, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kỹ thuật và công nghệ dữ liệu lớn - BigData Techniques and Technologies, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
 Mã số học phần: INT3230, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Mật mã và An toàn thông tin - Cryptography and Information security, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT1050
 Mã số học phần: INT3228, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thiết kế và phân tích thực nghiệm - Design and Analysis of Experiments, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: MAT1101
-Mã số học phần: INT3227, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tích hợp dịch vụ (***) - Service Integration, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT3201
+Mã số học phần: INT3227, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tích hợp dịch vụ - Service Integration, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT3201
 Mã số học phần: INT3505, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiến trúc hướng dịch vụ  - Service Oriented Architecture, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
 Mã số học phần: INT3506, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Các hệ thống thương mại điện tử - E-commerce Systems, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT1009
 Mã số học phần: INT2020, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phân tích thiết kế các HTTT - Information System Analysis and Design, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
 Mã số học phần: INT3501, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Khoa học dịch vụ - Service Sciences, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
-Mã số học phần: INT3231, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Công nghệ Blockchain (***) Blockchain and Distributed - Ledger Technologies, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
+Mã số học phần: INT3231, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Công nghệ Blockchain Blockchain and Distributed - Ledger Technologies, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
 ##### V.2.2.3. Nhóm các học phần về Mạng và truyền thông máy tính chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: ngành CÔNG NGHỆ THÔNG TIN
 Mã số học phần: INT3301, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thực hành hệ điều hành mạng - Network Operating System Lab, số tín chỉ: 3, Lý thuyết: 15, Thực hành: 30, Tự học: , mã số học phần tiên quyết: INT1008
 Mã số học phần: INT3303, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Mạng không dây - Wireless Networks, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2213
@@ -153,7 +153,7 @@ Mã số học phần: INT3305, Tên học phần(Ghi bằng tiếng Việt và 
 Mã số học phần: INT3307, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): An toàn và an ninh mạng - Network Safety and Security, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2213
 Mã số học phần: INT3319, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Điện toán đám mây - Cloud Computing, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT1008
 Mã số học phần: INT3310, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Quản trị mạng - Network Administration, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2213
-Mã số học phần: INT3022, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng Internet of Things (***) - IoT Application Development, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2204 - INT2213
+Mã số học phần: INT3022, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng Internet of Things - IoT Application Development, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2204 - INT2213
 ##### V.2.2.4. Nhóm các học phần về Khoa học máy tính chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: ngành CÔNG NGHỆ THÔNG TIN
 Mã số học phần: INT3402, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Chương trình dịch (*) - Compilers, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
 Mã số học phần: INT3405, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Học máy - Machine Learning, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: MAT1101
@@ -161,8 +161,8 @@ Mã số học phần: INT3404, Tên học phần(Ghi bằng tiếng Việt và 
 Mã số học phần: INT3406, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Xử lý ngôn ngữ tự nhiên (*) - Natural Language Processing, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
 Mã số học phần: INT3423, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tin sinh học ứng dụng - Bioinformatics and Its Applications, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2215
 Mã số học phần: INT3422, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tin học y tế - Health Informatics, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2215
-Mã số học phần: INT3411, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Xử lý tiếng nói (***) - Speech Processing, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
-Mã số học phần: INT3424, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tác tử thông minh và Rô-bốt (***) - Intelligence Agents and Robotics, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
+Mã số học phần: INT3411, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Xử lý tiếng nói - Speech Processing, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
+Mã số học phần: INT3424, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tác tử thông minh và Rô-bốt - Intelligence Agents and Robotics, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
 ### V.3. Các học phần bổ trợ chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: 5 ngành CÔNG NGHỆ THÔNG TIN
 Mã số học phần: UET1002, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kỹ năng khởi nghiệp - Entrepreneurship, số tín chỉ: 2, Lý thuyết: 30, Thực hành: , Tự học: , mã số học phần tiên quyết:
 Mã số học phần: INT3418, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thuật toán nâng cao và ứng dụng - Advanced Algorithms and Applications, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
@@ -356,14 +356,14 @@ Tài liệu tham khảo do giảng viên giảng dạy cung cấp.
 Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thực tập chuyên ngành - Professional Internship, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Thực tập chuyên ngành - Professional Internship là:
 Tài liệu tham khảo do giảng viên cung cấp
 ## Mã học phần: INT2044
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Lý thuyết thông tin (***) - Information Theory, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Lý thuyết thông tin (***) - Information Theory là:
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Lý thuyết thông tin - Information Theory, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Lý thuyết thông tin - Information Theory là:
 1. Tài liệu bắt buộc
 - Nguyen Phuong Thai. Lecture on information theory, University of Technology, Hanoi National University.
 - Thomas M. Cover, Joy A. Thomas. Elements of Information Theory, second edition. A John Wiley & sons, Inc. 2006.
 2. Tài liệu tham khảo thêm
 - [3] David J.C MacKay. Information Theory, Learning, and Inference Algorithms. Cambridge University Press. 2005.
 ## Mã học phần: INT3403
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Đồ họa máy tính (***) - Computer Graphics, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Đồ họa máy tính (***) - Computer Graphics là:
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Đồ họa máy tính - Computer Graphics, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Đồ họa máy tính - Computer Graphics là:
 1. Tài liệu bắt buộc
 - Đề cương giảng dạy của giảng viên- Bùi Thế Duy, Ma Thị Châu (cập nhật hàng năm)
 - Hill, Francis S., Computer Graphics Using OpenGL, Prentice-Hall, 2001 (2nd ed.) /2017 (5rd ed).
@@ -444,7 +444,7 @@ Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứn
 - Kyle Loudon, “Developing Large Web Applications: Producing Code That Can Grow and Thrive”, O'Reilly Media, 2010.
 - MDN, “Learn web development”, online at https://developer.mozilla.org/en-US/docs/Learn.
 ## Mã học phần: INT3143
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển các hệ thống thông minh (***), Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Phát triển các hệ thống thông minh (***) là:
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển các hệ thống thông minh, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Phát triển các hệ thống thông minh là:
 1. Tài liệu bắt buộc
 Hulten, Geoff. Building intelligent systems: a guide to machine learning engineering. Apress, 2018.
 2. Tài liệu tham khảo
@@ -520,7 +520,7 @@ Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thiết kế và p
 2. Tài liệu tham khảo:
 - G. W. Oehlert, A first course in design and analysis of experiments, W. H. Freeman, 2010.
 ## Mã học phần: INT3227
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tích hợp dịch vụ (***) - Service Integration, Số tín chỉ: 4, Danh mục tài liệu tham khảo học phần Tích hợp dịch vụ (***) - Service Integration là:
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tích hợp dịch vụ - Service Integration, Số tín chỉ: 4, Danh mục tài liệu tham khảo học phần Tích hợp dịch vụ - Service Integration là:
 1. Tài liệu bắt buộc
 - Diogo R. Ferreira Enterprise Systems Integration: A Process Oriented Approach, Springer; 2013 edition (December 4, 2013)
 - Sam Newman, Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith, O'Reilly Media; 1st edition (December 10, 2019)
@@ -565,7 +565,7 @@ Jorge Cardoso, Ricardo Lopes, Geert Poels. Service Systems: Concepts, Modeling, 
 Paul P. Maglio, Cheryl A. Kieliszewski, James C. Spohrer, Kelly Lyons, Lia Patrício, Yuriko Sawatani. Handbook of Service Science (Volume II). Springer, 2019.
 Các bài báo, sách cập nhật về khoa học dịch vụ là tài liệu tiểu luận.
 ## Mã học phần: INT3231
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Công nghệ Blockchain (***) Blockchain and Distributed - Ledger Technologies, Số tín chỉ: 4, Danh mục tài liệu tham khảo học phần Công nghệ Blockchain (***) Blockchain and Distributed - Ledger Technologies là:
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Công nghệ Blockchain Blockchain and Distributed - Ledger Technologies, Số tín chỉ: 4, Danh mục tài liệu tham khảo học phần Công nghệ Blockchain Blockchain and Distributed - Ledger Technologies là:
 1. Tài liệu bắt buộc:
 - Imran Bashir, Mastering Blockchain, 4nd Edition, Packt Publishing (Mar 2023)
 2. Tài liệu tham khảo:
@@ -623,7 +623,7 @@ Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Quản trị mạn
 2. Tài liệu tham khảo thêm
 - Thomas A. Limoncelli, Christina J. Hogan and Strata R. Chalup, “The Practice of System and Network Administration”, Addison-Wesley (2016).
 ## Mã học phần: INT3022
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng Internet of Things (***) - IoT application development, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Phát triển ứng dụng Internet of Things (***) - IoT application development là:
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng Internet of Things - IoT application development, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Phát triển ứng dụng Internet of Things - IoT application development là:
 1. Tài liệu bắt buộc
 - Bài giảng của giáo viên
 - Marco Schwartz,Internet of Things with Arduino Cookbook, Packt Publishing, 2016
@@ -631,7 +631,7 @@ Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứn
 - Halfacree, Gareth, and Eben Upton. Raspberry Pi user guide. John Wiley & Sons, 2012.
 - Maciej Kranz, Building the Internet of Things: Implement New Business Models, Disrupt Competitors, Transform Your Industry, Wiley, 2016
 ## Mã học phần: INT3402
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Chương trình dịch (***), Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Chương trình dịch (***) là:
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Chương trình dịch, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Chương trình dịch là:
 1. Tài liệu bắt buộc
 - Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman. Compilers: Principles, Techniques, and Tools. Prentice Hall Publisher. 2007.
 - Phạm Hồng Nguyên. Giáo trình chương trình dịch. NXB ĐHQG Hà Nội. 2009.
@@ -671,14 +671,14 @@ Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tin học y tế -
 2. Tài liệu tham khảo thêm
 - Hoyt, R.E., Hersh, W.R., (2018). Health Informatics: Practical Guide, Seventh Edition, Lulu.com.
 ## Mã học phần: INT3411
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Xử lý tiếng nói (***) - Speech Processing, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Xử lý tiếng nói (***) - Speech Processing là:
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Xử lý tiếng nói - Speech Processing, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Xử lý tiếng nói - Speech Processing là:
 1. Tài liệu bắt buộc
 - Daniel Jurafsky and James H. Martin. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. Prentice Hall 2nd Edition 2008.
 2. Tài liệu tham khảo
 - L. R. Rabiner and R. W. Schafer: Digital Processing of Speech Signals, Pearson Education Asia, 2004.
 - Uday Kamath, John Liu and James Whitaker: Deep Learning for NLP and Speech Recognition. Springer 1st edition 2019.
 ## Mã học phần: INT3424
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tác tử thông minh và Rô-bốt (***) - Intelligence Agents and Robotics, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Tác tử thông minh và Rô-bốt (***) - Intelligence Agents and Robotics là:
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tác tử thông minh và Rô-bốt - Intelligence Agents and Robotics, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Tác tử thông minh và Rô-bốt - Intelligence Agents and Robotics là:
 ## Mã học phần: INT4054
 Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Khóa luận tốt nghiệp (**) - Graduation Thesis, Số tín chỉ: 10, Danh mục tài liệu tham khảo học phần Khóa luận tốt nghiệp (**) - Graduation Thesis là:
 Tài liệu do giảng viên cung cấp
@@ -805,10 +805,10 @@ Tên giảng viên: Nguyễn Văn Vinh, chức danh: TS, chuyên ngành: Khoa h�
 Tên giảng viên: Các giảng viên Khoa CNTT, Trường ĐHCN, chức danh: , chuyên ngành: , đơn vị:
 ## Các giảng viên học phần: Thực tập chuyên ngành - Professional Internship ngành CÔNG NGHỆ THÔNG TIN
 Tên giảng viên: Các giảng viên Khoa CNTT, Trường ĐHCN, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Lý thuyết thông tin (***) - Information Theory ngành CÔNG NGHỆ THÔNG TIN
+## Các giảng viên học phần: Lý thuyết thông tin - Information Theory ngành CÔNG NGHỆ THÔNG TIN
 Tên giảng viên: Nguyễn Phương Thái, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
 Tên giảng viên: Lê Nguyên Khôi, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Đồ họa máy tính (***) - Computer Graphics ngành CÔNG NGHỆ THÔNG TIN
+## Các giảng viên học phần: Đồ họa máy tính - Computer Graphics ngành CÔNG NGHỆ THÔNG TIN
 Tên giảng viên: Lê Thanh Hà, chức danh: PGS. TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
 Tên giảng viên: Ma Thị Châu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
 ## Các giảng viên học phần: Kiểm thử và đảm bảo chất lượng phần mềm - Software Testing and Quality Assurance ngành CÔNG NGHỆ THÔNG TIN
@@ -845,7 +845,7 @@ Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công
 Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
 Tên giảng viên: Nguyễn Việt Anh, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
 Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Phát triển các hệ thống thông minh (***) ngành CÔNG NGHỆ THÔNG TIN
+## Các giảng viên học phần: Phát triển các hệ thống thông minh ngành CÔNG NGHỆ THÔNG TIN
 Tên giảng viên: Nguyễn Văn Sơn, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
 Tên giảng viên: Võ Đình Hiếu, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
 Tên giảng viên: Phạm Ngọc Hùng, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
@@ -882,7 +882,7 @@ Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS, chuyên ngành: Truy
 ## Các giảng viên học phần: Thiết kế và phân tích thực nghiệm - Design and Analysis of Experiments ngành CÔNG NGHỆ THÔNG TIN
 Tên giảng viên: Nguyễn Hải Châu, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
 Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Tích hợp dịch vụ (***) - Service Integration ngành CÔNG NGHỆ THÔNG TIN
+## Các giảng viên học phần: Tích hợp dịch vụ - Service Integration ngành CÔNG NGHỆ THÔNG TIN
 Tên giảng viên: Nguyễn Hải Châu, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
 Tên giảng viên: Nguyễn Ngọc Hóa, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
 ## Các giảng viên học phần: Kiến trúc hướng dịch vụ - Service Oriented Architecture ngành CÔNG NGHỆ THÔNG TIN
@@ -906,7 +906,7 @@ Tên giảng viên: Nguyễn Ngọc Hoá, chức danh: PGS. TS, chuyên ngành: 
 Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
 Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
 Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Công nghệ Blockchain (***) Blockchain and Distributed - Ledger Technologies ngành CÔNG NGHỆ THÔNG TIN
+## Các giảng viên học phần: Công nghệ Blockchain Blockchain and Distributed - Ledger Technologies ngành CÔNG NGHỆ THÔNG TIN
 Tên giảng viên: Nguyễn Ngọc Hóa, chức danh: PGS TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
 Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Khoa CNTT
 Tên giảng viên: Lê Hồng Hải, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
@@ -955,9 +955,9 @@ Tên giảng viên: Đặng Thanh Hải, chức danh: TS, chuyên ngành: Công 
 ## Các giảng viên học phần: Tin học y tế - Health Informatics ngành CÔNG NGHỆ THÔNG TIN
 Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
 Tên giảng viên: Trần Quốc Dũng, chức danh: ThS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Xử lý tiếng nói (***) - Speech Processing ngành CÔNG NGHỆ THÔNG TIN
+## Các giảng viên học phần: Xử lý tiếng nói - Speech Processing ngành CÔNG NGHỆ THÔNG TIN
 Tên giảng viên: Trần Quốc Long, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Tác tử thông minh và Rô-bốt (***) - Intelligence Agents and Robotics ngành CÔNG NGHỆ THÔNG TIN
+## Các giảng viên học phần: Tác tử thông minh và Rô-bốt - Intelligence Agents and Robotics ngành CÔNG NGHỆ THÔNG TIN
 Tên giảng viên: , chức danh: , chuyên ngành: , đơn vị: Trường ĐHCN
 ## Các giảng viên học phần: Thuật toán nâng cao và Ứng dụng - Advanced Algorithms and Applications ngành CÔNG NGHỆ THÔNG TIN
 Tên giảng viên: Các giảng viên Khoa CNTT và giảng viên mời, chức danh: , chuyên ngành: , đơn vị:
@@ -1056,8 +1056,8 @@ INT3406,Xử lý ngôn ngữ tự nhiên,3
 INT3423,Tin sinh học ứng dụng,3
 INT3224,Trí tuệ kinh doanh,4
 INT3229,Kỹ thuật và công nghệ dữ liệu lớn,4
-INT3143,Phát triển các hệ thống thông minh (***),3
-INT3231,Công nghệ Blockchain (***),4
+INT3143,Phát triển các hệ thống thông minh,3
+INT3231,Công nghệ Blockchain,4
 Tổng: 21 môn học
 ## Các môn học sẽ học trong học kỳ 1 chương trình đào tạo CNTT chất lượng cao(clc)
 STT,Mã học phần,Học phần,Số tín chỉ
@@ -1087,9 +1087,9 @@ INT3422,Tin học y tế,3
 INT3323,Phát triển ứng dụng Internet of Things,3
 INT3405,Học máy,3
 INT3402,Chương trình dịch,3
-INT3411,Xử lý tiếng nói (***),3
-INT3424,Tác tử thông minh và Rô-bốt (***),3
-INT3227,Tích hợp dịch vụ (***),4
+INT3411,Xử lý tiếng nói,3
+INT3424,Tác tử thông minh và Rô-bốt,3
+INT3227,Tích hợp dịch vụ,4
 Tổng: 22 môn học
 ## Các môn học sẽ học trong học kỳ 1 chương trình đào tạo CNTT chất lượng cao(clc)
 STT,Mã học phần,Học phần,Số tín chỉ

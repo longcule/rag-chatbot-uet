@@ -1,6 +1,6 @@
 # 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
 ## Mã học phần: INT3227
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tích hợp dịch vụ (***) - Service Integration, Số tín chỉ: 4, Danh mục tài liệu tham khảo học phần Tích hợp dịch vụ (***) - Service Integration là:
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tích hợp dịch vụ - Service Integration, Số tín chỉ: 4, Danh mục tài liệu tham khảo học phần Tích hợp dịch vụ - Service Integration là:
 1. Tài liệu bắt buộc
 - Diogo R. Ferreira Enterprise Systems Integration: A Process Oriented Approach, Springer; 2013 edition (December 4, 2013)
 - Sam Newman, Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith, O'Reilly Media; 1st edition (December 10, 2019)

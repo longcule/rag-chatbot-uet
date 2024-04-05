@@ -6,7 +6,7 @@ Tên giảng viên: Nguyễn Ngọc Hoá, chức danh: PGS. TS, chuyên ngành: 
 Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
 Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
 Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Công nghệ Blockchain (***) Blockchain and Distributed - Ledger Technologies ngành CÔNG NGHỆ THÔNG TIN
+## Các giảng viên học phần: Công nghệ Blockchain Blockchain and Distributed - Ledger Technologies ngành CÔNG NGHỆ THÔNG TIN
 Tên giảng viên: Nguyễn Ngọc Hóa, chức danh: PGS TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
 Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Khoa CNTT
 Tên giảng viên: Lê Hồng Hải, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN

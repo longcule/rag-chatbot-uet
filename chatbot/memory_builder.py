@@ -45,6 +45,12 @@ def load_documents(docs_path: str) -> List:
     )
     return loader.load()
 
+def save_chunks_to_txt_file(chunks, output_file_path):
+    with open(output_file_path, "w") as file:
+        for i, chunk in enumerate(chunks, start=1):
+            file.write(f"Chunk {i}:\n")
+            file.write(str(chunk))
+            file.write("\n\n")
 
 def split_chunks(sources: List, chunk_size: int = 512, chunk_overlap: int = 10) -> List:
     """
@@ -67,27 +73,13 @@ def split_chunks(sources: List, chunk_size: int = 512, chunk_overlap: int = 10) 
 
     chunks = []
     print(type(sources))
-
+    output_file_path = '/home/longcule/Videos/rag-chatbot/chunkk.txt'
     # splitter = MarkdownTextSplitter(chunk_size=chunk_size, chunk_overlap=chunk_overlap)
     # print(splitter)
     for chunk in sources:
         print("chunk: ", type(chunk), chunk, "\n")
         chunks.append(chunk)
-        # chunk_type = type(chunk)
-        # new_object = chunk_type()
-        # print("new_obj",new_object)
-        # data = {
-        # 'page_content': chunk111['page_content'],
-        # 'metadata': chunk111['metadata']
-        # }
-
-        #         #       print(doc[0].metadata.get("source"))
-        # #       data = read_md_file(doc[0].metadata.get("source"))
-        # new_object[0].page_content = data['page_content']
-        # new_object[0].metadata = data['metadata']
-        # print("chunk_new: ", type(new_object), new_object, "\n")
-    # for chunk in sources:
-    #     chunks.append(chunk)
+    save_chunks_to_txt_file(chunks, output_file_path)
     return chunks
 
 

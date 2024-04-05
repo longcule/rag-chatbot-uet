@@ -94,7 +94,7 @@ def process_md_files(input_folder_path, output_folder_path, num_chars_per_chunk)
             save_chunks_to_md_files(combined_chunks, output_folder_path, original_file_name)
 
 # Ví dụ sử dụng
-input_folder_path = "/home/longcule/Videos/rag-chatbot/docs"  # Đường dẫn thư mục chứa các file Markdown
+input_folder_path = "/home/longcule/Videos/rag-chatbot/abc"  # Đường dẫn thư mục chứa các file Markdown
 output_folder_path = "/home/longcule/Videos/rag-chatbot/chunks"  # Đường dẫn thư mục lưu các file chunk
 num_chars_per_chunk = 2000  # Số ký tự tối đa cho mỗi chunk
 

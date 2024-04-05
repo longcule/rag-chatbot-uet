@@ -1,6 +1,6 @@
 # 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
 ## Mã học phần: INT3143
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển các hệ thống thông minh (***), Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Phát triển các hệ thống thông minh (***) là:
+Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển các hệ thống thông minh, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Phát triển các hệ thống thông minh là:
 1. Tài liệu bắt buộc
 Hulten, Geoff. Building intelligent systems: a guide to machine learning engineering. Apress, 2018.
 2. Tài liệu tham khảo

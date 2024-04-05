@@ -45,6 +45,6 @@ INT3406,Xử lý ngôn ngữ tự nhiên,3
 INT3423,Tin sinh học ứng dụng,3
 INT3224,Trí tuệ kinh doanh,4
 INT3229,Kỹ thuật và công nghệ dữ liệu lớn,4
-INT3143,Phát triển các hệ thống thông minh (***),3
-INT3231,Công nghệ Blockchain (***),4
+INT3143,Phát triển các hệ thống thông minh,3
+INT3231,Công nghệ Blockchain,4
 Tổng: 21 môn học

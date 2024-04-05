@@ -7,4 +7,4 @@ Mã số học phần: INT3305, Tên học phần(Ghi bằng tiếng Việt và 
 Mã số học phần: INT3307, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): An toàn và an ninh mạng - Network Safety and Security, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2213
 Mã số học phần: INT3319, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Điện toán đám mây - Cloud Computing, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT1008
 Mã số học phần: INT3310, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Quản trị mạng - Network Administration, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2213
-Mã số học phần: INT3022, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng Internet of Things (***) - IoT Application Development, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2204 - INT2213
+Mã số học phần: INT3022, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng Internet of Things - IoT Application Development, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2204 - INT2213

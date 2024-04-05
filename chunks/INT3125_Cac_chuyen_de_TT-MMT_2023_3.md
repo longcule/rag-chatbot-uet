@@ -11,4 +11,4 @@ viên. Yêu cầu chính của một dự án Phân tích yêu cầu bài toán 
 nhau hiện có giải các bài toán tương tự.
 [Tuần 15:]{.underline} Báo cáo dự án và tổng kết. Sinh viên báo cáo dự án (tài liệu phân tích thiết kế hướng dẫn sử dụng demo sản phẩm) Tổng kết điểm mạnh và yếu của phương pháp vừa học dựa vào các sản phẩm vừa làm của sinh viên
 # 7. Tài liệu tham khảo CÁC CHUYÊN ĐỀ TRONG TRUYỀN THÔNG VÀ MẠNG MÁY TÍNH
-Sean Owen Robin Anil Ted Dunning and Ellen Friedman *Mahout in Action* Manning Publications 2011.
+Sean Owen Robin Anil Ted Dunning and Ellen Friedman Mahout in Action Manning Publications 2011.
