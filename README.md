@@ -5,7 +5,8 @@
 - [x]  Convert docx2md 
 - [x] Clean data(clean table, rewrite.md format) 
 - [x] Build Chatbot RAG MVP(Minimum Viable Product)
-- [ ] Build Chatbot with History Conventions 
+- [x] Build Chatbot with History Conventions 
+- [ ] Improve RAG
 - [ ] Process Input RAG(Refine the input question) 
 - [ ] Process Pipeline RAG to Retrieval best relevance context 
 - [ ] Edit UI Application Chatbot 
