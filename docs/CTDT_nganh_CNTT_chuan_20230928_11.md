@@ -1,5 +1,5 @@
-### V.2. Các học phần lựa chọn chương trình đào tạo ngành CNTT, Tổng số tín chỉ: 27/106 ngành CÔNG NGHỆ THÔNG TIN
-#### V.2.1. Nhóm các học phần về Công nghệ phần mềm chương trình đào tạo ngành CNTT, Tổng số tín chỉ: ngành CÔNG NGHỆ THÔNG TIN
+### v.2. các học phần lựa chọn chương trình đào tạo ngành cntt, tổng số tín chỉ: 27/106 ngành công nghệ thông tin chuẩn
+#### v.2.1. nhóm các học phần về công nghệ phần mềm chương trình đào tạo ngành cntt, tổng số tín chỉ: ngành công nghệ thông tin chuẩn
 Mã số học phần: INT3117, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiểm thử và đảm bảo chất lượng phần mềm\nSoftware Testing and Quality Assurance, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
 Mã số học phần: INT3105, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiến trúc phần mềm\nSoftware Architecture, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
 Mã số học phần: INT3106, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phương pháp hình thức\nFormal Methods, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT1050

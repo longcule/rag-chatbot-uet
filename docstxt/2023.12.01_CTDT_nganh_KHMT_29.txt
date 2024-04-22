@@ -1,0 +1,20 @@
+ 3. danh mục tài liệu tham khảo ngành khoa học máy tính
+ Danh mục tài liệu tham khảo học phần Kiến trúc hướng dịch vụ - Service Oriented Architecture là:
+Tài liệu bắt buộc
+1. Võ Đình Hiếu, Giáo trình Kiến trúc hướng dịch vụ , NXB ĐHQGHN 2016
+Tài liệu tham khảo thêm
+1. Sam Newman, Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith, O'Reilly Media, 2019.
+2. Arnaud Lauret, The Design of Web APIs, Manning Publications, 2019
+3. Neil Madden, API Security in Action, Manning Publications, 2020
+ Danh mục tài liệu tham khảo học phần Công nghệ Blockchain - Blockchain and Distributed Ledger Technologies là:
+Tài liệu bắt buộc
+1. Imran Bashir, Mastering Blockchain, 4nd Edition, Packt Publishing (Mar 2023)
+Tài liệu tham khảo thêm
+1. Narayan Prusty Blockchain for Enterprise: Build scalable blockchain applications with privacy, interoperability, and permissioned features , Packt Publishing (September 26, 2018)
+2. Nitin Gaur, Hands - On Blockchain with Hyperledger: Building decentralized applications with Hyperledger Fabric and Composer Packt Publishing (June 21, 2018)
+ Danh mục tài liệu tham khảo học phần Điện toán Đám mây - Cloud Computing là:
+Tài liệu bắt buộc
+1. Nick Antonopoulos, Lee Gillam, Cloud Computing: Principles, Systems and Applications, Second Edition: The Sockets Networking API, Springer International Publishing, 2017.
+Tài liệu tham khảo thêm
+1. Giảng viên sẽ phát trong giờ học
+2. Ian Foster, Dennis B. Gannon , Cloud Computing f or Science and Engineering , The MIT Press, 1st Edition (09/17) ISBN - 13: 978 - 0 - 262 - 03724 - 2

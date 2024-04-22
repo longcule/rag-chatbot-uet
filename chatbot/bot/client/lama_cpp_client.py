@@ -53,7 +53,7 @@ class LamaCppClient(LlmClient):
         # tweet_chain = LLMChain(llm=self.llm, prompt=prompt, verbose=True)
         # resp = tweet_chain.run(topic=prompt)
         answer = response.text
-        print("ans llm: ", answer)
+        # print("ans llm: ", answer)
 
         return answer
 

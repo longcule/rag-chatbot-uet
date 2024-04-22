@@ -1,18 +1,27 @@
-# 4. Đội ngũ cán bộ giảng dạy ngành CÔNG NGHỆ THÔNG TIN
-## Các giảng viên học phần: Hệ quản trị cơ sở dữ liệu - Database Management Systems ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Lê Hồng Hải, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Hải Châu, chức danh: PGS. TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Vũ Bá Duy, chức danh: ThS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Dư Phương Hạnh, chức danh: ThS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Thị Hâụ, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Khai phá dữ liệu  - Data Mining ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Hà Quang Thuỵ, chức danh: PGS.TS, chuyên ngành: Đảm bảo toán học cho máy tính và hệ thống tính toán, đơn vị: Trường ĐHCN
-Tên giảng viên: Phan Xuân Hiếu, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Trần Mai Vũ, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chuẩn
+## các giảng viên học phần: chương trình dịch - compilers ngành công nghệ thông tin chuẩn
+Tên giảng viên: Nguyễn Phương Thái, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Văn Vinh, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+## các giảng viên học phần: học máy - machine learning ngành công nghệ thông tin chuẩn
+Tên giảng viên: Hoàng Xuân Huấn, chức danh: PGS.TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
 Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Hoàng Quỳnh, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Trí tuệ kinh doanh - Business Intelligence ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Hà Nam, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐH Điện lực
-Tên giảng viên: Bùi Quang Hưng, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Tạ Việt Cường, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+## các giảng viên học phần: xử lý ngôn ngữ tự nhiên - natural language processing ngành công nghệ thông tin chuẩn
+Tên giảng viên: Nguyễn Văn Vinh, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Phương Thái, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+## các giảng viên học phần: bổ trợ ngành công nghệ thông tin chuẩn
+Tên giảng viên: Các giảng viên Khoa CNTT và giảng viên mời
+## các giảng viên học phần: khóa luận tốt nghiệp - graduation thesis ngành công nghệ thông tin chuẩn
+Tên giảng viên: Các giảng viên Khoa CNTT và giảng viên mời
+## các giảng viên học phần: dự án - projects ngành công nghệ thông tin chuẩn
+Tên giảng viên: Các giảng viên Khoa CNTT và mời giảng
+# 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin chuẩn
+## các môn học sẽ học trong học kỳ 1 chương trình đào tạo ngành công nghệ thông tin chuẩn
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT1009,"Tin học cơ sở - Introduction to Informatics",3
+2,INT1008,"Nhập môn lập trình- Fundamentals of Programming",3
+3,MAT1093,"Đại số - Algebra",4
+4,MAT1041,"Giải tích 1 - Calculus 1",4
+5,EPN1095,"Vật lý đại cương 1- General Physics 1",2
+6,FLF1107,"Tiếng Anh B1 - English B1",5
+Tổng: 21 tín chỉ

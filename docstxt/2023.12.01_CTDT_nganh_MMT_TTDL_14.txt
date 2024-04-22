@@ -1,0 +1,9 @@
+ v.2. nhóm các học phần tự chọn chương trình đào tạo ngành mạng máy tính(mmt), tổng số tín chỉ: 21 ngành mạng máy tính và truyền thông dữ liệu
+ v.2.3. nhóm các học phần về truyền thông chương trình đào tạo ngành mạng máy tính(mmt), tổng số tín chỉ: ngành mạng máy tính và truyền thông dữ liệu
+Mã số học phần: ELT3243, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Các nguyên lý truyền thông\nPrinciples of Communications, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết:
+Mã số học phần: ELT3067, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Truyền thông quang\nOptical Communications, số tín chỉ: 3, Lý thuyết: 45, Thực hành: 0, Tự học: , mã số học phần tiên quyết:
+Mã số học phần: ELT3144, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Xử lý tín hiệu số\nDigital Signal Processing, số tín chỉ: 4, Lý thuyết: 45, Thực hành: 15, Tự học: , mã số học phần tiên quyết: ELT2035
+Mã số học phần: ELT3098, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Truyền thông vệ tinh\nSatellite Communication, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết:
+Mã số học phần: ELT3163, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Mạng truyền thông di động\nMobile Communication Systems, số tín chỉ: 3, Lý thuyết: 45, Thực hành: 0, Tự học: , mã số học phần tiên quyết: INT2213
+Mã số học phần: ELT3062, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Mạng truyền thông máy tính 2\nNetworks and Computer Communications 2, số tín chỉ: 3, Lý thuyết: 36, Thực hành: 9, Tự học: , mã số học phần tiên quyết: INT2213
+Mã số học phần: ELT3056, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Truyền thông vô tuyến\nWireless Communications, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: ELT2035

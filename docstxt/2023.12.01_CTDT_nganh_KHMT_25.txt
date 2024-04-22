@@ -1,0 +1,20 @@
+ 3. danh mục tài liệu tham khảo ngành khoa học máy tính
+ Danh mục tài liệu tham khảo học phần Khoa học dữ liệu - Introduction to Data Science là:
+Học liệu bắt buộc
+1. Bài giảng “Khoa học dữ liệu”, Nguyễn Việt Anh, Lê Quang Hiếu, Trường Đạị học Công nghệ, 2024 (Lưu hành nội bộ).
+2. Laura Igual, Santi Seguí (2017), Introduction to Data Science - A Python Approach to Concepts, Techniques and Applications, Springer.
+Học liệu tham khảo
+1. Roxy Peck, Chris Olsen, Jay Devore (2008), Introduction to Statistics and Data Analysis, Third Edition, Thompson Brooks/Cole.
+2. Bart Baesens (2014), Analytics in a Big Data World - The Essential Guide to Data Science and Its Applications, Wiley.
+3. David Dietrich, Barry Heller, Beibei Yang (2015), Data Science & Big Data Analytics: Discovering, Analyzing, Visualizing and Presenting Data, Willey.
+ Danh mục tài liệu tham khảo học phần Học máy - Machine Learning là:
+Tài liệu bắt buộc
+1. Lê Đức Trọng, Đặng Trần Bình. Tập bài giảng môn học máy . 2022
+2. E. Alpaydın. Introduction to Machine Learning. MIT Press, Second Edition, 2010.
+Tài liệu tham khảo thêm
+1. Hoàng Xuân Huấn. Giáo trình nhận dạng mẫu. Nhà xuất bản ĐHQGHN, 2012.
+2. Andreas C. Müller and Sarah Guido. Introduction to Machine Learning with Python: A Guide for Data Scientists. 2016
+3. T. Mitchell. Machine learning . McGraw - Hill, 1997.
+4. H.B. Demuth and M. Beale. Neural network design . PWS Publishing company, 1996
+ Danh mục tài liệu tham khảo học phần Thực tập doanh nghiệp - Industrial Internship là:
+Tài liệu do giảng viên, cơ sở thực tập, hướng dẫn cung cấp

@@ -1,13 +1,2 @@
-# 7. Học liệu PHÂN TÍCH VÀ THIẾT KẾ HƯỚNG ĐỐI TƯỢNG
-7.1 Học liệu bắt buộc 1\. Phân tích và thiết kế hướng đối tượng. Trương Ninh Thuận and Đặng
-Đức Hạnh. Nhà xuất bản ĐHQGHN 2013. 2\. ObjectOriented Analysis and Design for Information Systems:
-Modeling with BPMN OCL IFML and Python. Raul Sidnei Wazlawick.
-Morgan Kaufmann 2024. 3\. Bộ bài giảng của IBM cho học phần \"Object oriented analysis and
-design". 7.2 Tài liệu tham khảo 4\. ObjectOriented Analysis Design and Implementation: An Integrated
-Approach. Brahma Dathan and Sarnath Ramnath 2^nd^ Edition Springer
-Cham 2015. 5\. Applying UML and Patterns: An Introduction to ObjectOriented
-Analysis and Design and Iterative Development Craig Larman 3^rd^
-Edition Prentice Hall 2004. 6\. Unified Modeling Language User Guide Grady Booch James Rumbaugh
-and Ivar Jacobson 2^nd^ Edition Addison Wesley Professional 2005. 7\. Design pattern: Elements of Reusable Object Oriented Software
-Erich Gamma et al. Addison Wesley Professional 1994. 8\. Object oriented software construction Bertrand Meyer Prentice
-Hall 2000.
+# 8. hình thức tổ chức dạy học phân tích và thiết kế hướng đối tượng
+Lịch trình giảng dạy cụ thể Tuần Giờ lên lớp Nội dung Chương 1 1 Giới thiệu học phần 2 3 Bộ kinh nghiệm về Chương 1 phát triển phần mềm 2 4 6 Mô hình hóa hướng Chương 2 đối tượng 3 7 8 Tổng quan về yêu Chương 3 cầu phần mềm 9 Nhóm sinh viên giới thiệu bài tập lớn 4 10 11 Tổng quan về phân Chương 4 tích và thiết kế 12 Thảo luận nội dung bài tập lớn tương ứng với Chương 3 5 13 14 Phân tích kiến Chương 5 trúc 15 Thảo luận nội dung bài tập lớn tương ứng với Chương 4 6 16 17 Phân tích ca sử Chương 6 dụng 18 Thảo luận nội dung bài tập lớn tương ứng với Chương 5 7 19 20 Xác định các phần Chương 7 tử thiết kế 21 Thảo luận nội dung bài tập lớn tương ứng với Chương 6 8 2224 Báo cáo giữa kỳ bài tập lớn 9 25 26 Xác định cơ chế Chương 8 thiết kế 27 Thảo luận nội dung bài tập lớn tương ứng với Chương 7 10 28 29 Mô tả kiến trúc Chương 9 thực thi và phân tán 30 Thảo luận nội dung bài tập lớn tương ứng với Chương 8 11 31 32 Thiết kế ca sử Chương 10 dụng 33 Thảo luận nội dung bài tập lớn tương ứng với Chương 9 12 34 35 Thiết kế hệ thống Chương 11 con 36 Thảo luận nội dung bài tập lớn tương ứng với Chương 10 13 37 38 Thiết kế lớp Chương 12 396 Thảo luận nội dung bài tập lớn tương ứng với Chương 11 14 40 42 Nhóm sinh viên báo cáo nội dung bài tập lớn 15 43 44 Nhóm sinh viên báo cáo nội dung bài tập lớn 45 Ôn tập học phần

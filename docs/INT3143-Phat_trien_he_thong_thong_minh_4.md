@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: PHÁT TRIỂN HỆ THỐNG THÔNG MINH
+# 6. nội dung chi tiết học phần: phát triển hệ thống thông minh
 Chương 1 Tổng quan: Sự khác nhau giữa thành phần AI và thành phần không AI các quá trình (pipelines) trong hệ thống AI các bên liên quan tương tác với môi trường.
 Chương 2 Phân tích yêu cầu: Các mục tiêu ở mức hệ thống; thực trạng thiếu đặc tả cho các thành phần AI; phương pháp xác định và đo lường các phẩm chất quan tâm (ngoài độ chính xác của mô hình) các kỳ vọng về tính an toàn bảo mật và công bằng; phương pháp phân tích nguy cơ và sự cố tiềm năng; lập kế hoạch đối phó với sai sót.
 Chương 3 Kiến trúc và Thiết kế: Sự cân bằng giữa các thuộc tính chất lượng của mô hình (ví dụ: thời gian học độ trễ suy luận kích thước mô hình khả năng diễn giải); thiết kế vị trí và cách thức triển khai một thành phần AI; lập kế hoạch đo đạc và chẩn đoán từ xa; xuất xứ dữ liệu; điều phối mô hình kiến trúc hướng dịch vụ.

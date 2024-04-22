@@ -1,20 +1,46 @@
-# 4. Chuẩn đầu ra: TRÍ TUỆ NHÂN TẠO
-Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
-CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
-CLO1
-CLO...
-Kỹ năng
-CLO...
-CLO...
-Mức độ tự chủ và trách nhiệm
-CLO...
-CLO... Ma trận liên kết giữa Chuẩn đầu ra học phần (CLO) và Chuẩn đầu ra
-chương trình đào tạo (PLO):
-Chuẩn đầu ra CTĐT CNTT CTĐT KHMT ... PLO1 PLO2 PLO... PLO... PLO...
-CLO1 x1
-CLO... x2
-CLO...
-Tổng hợp x1 x2 ....
-Ghi chú: Số lượng CLO nên dưới 10 Mỗi CLO nên đóng góp vào 1 PLO của mỗi CTĐT. Học phần xuất hiện trong nhiều CTĐT thì phải đóng góp vào PLO của các CTĐT đó. Chú ý với các PLO mức trường và mức chung của Khoa thì nên có sự đóng góp giống nhau giữa các CTĐT. Chuẩn đầu ra học phần (CLO) đóng góp cho chuẩn đầu ra CTĐT (PLO) nào thì ghi mức của CLO theo thang Bloom (căn cứ theo động từ mô tả CLO) vào ô tương ứng. Dòng Tổng hợp ghi đóng góp của các CLO cho PLO tương ứng (theo giá trị max) và phải khớp với MA TRẬN CĐR của CTĐT. Có thể đặt bảng này vào phần Phụ lục ở cuối đề cương.
-# 5. Tóm tắt nội dung học phần: TRÍ TUỆ NHÂN TẠO
+# 5. tóm tắt nội dung học phần: trí tuệ nhân tạo
 Môn học cung cấp các kiến thức nền tảng trong lĩnh vực trí tuệ nhân tạo bao gồm các phương pháp giải quyết vấn để sử dụng phương pháp tìm kiếm các chiến lược tìm kiếm có kinh nghiệm tìm kiếm thỏa mãn ràng buộc tìm kiếm có đối thủ trong trò chơi các phương pháp biểu diễn tri thức và lập luận tự động lập luận không chắc chắn. Người học được giới thiệu các khái niệm và kỹ thuật cơ bản về học máy. Môn học cũng giới thiệu với người học ngôn ngữ lập trình logic và một số công cụ để xây dựng các hệ thống thông minh.
+# 6. nội dung chi tiết học phần: trí tuệ nhân tạo
+1. Mở đầu
+1. Giới thiệu môn học
+2. Tổng quan lịch sử của lĩnh vực trí tuệ nhân tạo
+2. Các chiến lược tìm kiếm
+1. Giải quyết vấn đề bằng tìm kiếm
+2. Các tính chất của phương pháp tìm kiếm
+3. Các chiến lược tìm kiếm mù
+3. Các chiến lược tìm kiếm có kinh nghiệm
+1. Các phương pháp tìm kiếm tốt nhất trước
+2. Thuật toán tìm kiếm A
+3. Các hướng dẫn để xây dựng cận chấp nhận được cho A
+4. Các chiến lược tìm kiếm nâng cao
+1. Tìm kiếm thỏa mãn các ràng buộc
+2. Tìm kiếm cục bộ
+3. Tìm kiếm mô phỏng luyện kim
+5. Tìm kiếm có đối thủ trong trò chơi
+1. Cây trò chơi
+2. Minimax
+3. Phương pháp cắt cụt alphabeta
+4. Ứng dụng thực tế
+6. Logic mệnh đề
+1. Biểu diễn tri thức
+2. Cú pháp và ngữ nghĩa
+3. Dạng chuẩn tắc
+4. Luật suy diễn và luật phân giải
+7. Logic vị từ cấp một
+1. Biểu diễn tri thức
+2. Cú pháp và ngữ nghĩa
+3. Luật suy diễn
+4. Luật phân giải và các chiến lược phân giải
+8. Lập trình sử dụng logic
+1. Prolog
+2. Luật phân giải và chiến lược tìm kiếm trong Prolog
+3. Các ứng dụng
+9. Tri thức và lập luận không chắc chắn
+1. Biểu diễn tri thức không chắc chắn
+2. Một số khái niệm cơ bản
+3. Định lý Bayes
+4. Mạng xác suất
+10. Giới thiệu về học máy
+1. Giới thiệu
+2. Cây quyết định
+3. Phân loại Naïve Bayes

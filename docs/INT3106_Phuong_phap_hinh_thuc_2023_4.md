@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: PHƯƠNG PHÁP HÌNH THỨC
+# 6. nội dung chi tiết học phần: phương pháp hình thức
 Chương 1. Giới thiệu
 1. Giới thiệu về nội dung môn học
 2. Giới thiệu về ứng dụng Phương pháp hình thức (PPHT) PPHT trong phát triển phần mềm PPHT trong công nghiệp

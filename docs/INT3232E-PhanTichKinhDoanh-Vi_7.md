@@ -1,2 +1,0 @@
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: PHÂN TÍCH KINH DOANH
-Yêu cầu sinh viên đến nghe giảng tất cả các buổi học trên lớp. Sinh viên nào vắng mặt hơn 20% bài giảng (3 buổi) sẽ không được dự thi cuối kỳ. Sinh viên cần đọc kỹ các chương được chỉ định trong giáo trình và các tài liệu tham khảo trước các bài giảng trên lớp. Khuyến khích sinh viên tương tác đóng góp vào các bài giảng. Sinh viên tích cực tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web học phần) sẽ được xem xét cộng điểm vào kết quả cuối cùng.

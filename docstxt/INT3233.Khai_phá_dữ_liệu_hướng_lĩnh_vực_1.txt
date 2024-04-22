@@ -1,0 +1,11 @@
+HỌC PHẦN: KHAI PHÁ DỮ LIỆU HƯỚNG LĨNH VỰC
+ các giảng viên học phần: khai phá dữ liệu hướng lĩnh vực - domain-driven data mining là:
+Tên giảng viên: Hà Quang Thụy, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Thanh Hải, chức danh: TS
+Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS. TS
+Tên giảng viên: Nguyễn Hà Nam, chức danh: PGS. TS
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS. TS
+ 2. thông tin chung về học phần: khai phá dữ liệu hướng lĩnh vực
+Tên học phần: Tiếng Việt: Khai phá dữ liệu hướng lĩnh vực Tiếng Anh: Domaindriven Data Mining Mã số học phần: INT3233 Số tín chỉ: 04 Giờ tín chỉ đối với các hoạt động (LTThHTH): 60 0 0 Học phần tiên quyết (tên và mã số học phần): ​​ INT3209E Khai phá dữ liệu Các yêu cầu đối với học phần (nếu có): Không Bộ môn Khoa phụ trách học phần: Bộ môn Các hệ thống thông tin Khoa Công nghệ Thông tin.
+ 3. mục tiêu học phần: khai phá dữ liệu hướng lĩnh vực
+Cung cấp cho người học những kiến thức nền tảng nâng cao liên quan đến quá trình khai phá dữ liệu ứng dụng theo từng lĩnh vực. Người học hiểu được những vấn đề khó khăn thách thức của các phương pháp khai phá dữ liệu hiện tại khi triển khai áp dụng vào các bài toán khai phá dữ liệu phục vụ kinh doanh quy mô lớn. Sau khóa học người học sẽ có khả năng ứng dụng và triển khai các phương pháp công nghệ công cụ nhằm hỗ trợ việc ra quyết địnhhành động vào các bài toán kinh doanh thực tế một cách phù hợp hiệu quả. KHAI PHÁ DỮ LIỆU HƯỚNG LĨNH VỰC

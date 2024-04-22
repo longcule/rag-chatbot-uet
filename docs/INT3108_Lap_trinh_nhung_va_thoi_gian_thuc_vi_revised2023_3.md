@@ -1,5 +1,4 @@
-# 6. Nội dung chi tiết học phần LẬP TRÌNH NHÚNG VÀ THỜI GIAN THỰC
-
+# 6. nội dung chi tiết học phần lập trình nhúng và thời gian thực
 [Tuần 1:]{.underline} Giới thiệu về học phần mục tiêu học phầnvà sách đọc chính liên quan
 [Tuần 23:]{.underline} Tổng quan về hệ thống nhún Giới thiệu hệ thống nhúng Kiến trúc đồng thiết kế phần cứngphần mềm Đặc trưng và thiết kế HTN Khái niệm thời gian thực Đặc trưng và ràng buộc thời gian thực Những mô hình tính toán thông dụng trong HTN
 [Tuần 4:]{.underline} Hệ điều hành thời gian thự Tác vụ đơn tác vụ và đa tác vụ Khái niệm quyền ưu tiên Khái niệm lập lịch cho tác vụ Hệ điều hành thời gian thực Linux Tái cấu hình của phần mềm Giới thiệu về cách thức làm việc với nhân Linux nhúng

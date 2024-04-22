@@ -1,5 +1,5 @@
-#### V.2.2. Các học phần tự chọn theo các định hướng chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: 36/123 ngành CÔNG NGHỆ THÔNG TIN
-##### V.2.2.3. Nhóm các học phần về Mạng và truyền thông máy tính chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: ngành CÔNG NGHỆ THÔNG TIN
+#### v.2.2. các học phần tự chọn theo các định hướng chương trình đào tạo ngành cntt chất lượng cao(clc), tổng số tín chỉ: 36/123 ngành công nghệ thông tin chất lượng cao(clc)
+##### v.2.2.3. nhóm các học phần về mạng và truyền thông máy tính chương trình đào tạo ngành cntt chất lượng cao(clc), tổng số tín chỉ: ngành công nghệ thông tin chất lượng cao(clc)
 Mã số học phần: INT3301, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thực hành hệ điều hành mạng - Network Operating System Lab, số tín chỉ: 3, Lý thuyết: 15, Thực hành: 30, Tự học: , mã số học phần tiên quyết: INT1008
 Mã số học phần: INT3303, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Mạng không dây - Wireless Networks, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2213
 Mã số học phần: INT3304, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Lập trình mạng - Network Programing, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2213

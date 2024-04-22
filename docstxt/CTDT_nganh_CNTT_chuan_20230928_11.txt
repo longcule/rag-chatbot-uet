@@ -1,0 +1,12 @@
+ v.2. các học phần lựa chọn chương trình đào tạo ngành cntt, tổng số tín chỉ: 27/106 ngành công nghệ thông tin chuẩn
+ v.2.1. nhóm các học phần về công nghệ phần mềm chương trình đào tạo ngành cntt, tổng số tín chỉ: ngành công nghệ thông tin chuẩn
+Mã số học phần: INT3117, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiểm thử và đảm bảo chất lượng phần mềm\nSoftware Testing and Quality Assurance, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
+Mã số học phần: INT3105, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiến trúc phần mềm\nSoftware Architecture, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
+Mã số học phần: INT3106, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phương pháp hình thức\nFormal Methods, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT1050
+Mã số học phần: INT3108, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Lập trình nhúng và thời gian thực\nReal-Time and Embedded Programming, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2212, INT2215
+Mã số học phần: INT3109, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thu thập và phân tích yêu cầu\nRequirements Engineering, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2208
+Mã số học phần: INT3111, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Quản lý dự án phần mềm\nSoftware Project Management, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2208
+Mã số học phần: INT3115, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thiết kế giao diện người dùng\nUser Interface Design, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
+Mã số học phần: INT3120, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng di động \nMobile Application Development, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2204
+Mã số học phần: INT3306, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng Web \nWeb Application Development, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2204, INT2211
+Mã số học phần: INT3110, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phân tích và thiết kế hướng đối tượng\nObject-oriented Analysis and Design, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204

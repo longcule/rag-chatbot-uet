@@ -1,16 +1,24 @@
-# 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
-## Mã học phần: INT3108
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Lập trình nhúng và thời gian thực  - Real-time and embedded programming, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Lập trình nhúng và thời gian thực  - Real-time and embedded programming là:
-1. Tài liệu bắt buộc
-1. Yifeng Zhu, Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C, E-Man Press LLC, 2017, ISBN: 978-0982692660.
-2. Nguyễn Ngọc Bình, Công nghệ phần mềm nhúng, NXB ĐHQGHN, 2014.
-2. Tài liệu tham khảo thêm
-W. Wolf: Computers as Components – Principles of Embedded System Design, 4th edition, Morgan Kaufman Publishers, 2016.
-## Mã học phần: INT3109
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thu thập và phân tích yêu cầu - Requirements Engineering, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Thu thập và phân tích yêu cầu - Requirements Engineering là:
-1. Tài liệu bắt buộc
-Axel Van Lamsweerde. Requirements Engineering: From system Goals to UML Models to Software Specification. Wiley 2009
-2. Tài liệu tham khảo thêm
-1. Ian Sommerville. Software Engineering. Pearson. 9th Edition, 2010.
-2. Lefingwell, Dean & Widrig, Don. Managing Software Requirements. Addison-Wesley 2003.
-Bray, Ian K. An introduction to requirements Engineering . Addison- Wesley 2002.
+# 3. danh mục tài liệu tham khảo ngành công nghệ thô
+## Danh mục tài liệu tham khảo học phần Phân tích và thiết kế hướng đối tượng - Object-oriented Analysis and Design là:
+Tài liệu bắt buộc
+1. Trương Ninh Thuận and Đặng Đức Hạnh, Phân tích và thiết kế hướng đối tượng, NXB ĐHQGHN, 2013.
+2. Slides: ”Object oriented analysis and design”, IBM courses.
+Tài liệu tham khảo thêm
+1. Grady Booch, James Rumbaugh and Ivar Jacobson, Unified Modeling Language User Guide, 2nd Edition, Addition Wesley Professional, 2005.
+2. Bertrand Meyer, Object oriented software construction, Prentice Hall, 2000.
+3. Erich Gamma et al., Design pattern: Elements of Reusable Object Oriented Software, Addison Wesley Professional, 1994.
+## Danh mục tài liệu tham khảo học phần Hệ quản trị cơ sở dữ liệu - Database Management Systems là:
+Tài liệu bắt buộc
+1. Nguyễn Tuệ, Nguyễn Hải Châu, Nguyễn Ngọc Hoá, Cơ sở dữ liệu nâng cao, NXB ĐHQGHN, 2015.
+2. Abraham Silberschatz, S. Sudarshan, Henry F. Korth, Database System Concepts, 7th Edition, McGraw-Hill Science/Engineering/Math; 2019.
+3. Ramez Elmasri and Shamkant B. Navathe, Fundamentals of Database Systems, 7th Edition by Addison-Wesley, 2016.
+Tài liệu tham khảo thêm
+1. Tài liệu về hệ quản trị CSDL MySQL http://dev.mysql.com/doc/
+2. Các tài liệu được giảng viên cung cấp để tìm hiểu về hệ quản trị dữ liệu quy mô lớn
+## Danh mục tài liệu tham khảo học phần Khai phá dữ liệu  - Data Mining là:
+Tài liệu bắt buộc
+1. Nguyễn Hà Nam, Nguyễn Trí Thành, Hà Quang Thụy. Giáo trình khai phá dữ liệu (Các chương: 1-6, 10). NXB ĐHQGHN, 2013. (Bài giảng trên trang web của giảng viên).
+Tài liệu tham khảo thêm
+1. J. Han, M. Kamber and Jian Pei. Data Mining: Concepts and Techniques (3rd edition). Morgan Kaufmann, 2011.
+2. Charu C. Aggarwal. Data Mining: The Textbook. Springer, 2015.
+3. Mehmed Kantardzic. Data Mining: Concepts, Models, Methods, and Algorithms (3rd edition). Wiley-IEEE Press, 2020.

@@ -1,37 +1,17 @@
 HỌC PHẦN: Phân tích dữ liệu trực quan
-# 1. Thông tin về các giảng viên học phần: Phân tích dữ liệu trực quan
-STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoại Email Ghi chú 1 Trần Quốc Long TS. BM KHMT [[tqlong\@vnu.edu.vn]{.underline}](mailto:tqlong@vnu.edu.vn) Trưởng môn học
-2 Lê Đức Trọng TS. BM KHMT trongld\@vnu.edu.vn Giảng viên
-3 Bùi Ngọc Thăng TS. BM KHMT [[thangbn\@vnu.edu.vn]{.underline}](mailto:thangbn@vnu.edu.vn) Giảng viên
-4 Trần Thị Minh Châu TS. BM KHMT [chauttm@vnu.edu.vn]{.underline} Giảng viên
-# 2. Thông tin chung về học phần: Phân tích dữ liệu trực quan Tên học phần:
-{html}
-! Tiếng Việt: Phân tích dữ liệu trực quan Tiếng Anh: \...\....
-{html}
-! Mã số học phần: INT3137 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết (tên và mã số học phần): \.... Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn Khoa học Máy tính
-# 3. Mục tiêu học phần: Phân tích dữ liệu trực quan
+# các giảng viên học phần: phân tích dữ liệu trực quan ngành khoa học máy tính
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Trần Bình, chức danh: TS
+Tên giảng viên: Bùi Ngọc Thăng, chức danh: TS
+# 2. thông tin chung về học phần: phân tích dữ liệu trực quan 
+Tên học phần:
+Tiếng Việt: Phân tích dữ liệu trực quan Tiếng Anh: 
+Mã số học phần: INT3137 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết (tên và mã số học phần):  Các yêu cầu đối với học phần (nếu có):  Bộ môn Khoa phụ trách học phần: Bộ môn Khoa học Máy tính
+# 3. mục tiêu học phần: phân tích dữ liệu trực quan
 Học phần này giúp sinh viên: Hiểu các nguyên lý biểu diễn thông tin trực quan (BDTTTQ) Hiểu các kỹ thuật và hệ thống BDTTTQ hiện thời Vận dụng và so sánh được các kỹ thuật BDTTTQ khác nhau khi trình bày dữ liệu Đánh giá các hệ thống BDTTTQ Có nền tảng để thiết kế sáng tạo các cách BDTTTQ mới.
-# 4. Chuẩn đầu ra: Phân tích dữ liệu trực quan
-Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
-CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
-CLO1
-CLO...
-Kỹ năng
-CLO...
-CLO...
-Mức độ tự chủ và trách nhiệm
-CLO...
-CLO... Ma trận liên kết giữa Chuẩn đầu ra học phần (CLO) và Chuẩn đầu ra
-chương trình đào tạo (PLO):
-Chuẩn đầu ra CTĐT CNTT CTĐT KHMT ... PLO1 PLO2 PLO... PLO... PLO...
-CLO1 x1
-CLO... x2
-CLO...
-Tổng hợp x1 x2 ....
-Ghi chú: Số lượng CLO nên dưới 10 Mỗi CLO nên đóng góp vào 1 PLO của mỗi CTĐT. Học phần xuất hiện trong nhiều CTĐT thì phải đóng góp vào PLO của các CTĐT đó. Chú ý với các PLO mức trường và mức chung của Khoa thì nên có sự đóng góp giống nhau giữa các CTĐT. Chuẩn đầu ra học phần (CLO) đóng góp cho chuẩn đầu ra CTĐT (PLO) nào thì ghi mức của CLO theo thang Bloom (căn cứ theo động từ mô tả CLO) vào ô tương ứng. Dòng Tổng hợp ghi đóng góp của các CLO cho PLO tương ứng (theo giá trị max) và phải khớp với MA TRẬN CĐR của CTĐT. Có thể đặt bảng này vào phần Phụ lục ở cuối đề cương.
-# 5. Tóm tắt nội dung học phần: Phân tích dữ liệu trực quan
+# 5. tóm tắt nội dung học phần: phân tích dữ liệu trực quan
 Phân tích dữ liệu trực quan là ngành học chú trọng việc sử dụng các kĩ thuật trực quan để giúp con người hiểu và phân tích dữ liệu. Khóa học này tập trung vào việc biểu diễn và phân tích trực quan các dữ liệu như dữ liệu dạng bảng dữ liệu liên kết mạng dữ liệu dạng phân cấp và dữ liệu văn bản.
-# 6. Nội dung chi tiết học phần: Phân tích dữ liệu trực quan
+# 6. nội dung chi tiết học phần: phân tích dữ liệu trực quan
 Chương 1: Giới thiệu về biểu diễn thông tin trực quan
 1. Thị giác của con người
 2. Truyền tải thông tin qua thị giác
@@ -67,27 +47,20 @@ Chương 7: Khám phá và phân tích dữ liệu trực quan
 7.2.2 Khai phá dữ liệu 
 7.2.3 Học máy 
 7.2.4 Một số ví dụ
-# 7. Học liệu (Nên dùng các tài liệu từ 2015 trở lại đây) Phân tích dữ liệu trực quan
-Ghi chú: Học liệu được sắp xếp theo thứ tự ưu tiên. Thông tin học liệu bao gồm: tên tác giả tên sáchgiáo trình... nhà xuất bản năm xuất bản. Phân tích dữ liệu trực quan
-7.1. Học liệu bắt buộc: Phân tích dữ liệu trực quan \[1\] Now You See It: Simple Visualization Techniques for Quantitative
-Analysis Stephen Few Analytics Press 2009.
-7.2. Học liệu tham khảo: Phân tích dữ liệu trực quan \[2\] Tamara Munzner. Visualization Analysis and Design. CRC Press.
-2014.
-# 8. Hình thức tổ chức dạy học: Phân tích dữ liệu trực quan
-8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): Phân tích dữ liệu trực quan Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 3 115 Giảng đường Thực hành Tự học bắt buộc 8.2. Lịch trình dạy cụ thể: Phân tích dữ liệu trực quan Tuần Nội dung giảng dạy lý thuyếtthực hành Nội dung sinh viên tự học 1 Giới thiệu môn học \[1\] chương 13 \[2\] chương 1
-2 Nhận thức qua thị giác \[2\] chương 3 5 10
-3 Một số hướng dẫn thiết kế trực quan \[1\] chương 512
-4 Biểu diễn dữ liệu dạng bảng 1 \[2\] chương 2 7 12
-5 Biểu diễn dữ liệu dạng bảng 2 \[2\] chương 14
+# 8. hình thức tổ chức dạy học: phân tích dữ liệu trực quan
+Lịch trình dạy cụ thể: Phân tích dữ liệu trực quan Tuần Nội dung giảng dạy lý thuyếtthực hành Nội dung sinh viên tự học 
+1 Giới thiệu môn học [1] chương 13 [2] chương 1
+2 Nhận thức qua thị giác [2] chương 3 5 10
+3 Một số hướng dẫn thiết kế trực quan [1] chương 512
+4 Biểu diễn dữ liệu dạng bảng 1 [2] chương 2 7 12
+5 Biểu diễn dữ liệu dạng bảng 2 [2] chương 14
 6 Giới thiệu D3.js một số hệ thống và công cụ biểu diễn trực quan Tự học cách sử dụng D3.js để biểu diễn các loại dữ liệu
-7 Biểu diễn đồ thị và mạng lưới 1 \[2\] chương 9
-8 Biểu diễn đồ thị và mạng lưới 2 \[2\] chương 9
-9 Biểu diễn cây và hệ phân cấp 1 \[2\] chương 9
-10 Biểu diễn cây và hệ phân cấp 2 \[2\] chương 9
+7 Biểu diễn đồ thị và mạng lưới 1 [2] chương 9
+8 Biểu diễn đồ thị và mạng lưới 2 [2] chương 9
+9 Biểu diễn cây và hệ phân cấp 1 [2] chương 9
+10 Biểu diễn cây và hệ phân cấp 2 [2] chương 9
 11 Biểu diễn văn bản tài liệu
 12 Biểu diễn dữ liệu chuỗi thời gian
-13 Tương tác giữa người dùng và dữ liệu \[1\] chương 4
+13 Tương tác giữa người dùng và dữ liệu [1] chương 4
 14 Phân tích dữ liệu trực quan
 15 Đánh giá hệ biểu diễn thông tin trực quan
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: Phân tích dữ liệu trực quan
-Ghi chú: Phần này nêu yêu cầu và cách thức đánh giá sự hiện diện trên lớp mức độ tích cực tham gia các hoạt động trên lớp các qui định về thời hạn chất lượng các bài tập bài kiểm tra .... Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét cộng điểm môn học.

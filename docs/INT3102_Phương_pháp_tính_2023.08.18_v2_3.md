@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: PHƯƠNG PHÁP TÍNH Chương 1. Các khái niệm cơ bản (lý thuyếtbài tập: 42)
+# 6. nội dung chi tiết học phần: phương pháp tính chương 1. các khái niệm cơ bản (lý thuyếtbài tập: 42)
 1. Giới thiệu về phương pháp tính
 2. Cơ sở toán học của phương pháp tính
 3. Các ứng dụng của phương pháp tính
@@ -50,4 +50,4 @@ Chương 7. Giải gần đúng phương trình vi phân và tích phân (lý th
 7.2.3. Phương pháp Runge Kutta
 7.2.4. Phương pháp sai phân giải bài toán biên^^.
 7.3 Giới thiệu phương pháp sai phân giải gần đúng phương trình đạo hàm riêng
-7.4 Giải gần đúng phương trình tích phân^^
+7.4 Giải gần đúng phương trình tích phân

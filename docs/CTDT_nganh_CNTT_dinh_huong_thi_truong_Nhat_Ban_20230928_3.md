@@ -1,5 +1,5 @@
-# A.  Chuẩn đầu ra ngành CÔNG NGHỆ THÔNG TIN
-## 2. Chuẩn đầu ra về kỹ năng ngành CÔNG NGHỆ THÔNG TIN
+# a.  chuẩn đầu ra ngành công nghệ thông tin
+## 2. chuẩn đầu ra về kỹ năng ngành công nghệ thông tin
 -   PLO2.1. Phát hiện, mô tả vấn đề và tìm kiếm giải pháp về CNTT và truyền thông bằng cách áp dụng các kiến thức khoa học, CNTT, các công cụ và công nghệ hiện đại;
 -   PLO2.2. Triển khai được các giải pháp CNTT, phân tích dữ liệu và kết quả, đánh giá kỹ thuật để rút ra kết luận;
 -   PLO2.3. Lập kế hoạch, điều phối, tổ chức, dẫn dắt và đánh giá công việc nhóm và quản lý dự án CNTT hiệu quả;
@@ -8,6 +8,6 @@
 -   PLO2.6. Làm việc độc lập, cập nhật các công nghệ, kiến thức mới, khả năng học tập suốt đời trong môi trường chuyên nghiệp;
 -   PLO2.7. Am hiểu và làm quen được với môi trường làm việc có yếu tố Nhật Bản;
 -   PLO2.8. Vận dụng được kiến thức cơ bản về tiếng Nhật tương đương trình độ N3.
-## 3. Chuẩn đầu ra về mức tự chủ và chịu trách nhiệm ngành CÔNG NGHỆ THÔNG TIN
+## 3. chuẩn đầu ra về mức tự chủ và chịu trách nhiệm ngành công nghệ thông tin
 -   PLO3.1. Chủ động tuân thủ pháp luật, đạo đức nghề nghiệp; thể hiện (có) tính trung thực, chịu trách nhiệm cá nhân, tinh thần tự học, tự nghiên cứu, hỗ trợ đồng nghiệp.
 -   PLO3.2. Thể hiện (có) ý thức đóng góp tạo ra những sản phẩm có giá trị phục vụ cộng đồng và phát triển lĩnh vực chuyên môn.

@@ -1,0 +1,7 @@
+HỌC PHẦN: MẬT MÃ VÀ AN TOÀN THÔNG TIN
+ các giảng viên học phần: mật mã và an toàn thông tin - cryptography and information security là:
+Tên giảng viên: Lê Phê Đô, chức danh: TS., chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trọng Hiếu, chức danh: PGS.TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS., chuyên ngành: Mạng máy tính và TTDL, đơn vị: Trường ĐHCN
+ 2. thông tin chung về học phần: mật mã và an toàn thông tin
+Tên học phần: Mật mã và an toàn thông tin (Cryptography and Information security) Mã số học phần: INT3230E Số tín chỉ: 4 Giờ tín chỉ đối với các hoạt động (LTBTThHTH): 6000 Học phần tiên quyết: INT1050Toán học rời rạc Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn CHTTT Khoa CNTT

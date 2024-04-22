@@ -1,14 +1,2 @@
-# 7. Học liệu KHOA HỌC DỮ LIỆU
-Ghi chú: Học liệu được sắp xếp theo thứ tự ưu tiên. Thông tin học liệu bao gồm: tên tác giả tên sáchgiáo trình... nhà xuất bản năm xuất bản. KHOA HỌC DỮ LIỆU
-7.1. Học liệu bắt buộc: KHOA HỌC DỮ LIỆU ### \[1\]. Bài giảng "Khoa học dữ liệu" Nguyễn Việt Anh Lê Quang Hiếu Trường Đạị học Công nghệ 2025 (Lưu hành nội bộ). KHOA HỌC DỮ LIỆU
-\[2\]. Laura Igual Santi Seguí (2017) Introduction to Data Science A
-Python Approach to Concepts Techniques and Applications Springer.
-7.2. Học liệu tham khảo: KHOA HỌC DỮ LIỆU \[1\] Bahga A. & Madisetti V. Big Data Science & Analytics: A
-HandsOn Approach Arshdeep Bahga & Vijay Madisetti Inc. 2019
-\[2\]. Bart Baesens Analytics in a Big Data World The Essential
-Guide to Data Science and Its Applications Wiley.2014.
-\[3\]. David Dietrich Barry Heller Beibei Yang Data Science & Big
-Data Analytics: Discovering Analyzing Visualizing and Presenting
-Data Willey.2015
-\[4\] Khóa học The Data Science Course: Complete Data Science Bootcamp
-ucademy 2021
+# 8. hình thức tổ chức dạy học: khoa học dữ liệu
+Lịch trình dạy cụ thể: KHOA HỌC DỮ LIỆU Tuần Nội dung Lý thuyếtThực hành 1 Khoa học dữ liệu và ra quyết định dựa trên dữ liệu Dữ liệu lớn và việc quản trị phân tích dữ liệu Ứng dụng của khoa học dữ liệu Vòng đời của dự án khoa học dữ liệu 2 Giới thiệu ngôn ngữ lập trình Python Các vấn đề cơ bản của ngôn ngữ Python 3 Các vấn đề cơ bản của ngôn ngữ Python (tiếp) Một số thư viện phục vụ cho khoa học dữ liệu Giới thiệu casestudy bài tập nhóm 4 Chuẩn bị dữ liệu Tiển xử lý dữ liệu Một số kỹ thuật thao tác với dữ liệu truyền thống 5 Một số kỹ thuật thao tác với dữ liệu lớn Trực quan hóa dữ liệu 6 Khái niệm cơ bản xác suất Xác suất đơn giản Xác suất có điều kiện 7 Biến ngẫu nhiên Phân phối xác suất và ứng dụng Phép thử và kỳ vọng 8 Mô hình xác suất Ứng dụng xác suất trong khoa học dữ liệu Kiểm tra giữa kỳ 9 Phân tích khám phá dữ liệu Ước lượng dữ liệu Diễn giải và truyền đạt kết quả phân tích thống kê 10 Khái niệm cơ bản suy luận thống kê Một số kỹ thuật ước lượng Kiểm định giả thuyết 11 Phân tích biến phụ thuộc Phân tích dữ liệu rởi rạc 12 Khái niệm cơ bản học có giám sát Dữ liệu huấn luyện xác thực kiểm tra Một số thuật toán học giám sát cơ bản Đánh giá mô hình Tối ưu mô hình Ứng dụng học có giám sát 13 Khái niệm cơ bản phân tích hồi qui Hồi qui tuyến tính một biến Hồi qui tuyến tính bội Phân tích dự báo Đánh giá mô hình 14 Khái niệm cơ bản học không giám sát Một số thuật toán học không giám sát cơ bản Mô hình hóa và Đánh giá mô hình Ứng dụng của học không giám sát 15 Trình bày dự án bài tập nhóm Tổng kết

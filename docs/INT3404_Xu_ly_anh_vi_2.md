@@ -1,20 +1,27 @@
-# 4. Chuẩn đầu ra: XỬ LÝ ẢNH
-Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
-CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
-CLO1
-CLO...
-Kỹ năng
-CLO...
-CLO...
-Mức độ tự chủ và trách nhiệm
-CLO...
-CLO... Ma trận liên kết giữa Chuẩn đầu ra học phần (CLO) và Chuẩn đầu ra
-chương trình đào tạo (PLO):
-Chuẩn đầu ra CTĐT CNTT CTĐT KHMT ... PLO1 PLO2 PLO... PLO... PLO...
-CLO1 x1
-CLO... x2
-CLO...
-Tổng hợp x1 x2 ....
-Ghi chú: Số lượng CLO nên dưới 10 Mỗi CLO nên đóng góp vào 1 PLO của mỗi CTĐT. Học phần xuất hiện trong nhiều CTĐT thì phải đóng góp vào PLO của các CTĐT đó. Chú ý với các PLO mức trường và mức chung của Khoa thì nên có sự đóng góp giống nhau giữa các CTĐT. Chuẩn đầu ra học phần (CLO) đóng góp cho chuẩn đầu ra CTĐT (PLO) nào thì ghi mức của CLO theo thang Bloom (căn cứ theo động từ mô tả CLO) vào ô tương ứng. Dòng Tổng hợp ghi đóng góp của các CLO cho PLO tương ứng (theo giá trị max) và phải khớp với MA TRẬN CĐR của CTĐT. Có thể đặt bảng này vào phần Phụ lục ở cuối đề cương.
-# 5. Tóm tắt nội dung học phần: XỬ LÝ ẢNH
+# 5. tóm tắt nội dung học phần: xử lý ảnh
 Trước tiên sinh viên sẽ được giới thiệu về ý nghĩa của học phần quan hệ của nó với các học phần khác trong chương trình đào tạo và một số vị trí công việc thực tế cần kiến thức xử lý ảnh. Sau đó sinh viên sẽ được học lý thuyết chung về xử lý ảnh bao gồm: Các vấn đề cơ bản của ảnh số: Thu nhận và biểu diễn ảnh các công cụ toán học thường được sử dụng trong xử lý ảnh. Các phép toán lọc ảnh trên miền không gian điểm ảnh và miền tần số. Xử lý ảnh đa cấp xám và ảnh màu Khôi phục chất lượng ảnh Nén ảnh
+# 6. nội dung chi tiết học phần: xử lý ảnh chương 1. giới thiệu
+1. Giới thiệu học phần
+2. Giới thiệu khái niệm và ứng dụng của xử lý ảnh Chương 2. Cơ bản về ảnh số
+1. Phổ trường điện từ của ánh sáng và hệ thống thị giác người
+2. Lấy mẫu và lượng tử
+3. Khái niệm cơ bản của ảnh số
+4. Thu nhận ảnh và hiển thị Chương III: Chuyển đổi cường độ xám và lọc
+1. Khái niệm cơ bản về chuyển đổi
+2. Xử lý lược đồ xám
+3. Phép lọc trong không gian điểm ảnh
+4. Erosion Dilation Opening Closing Chương IV: Lọc trong miền tần số
+1. Chuyển đổi Fourier nhanh
+2. Làm mịn và làm sắc ảnh trong miền tần số Chương V: Xử lý ảnh màu
+1. Mô hình màu
+2. Chuyển đổi giữa các mô hình màu
+Chương VI: Khôi phục ảnh
+1. Mô hình nhiễu
+2. Khôi phục ảnh
+3. Giảm nhiễu chu kỳ
+4. Ước lượng hàm Degration
+5. Hàm lọc ngược hàm lọc Wiener và tối thiểu bình phương có ràng buộc Chương VII: Nén ảnh
+1. Dư thừa không gian
+2. Chuyển đổi DCT
+3. Lý thuyết độ đo thông tin
+4. Phương pháp mã hóa: Hufman Golomb số học và mã loạt dài

@@ -1,2 +1,2 @@
-# 5. Tóm tắt nội dung học phần: PHÁT TRIỂN ỨNG DỤNG DI ĐỘNG
+# 5. tóm tắt nội dung học phần: phát triển ứng dụng di động
 Học phần cung cấp kiến thức về các khung ứng dụng (application frameworks) các vấn đề kỹ thuật phương pháp để phát triển ứng dụng di động trên hệ điều hành (HĐH) Android. Cụ thể học phần sẽ cung cấp cho sinh viên kiến thức cơ bản về lập trình trên HĐH Android như các thành phần cơ bản vòng đời của các hoạt động (activity) tạo và lý giao diện lưu trữ dữ liệu điều khiển thiết bị phần cứng (camera) và kiểm thử ứng dụng. Ngoài ra học phần cũng giới thiệu cho sinh viên những kiến thức nâng cao như các dịch vụ dựa trên vị trí và quản lý thiết bị di động.

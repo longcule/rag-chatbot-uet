@@ -1,7 +1,10 @@
 HỌC PHẦN: TÍCH HỢP DỊCH VỤ
-# 1. Thông tin về các giảng viên học phần TÍCH HỢP DỊCH VỤ
+# các giảng viên học phần: tích hợp dịch vụ - service integration là:
+Tên giảng viên: Nguyễn Ngọc Hóa, chức danh: PGS.TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Hải Châu, chức danh: PGS.TS
+# 1. thông tin về các giảng viên học phần tích hợp dịch vụ
 Họ và Chức Địa Điện Ghi STT tên danh chỉ liên thoại chú học vị hệ Email 1 Nguyễn PGS.TS BM CHTTT [[ho Giảng Ngọc Hoá a.nguyen viên \@vnu.ed u.vn]{.u nderline }](mailt o:hoa.ng uyen@vnu .edu.vn) 2 Nguyễn PGS.TS BM CHTTT [[nh Giảng Hải Châu chau\@vn viên u.edu.vn ]{.under line}](m ailto:nh chau@vnu .edu.vn)
-# 2. Thông tin chung về học phần TÍCH HỢP DỊCH VỤ
+# 2. thông tin chung về học phần tích hợp dịch vụ
 Tên học phần: Tích hợp dịch vụ Mã số học phần: INT3227E Số tín chỉ: 4 Giờ tín chỉ đối với các hoạt động (LTThHTH):6000 Học phần tiên quyết: INT3201Cơ sở các hệ thống thông tin Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn CHTTT Khoa CNTT
-# 3. Mục tiêu học phần TÍCH HỢP DỊCH VỤ
+# 3. mục tiêu học phần tích hợp dịch vụ
 Mục tiêu chính của học phần cung cấp giới thiệu những kiến thức chủ chốt về tích hợp hệ thống tích hợp dịch vụ để có thể xây dựng nên những hệ thống quy mô lớn phức tạp (hệ thống của các hệ thống). Sinh viên sẽ được giới thiệu quy trình chung trong việc tích hợp nhiều dịch vụ nhiều hệ thống và ứng dụng khác nhau để tạo ra giải pháp hữu hiệu hợp với ngữ cảnh. học phần cũng đề cập đến những kỹ thuật tích hợp như dựa trên mô hình quy trình kinh doanh mẫu sử dụng lại ứng dụng mô hình kiến trúc hướng dịch vụ ... Kết thúc học phần sinh viên cần có khả năng: \ Nắm rõ được những khái niệm cơ bản về tích hợp dịch vụ những thách thức chính hiện thời \ Đánh giá được thực trạng đặt ra (tổ chức và tài nguyên) và vận dụng trong việc tích hợp dịch vụ \ Vận dụng được những phương pháp luận công nghệ và kiến trúc chính trong tích hợp dịch vụ \ Biết cách xác định và tiếp cận với những công cụ hỗ trợ tích hợp mới

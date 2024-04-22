@@ -1,17 +1,17 @@
-# 4. Đội ngũ cán bộ giảng dạy ngành CÔNG NGHỆ THÔNG TIN
-## Các giảng viên học phần: Thiết kế giao diện người dùng - User Interface Design ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Ngô Thị Duyên, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Phát triển ứng dụng di động  - Mobile Application Development ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Nguyễn Việt Tân, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Võ Đinh Hiếu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Phát triển ứng dụng Web - Web Application Development ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Việt Anh, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Phát triển các hệ thống thông minh ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Nguyễn Văn Sơn, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Võ Đình Hiếu, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Phạm Ngọc Hùng, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chất lượng cao(clc)
+## các giảng viên học phần: các hệ thống thương mại điện tử - e-commerce systems ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Bùi Quang Hưng, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Hồng Hải, chức danh: ThS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Dư Phương Hạnh, chức danh: ThS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trọng Hiếu, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: phân tích thiết kế các httt - information system analysis and design ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Dư Phương Hạnh, chức danh: ThS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Bá Duy, chức danh: ThS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Hồng Hải, chức danh: ThS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: khoa học dịch vụ ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Hà Quang Thuỵ, chức danh: PGS. TS, chuyên ngành: Đảm bảo toán học cho máy tính và hệ thống tính toán, đơn vị:
+Tên giảng viên: Bùi Quang Hưng, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị:
+Tên giảng viên: Nguyễn Ngọc Hoá, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN

@@ -1,5 +1,5 @@
-#### V.2.2. Các học phần tự chọn theo các định hướng chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: 36/123 ngành CÔNG NGHỆ THÔNG TIN
-##### V.2.2.1. Nhóm các học phần về Công nghệ phần mềm chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: ngành CÔNG NGHỆ THÔNG TIN
+#### v.2.2. các học phần tự chọn theo các định hướng chương trình đào tạo ngành cntt chất lượng cao(clc), tổng số tín chỉ: 36/123 ngành công nghệ thông tin chất lượng cao(clc)
+##### v.2.2.1. nhóm các học phần về công nghệ phần mềm chương trình đào tạo ngành cntt chất lượng cao(clc), tổng số tín chỉ: ngành công nghệ thông tin chất lượng cao(clc)
 Mã số học phần: INT3117, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiểm thử và đảm bảo chất lượng phần mềm - Software Testing and Quality Assurance, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
 Mã số học phần: INT3105, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiến trúc phần mềm - Software Architecture, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
 Mã số học phần: INT3106, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phương pháp hình thức - Formal Methods, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT1050

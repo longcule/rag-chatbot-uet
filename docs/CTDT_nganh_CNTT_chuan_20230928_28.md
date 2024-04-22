@@ -1,16 +1,9 @@
-# 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
-## Mã học phần: INT3111
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Quản lý dự án phần mềm - Software Project Management, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Quản lý dự án phần mềm - Software Project Management là:
-1. Tài liệu bắt buộc
-1. Kathy Schwalbe, Information Technology Project Management, 9th edition, Course Technology, 2019.
-2. Phạm Ngọc Hùng, Trần Hoàng Việt, Giáo trình quản lý dự án phần mềm, NXB ĐHQGHN, 2022.
-2. Tài liệu tham khảo thêm
-1. Murali K. Chemuturi and Thomas M. Cagley Jr., Mastering Software Project Management: Best Practices, Tools and Techniques, J. Ross Publishing, 2010
-2. Steve McConnell, Rapid Development, Microsoft Press, 1996, ISBN 1-55615-900-5
-3. R. Futrell, D. Shafer, L. Shafer, Quality Software Project Management, Prentice-Hall PTR, 2002.
-## Mã học phần: INT3115
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thiết kế giao diện người dùng - User Interface Design, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Thiết kế giao diện người dùng - User Interface Design là:
-1. Tài liệu bắt buộc
-Ben Shneiderman and Catherine Plaisant, Designing the User Interface, 6th Edition, 2016
-2. Tài liệu tham khảo thêm
-Jeff Johnson, Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines, 3rd Edition, Morgan Kaufmann, 2020.
+# 3. danh mục tài liệu tham khảo ngành công nghệ thô
+## Danh mục tài liệu tham khảo học phần Trí tuệ kinh doanh - Business Intelligence là:
+Tài liệu bắt buộc
+1. Giáo trình "Nhập môn hệ cơ sở dữ liệu", Nguyễn Tuệ, NXB ĐHQGHN, 2008
+2. Bài giảng "Thông minh kinh doanh", Nguyễn Trí Thành, Trường Đại học Công nghệ, 2016
+Tài liệu tham khảo thêm
+1. The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition by Ralph Kimball & Margy Ross, Wiley, 2013.
+2. Ralph Kimball, Margy Ross, Warren Thornthwaite and Joy Mundy, The Data Warehouse Lifecycle Toolkit, 2nd Edition, Wiley, 2008.
+3. Ralph Kimball & Joe Caserta, The Data WarehouseETL Toolkit: Practical Techniques for Extracting, Cleaning, Conforming, and Delivering Data, Wiley, 2004.

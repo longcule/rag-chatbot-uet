@@ -1,22 +1,15 @@
-# 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
-## Mã học phần: INT3307
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): An toàn và an ninh mạng - Network Safety and Security, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần An toàn và an ninh mạng - Network Safety and Security là:
-1. Tài liệu bắt buộc
-1. William Stallings. Network Security Essentials: Applications and Standards, Fourth Edition. Prentice Hall, 2011.
-2. Vincent Nestler, Gregory White, Wm. Arthur Conklin, and Matthew Hirsch. Principles of Computer Security: CompTIA Security+ and Beyond, Lab Manual, Second Edition. McGraw-Hill, 2011.
-3. Mark Ciampa. Security+ Guide to Network Security Fundamentals, Third Edition. Course Technology, 2008.
-2. Tài liệu tham khảo thêm
-1. William Stallings. Cryptography and Network Security: Principles and Practice, Fifth Edition. Prentice Hall, 2010.
-2. Wm. Arthur Conklin and Gregory White. Principles of Computer Security, CompTIA Security+ and Beyond (Exam SY0-301), Third Edition. McGraw-Hill, 2011.
-## Mã học phần: INT3319
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Điện toán đám mây - Cloud computing, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Điện toán đám mây - Cloud computing là:
-1. Tài liệu bắt buộc
-Nick Antonopoulos, Lee Gillam, Cloud Computing: Principles, Systems and Applications, Second Edition: The Sockets Networking API, Springer International Publishing, 2017.
-2. Tài liệu tham khảo thêm
-Giảng viên sẽ phát trong giờ học
-## Mã học phần: INT3310
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Quản trị mạng - Network Administration, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Quản trị mạng - Network Administration là:
-1. Tài liệu bắt buộc
-Dương Lê Minh, Tập bài giảng điện tử, 2018
-2. Tài liệu tham khảo thêm
-Thomas A. Limoncelli, Christina J. Hogan and Strata R. Chalup, The Practice of System and Network Administration, Addison-Wesley (2016).
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chuẩn
+## các giảng viên học phần: cấu trúc dữ liệu và giải thuật - data structures and algorithms ngành công nghệ thông tin chuẩn
+Tên giảng viên: Bùi Ngọc Thăng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Nguyên Khôi, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Thị Minh Châu, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Quang Hiếu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thị Nhật Thanh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Bảo Sơn, chức danh: PGS TS, chuyên ngành: KH và KT máy tính, đơn vị: ĐHQGHN
+## các giảng viên học phần: xác suất thống kê  - probability and statistics ngành công nghệ thông tin chuẩn
+Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Xác suất thống kê, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Thị Điệp, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Cao Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Thanh Hải, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN

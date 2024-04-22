@@ -1,9 +1,7 @@
 MÔN HỌC: CHUẨN KỸ NĂNG CỦA CNTT
-# 1. Thông tin về các giảng viên môn học CHUẨN KỸ NĂNG CỦA CNTT
-Họ và Chức Địa Điện Ghi STT tên danh chỉ liên thoại chú học vị hệ Email 1 Lê TS Khoa học ln Trưởng Nguyên máy tính khoi\@vn môn học Khôi u.edu.vn 2. Thông tin chung về môn học Tên môn học: Chuẩn kỹ năng của CNTT Mã số môn học: INT3510 Số tín chỉ: 2 Giờ tín chỉ đối với các hoạt động (LTThHTH): 10020 Môn học tiên quyết: Các yêu cầu đối với môn học (nếu có): Bộ môn Khoa phụ trách môn học: Khoa CNTT
-# 3. Mục tiêu môn học CHUẨN KỸ NĂNG CỦA CNTT
+# 3. mục tiêu môn học chuẩn kỹ năng của cntt
 Môn học giúp sinh viên hệ thống lại và trang bị thêm các kiến thức cốt lõi về CNTT. Về kiến thức môn học sẽ hệ thống lại các nội chính của hệ thống máy tính phát triển và vận hành hệ thống thiết kế hiện thực chương trình mạng máy tính cơ sở dữ liệu. Về kỹ năng môn học giúp cho sinh viên rèn luyện ở mức cơ bản các kỹ năng như phát triển hệ thống thiết kế cơ sở dữ liệu.
-# 4. Chuẩn đầu ra CHUẨN KỸ NĂNG CỦA CNTT
+# 4. chuẩn đầu ra chuẩn kỹ năng của cntt
 Mục tiêu Bậc 1 #### Bậc Bậc 3 Bậc 4 2 {#bậc2} Nội dung 1. Kiến thức 1.5.6 Biết cách x cập nhật các kiến thức hiện đại trong ngành Công nghệ thông tin 1.5.8 Biết các x kỹ thuật các công nghệ mới trong ngành Công nghệ thông tin ứng dụng trong phát triển các phần mềm đặc biệt bảo đảm chất lượng và an toàn an ninh cho hệ thống. 2. Kỹ năng (nếu có) Tăng cường kỹ x năng tư duy và suy luận lô gích đối với mỗi vấn đề về khoa học và công nghệ gặp phải 2.1.1.6 Đọc hiểu x tài liệu tiếng Anh chuyên ngành 2.1.2.4 Có kỹ x năng mô h́ình hóa 2.1.3.4 Có kỹ x năng áp dụng kiến thức vào thực tế 2.1.4.1 Có tư x duy logic 2.2.1.1 Có tư x duy sáng tạo 2.2.1.2 Có tư x duy phản biện
-# 5. Tóm tắt nội dung môn học CHUẨN KỸ NĂNG CỦA CNTT
+# 5. tóm tắt nội dung môn học chuẩn kỹ năng của cntt
 Môn học hệ thống lại các kiến thức cơ bản trong lĩnh vực CNTT bao gồm: hệ thống máy tính phát triển và vận hành hệ thống thiết kế hiện thực chương trình mạng máy tính cơ sở dữ liệu. Môn học có giới thiệu qua các chủ đề đang được quan tâm của CNTT.

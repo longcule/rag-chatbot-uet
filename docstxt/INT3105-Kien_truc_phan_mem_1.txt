@@ -1,0 +1,23 @@
+HỌC PHẦN: KIẾN TRÚC PHẦN MỀM
+ các giảng viên học phần: kiến trúc phần mềm - software architecture ngành công nghệ thông tin
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Việt Hà, chức danh: PGS. TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trương Ninh Thuận, chức danh: PGS. TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+ 2. thông tin chung về học phần: kiến trúc phần mềm
+Tên học phần:
+Tiếng Việt: Kiến trúc phần mềm. Tiếng Anh: Software Architecture.
+Mã số học phần: INT3105. Số tín chỉ: 3. Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500. Học phần tiên quyết (tên và mã số học phần): Lập trình hướng đối tượng. Các yêu cầu đối với học phần (nếu có): (không). Bộ môn Khoa phụ trách học phần: Công nghệ phần mềm Khoa CNTT
+ 3. mục tiêu học phần: kiến trúc phần mềm
+Học phần giới thiệu các kiến thức nền tảng của kiến trúc phần mềm bao gồm kiến thức về các mẫu thiết kế nguyên lý thiết kế các kiến trúc kinh điển và hiện đại các phương pháp xây dựng kiến trúc phần mềm.
+ 4. chuẩn đầu ra: kiến trúc phần mềm
+Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
+CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
+CLO1 Trình bày và giải thích được các kiểu kiến trúc mẫu thiết kế thông dụng
+CLO2 Áp dụng các phương pháp thiết kế kiến trúc cho các hệ thống đơn giản
+CLO3 Có khả năng phân tích đánh giá được kiến trúc của các hệ thống phần mềm hiện đại
+Kỹ năng
+CLO4 Cập nhật các công nghệ kiến thức mới về kiến trúc phần mềm
+Mức độ tự chủ và trách nhiệm
+CLO5 Tinh thần tự học tự nghiên cứu
+ 5. tóm tắt nội dung học phần: kiến trúc phần mềm
+Học phần giới thiệu các kiến thức nền tảng của kiến trúc phần mềm bao gồm kiến thức về các mẫu thiết kế nguyên lý thiết kế các kiến trúc kinh điển và hiện đại các phương pháp xây dựng kiến trúc phần mềm.

@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: TIẾNG NHẬT TRONG CNTT 1
+# 6. nội dung chi tiết học phần: tiếng nhật trong cntt 1
 STT Chủ đề Chi tiết 1 Orientation 1\. Mở đầu tiết học\
 ・Giải thích về môn học\
 ・Đăng kí thông tin cá nhân để lên danh sách lớp\
@@ -70,6 +70,4 @@ STT Chủ đề Chi tiết 1 Orientation 1\. Mở đầu tiết học\
 3. Thiết kế độ tin cậy của hệ thống\ Case study\
 4. Đánh máy tiếng Nhật Cách làm việc của người Nhật\
 3.Thiết kế độ tin cậy của hệ thống\ Nghe hiểu\
-4. Đánh máy tiếng Nhật\ Cách chào hỏi theo mùa　(mùa xuân) 7. Học liệu TIẾNG NHẬT TRONG CNTT 1
-7.1. Học liệu bắt buộc: TIẾNG NHẬT TRONG CNTT 1 Theo tài liệu giáo viên và chuyên gia Nhật Bản cung cấp.
-7.2. Học liệu tham khảo: TIẾNG NHẬT TRONG CNTT 1 Theo tài liệu giáo viên và chuyên gia Nhật Bản cung cấp.
+4. Đánh máy tiếng Nhật\ Cách chào hỏi theo mùa　(mùa xuân)

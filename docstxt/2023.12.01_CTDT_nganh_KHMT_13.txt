@@ -1,0 +1,10 @@
+ v.2. các học phần tự chọn chương trình đào tạo ngành khoa học máy tính(khmt), tổng số tín chỉ: 21/99 ngành khoa học máy tính
+ v.2.2. nhóm các học phần về các hệ thống ứng dụng trí tuệ nhân tạo chương trình đào tạo ngành khoa học máy tính(khmt), tổng số tín chỉ: ngành khoa học máy tính
+Mã số học phần: INT3505E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiến trúc hướng dịch vụ\nService Oriented Architecture, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
+Mã số học phần: INT3231, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Công nghệ Blockchain\nBlockchain and Distributed Ledger Technologies, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
+Mã số học phần: INT3319, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Điện toán đám mây\nCloud Computing, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2213
+Mã số học phần: INT3230E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Mật mã và An toàn thông tin\nCryptography and Information security, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT1050
+Mã số học phần: INT3307E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): An toàn và an ninh mạng\nNetwork Security, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2213
+Mã số học phần: INT3417, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thiết kế và Triển khai các Hệ thống ứng dụng Học máy\nDesign and Deployment of Machine Learning Application Systems, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT3405E
+Mã số học phần: INT3229E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kỹ thuật và công nghệ dữ liệu lớn\nBigData Techniques and Technologies, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
+Mã số học phần: INT3121, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Các chuyên đề trong KHMT\nSpecial Problems in Computer Science, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT1009

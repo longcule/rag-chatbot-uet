@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: Công nghệ phần mềm
+# 6. nội dung chi tiết học phần: công nghệ phần mềm
 Bài giảng sẽ dựa trên kiến thức cơ bản của các Chương 19 và 22 cuốn sách tham khảo chính của Ian SommerVille \[1\] và các kiến thức hỗ trợ thực hành dự án theo qui trình linh hoạt của cuốn sách \[5\]. Sinh viên phải tự đọc các chương tương ứng với các bài giảng lý thuyết trên lớp.
 Bài 1 & 2: Các khái niệm cơ bản trong công nghệ phần mềm (6 tiết): giới thiệu về khái niệm phần mềm hệ thống thông tin vai trò và các đặc trưng của phần mềm các tiêu chí đánh giá chất lượng phần mềm khái niệm kỹ nghệ phần mềm (SE) các thách thức trong quá trình phát triển phần mềm một số câu hỏi thường gặp đạo đức nghề nghiệp.
 Bài 3: Các tiến trình phát triển phần mềm cơ bản (3 tiết): các qui trình kinh điển (thác nước bản mẫu xoắn ốc); CBSD; SOA; RUP; ...

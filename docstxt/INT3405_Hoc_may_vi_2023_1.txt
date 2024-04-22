@@ -1,0 +1,12 @@
+HỌC PHẦN: HỌC MÁY
+ các giảng viên học phần: học máy - machine learning ngành khoa học máy tính
+Tên giảng viên: Hoàng Xuân Huấn, chức danh: PGS.TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Tạ Việt Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Trần Bình, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+ 2. thông tin chung về học phần: học máy
+tên học phần: học máy
+Tiếng Việt: Học máy Tiếng Anh: Machine Learning
+Mã số học phần: INT3405 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết (tên và mã số học phần): MAT1101 Xác suất thống kê Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn KHMT Khoa CNTT
+ 3. mục tiêu học phần: học máy
+Giới thiệu cho sinh viên các khái niệm cơ sở về học máy phương pháp học máy cơ bản bao gồm các thuật toán kỹ thuật và cài đặt. Bên cạnh đó bước đầu giới thiệu cho sinh viên về các Trên cơ sở đó sinh viên có thể thiết kế được các hệ học và nghiên cứu sâu hơn về các bài toán cụ thể.

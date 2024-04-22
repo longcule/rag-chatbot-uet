@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: Các chuyên đề trong Khoa học máy tính
+# 6. nội dung chi tiết học phần: các chuyên đề trong khoa học máy tính
 [Tuần 1:]{.underline} Giới thiệu tổng quan về bài toán và phương
 pháp sẽ học Tại sao lại học phương pháp này? Tính mới của phương pháp. Ưu điểmnhược điểm của phương pháp này so với các phương pháp khác giải bài toán tương tự Xu hướng ứng dụng phương pháp này trong công nghiệp hiện tại và tương lai Một số ví dụ về các ứng dụng sử dụng phương pháp này
 [Tuần 2:]{.underline} Phân tích các yếu tố nền tảng của phương pháp

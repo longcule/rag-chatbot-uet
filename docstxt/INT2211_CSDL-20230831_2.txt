@@ -1,0 +1,5 @@
+ 4. chuẩn đầu ra (tham chiếu đến ma trận chuẩn đầu ra ngành hệ thống thông tin) cơ sở dữ liệu
+Kiến thức CLO1 Vận dụng được các kiến thức về mô hình thực thể liên kết CLO2 Vận dụng được các kiến thức về mô hình quan hệ và đại số quan hệ CLO3 Vận dụng được các kiến thức về phụ thuộc hàm và các dạng chuẩn CLO4 Vận dụng được các thuật toán thiết kế CSDL quan hệ Kỹ năng CLO5 Cài đặt được một hệ quản trị CSDL chẳng hạn MySQL PostgreSQL MS SQL CLO6 Sử dụng thành thạo ngôn ngữ truy vấn SQL để thực hiện các yêu cầu truy xuất dữ liệu
+ 5. tóm tắt nội dung học phần cơ sở dữ liệu
+Nội dung học phần gồm các phần chính như sau: \ Các khái niệm cơ bản về hệ cơ sở dữ liệu \ Mô hình thực thể liên kết (ER) \ Mô hình quan hệ và đại số quan hệ \ Phụ thuộc hàm chuẩn hóa CSDL quan hệ các thuật toán thiết kế CSDL
+quan hệ

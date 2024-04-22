@@ -1,8 +1,8 @@
 import argparse
-import sys
+import sys, json
 import time
 from pathlib import Path
-
+from cal_simil import modified_response
 import streamlit as st
 from bot.client.client_settings import get_client, get_clients
 from bot.client.llm_client import LlmClient
@@ -72,7 +72,7 @@ def init_page(root_folder: Path) -> None:
         st.write(" ")
 
     with central_column:
-        st.image(str(root_folder / "images/bot.png"), use_column_width="always")
+        st.image(str(root_folder / "images/uet.jpg"), use_column_width="always")
         st.markdown("""<h4 style='text-align: center; color: grey;'></h4>""", unsafe_allow_html=True)
 
     with right_column:
@@ -108,6 +108,13 @@ def display_messages_from_history():
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
+def count_matching_elements(list1, list2):
+    count = 0
+    for item in list1:
+        if item in list2:
+            count += 1
+    return count
+
 
 def main(parameters) -> None:
     """
@@ -134,6 +141,10 @@ def main(parameters) -> None:
     init_welcome_message()
     display_messages_from_history()
 
+    with open('/home/longcule/Videos/rag-chatbot/list_link_book.json', 'r', encoding='utf-8') as file:
+        data_link_book = json.load(file)
+
+
     # Supervise user input
     if user_input := st.chat_input("Nhập câu hỏi của bạn tại đây!"):
         # Add user message to chat history
@@ -151,14 +162,16 @@ def main(parameters) -> None:
                 text="Tớ đang tìm kiếm thông tin, đợi tí bro!"
             ):
                 refined_user_input = conversational_retrieval.refine_question(user_input)
-                # print("retriveinput: ",refined_user_input)
-                retrieved_contents, sources = index.similarity_search(query=refined_user_input, k=parameters.k)
-                print("retrive: ", retrieved_contents)
-                if retrieved_contents:
-                    full_response += "Here are the retrieved text chunks with a content preview: \n\n"
+                print("retriveinput: ",refined_user_input)
+                retrieved_contents, sources = index.similarity_search_doc(query=refined_user_input, k=parameters.k)
+                # print("retrive: ", retrieved_contents)
+                docs_path = []
+                if sources:
+                    full_response += "Content Retrieval Preview: \n\n"
                     message_placeholder.markdown(full_response)
 
                     for source in sources:
+                        docs_path.append(source['document'])
                         full_response += prettify_source(source)
                         full_response += "\n\n"
                         message_placeholder.markdown(full_response)
@@ -179,11 +192,19 @@ def main(parameters) -> None:
                 "Mất khoảng 1 phút đó."
             ):
                 streamer, fmt_prompts = conversational_retrieval.context_aware_answer(
-                    ctx_synthesis_strategy, user_input, retrieved_contents
+                    ctx_synthesis_strategy, refined_user_input, retrieved_contents
                 )
                 # for token in streamer:
                 #     full_response += llm.parse_token(token)
                 #     message_placeholder.markdown(full_response + "▌")
+
+                print("stream: ", streamer)
+                print(docs_path)
+                print(data_link_book)
+                count = count_matching_elements(docs_path, data_link_book)
+                print(count)
+                if count >= 2:
+                    streamer = modified_response(docs_path, streamer)
 
                 message_placeholder.markdown(streamer)
 

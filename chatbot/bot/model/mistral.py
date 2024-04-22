@@ -46,37 +46,29 @@ class MistralSettings(Model):
         "mlock": False,
     }
     system_template = "Bạn là một trợ lý hữu ích, tôn trọng và trung thực."
-    qa_prompt_template = """<|im_start|>system
-{system}<|im_end|>
-<|im_start|>user
-{question}<|im_end|>
-<|im_start|>assistant
+    qa_prompt_template = """
+{system}
+{question}
 """
-    ctx_prompt_template = """<|im_start|>system
-{system}<|im_end|>
-<|im_start|>user
+    ctx_prompt_template = """
+{system}
 Thông tin bối cảnh dưới đây về các học phần hoặc chương trình đào tạo trong trường đại học Công Nghệ.
 ---------------------
 {context}
 ---------------------
-Dựa vào thông tin ngữ cảnh chứ không phải kiến ​​thức có sẵn, hãy trả lời câu hỏi dưới đây,:
-{question}<|im_end|>
-<|im_start|>assistant
+Dựa vào thông tin ngữ cảnh chứ không phải kiến ​​thức có sẵn, hãy tận dụng tất cả thông tin có được và trả lời câu hỏi dưới đây, hãy trả lời một cách lịch sự và lễ phép:
+Câu hỏi như sau: {question}
 """
-    refined_ctx_prompt_template = """<|im_start|>system
-{system}<|im_end|>
-<|im_start|>user
-Truy vấn ban đầu như sau: {question}
+    refined_ctx_prompt_template = """
+{system}
+Câu hỏi ban đầu như sau: {question}
 Chúng tôi đã cung cấp câu trả lời hiện có: {existing_answer}
-Chúng tôi có cơ hội để tinh chỉnh câu trả lời hiện có
-(chỉ khi cần thiết) với một số ngữ cảnh khác bên dưới.
+Có thể tinh chỉnh câu trả lời hiện có (chỉ khi cần thiết) với một số ngữ cảnh khác bên dưới.
 ---------------------
 {context}
 ---------------------
-Với bối cảnh mới, hãy tinh chỉnh câu trả lời ban đầu để trả lời truy vấn tốt hơn.
-Nếu ngữ cảnh không hữu ích, hãy trả lại câu trả lời ban đầu.
-Refined Answer:<|im_end|>
-<|im_start|>assistant
+Với bối cảnh mới, hãy tinh chỉnh câu trả lời ban đầu để trả lời câu hỏi tốt hơn.
+Nếu ngữ cảnh không hữu ích, hãy trả lại câu trả lời ban đầu, hãy trả lời một cách lịch sự và lễ phép.
 """
     refined_question_conversation_awareness_prompt_template = """<|im_start|>system
 {system}<|im_end|>

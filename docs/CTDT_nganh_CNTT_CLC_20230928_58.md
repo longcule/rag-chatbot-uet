@@ -1,19 +1,30 @@
-# 4. Đội ngũ cán bộ giảng dạy ngành CÔNG NGHỆ THÔNG TIN
-## Các giảng viên học phần: Lập trình mạng - Network Programing ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Hoài Sơn, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Truyền thông đa phương tiện - Multimedia Communications ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Thanh Hà, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: An toàn và an ninh mạng - Network Safety and Security ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Điện toán đám mây - Cloud computing ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Quản trị mạng - Network Administration ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Dương Lê Minh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Đỗ Hoàng Kiên, chức danh: ThS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Phát triển ứng dụng Internet of Things - IoT application development ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Hoài Sơn, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+# 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin chất lượng cao(clc)
+## các môn học sẽ học trong học kỳ 2 chương trình đào tạo cntt chất lượng cao(clc)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,FLF1107,Tiếng Anh B1,5
+3,MAT1042,Giải tích 2,4
+4,INT2215,Lập trình nâng cao,4
+5,INT1050,Toán học rời rạc,4
+6,EPN1096,Vật lý đại cương 2,2
+Tổng: 19 môn học
+## các môn học sẽ học trong học kỳ 3 chương trình đào tạo cntt chất lượng cao(clc)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,PEC1008,Kinh tế chính trị Mác – Lênin,2
+2,INT2210,Cấu trúc dữ liệu và giải thuật (*),4
+3,MAT1101,Xác suất thống kê,3
+4,INT2212,Kiến trúc máy tính (*),4
+5,INT2211,Cơ sở dữ liệu,4
+6,INT2204,Lập trình hướng đối tượng,3
+Tổng: 20 môn học
+## các môn học sẽ học trong học kỳ 4 chương trình đào tạo cntt chất lượng cao(clc)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,PHI1002,Chủ nghĩa xã hội khoa học,2
+2,ELT2035,Tín hiệu và hệ thống,3
+3,INT2213,Mạng máy tính (*),4
+4,INT2208,Công nghệ phần mềm (*),3
+5,FLF1108,Tiếng Anh B2,5
+6,01 học phần bổ trợ,,3
+1,INT3418,Thuật toán nâng cao và ứng dụng,3
+2,INT3102,Phương pháp tính,3
+3,INT3103,Tối ưu hóa,3
+Tổng: 20 môn học

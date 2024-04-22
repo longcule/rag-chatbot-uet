@@ -20,6 +20,4 @@ Ghi chú: Học liệu được sắp xếp theo thứ tự ưu tiên. Thông ti
 13 Khắc phục sự cố mạng
 14 Bảo đảm tính nguyên vẹn và sẵn sàng
 15 Quản trị mạng
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
-\ Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) mà không có lý do chính đáng sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh.
-\ Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét cộng điểm môn học.
+

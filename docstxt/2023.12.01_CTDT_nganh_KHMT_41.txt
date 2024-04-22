@@ -1,0 +1,23 @@
+ 4. đội ngũ cán bộ giảng dạy ngành khoa học máy tính
+ các giảng viên học phần: lập trình hướng đối tượng - object-oriented programming ngành khoa học máy tính
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Tô Văn Khánh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Hoàng Việt, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+ các giảng viên học phần: công nghệ phần mềm - software engineering ngành khoa học máy tính
+Tên giảng viên: Nguyễn Việt Hà, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: TS
+Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS
+Tên giảng viên: Đặng Đức Hạnh, chức danh: TS
+ các giảng viên học phần: dự án khoa học - science project ngành khoa học máy tính
+Tên giảng viên: Các giảng viên của Khoa CNTT, chức danh: , chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+ các giảng viên học phần: dự án công nghệ - technology project ngành khoa học máy tính
+Tên giảng viên: Các giảng viên của Khoa CNTT, chức danh: , chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+ các giảng viên học phần: trí tuệ nhân tạo - artificial intelligence ngành khoa học máy tính
+Tên giảng viên: Nguyễn Thanh Thủy, chức danh: GS.TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Bảo Sơn, chức danh: PGS.TS
+Tên giảng viên: Nguyễn Văn Vinh, chức danh: TS
+ các giảng viên học phần: các vấn đề hiện đại trong khmt - advanced topics in computer science ngành khoa học máy tính
+Tên giảng viên: Các giảng viên của Khoa CNTT, chức danh: , chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN

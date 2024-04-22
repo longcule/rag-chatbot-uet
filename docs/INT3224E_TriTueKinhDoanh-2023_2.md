@@ -1,4 +1,4 @@
-# 4. Chuẩn đầu ra: TRÍ TUỆ KINH DOANH
+# 4. chuẩn đầu ra: trí tuệ kinh doanh
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Hỗ trợ được việc phân tích thiết kế cài đặt được một hệ thống Trí tuệ Kinh doanh
@@ -7,5 +7,5 @@ CLO2 Thiết kế được Kho dữ liệu trích xuất chuyển đổi và t�
 CLO3 Phát triển được phần trình diễn cho hệ thống Trí tuệ Kinh doanh với công cụ Power BI
 CLO4 Thiết kế được một hệ thống BI cho một bài toán thực tế
 CLO5 Hình thành được kỹ năng đọc giáo trình tài liệu chuyên về BI bằng tiếng Anh
-# 5. Tóm tắt nội dung học phần: TRÍ TUỆ KINH DOANH
+# 5. tóm tắt nội dung học phần: trí tuệ kinh doanh
 Từ những mục tiêu chính nêu trên nội dung chính của học phần bao gồm: Mục đích ý nghĩa tầm quan trọng của hệ thống BI Mối quan hệ giữa hệ thống BI với chiến lược kinh doanh Kiến trúc của hệ thống BI Phương pháp xây dựng hệ thống BI Các mô hình biểu diễn dữ liệu đa chiều trong Kho dữ liệu Các bước xây dựng hệ thống BI Các công cụ để xây dựng hệ thống BI Bài học ứng dụng BI trong các lĩnh vực kinh doanh cụ thể Làm bài tập lớn với với dự án BI nhỏ

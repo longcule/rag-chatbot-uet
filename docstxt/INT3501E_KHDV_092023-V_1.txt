@@ -1,0 +1,9 @@
+HỌC PHẦN: KHOA HỌC DỊCH VỤ
+ các giảng viên học phần: khoa học dịch vụ - service science là:
+Tên giảng viên: Hà Quang Thụy, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Ngọc Hóa, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Bùi Quang Hưng, chức danh: TS., chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+ 2. thông tin chung về học phần khoa học dịch vụ
+Tên học phần: Khoa học dịch vụ (Service Science) Mã số học phần: INT 3501E Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết: INT2211 Cơ sở dữ liệu Các yêu cầu đối với học phần (nếu có): Không Bộ môn phụ trách học phần: Bộ môn Hệ thống thông tin Khoa Công nghệ Thông tin

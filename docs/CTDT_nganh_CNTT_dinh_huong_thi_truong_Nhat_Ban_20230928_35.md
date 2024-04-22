@@ -1,15 +1,23 @@
-# 4. Đội ngũ cán bộ giảng dạy ngành CÔNG NGHỆ THÔNG TIN
-## Các giảng viên học phần: Giáo dục thể chất  - Physical Education ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng TT GDTC&TT, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Giáo dục quốc phòng - an ninh - National Defence Education ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng TT GDQP&AN, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Đại số - Algebra ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Giải tích 1 - Calculus 1 ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Giải tích 2 - Calculus 2 ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Vật lý đại cương 1 - General Physics 1 ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Giảng viên Khoa Vật lý Kỹ thuật và Công nghệ nano, Trường ĐHCN, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Vật lý đại cương 2 - General Physics 2 ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Giảng viên Khoa Vật lý Kỹ thuật và Công nghệ nano, Trường ĐHCN, chức danh: , chuyên ngành: , đơn vị:
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin
+## các giảng viên học phần: lập trình hướng đối tượng - object-oriented programming ngành công nghệ thông tin
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Tô Văn Khánh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Hoàng Việt, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+## các giảng viên học phần: công nghệ phần mềm - software engineering ngành công nghệ thông tin
+Tên giảng viên: Nguyễn Việt Hà, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Đức Hạnh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+## các giảng viên học phần: tiếng nhật 2a - japanese 2a ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp
+## các giảng viên học phần: tiếng nhật 2b - japanese 2b ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp
+## các giảng viên học phần: tiếng nhật 3a - japanese 3a ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp
+## các giảng viên học phần: tiếng nhật 3b - japanese 3b ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp
+## các giảng viên học phần: tiếng nhật 3c - japanese 3c ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp

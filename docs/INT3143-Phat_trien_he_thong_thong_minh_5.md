@@ -1,7 +1,16 @@
-# 7. Học liệu PHÁT TRIỂN HỆ THỐNG THÔNG MINH
-7.1. Tài liệu bắt buộc
-[1]. Hulten Geoff. Building intelligent systems: a guide to machine learning engineering. Apress 2018.
-7.2. Tài liệu tham khảo
-[2]. Sculley David Gary Holt Daniel Golovin Eugene Davydov Todd Phillips Dietmar Ebner Vinay Chaudhary Michael Young JeanFrancois Crespo and Dan Dennison. Hidden technical debt in machine learning systems. Advances in neural information processing systems 28 (2015).
-[3]. Giray Görkem. A software engineering perspective on engineering machine learning systems: State of the art and challenges. Journal of Systems and Software 180 (2021).
-[4]. Nadia Nahar Shurui Zhou Grace Lewis Christian Kästner Collaboration Challenges in Building MLEnabled Systems: Communication Documentation Engineering and Process 2022 IEEEACM 44th International Conference on Software Engineering (ICSE) 2022
+# 8. hình thức tổ chức dạy học: phát triển hệ thống thông minh
+8.2. Lịch trình dạy cụ thể: PHÁT TRIỂN HỆ THỐNG THÔNG MINH Tuần Nội dung Nội dung Thực hành 1 Giới thiệu học phần Tóm tắt ứng dụng AI trong kỹ nghệ phần mềm 2 Chất lượng mô hình Kiểm thử mô hình 3 Các mục tiêu và tiêu chí thành công cho hệ thống AI Thu thập yêu cầu 4 Phân tích yêu cầu và rủi ro Lên kế hoạch cho sai sót 5 Cân bằng chất lượng hệ thống AI Kiến trúc phần mềm trong hệ thống AI 6 Triển khai mô hình Đánh giá chất lượng hệ thống 7 Kiểm tra giữa kỳ 8 Chất lượng dữ liệu
+Chất lượng cơ sở hạ tầng triển khai và vận hành hệ thống AI
+9 Quản lý và xử lý tập dữ liệu lớn
+Quy trình và "nợ kỹ thuật"
+10 Tương tác giữa con người và AI
+Vấn đề đạo đức và công bằng
+11 Xây dựng hệ thống AI công bằng
+Tạo phiên bản xuất xứ và khả năng tái tạo
+12 Khả năng giải thích và khả năng diễn giải
+Minh bạch và trách nhiệm giải trình
+13 Bảo mật và riêng tư
+Tính an toàn
+14 Thúc đẩy giao tiếp và cộng tác giữa nhà khoa học dữ liệu và kỹ sư phần mềm
+Tổng kết và ôn tập
+15 Trình bày bài tập lớn (dự án)

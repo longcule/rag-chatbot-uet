@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: THIẾT KẾ GIAO DIỆN NGƯỜI DÙNG
+# 6. nội dung chi tiết học phần: thiết kế giao diện người dùng
 1. Giới thiệu tổng quan về thiết kế giao diện
 1. Giới thiệu chung
 1. Giao diện đồ họa người sử dụng

@@ -1,7 +1,8 @@
 HỌC PHẦN: LẬP TRÌNH NHÚNG VÀ THỜI GIAN THỰC
-# 1. Thông tin về giảng viên xây dựng đề cương học phần LẬP TRÌNH NHÚNG VÀ THỜI GIAN THỰC
-1 Lê Quang Minh TS PTN HTN quangminh@vnu.edu.vn Trưởng học phần 2 Tô Văn Khánh TS PTN HTN khanhtv@vnu.edu.vn Giảng viên
-# 2. Thông tin chung về học phần LẬP TRÌNH NHÚNG VÀ THỜI GIAN THỰC
+# các giảng viên học phần: lập trình nhúng và thời gian thực - real-time and embedded programming ngành công nghệ thông tin
+Tên giảng viên: Tô Văn Khánh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Quang Minh, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Viện CNTT, ĐHQGHN
+# 2. thông tin chung về học phần lập trình nhúng và thời gian thực
 Tên học phần: Lập trình nhúng và thời gian thực Mã số học phần: INT3108 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LLThHTH): 30150 Các học phần tiên quyết: INT2212Kiến trúc máy tính INT2215Lập trình nâng cao Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn CNPM Khoa CNTT
-# 3. Mục tiêu của học phần LẬP TRÌNH NHÚNG VÀ THỜI GIAN THỰC
+# 3. mục tiêu của học phần lập trình nhúng và thời gian thực
 Kiến thức: Cung cấp cho sinh viên các khái niệm trong hệ thống nhúng trang bị các kiến thức cơ bản về hệ điều hành nhúng bộ vi xử lý nhúng và cách thiết kế các chương trình phần mềm cho hệ thống nhúng. Sinh viên sẽ được tiếp cận về các vấn đề công nghệ mới nhất thực hành trên các thiết bị mô phỏng hiện đại. Sinh viên sẽ được trang bị kiến thức cơ bản để có khả năng tự tìm hiểu khi tiếp xúc với các khái niệm mới và các công nghệ mới xung quanh hệ thống nhúng. Kỹ năng: Cung cấp các kỹ năng lập trình Assembly và lập trình nâng cao C và Java trên hệ thống nhúng. Hiểu khái niệm đồng thiết kế phần cứng và phần mềm. Vận dụng các kiến thức vào trong kỹ năng phân tích hệ thống đa tác vụ hệ thống thời gian thực.

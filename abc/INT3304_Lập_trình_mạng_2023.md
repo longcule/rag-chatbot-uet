@@ -1,15 +1,14 @@
 HỌC PHẦN: LẬP TRÌNH MẠNG
-# 1. Thông tin về các giảng viên học phần: LẬP TRÌNH MẠNG 
-STT Họ và Chức Địa Điện Ghi tên danh chỉ liên thoại chú học vị hệ Email 1 Nguyễn PGS Khoa [[ Trưởng Hoài Sơn CNTT sonnh\@v học phần TS nu.edu.v n]{.unde rline}]( mailto:s onnh@vnu .edu.vn) 2 Hồ Đắc ThS Khoa [[phuong Giảng Phương CNTT hd\@vnu. viên edu.vn]{ .underli ne}](mai lto:phuo nghd@vnu .edu.vn) 3 Nguyễn TS Khoa [[ta Giảng Ngọc Tân CNTT n.nguyen viên \@vnu.ed u.vn]{.u nderline }](mailt o:tan.ng uyen@vnu .edu.vn) 
-# 2. Thông tin chung về học phần: LẬP TRÌNH MẠNG Tên học phần:
-{html}
-! Tiếng Việt: Lập trình mạng Tiếng Anh: Network programming
-{html}
-! Mã số học phần: INT3304 Số tín chỉ: 03 Giờ tín chỉ đối với các hoạt động (LTThHTH): 30 15 0 Học phần tiên quyết (tên và mã số học phần): Mạng máy tính (INT2213) Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn Mạng và truyền thông khoa
-CNTT
-# 3. Mục tiêu học phần: LẬP TRÌNH MẠNG
+# các giảng viên học phần: lập trình mạng - network programing ngành công nghệ thông tin
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+# 2. thông tin chung về học phần: lập trình mạng 
+Tên học phần:
+Tiếng Việt: Lập trình mạng Tiếng Anh: Network programming
+Mã số học phần: INT3304 Số tín chỉ: 03 Giờ tín chỉ đối với các hoạt động (LTThHTH): 30 15 0 Học phần tiên quyết (tên và mã số học phần): Mạng máy tính (INT2213) Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn Mạng và truyền thông khoa CNTT
+# 3. mục tiêu học phần: lập trình mạng
 Học phần giúp sinh viên hiểu được các mô hình truyền thông của các ứng dụng mạng vận dụng được cách thức lập trình ứng dụng mạng thông qua giao diện socket. Học phần cũng giúp sinh viên hiểu được các vấn đề về xử lý dữ liệu gửi và nhận qua giao diện mạng và vận dụng được cách thức lập trình máy chủ với nhiều kiểu lập trình máy chủ khác nhau. Về kỹ năng học phần sẽ trang bị cho sinh viên khả năng thiết kế và lập trình một ứng dụng mạng đơn giản.
-# 4. Chuẩn đầu ra: LẬP TRÌNH MẠNG
+# 4. chuẩn đầu ra: lập trình mạng
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Hiểu và vận dụng các khái niệm cơ bản về mạng máy tính các bộ phận các giao thức cách thức truyền dữ liệu trên mạng
@@ -22,9 +21,9 @@ CLO6 Đánh giá hiệu quả của ứng dụng mạng
 Mức độ tự chủ và trách nhiệm
 CLO7 Thể hiện thái độ học tập tích cực chủ động khi làm việc nhóm
 CLO8 Thể hiện trách nhiệm trong việc thiết kế xây dựng và triển khai các ứng dụng mạng trong thực tế 
-# 5. Tóm tắt nội dung học phần: LẬP TRÌNH MẠNG
+# 5. tóm tắt nội dung học phần: lập trình mạng
 Học phần bao gồm các kiến thức về các mô hình truyền thông của các ứng dụng mạng cách thức lập trình ứng dụng mạng thông qua giao diện socket. Bên cạnh đó sinh viên cũng được học về các vấn đề về xử lý dữ liệu gửi và nhận qua giao diện socket và cách thức lập trình máy chủ với nhiều kiểu lập trình máy chủ khác nhau.
-# 6. Nội dung chi tiết học phần: LẬP TRÌNH MẠNG
+# 6. nội dung chi tiết học phần: lập trình mạng
 Chương 1. Tổng quan về ứng dụng mạng
 1. Các ứng dụng mạng phổ biến trên mạng Internet
 2. Mô hình ứng dụng mạng Mô hình khách phục vụ Mô hình ngang hàng
@@ -51,15 +50,5 @@ Chương 4. Gọi thủ tục từ xa (RPC)
 1. XDR (Biểu diễn dữ liệu ngoài)
 2. Gọi thủ tục từ xa (RPC)
 3. Thực thi RPC của Sun Microsystems
-# 7. Học liệu LẬP TRÌNH MẠNG
-7.1. Học liệu bắt buộc: LẬP TRÌNH MẠNG \[1\]. W. R. Stevens B. Fenner và A. M. Rudoff UNIX Network
-Programming Volume 1 Third Edition: The Sockets Networking API
-Addison Wesley 2003.
-\[2\]. B. Ciubotaru G.M. Muntean Advanced Network Programming Principles and Techniques Network Application Programming with Java
-Springer 2013.
-7.2. Học liệu tham khảo: LẬP TRÌNH MẠNG \[1\]. J. Graba An Introduction to Network Programming with Java
-Third Edition Springer 2013.
-# 8. Hình thức tổ chức dạy học: LẬP TRÌNH MẠNG
-8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): LẬP TRÌNH MẠNG Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 2 1 15 Giảng đường Thực hành 2 1 15 Phòng thực hành máy tính 8.2. Lịch trình dạy cụ thể: LẬP TRÌNH MẠNG Tuần Nội dung Lý thuyếtthực Nội dung sinh viên tự hành học 1 Tổng quan về ứng dụng mạng Các ứng dụng phổ biến trên mạng Internet 2 Tổng quan về ứng dụng mạng Các giao thức mạng Internet 3 Thiết kế giao thức cho ứng Thiết kế giao thức cho ứng dụng mạng dụng mạng 4 Lập trình socket với C Lập trình socket với C 5 Lập trình socket với Java Lập trình socket với Java 6 Tùy chọn socket Lập trình socket với C 7 Lập trình socket nâng cao Lập trình socket với C 8 Thi giữa kỳ Thiết kế giao thức cho bài tập lớn 9 Xử lý dữ liệu gửi và Cách thức xử lý dữ nhận qua giao diện liệu gửi và nhận qua socket giao diện socket Phân loại các kiểu máy Lập trình cho bài tập chủ lớn Máy chủ xử lý tuần tự 10 Lập trình máy chủ xử lý Lập trình máy chủ xử đồng thời với C lý đồng thời với C Lập trình cho bài tập lớn 11 Lập trình máy chủ xử lý Lập trình máy chủ xử đồng thời với Java lý đồng thời với Java Lập trình cho bài tập lớn 12 Lập trình máy chủ xử lý Lập trình máy chủ xử đơn luồng nhiều kết nối lý đơn luồng nhiều kết nối Lập trình cho bài tập lớn 13 Biểu diễn dữ liệu ngoài Biểu diễn dữ liệu ngoài Lập trình cho bài tập lớn 14 Gọi thủ tục từ xa (RPC) Các thức lập trình gọi thủ tục từ xa Lập trình cho bài tập lớn 15 Bài tập lớn Kiểm tra bài tập lớn 
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: LẬP TRÌNH MẠNG 
-Sinh viên nghỉ quá 20% tổng số buổi học lý thuyết và thực hành sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét cộng điểm thành phần. Với các nội dung liên quan đến lập trình (ví dụ bài tập lớn) nếu sinh viên gian lận mãnguồn thì sẽ bị điểm môn học là 0.
+# 8. hình thức tổ chức dạy học: lập trình mạng
+Lịch trình dạy cụ thể: LẬP TRÌNH MẠNG Tuần Nội dung Lý thuyếtthực Nội dung sinh viên tự hành học 1 Tổng quan về ứng dụng mạng Các ứng dụng phổ biến trên mạng Internet 2 Tổng quan về ứng dụng mạng Các giao thức mạng Internet 3 Thiết kế giao thức cho ứng Thiết kế giao thức cho ứng dụng mạng dụng mạng 4 Lập trình socket với C Lập trình socket với C 5 Lập trình socket với Java Lập trình socket với Java 6 Tùy chọn socket Lập trình socket với C 7 Lập trình socket nâng cao Lập trình socket với C 8 Thi giữa kỳ Thiết kế giao thức cho bài tập lớn 9 Xử lý dữ liệu gửi và Cách thức xử lý dữ nhận qua giao diện liệu gửi và nhận qua socket giao diện socket Phân loại các kiểu máy Lập trình cho bài tập chủ lớn Máy chủ xử lý tuần tự 10 Lập trình máy chủ xử lý Lập trình máy chủ xử đồng thời với C lý đồng thời với C Lập trình cho bài tập lớn 11 Lập trình máy chủ xử lý Lập trình máy chủ xử đồng thời với Java lý đồng thời với Java Lập trình cho bài tập lớn 12 Lập trình máy chủ xử lý Lập trình máy chủ xử đơn luồng nhiều kết nối lý đơn luồng nhiều kết nối Lập trình cho bài tập lớn 13 Biểu diễn dữ liệu ngoài Biểu diễn dữ liệu ngoài Lập trình cho bài tập lớn 14 Gọi thủ tục từ xa (RPC) Các thức lập trình gọi thủ tục từ xa Lập trình cho bài tập lớn 15 Bài tập lớn Kiểm tra bài tập lớn 

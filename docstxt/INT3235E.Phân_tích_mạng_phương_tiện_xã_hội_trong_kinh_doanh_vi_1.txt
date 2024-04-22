@@ -1,0 +1,11 @@
+HỌC PHẦN: PHÂN TÍCH MẠNG PHƯƠNG TIỆN XÃ HỘI TRONG KINH DOANH
+ các giảng viên học phần: phân tích mạng phương tiện xã hội trong kinh doanh - social media network analysis for business là:
+Tên giảng viên: Trần Mai Vũ, chức danh: TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS.TS
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS
+Tên giảng viên: Hà Quang Thụy, chức danh: PGS.TS
+ 2. thông tin chung về học phần: phân tích mạng phương tiện xã hội trong kinh doanh
+Tên học phần: Tiếng Việt: Phân tích mạng phương tiện xã hội trong kinh doanh Tiếng Anh: Social Media Network Analysis for Business Mã số học phần: INT3235E Số tín chỉ: 04 Giờ tín chỉ đối với các hoạt động (LTThHTH): 60 0 0 Học phần tiên quyết (tên và mã số học phần): ​​ INT3209E Khai phá dữ liệu Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn Các hệ thống thông tin Khoa Công nghệ Thông tin.
+ 3. mục tiêu học phần: phân tích mạng phương tiện xã hội trong kinh doanh
+Mục tiêu chính của học phần là cung cấp các khái niệm kiến thức về mạng phương tiện xã hội các đặc tính về dữ liệu mạng phương tiện xã hội và các bài toán phân tích liên quan. Học phần cũng đưa đến cho sinh viên các mô hình áp dụng kết quả phân tích về mạng phương tiện xã hội trong các bài toán kinh doanh thực tế. PHÂN TÍCH MẠNG PHƯƠNG TIỆN XÃ HỘI TRONG KINH DOANH
+Sau khi hoàn thành khóa học này tất cả sinh viên sẽ có kiến thức và hiểu biết về: PHÂN TÍCH MẠNG PHƯƠNG TIỆN XÃ HỘI TRONG KINH DOANH Các khái niệm về phân tích mạng phương tiện xã hội Các lý thuyết chính về phân tích mạng phương tiện xã hội Áp dụng các thông tin từ mạng phương tiện xã hội vào các bài toán kinh doanh Thu thập thông tin từ mạng xã hội Các ứng dụng mạng phương tiện xã hội

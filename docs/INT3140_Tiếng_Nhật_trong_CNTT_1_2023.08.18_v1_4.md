@@ -1,5 +1,5 @@
-# 8. Hình thức tổ chức dạy học: TIẾNG NHẬT TRONG CNTT 1
-8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): TIẾNG NHẬT TRONG CNTT 1 Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 3 Tuần 115 Giảng đường Bài tập Tự học bắt Từ tuần 1 đến buộc tuần 15 8.2. Lịch trình dạy cụ thể: TIẾNG NHẬT TRONG CNTT 1 Tuần Chủ đề Chi tiết Bài tập về nhà Mini test Phương thức điểm danh 1 Orientation 1\. Mở đầu tiết học\ Tìm hiểu về Hardware (1) \ Đăng kí Chatwork\
+# 8. hình thức tổ chức dạy học: tiếng nhật trong cntt 1
+Lịch trình dạy cụ thể: TIẾNG NHẬT TRONG CNTT 1 Tuần Chủ đề Chi tiết Bài tập về nhà Mini test Phương thức điểm danh 1 Orientation 1\. Mở đầu tiết học\ Tìm hiểu về Hardware (1) \ Đăng kí Chatwork\
 ・Giải thích về môn học\ ・Đăng kí môn học
 ・Đăng kí thông tin cá nhân để lên danh sách lớp\
 ・Chia sẻ tài liệu môn học\

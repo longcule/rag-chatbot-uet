@@ -1,0 +1,13 @@
+ 4. chuẩn đầu ra: các thuật toán đồ thị & ứng dụng
+Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
+CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
+CLO1 Hiểu được các khái niệm cơ bản về đồ thị và cách mô hình hoá bài toán thực tế về đồ thị
+CLO2 Vận dụng được các giải thuật cơ bản và nâng cao để giải bài toán tối ưu trên đồ thị
+CLO3 Liên kết được các mô hình lý thuyết biểu diễn thông tin trên đồ thị để ứng dụng vào bài toán thực tế phân tích dữ liệu được thể hiện bằng đồ thị
+Kỹ năng
+CLO4 Tư duy logic giải quyết bài toán thực tế
+CLO5 Vận dụng được các công cụ thư viện lập trình python để cài đặt các giải thuật tối ưu trên đồ thị
+CLO6 Sử dụng được các mô hình biểu diễn thông tin để phân tích dữ liệu đồ thị
+CLO7 Triển khai linh hoạt phương pháp làm việc độc lập và làm việc theo nhóm hiệu quả
+Mức độ tự chủ và trách nhiệm
+CLO8 Thể hiện có tinh thần trung thực chịu trách nhiệm khi thực hiện các hoạt động học tập thực hành cá nhân hoặc theo nhóm

@@ -1,16 +1,15 @@
 HỌC PHẦN: PHÁT TRIỂN ỨNG DỤNG WEB
-# 1. Thông tin về các giảng viên học phần: PHÁT TRIỂN ỨNG DỤNG WEB
-STT Họ và Chức Địa Điện Ghi tên danh chỉ liên thoại chú học vị hệ Email 1 Lê Đình TS P 413E3 09 Trưởng Thanh 87257504 môn học tha nhld\@vn u.edu.vn 2 Hoàng TS P 406E3 08 Giảng Xuân 52465677 viên Tùng tu nghx\@vn u.edu.vn
-# 2. Thông tin chung về học phần: PHÁT TRIỂN ỨNG DỤNG WEB Tên học phần:
-{html}
-! Tiếng Việt: Phát triển ứng dụng web Tiếng Anh: Web application development
-{html}
-! Mã số học phần: INT3306 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 303030 Học phần tiên quyết (tên và mã số học phần): Lập trình hướng đối
-tượng (INT2204) Cơ sở dữ liệu (INT2207) Mạng máy tính (INT2209). Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn Mạng và Truyền thông Khoa
-Công nghệ Thông tin.
-# 3. Mục tiêu học phần: PHÁT TRIỂN ỨNG DỤNG WEB
+# các giảng viên học phần: phát triển ứng dụng web  - web application development ngành công nghệ thông tin
+Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Việt Anh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+# 2. thông tin chung về học phần: phát triển ứng dụng web
+tên học phần:
+Tiếng Việt: Phát triển ứng dụng web Tiếng Anh: Web application development
+Mã số học phần: INT3306 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 303030 Học phần tiên quyết (tên và mã số học phần): Lập trình hướng đối tượng (INT2204) Cơ sở dữ liệu (INT2207) Mạng máy tính (INT2209). Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn Mạng và Truyền thông Khoa Công nghệ Thông tin.
+# 3. mục tiêu học phần: phát triển ứng dụng web
 Sinh viên hiểu và vận dụng được các kiến thức cốt lõi liên quan xây dựng ứng dụng web hiện đại có thể phát triển và triển khai ứng dụng web trong công nghiệp đồng thời nắm bắt được xu hướng phát triển các công nghệ tạo web để làm chủ những công nghệ này trong tương lai.
-# 4. Chuẩn đầu ra: PHÁT TRIỂN ỨNG DỤNG WEB
+# 4. chuẩn đầu ra: phát triển ứng dụng web
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Hiểu kiến trúc ứng dụng web HTTP web server và web client.

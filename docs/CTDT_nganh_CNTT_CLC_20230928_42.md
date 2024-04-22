@@ -1,24 +1,15 @@
-# 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
-## Mã học phần: INT3022
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng Internet of Things - IoT application development, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Phát triển ứng dụng Internet of Things - IoT application development là:
-1. Tài liệu bắt buộc
-- Bài giảng của giáo viên
-- Marco Schwartz,Internet of Things with Arduino Cookbook, Packt Publishing, 2016
-2 Tài liệu tham khảo
-- Halfacree, Gareth, and Eben Upton. Raspberry Pi user guide. John Wiley & Sons, 2012.
-- Maciej Kranz, Building the Internet of Things: Implement New Business Models, Disrupt Competitors, Transform Your Industry, Wiley, 2016
-## Mã học phần: INT3402
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Chương trình dịch, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Chương trình dịch là:
-1. Tài liệu bắt buộc
-- Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman. Compilers: Principles, Techniques, and Tools. Prentice Hall Publisher. 2007.
-- Phạm Hồng Nguyên. Giáo trình chương trình dịch. NXB ĐHQG Hà Nội. 2009.
-2. Tài liệu tham khảo thêm
-- Keith Cooper, Linda Torczon. Engineering a Compiler. Morgan Kaufmann Publisher. 2011.
-## Mã học phần: INT3405
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Học máy - Machine Learning, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Học máy - Machine Learning là:
-1. Tài liệu bắt buộc
-- Hoàng xuân Huấn. Tập bài giảng môn học máy. 2014.
-- E. Alpaydın. Introduction to Machine Learning. Massachusetts Institute of Technology, Second Edition, 2010.
-2. Tài liệu tham khảo thêm
-- Hoàng Xuân Huấn. Giáo trình nhận dạng mẫu. Nhà xuất bản ĐHQG, 2012.
-- T. Mitchell. Machine learning. McGraw-Hill, 1997.
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chất lượng cao(clc)
+## các giảng viên học phần: cấu trúc dữ liệu và giải thuật - data structure and algorithms ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Bùi Ngọc Thăng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Nguyên Khôi, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Thị Minh Châu, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Quang Hiếu, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thị Nhật Thanh, chức danh: PGS. TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Bảo Sơn, chức danh: PGS TS, chuyên ngành: Khoa học và kỹ thuật máy tính, đơn vị: ĐHQGHN
+## các giảng viên học phần: xác suất thống kê  - probability and statistics ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Xác suất thống kê, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Thị Điệp, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Cao Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Thanh Hải, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN

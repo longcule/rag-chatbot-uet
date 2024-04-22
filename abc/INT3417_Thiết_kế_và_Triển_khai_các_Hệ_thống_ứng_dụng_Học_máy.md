@@ -1,18 +1,14 @@
 HỌC PHẦN: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY
-# 1. Thông tin về các giảng viên học phần: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY
-STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoại Email Ghi chú 1 Đặng Trần Bình TS BM KHMT binhdt\@vnu.edu.vn
-2 Lê Đức Trọng TS BM KHMT trongld\@vnu.edu.vn
-3
-# 2. Thông tin chung về học phần: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY 
+# các giảng viên học phần: thiết kế và triển khai các hệ thống ứng dụng học máy - design and deployment of machine learning application systems ngành khoa học máy tính
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Trần Bình, chức danh: TS
+# 2. thông tin chung về học phần: thiết kế và triển khai các hệ thống ứng dụng học máy 
 Tên học phần:
-{html}
-! Tiếng Việt: Thiết kế và Triển khai các Hệ thống ứng dụng Học máy Tiếng Anh: Design and Deployment of Machine Learning Application
-Systems
-{html}
-! Mã số học phần: INT 3417 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết (tên và mã số học phần): \.... Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn Khoa học Máy tính
-# 3. Mục tiêu học phần: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY
+Tiếng Việt: Thiết kế và Triển khai các Hệ thống ứng dụng Học máy Tiếng Anh: Design and Deployment of Machine Learning Application
+Systems Mã số học phần: INT 3417 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết (tên và mã số học phần): \.... Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn Khoa học Máy tính
+# 3. mục tiêu học phần: thiết kế và triển khai các hệ thống ứng dụng học máy
 Học phần này giúp sinh viên: Hiểu các khái niệm cơ bản trong thiết kế và xây dựng hệ thống học máy; Hiểu được sơ bộ vòng đời của mô hình học máy với các chương về phát triển mô hình chuẩn bị sản xuất triển khai vào sản xuất giám sátvà quản trị; Hiểu được hiểu được cách thiết lập và ý nghĩa trong các ví dụ thực tế; Có kỹ năng giải quyết bằng thực hành một số vấn đề trong vận hành hệ thống học máy;. Có khả năng tự nghiên cứu một số vấn đề trong thiết kế và xây dựng hệ thống học máy
-# 4. Chuẩn đầu ra: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY
+# 4. chuẩn đầu ra: thiết kế và triển khai các hệ thống ứng dụng học máy
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Định nghĩa được các khái niệm cơ sở về hệ thống học máy và quy trình xây dựng hệ thống học máy cơ bản
@@ -25,9 +21,9 @@ CLO6 Triển khai linh hoạt phương pháp làm việc độc lập và làm v
 CLO7 Sử dụng tiếng Anh nhằm chủ động tìm hiểu nghiên cứu khái niệm quy trình thiết kế xây dựng hệ thống học máy cơ bản và hiện đại
 Mức độ tự chủ và trách nhiệm
 CLO8 Thể hiện có tinh thần trung thực chịu trách nhiệm khi thực hiện các hoạt động học tập thực hành cá nhân hoặc theo nhóm 
-# 5. Tóm tắt nội dung học phần: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY
+# 5. tóm tắt nội dung học phần: thiết kế và triển khai các hệ thống ứng dụng học máy
 Môn học này được chia thành ba phần chính. Đầu tiên là phần giới thiệu về chủ đề MLOps đi sâu vào cách thức nó phát triển vai trò liên quan để thực hiện MLOps thành công và những thành phần nào được yêu cầu. Phần thứ hai mô tả sơ bộ vòng đời của mô hình học máy với các chương về phát triển mô hình chuẩn bị sản xuất triển khai vào sản xuất giám sát và quản trị. Những cân nhắc về MLOps ở từng giai đoạn của vòng đời cung cấp thêm chi tiết về chủ đề được đề cập. Phần cuối cùng cung cấp các ví dụ hữu hình về hình thức MLOps trong các công ty ngày nay để người đọc có thể hiểu được cách thiết lập và ý nghĩa trong thực tế. Sinh viên sẽ nắm được các kiến thức cần thiết cũng như khả năng xây dựng cho mình một hệ thống thông minh cơ bản.
-# 6. Nội dung chi tiết học phần: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY Chương 1: Giới thiệu tổng quan
+# 6. nội dung chi tiết học phần: thiết kế và triển khai các hệ thống ứng dụng học máy chương 1: giới thiệu tổng quan
 1. Các khái niệm liên quan hệ thống học máy
 2. Các thách thức với hệ thống học máy
 3. Đánh giá rủi ro của hệ thống
@@ -60,13 +56,9 @@ Chương 7: Giám sát và phản hồi
 3. Khung quản lý hệ thống cơ bản Chương 9: Một số hệ thống học máy
 1. Công cụ khuyến nghị tiếp thị (Marketing Recommendation Engines)
 2. Dự báo mức tiêu thụ. (Consumption Forecast.)
-# 7. Học liệu (Nên dùng các tài liệu từ 2015 trở lại đây) THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY
-Ghi chú: Học liệu được sắp xếp theo thứ tự ưu tiên. Thông tin học liệu bao gồm: tên tác giả tên sáchgiáo trình... nhà xuất bản năm xuất bản. THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY
-7.1. Học liệu bắt buộc: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY 1. Mark Treveil Introducing MLOps 2020 O\'Reilly Media Inc.
-7.2. Học liệu tham khảo: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY 1. Chip Huyen Designing Machine Learning Systems 2022 O\'Reilly
-2. Luis Pedro Coelho Building Machine Learning Systems with Python 2018 Packt Publishing
-# 8. Hình thức tổ chức dạy học: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY
-8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 3 115 Giảng đường Tự học 8.2. Lịch trình dạy cụ thể: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY Tuần Nội dung Lý thuyết Nội dung Thực hành 1 Chương 1 Chương 2 (1 tuần) Đọc tài liệu tham khảo
+# 8. hình thức tổ chức dạy học: thiết kế và triển khai các hệ thống ứng dụng học máy
+Lịch trình dạy cụ thể: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY Tuần Nội dung Lý thuyết Nội dung Thực hành 
+1 Chương 1 Chương 2 (1 tuần) Đọc tài liệu tham khảo
 2 Chương 3 (1 tuần) Đọc tài liệu tham khảo
 3,4 Chương 4 (2 tuần) Đọc tài liệu tham khảo
 5,6 Chương 5 (2 tuần) Đọc tài liệu tham khảo
@@ -76,5 +68,3 @@ Ghi chú: Học liệu được sắp xếp theo thứ tự ưu tiên. Thông ti
 12,13 Chương 9 (2 tuần) Đọc tài liệu tham khảo
 14 Thảo luận dự án Đọc tài liệu tham khảo
 15 Thảo luận dự án Đọc tài liệu tham khảo
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY
-Ghi chú: Phần này nêu yêu cầu và cách thức đánh giá sự hiện diện trên lớp mức độ tích cực tham gia các hoạt động trên lớp các qui định về thời hạn chất lượng các bài tập bài kiểm tra .... Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét cộng điểm môn học.

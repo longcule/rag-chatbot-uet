@@ -1,10 +1,23 @@
-# 7. Học liệu NHẬP MÔN LẬP TRÌNH
-7.1. Học liệu bắt buộc: NHẬP MÔN LẬP TRÌNH 1. Bài giảng của giảng viên
-2. Hồ Sĩ Đàm (chủ biên) Trần Thị Minh Châu Lê Sỹ Vinh Giáo trình: Lập trình căn bản C NXB ĐHQG 2011
-7.2. Học liệu tham khảo: NHẬP MÔN LẬP TRÌNH 3. Walter Savitch Absolute C 6th edition Pearson 2016.
-4. Andrew Koenig Accelerated C: Practical Programming by Example
-AddisonWesley Professional 2000
-5. Stanley B. Lippman C Primer 5^th^ Edition AddisonWesley
-Professional 2012
-6. J. Glenn Brookshear Computer Science: An Overview Addision
-Wesley 2009
+# Danh mục tài liệu tham khảo học phần Nhập môn lập trình - Introduction to Programming là:
+Tài liệu bắt buộc
+Lựa chọn 1. Lập trình căn bản với C
+1. Bài giảng của giáo viên
+2. Brian W. Kernighan and Dennis M. Ritchie, The C programming language, Prentice Hall 1988.
+Lựa chọn 2. Lập trình căn bản với C++
+1. Bài giảng của giáo viên
+2. Hồ Sĩ Đàm (chủ biên), Trần Thị Minh Châu, Lê Sỹ Vinh, Giáo trình: Lập trình căn bản C++, NXB ĐHQGHN 2011
+Lựa chọn 3. Lập trình căn bản với Java
+Tài liệu tham khảo thêm
+1. Robert Sedgewick (Author), Kevin Wayne, Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition. Addison-Wesley Professional 2017
+Lựa chọn 1. Lập trình căn bản với C
+1. K. N. King, C Programming: A Modern Approach, 2nd Edition, W. W. Norton & Company 2008
+2. Paul J. Deitel, Harvey Deitel, C How to Program, 8th Edition, Pearson 2015
+3. J. Glenn Brookshear, Computer Science: An Overview, Addision Wesley 2009
+Lựa chọn 2. Lập trình căn bản với C++
+1. Andrew Koenig, Accelerated C++: Practical Programming by Example, Addison-Wesley Professional 2000
+2. Stanley B. Lippman, C++ Primer, 5th Edition, Addison-Wesley Professional 2012
+3. J. Glenn Brookshear, Computer Science: An Overview, Addision Wesley 2009
+Lựa chọn 3. Lập trình căn bản với Java
+1. Kathy Sierra, Bert Bates, Head First Java: A Brain-Friendly, O'Reilly 2005
+2. Allen B. Downey, Chris Mayfield, Think Java: How to Think Like a Computer Scientist, O'Reilly 2006
+3. J. Glenn Brookshear, Computer Science: An Overview, Addision Wesley 2009

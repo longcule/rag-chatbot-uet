@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: CHUYÊN ĐỀ CÔNG NGHỆ
+# 6. nội dung chi tiết học phần: chuyên đề công nghệ
 [Tuần 1:]{.underline} Giới thiệu tổng quan về công nghệ sẽ học Tại sao lại học công nghệ này? Ưu điểmnhược điểm của công nghệ này so với các công nghệ khác Xu hướng sử dụng công nghệ này trong công nghiệp hiện tại và tương lai Một số ví dụ về các ứng dụng sử dụng công nghệ này
 [Tuần 2:]{.underline} Phân tích các yếu tố nền tảng của công nghệ
 được học Các yếu tố nền tảng của công nghệ được học So sánh các yếu tố nền tảng với các công nghệ khác Môi trường để phát triển công nghệ mới (hệ điều hành phần mềm phần cứng ngôn ngữ lập trình...)

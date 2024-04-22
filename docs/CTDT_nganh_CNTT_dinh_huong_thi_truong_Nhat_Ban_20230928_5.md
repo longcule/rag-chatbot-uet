@@ -1,4 +1,4 @@
-# 1. Tóm tắt yêu cầu chương trình đào tạo ngành CÔNG NGHỆ THÔNG TIN
+# 1. tóm tắt yêu cầu chương trình đào tạo ngành công nghệ thông tin
 Tổng số tín chỉ của chương trình đào tạo (Chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng - An ninh, Kỹ năng bổ trợ): 135 tín chỉ
 -   Khối kiến thức chung (Chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng - An ninh, Kỹ năng bổ trợ): 22 tín chỉ
 -   Khối kiến thức chung theo lĩnh vực 19 tín chỉ
@@ -10,4 +10,4 @@ Tổng số tín chỉ của chương trình đào tạo (Chưa tính các học
 -   Các học phần tự chọn: 15 tín chỉ
 -   Các học phần tự chọn bổ trợ: 03 tín chỉ
 -   Khoá luận tốt nghiệp: 07 tín chỉ
-# 2. Khung chương trình đào tạo ngành CÔNG NGHỆ THÔNG TIN
+# 2. khung chương trình đào tạo ngành công nghệ thông tin

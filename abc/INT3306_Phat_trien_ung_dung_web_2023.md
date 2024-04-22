@@ -1,16 +1,15 @@
 HỌC PHẦN: PHÁT TRIỂN ỨNG DỤNG WEB
-# 1. Thông tin về các giảng viên học phần: PHÁT TRIỂN ỨNG DỤNG WEB 
-STT Họ và Chức Địa Điện Ghi tên danh chỉ liên thoại chú học vị hệ Email 1 Lê Đình TS P 413E3 09 Trưởng Thanh 87257504 môn học tha nhld\@vn u.edu.vn 2 Hoàng TS P 406E3 08 Giảng Xuân 52465677 viên Tùng tu nghx\@vn u.edu.vn 
-# 2. Thông tin chung về học phần: PHÁT TRIỂN ỨNG DỤNG WEB Tên học phần:
-{html}
-! Tiếng Việt: Phát triển ứng dụng web Tiếng Anh: Web application development
-{html}
-! Mã số học phần: INT3306 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 303030 Học phần tiên quyết (tên và mã số học phần): Lập trình hướng đối
-tượng (INT2204) Cơ sở dữ liệu (INT2207) Mạng máy tính (INT2209). Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn Mạng và Truyền thông Khoa
-Công nghệ Thông tin.
-# 3. Mục tiêu học phần: PHÁT TRIỂN ỨNG DỤNG WEB
+# các giảng viên học phần: phát triển ứng dụng web  - web application development ngành công nghệ thông tin
+Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Việt Anh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+# 2. thông tin chung về học phần: phát triển ứng dụng web 
+tên học phần:
+Tiếng Việt: Phát triển ứng dụng web Tiếng Anh: Web application development
+Mã số học phần: INT3306 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 303030 Học phần tiên quyết (tên và mã số học phần): Lập trình hướng đối tượng (INT2204) Cơ sở dữ liệu (INT2207) Mạng máy tính (INT2209). Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn Mạng và Truyền thông Khoa Công nghệ Thông tin.
+# 3. mục tiêu học phần: phát triển ứng dụng web
 Sinh viên hiểu và vận dụng được các kiến thức cốt lõi liên quan xây dựng ứng dụng web hiện đại có thể phát triển và triển khai ứng dụng web trong công nghiệp đồng thời nắm bắt được xu hướng phát triển các công nghệ tạo web để làm chủ những công nghệ này trong tương lai.
-# 4. Chuẩn đầu ra: PHÁT TRIỂN ỨNG DỤNG WEB
+# 4. chuẩn đầu ra: phát triển ứng dụng web
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Hiểu kiến trúc ứng dụng web HTTP web server và web client.
@@ -24,9 +23,9 @@ CLO7 Triển khai ứng dụng web trong thực tế
 Mức độ tự chủ và trách nhiệm
 CLO8 Sử dụng phương pháp công nghệ mới trong phát triển ứng dụng web. Ma trận liên kết giữa Chuẩn đầu ra học phần (CLO) và Chuẩn đầu ra
 chương trình đào tạo (PLO): Phụ lục 1 Phụ lục 6.
-# 5. Tóm tắt nội dung học phần: PHÁT TRIỂN ỨNG DỤNG WEB
+# 5. tóm tắt nội dung học phần: phát triển ứng dụng web
 Học phần bắt đầu với khái niệm về ứng dụng web kiến trúc ứng dụng web mô hình clientserver vai trò của web server và web client HTTP và URL giúp học viên nắm được tổng quan về hệ thống web. Môn học đi sâu vào vai trò thông dịch của trình duyệt sử dụng HTML CSS và JavaScript DOM để tạo nội dung web thiết kế thích ứng PWA promise service worker CacheStorage và những đặc trưng của web hiện đại. Học phần tiếp tục giới thiệu các công nghệ web động đang được sử dụng rộng rãi ngôn ngữ lập trình tạo web động rồi đi sâu vào mô hình ba tầng mẫu thiết kế MVC REST API viết lại và định tuyến URL thao tác với cơ sở dữ liệu xử lý hợp thức phiên cookie xác thực và an ninh. Cuối cùng môn học giới thiệu và hướng dẫn sử dụng khung phát triển web kiểm thử ứng dụng web và tìm hiểu xu hướng phát triển web.
-# 6. Nội dung chi tiết học phần: PHÁT TRIỂN ỨNG DỤNG WEB
+# 6. nội dung chi tiết học phần: phát triển ứng dụng web
 Phần 1: Kiến trúc ứng dụng web \ Khái niệm ứng dụng web \ Mô hình clientserver \ Chức năng của web server và web client (đặc biệt là trình duyệt web) \ Tăng tính năng của trình duyệt bằng plugins; quan hệ giữa trình duyệt và các plugins. \ HTTP \ Ứng dụng web tài nguyên web và URL \ Phân loại web tĩnh và động \ Giới thiệu một số công nghệ web được sử dụng rộng rãi \ Giới thiệu các web server tương ứng với các công nghệ web được sử dụng rộng rãi \ Giới thiệu các trình duyệt web phổ biến hiện nay \ Quan hệ giữa web server với các trình biênphiên dịch ngôn ngữ lập trình đa năng được sử dụng trong các công nghệ web: API module chương trình CGI. \ Thực hành bắt và phân tích các gói HTTP Request và HTTP Response \ Thực hành cài đặt và quản trị web server cùng các trình biênphiên dịch ngôn ngữ lập trình đa năng được sử dụng.
 Phần 2: Phát triển frontend \ Phân biệt ứng dụng web và trang web \ Chức năng thông dịch của trình duyệt web \ Mã nguồn được thông dịch và thực thi tại trình duyệt web \ Đối tượng tài liệu \ HTML \ Vai trò của HTML \ Cấu trúc trang web \ Sử dụng các thẻ HTML để khai báo các đối tượng tài liệu \ Sự phát triển của HTML: HTML5 \ CSS \ Vai trò của CSS \ Nguyên lý kỹ nghệ phần mềm dẫn đến sự cần thiết sử dụng CSS \ Khai báo và sử dụng các bảng định dạng CSS \ Bộ chọn và kết hợp các bộ chọn \ Lớp giả phần tử giả \ Kế thừa bảng định dạng \ Giải quyết xung đột \ Trình diễn đối tượng mô hình cái hộp \ Xác định vị trí trình diễn đối tượng \ Sự phát triển của CSS: CSS3 \ Thiết kế thích ứng (RWD) \ Dàn trang thích ứng: flexbox grid multicolumn layout \ Hình ảnh thích ứng Resolution Switching Art Direction CSS image \ Văn bản thích ứng Phông chữ Cỡ chữ Số ký tự trên một dòng Giãn dòngchiều cao dòng Giãn cách ký tự trên dòng Stepped Typography Fluid Typography \ Giao diện thích ứng Truy vấn phương tiện và CSS có điều kiện Kết hợp các thành phần thích ứng để tạo giao diện thích ứng \ JavaScript \ Vai trò của các ngôn ngữ kịch bản phía client \ Lý do sử dụng JavaScript \ Cơ bản về JavaScript; khai báo và sử dụng biến hàm đối tượng bằng JavaScript. \ Chèn mã JavaScript vào trang web \ JavaScript không đồng bộ AJAX promise JSON \ DOM \ Quản lý các đối tượng tài liệu trong bộ nhớ của trình duyệt theo DOM \ Những phương thức và thuộc tính chung của các lớp đối tượng tài liệu \ Đối tượng window đối tượng document \ Sử dụng JavaScript để quản lý các đối tượng tài liệu theo DOM
 \ PWA
@@ -38,19 +37,8 @@ Phần 2: Phát triển frontend \ Phân biệt ứng dụng web và trang web \
 \ Push notifications
 \ BackgroundSync \ Hỗ trợ HTML CSS và JavaScript không giống nhau của các trình duyệt; những giải pháp được áp dụng để trang web có thể chạy trên nhiều trình duyệt khác nhau. \ Thực hành sử dụng HTML CSS và JavaScript để tạo trang giới thiệu trang danh sách sản phẩm và trang nhập thông tin sản phẩm trong ứng dụng quảng cáo sản phẩm trực tuyến.
 Phần 3: Phát triển backend \ Kiến trúc ứng dụng web động \ Tạo nội dung web động khi có yêu cầu \ Kiến trúc ba tầng các thành phần trong mỗi tầng giao tiếp giữa các tầng \ Vai trò của ngôn ngữ lập trình đa năng trong việc tạo web động \ Ngôn ngữ lập trình tạo web động (ví dụ PHP hoặc ASP.NET hoặc JSP) \ Cơ bản về ngôn ngữ lập trình web động: các kiểu dữ liệu hằng biến mảng xâu các toán tử các cấu trúc điều khiển hàm lớp đối tượng không gian tên xử lý ngoại lệ bao hàm tệp. \ Trang web động: tên tệp mở rộng cách nhúng các phân đoạn web động phân tích tình huống nênkhông nên nhúngtrộn các phân đoạn web động vào nội dung web. \ Các hàm thư viện cần thiết để nhận và phân tích yêu cầu (http request) được gửi từ web client. \ Các hàm thư viện cần thiết để ghi vào tiêu đề và thân đáp ứng (http response). \ Các hàm thư viện cần thiết để lưu trạng thái làm việc giữa web server và web client. \ Mẫu thiết kế MVC \ Viết lại và định tuyến URL \ REST API \ Thao tác với cơ sở dữ liệu (ví dụ MySQL hoặc MSSQL hoặc JavaDB) \ Thao tác CSDL từ ứng dụng web: Mởđóng kết nối CSDL truy vấn CSDL cập nhật CSDL. \ Xử lý kết quả truy vấn \ Truy vấn và cập nhật theo dữ liệu người dùng \ Đảm bảo tính nhất quán và toàn vẹn dữ liệu xử lý truy cập đồng thời \ Ánh xạ đối tượng quan hệ (ORM) \ Xử lý hợp thức \ Mục đích và yêu cầu xử lý hợp thức \ Các bước xử lý hợp thức \ Xử lý hợp thức phía client \ Xử lý hợp thức phía server \ Phiên và cookie \ Tính phi trạng thái của HTTP \ Lợi ích của việc biết trạng thái làm việc giữa web client và web server \ Lưu trạng thái ở trình duyệt: Tạo và sử dụng cookie các vấn đề về hiệu năng an ninh và tính riêng tư khi sử dụng cookie những tình huống nênkhông nên sử dụng cookie. \ Lưu trạng thái ở web server: Tạo và sử dụng phiên các vấn đề về hiệu năng an ninh khi sử dụng phiên những tình huống nênkhông nên sử dụng phiên. \ Xác thực và an ninh \ Mục đích của xác thực và an ninh \ Xác thực HTTP \ Xác thực IP \ Xác thực sử dụng HTML form \ JSON web token (JWT) \ Duy trì phiên \ Điều khiển truy cập \ Bảo vệ dữ liệu bằng mã hóa \ Sử dụng SSL HTTPS \ Các rủi ro an ninh với ứng dụng web và cách khắc phục \ Khung phát triển backend \ Khung phát triển backend ứng dụng web là gì \ Lợi ích của sử dụng khung phát triển ứng dụng web \ Tìm hiểu lựa chọn và sử dụng khung phát triển ứng dụng web \ Kiểm thử ứng dụng web \ Phương pháp và công cụ kiểm thử \ Viết kịch bản kiểm thử \ Kiểm thử frontend \ Kiểm thử backend \ Kiểm thử tích hợp \ Thực hành hoàn thành ứng dụng web động quảng cáo sản phẩm trực tuyến: bổ xung kịch bản phía server cho các trang đã tạo ở Chương 2; thêm các trang chính cho backend và frontend; thao tác CSDL xử lý hợp thức xác thực và an ninh ở tất cả các trang.
-# 7. Học liệu PHÁT TRIỂN ỨNG DỤNG WEB
-7.1. Học liệu bắt buộc: PHÁT TRIỂN ỨNG DỤNG WEB 
-[1] Lê Đình Thanh Nguyễn Việt Anh "Phát triển ứng dụng web" NXB ĐHQGHN 2019.
-[2] Ben Frain "Responsive Web Design with HTML5 and CSS3 3rd Edition" Packt Publishing 2020.
-[3] Brenda Jin Saurabh Sahni and Amir Shevat "Designing Web APIs Building APIs That Developers Love" O'Reilly Media 2018.
-[4] Tal Ater "Building Progressive Web Apps Bringing the Power of Native to the Browser" O'Reilly Media 2017.
-7.2. Học liệu tham khảo: PHÁT TRIỂN ỨNG DỤNG WEB [1] Jeremy Wilken "Angular in Action" Manning Publications 2018.
-[2] Erik Hanchett Ben Listwon "Vue.js in Action" Manning Publications 2018.
-[3] Matt Stauffer "Laravel: Up & Running 2nd edition" O'Reilly Media 2019.
-[4] Andrew Lock "ASP.NET Core in Action 2nd edition" Manning Publications 2021.
-[5] MDN "Learn web development" online at https:developer.mozilla.orgenUSdocsLearn.
-# 8. Hình thức tổ chức dạy học: PHÁT TRIỂN ỨNG DỤNG WEB
-8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): PHÁT TRIỂN ỨNG DỤNG WEB Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Bài giảng 2 115 Giảng đường Thực hành 2 215 Phòng thực hành máy tính 8.2. Lịch trình dạy cụ thể: PHÁT TRIỂN ỨNG DỤNG WEB Tuần Nội dung Lý thuyết Nội dung Thực hành 1 Kiến trúc ứng dụng web
+# 8. hình thức tổ chức dạy học: phát triển ứng dụng web
+Lịch trình dạy cụ thể: PHÁT TRIỂN ỨNG DỤNG WEB Tuần Nội dung Lý thuyết Nội dung Thực hành 1 Kiến trúc ứng dụng web
 2 [HTML](https:itest.com.vnlectswebappdevslidesch02.pdf) [Lab. Quản trị ứng dụng web](https:itest.com.vnlectswebappdevhosting)
 3 [CSS](https:itest.com.vnlectswebappdevslidesch03.pdf) [Lab. Letter](https:itest.com.vnlectswebappdevletter)
 4 [CSS](https:itest.com.vnlectswebappdevslidesch03.pdf) (tiếp) [Lab. Trang tin](https:itest.com.vnlectswebappdevwebpage)
@@ -70,5 +58,3 @@ Công bố bài tập lớn
 13 [Đảm bảo an ninh](https:itest.com.vnlectswebappdevslidesch08.pdf) [Lab. Ứng dụng CSDL](https:itest.com.vnlectswebappdevdbindex.htm)
 14 Sử dụng frameworks [Lab. Quản lý truy cập](https:itest.com.vnlectswebappdevauthorizationindex.htm)
 15 [Kiểm thử ứng dụng web](https:itest.com.vnlectswebappdevtesting) [Lab. Kiểm tra hợp thức](https:itest.com.vnlectswebappdevvalidationindex.htm) 
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: PHÁT TRIỂN ỨNG DỤNG WEB 
-Sinh viên nghỉ quá 20% tổng số buổi học lý thuyết và thực hành sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét cộng điểm thành phần. Với các nội dung liên quan đến lập trình (ví dụ bài tập lớn) nếu sinh viên gian lận mã nguồn thì sẽ bị điểm môn học là 0.

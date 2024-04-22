@@ -1,4 +1,4 @@
-# 4. Chuẩn đầu ra: LẬP TRÌNH NÂNG CAO
+# 4. chuẩn đầu ra: lập trình nâng cao
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Nhận diện mô tả và giải thích được cú pháp của một số ngôn ngữ lập trình thông dụng

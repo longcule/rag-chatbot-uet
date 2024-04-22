@@ -1,5 +1,5 @@
-# 2. Khung chương trình đào tạo ngành CÔNG NGHỆ THÔNG TIN
-## II. Khối kiến thức theo lĩnh vực chương trình đào tạo ngành CNTT, Tổng số tín chỉ: 19 ngành CÔNG NGHỆ THÔNG TIN
+# 2. khung chương trình đào tạo ngành công nghệ thông tin chuẩn
+## ii. khối kiến thức theo lĩnh vực chương trình đào tạo ngành cntt, tổng số tín chỉ: 19 ngành công nghệ thông tin chuẩn
 Mã số học phần: MAT1093, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Đại số\nAlgebra, số tín chỉ: 4, Lý thuyết: 30, Thực hành: 30, Tự học: , mã số học phần tiên quyết:
 Mã số học phần: MAT1041, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Giải tích 1\nCalculus 1, số tín chỉ: 4, Lý thuyết: 30, Thực hành: 30, Tự học: , mã số học phần tiên quyết:
 Mã số học phần: MAT1042, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Giải tích 2\nCalculus 2, số tín chỉ: 4, Lý thuyết: 30, Thực hành: 30, Tự học: , mã số học phần tiên quyết: MAT1041

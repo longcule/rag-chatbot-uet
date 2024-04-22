@@ -1,25 +1,2 @@
-# 6. Nội dung chi tiết học phần: XỬ LÝ ẢNH Chương 1. Giới thiệu
-1. Giới thiệu học phần
-2. Giới thiệu khái niệm và ứng dụng của xử lý ảnh Chương 2. Cơ bản về ảnh số
-1. Phổ trường điện từ của ánh sáng và hệ thống thị giác người
-2. Lấy mẫu và lượng tử
-3. Khái niệm cơ bản của ảnh số
-4. Thu nhận ảnh và hiển thị Chương III: Chuyển đổi cường độ xám và lọc
-1. Khái niệm cơ bản về chuyển đổi
-2. Xử lý lược đồ xám
-3. Phép lọc trong không gian điểm ảnh
-4. Erosion Dilation Opening Closing Chương IV: Lọc trong miền tần số
-1. Chuyển đổi Fourier nhanh
-2. Làm mịn và làm sắc ảnh trong miền tần số Chương V: Xử lý ảnh màu
-1. Mô hình màu
-2. Chuyển đổi giữa các mô hình màu
-Chương VI: Khôi phục ảnh
-1. Mô hình nhiễu
-2. Khôi phục ảnh
-3. Giảm nhiễu chu kỳ
-4. Ước lượng hàm Degration
-5. Hàm lọc ngược hàm lọc Wiener và tối thiểu bình phương có ràng buộc Chương VII: Nén ảnh
-1. Dư thừa không gian
-2. Chuyển đổi DCT
-3. Lý thuyết độ đo thông tin
-4. Phương pháp mã hóa: Hufman Golomb số học và mã loạt dài
+# 8. hình thức tổ chức dạy học: xử lý ảnh
+Lịch trình dạy cụ thể: XỬ LÝ ẢNH Tuần Nội dung giảng dạy lý Nội dung sinh viên tự thuyếtthực hành học 1 Giới thiệu học phần Tìm các áp dụng của xử lý ảnh trong các ứng dụng Giới thiệu khái niệm và hàng ngày ứng dụng của xử lý ảnh 2 Phổ trường điện từ của Tìm hiểu thêm khái niệm ánh sáng và hệ thống thị và ứng dụng của đa phổ giác người siêu phổ Lấy mẫu và lượng tử Làm bài tập 1 3 Khái niệm cơ bản của ảnh Thực tập đọc và hiển thị số ảnh bằng chương trình Matlab Thu nhận ảnh và hiển thị 4 Khái niệm cơ bản về Thực tập chuyển đổi ảnh chuyển đổi và các phép lọc sử dụng các hàm Matlab Phép lọc trong không gian điểm ảnh 5 Xử lý lược đồ xám Thực tập các phép toán hình thái sử dụng Matlab Erosion Dilation Opening Closing 6 Chuyển đổi Fourier nhanh Làm bài tập 2 Làm mịn và làm sắc ảnh trong miền tần số 7 Giới thiệu đồ án học phần Đăng ký thực hiện đồ án học phần 8 Mô hình màu Thực tập chuyển đổi giữa các mô hình màu sử dụng Chuyển đổi giữa các mô Matlab hình màu 9 Mô hình nhiễu Làm bài tập 3 Khôi phục ảnh 10 Giảm nhiễu chu kỳ Tìm hiểu và tối thiểu bình phương có ràng buộc Ước lượng hàm Degration Hàm lọc ngược hàm lọc Wiener 11 Dư thừa không gian và Làm bài tập 4 chuyển đổi DCT Lý thuyết độ đo thông tin 12 Phương pháp mã hóa: Làm các ví dụ mã hóa đơn Huffman Golomb số học giản và mã loạt dài 13 Hướng dẫn sinh thực hiện Trình bày đồ án học phần đồ án học phần Online trên hệ thống Microsoft Teams theo lịch học của Nhà trường. 14 Hướng dẫn sinh thực hiện đồ án học phần 15 Tổng kết cuối kỳ XỬ LÝ ẢNH

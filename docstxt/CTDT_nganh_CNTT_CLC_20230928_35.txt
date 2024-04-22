@@ -1,0 +1,22 @@
+ 3. danh mục tài liệu tham khảo ngành công nghệ thông tin chất lượng cao(clc)
+ Danh mục tài liệu tham khảo học phần Khoa học dịch vụ - Service Sciences là:
+Tài liệu bắt buộc
+-  Hà Quang Thụy. Bài giảng Khoa học dịch vụ. Trường ĐHCN, ĐHQGHN (Cập nhật hàng năm)
+Tài liệu tham khảo thêm
+- Mark S. Daskin. Service Science. Wiley, 2010.
+- Robin G. Qiu. Service Science: The Foundations of Service Engineering and Management. Wiley, 2014.
+- Jorge Cardoso, Ricardo Lopes, Geert Poels. Service Systems: Concepts, Modeling, and Programming. Springer, 2014.
+- Paul P. Maglio, Cheryl A. Kieliszewski, James C. Spohrer, Kelly Lyons, Lia Patrício, Yuriko Sawatani. Handbook of Service Science (Volume II). Springer, 2019.
+Các bài báo, sách cập nhật về khoa học dịch vụ là tài liệu tiểu luận.
+ Danh mục tài liệu tham khảo học phần Công nghệ Blockchain Blockchain and Distributed - Ledger Technologies là:
+Tài liệu bắt buộc:
+- Imran Bashir, Mastering Blockchain, 4nd Edition, Packt Publishing (Mar 2023)
+Tài liệu tham khảo:
+- Narayan Prusty Blockchain for Enterprise: Build scalable blockchain applications with privacy, interoperability, and permissioned features, Packt Publishing (September 26, 2018)
+- Nitin Gaur, Hands-On Blockchain with Hyperledger: Building decentralized applications with Hyperledger Fabric and Composer Packt Publishing (June 21, 2018).
+ Danh mục tài liệu tham khảo học phần Thực hành hệ điều hành mạng - Network Operating System Lab là:
+1. Tài liệu tham khảo bắt buộc
+- Christine Bresnahan and Richard Blum. Mastering Linux System Administration. Wiley, 2021.
+Tài liệu tham khảo thêm
+- LPI level 1, 2, 2021.
+- Alexandru Calcatinge and Julian Balog. Mastering Linux Administration: A Comprehensive Guide to Installing, Configuring, and Maintaining Linux Systems in the Modern Data Center. Packt, 2021.

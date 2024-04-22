@@ -1,0 +1,12 @@
+ 4. chuẩn đầu ra: khai phá dữ liệu hướng lĩnh vực
+Chuẩn đầu ra học phần: Mã Nội dung chuẩn đầu ra
+CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
+CLO 1 Nắm được thách thức và khó khăn của các phương pháp khai phá dữ liệu truyền thống trong các bài toán phục vụ kinh doanh thực tế.
+CLO 2 Phân tích các khái niệm liên quan tới khai phá dữ liệu hướng lĩnh vực
+CLO 3 Đánh giá các phương pháp ứng dụng thực tế và xu hướng phát triển của khai phá dữ liệu hướng lĩnh vực
+Kỹ năng
+CLO 4 Đưa ra quyết định ứng dụng các bài toán cơ bản các thuật toán khai phá dữ liệu
+CLO 5 Sử dụng thành thạo một số công cụ khai phá dữ liệu
+CLO 6 Đánh giá mô hình khai phá dữ liệu hướng lĩnh vực cho bài toán thực tế
+ 5. tóm tắt nội dung học phần: khai phá dữ liệu hướng lĩnh vực
+Từ những mục tiêu chính nêu trên nội dung chính của học phần bao gồm: Giới thiệu các khái niệm cơ bản vấn đề của khai phá dữ liệu và khuynh hướng phát triển của khai phá dữ liệu trong các bài toán thực tiễn hướng lĩnh vực. Các nội dung nền tảng cần thiết cho quá trình khai khai phá dữ liệu hướng lĩnh vực bao gồm các phương pháp và kỹ thuật khai phá. Phân tích một số ví dụ thực tế để làm rõ các khái niệm kèm theo xu hướng nghiên cứu và phát triển trong tương lai.

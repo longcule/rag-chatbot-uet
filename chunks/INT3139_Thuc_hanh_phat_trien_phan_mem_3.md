@@ -10,5 +10,3 @@
 # 8. Hình thức tổ chức dạy học: THỰC HÀNH PHÁT TRIỂN PHẦN MỀM
 8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): THỰC HÀNH PHÁT TRIỂN PHẦN MỀM Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 2 1 7 15 Giảng đườngtrực tuyến Thực hành 4 2\~6 8\~12 Phòng (tuần 12 học 3 máyGiảng tiết) đườngTrực tuyến 8.2. Lịch trình dạy cụ thể: THỰC HÀNH PHÁT TRIỂN PHẦN MỀM Tuần Nội dung Lý thuyết Nội dung Thực hành 1 7 15 Học tập trung một số buổi để được phổ biến về lịch trình và yêu cầu môn học một số kiến thức cơ sở về quản lý dự án phần mềm. Định kỳ hai tuần các sinh viên phải lên báo cáo tiến độ cho thầycô hướng dẫn.
 2 15 Tổ chức thành nhóm mỗi nhóm 5 sinh viên thực hiện một dự án và do một thầycô của Khoa CNTT hướng dẫn.
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: THỰC HÀNH PHÁT TRIỂN PHẦN MỀM
-Sinh viên cần tuân thủ các quy định của Giảng viên hướng dẫn (quy trình báo cáo tiến độ hàng tuần phương pháp làm việc ...) Mỗi sinh viên trong nhóm phải có đóng góp cụ thể và cần có bảng phân công công việc rõ ràng Sinh viên không tuân thủ các yêu cầu trên sẽ bị điểm F.

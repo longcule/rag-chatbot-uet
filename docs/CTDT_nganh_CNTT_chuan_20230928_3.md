@@ -1,10 +1,10 @@
-# A. Chuẩn đầu ra ngành CÔNG NGHỆ THÔNG TIN
-## 1. Chuẩn đầu ra về kiến thức ngành CÔNG NGHỆ THÔNG TIN
+# a. chuẩn đầu ra ngành công nghệ thông tin chuẩn
+## 1. chuẩn đầu ra về kiến thức ngành công nghệ thông tin chuẩn
 -   PLO1.1. Diễn giải được kiến thức cơ bản về khoa học xã hội, về khoa học chính trị và pháp luật; về văn hóa, xã hội và nhân văn; về rèn luyện thể chất và quốc phòng;
 -   PLO1.2. Vận dụng được kiến thức cơ bản của Toán học, khoa học cơ bản, và CNTT để giải quyết các bài toán liên quan đến lĩnh vực kỹ thuật;
 -   PLO1.3. Giải thích được kiến thức nền tảng trong lĩnh vực máy tính gồm hệ thống máy tính, giải thuật và lập trình, cơ sở dữ liệu, phân tích thiết kế và phát triển phần mềm, mạng máy tính ... trong nghiên cứu và phát triển các hệ thống, sản phẩm, giải pháp kỹ thuật CNTT;
 -   PLO1.4. Áp dụng được kiến thức chuyên sâu của một trong các lĩnh vực công nghệ phần mềm, hệ thống thông tin, khoa học máy tính, và mạng máy tính vào việc phân tích và so sánh các giải pháp CNTT trong thực tiễn.
-## 2. Chuẩn đầu ra về kỹ năng ngành CÔNG NGHỆ THÔNG TIN
+## 2. chuẩn đầu ra về kỹ năng ngành công nghệ thông tin chuẩn
 -   PLO2.1. Phát hiện, mô tả vấn đề về CNTT và truyền thông bằng cách áp dụng các kiến thức khoa học, CNTT, các công cụ và công nghệ hiện đại;
 -   PLO2.2. Triển khai được các giải pháp CNTT, phân tích dữ liệu và kết quả, đánh giá kỹ thuật để rút ra kết luận;
 -   PLO2.3. Lập kế hoạch, điều phối, tổ chức, dẫn dắt và đánh giá công việc nhóm và quản lý dự án CNTT hiệu quả;

@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: KHOA HỌC DỮ LIỆU
+# 6. nội dung chi tiết học phần: khoa học dữ liệu
 [Chương 1]{.underline}: Giới thiệu về Khoa học dữ liệu
 1. Khoa học dữ liệu và ra quyết định dựa trên dữ liệu
 2. Dữ liệu lớn và việc quản trị phân tích dữ liệu
@@ -52,4 +52,3 @@
 2. Một số thuật toán học không giám sát cơ bản
 3. Mô hình hóa và Đánh giá mô hình
 4. Ứng dụng của học không giám sát
-KHOA HỌC DỮ LIỆU

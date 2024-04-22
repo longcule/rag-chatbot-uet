@@ -1,0 +1,15 @@
+HỌC PHẦN: ĐỒ HỌA MÁY TÍNH
+ các giảng viên học phần: đồ họa máy tính ngành khoa học máy tính
+Tên giảng viên: Bùi Thế Duy, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Ma Thị Châu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Ngô Thị Duyên, chức danh: TS.
+ 2. thông tin chung về học phần: đồ họa máy tính
+Tên học phần:
+Tiếng Việt: Đồ họa máy tính Tiếng Anh: Computer graphics
+Mã số học phần: INT 3403 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 45000 Học phần tiên quyết (tên và mã số học phần): INT 1008 Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn KHMT Khoa CNTT
+ 3. mục tiêu học phần: đồ họa máy tính
+Kiến thức:
+Sau khi kết thúc học phần sinh viên sẽ hiểu các nguyên lý cơ bản của đồ họa máy tính hiện đại hiểu kiến thức hình học bên dưới các mô hình 3 chiều và hiểu vấn đề hiệu năng khi vẽ các mô hình 3 chiều.
+Kỹ năng:
+Sinh viên có thể xây dựng một chương trình hiển thị một cảnh 2 chiều hoặc 3 chiều sử dụng OpenGL và CC.
+Sinh viên có thể làm hoạt hình các mô hình 2 chiều hoặc 3 chiều và áp dụng ánh sáng và dán ảnh chất liệu để tăng tính hiện thực.

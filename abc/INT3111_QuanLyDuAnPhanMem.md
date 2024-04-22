@@ -1,12 +1,13 @@
 HỌC PHẦN: Quản lý dự án phần mềm
-# 1. Thông tin về các giảng viên học phần: Quản lý dự án phần mềm
-STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoại Email Ghi chú 1 Phạm Ngọc Hùng PGS TS Khoa CNTT [hungpn\@vnu.edu.vn]{.underline} Trưởng HP
-4 Trần Hoàng Việt TS FIMO [[thv\@vnu.edu.vn]{.underline}](mailto:thv@vnu.edu.vn) Giảng viên
-# 2. Thông tin chung về học phần: Quản lý dự án phần mềm Tên học phần: Quản lý dự án phần mềm 
+# các giảng viên học phần: quản lý dự án phần mềm - software project management ngành công nghệ thông tin
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Hoàng Việt, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+# 2. thông tin chung về học phần: quản lý dự án phần mềm 
+Tên học phần: Quản lý dự án phần mềm 
 Mã số học phần: INT3111 INT3111E (cho KHMT CLC) Số tín chỉ: 03 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết: INT2208 (Công nghệ phần mềm) Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn CNPM Khoa CNTT
-# 3. Mục tiêu học phần: Quản lý dự án phần mềm 
+# 3. mục tiêu học phần: quản lý dự án phần mềm 
 Giới thiệu chức năng vai trò các kỹ năng cần có của quản lý dự án phần mềm và những khó khăn trong quản lý dự án Trình bày các kỹ thuật cho chuẩn bị dự án lập kế hoạch triển khai kiểm tra giám sát và kết thúc dự án phần mềm Cung cấp cho sinh viên những hiểu biết về: quản lý phạm vi quản lý thời gian quản lý chi phí quản lý chất lượng quản lý rủi ro quản lý nguồn lực quản lý giao tiếp quản lý các bên liên quan quản lý phát triển ... Thực hành quản lý một số dự án đơn giản thông qua các bài tập (hàng tuần và bài tập lớn) Cung cấp các bài học và kinh nghiệm quản lý dự án thực tế (từ các bài nói chuyện của các quản lý dự án có kinh nghiệm)
-# 4. Chuẩn đầu ra: Quản lý dự án phần mềm
+# 4. chuẩn đầu ra: quản lý dự án phần mềm
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1.1 Vận dụng (3) kiến thức về đồ thị ô tô mát hữu hạn trạng thái để đảm bảo chất lượng phần mềm kiểm soát lịch trình dự án. Vận dụng được kiến thức về các phương pháp phát triển phần mềm để xây dựng kế hoạch dự án.
@@ -15,9 +16,9 @@ Kỹ năng
 CLO2.1 Mô tả (3) bài toán cần giải quyết của dự án phần mềm
 CLO2.2 Triển khai (3) được quy trình lập kế hoạch sắp xếp công việc quản lý thời gian và nguồn lực của dự án
 CLO2.3 Lập kế hoạch điều phối tổ chức dẫn dắt và đánh giá (3) công việc của dự án phần mềm Ma trận liên kết giữa 
-# 5. Tóm tắt nội dung học phần: Quản lý dự án phần mềm
+# 5. tóm tắt nội dung học phần: quản lý dự án phần mềm
 Học phần cung cấp các kiến thức cơ bản về vai trò chức năng của quản lý dự án phần mềm cũng như những khó khăn gặp phải khi thực hiện quản lý các dự án phần mềm. Các kỹ năng cần có của một quản lý dự án cũng sẽ được trình bày trong học phần này nhằm giúp cho sinh viên có định hướng tốt trong các công việc. Nội dung chính của học phần tập trung giới thiệu các pha chính trong quá trình quản lý một dự án như: chuẩn bị dự án lập kế hoạch triển khai kiểm tra giám sát và kết thúc dự án. Các kỹ thuật cần thiết cho quản lý dự án như: quản lý rủi ro quản lý nguồn lực quản lý thay đổi quản lý chất lượng quản lý tài chính và quản lý phát triển cũng sẽ được trình bày trong học phần này. Ngoài ra sinh viên sẽ được học các kỹ năng giao tiếp và kỹ năng làm việc nhóm thông qua việc thực hành quản lý các dự án đơn giản.
-# 6. Nội dung chi tiết học phần: Quản lý dự án phần mềm
+# 6. nội dung chi tiết học phần: quản lý dự án phần mềm
 Học phần sẽ bao gồm các nội dung chính như sau:
 Chương 1. Tổng quan về quản lý dự án (3 tiết) \ Các khái niệm cơ bản về quản lý dự án các miền tri thức trong quản lý dự án các tiêu chí đánh giá dự án các kỹ năng cần có của người quản lý dự án v.v. \ Các vấn đề về đạo đức nghề nghiệp trong quản lý dự án.
 Chương 2. Quản lý dự án trong ngữ cảnh tổ chức (3 tiết) Giới thiệu về khái niệm tổ chức các bên liên quan các pha và vòng đời của một dự án phần mềm và một số đặc trưng của dự án phần mềm. Một số xu hướng ảnh hưởng đến việc quản lý các dự án phần mềm.
@@ -34,13 +35,7 @@ Chương 12. Quản lý các bên liên quan (3 tiết) Xác định và lập k
 Sinh viên trình bàydoanh nghiệp trình bày kinh nghiệm quản lý dự án
 thực tiễn (6 tiết)
 Ôn tập và trả lời câu hỏi (3 tiết)
-# 7. Học liệu Quản lý dự án phần mềm
-7.1. Học liệu bắt buộc: Quản lý dự án phần mềm 1. Kathy Schwalbe Information Technology Project Management 9th edition Course Technology 2019
-2. Phạm Ngọc Hùng Trần Hoàng Việt Giáo trình quản lý dự án phần mềm NXB ĐHQGHN 2022
-7.2. Học liệu tham khảo: Quản lý dự án phần mềm 1. Murali K. Chemuturi and Thomas M. Cagley Jr. Mastering Software Project Management: Best Practices Tools and Techniques J. Ross Publishing 2010
-2. Steve McConnell Rapid Development Microsoft Press 1996 ISBN 1556159005
-3. R. Futrell D. Shafer L. Shafer Quality Software Project Management PrenticeHall PTR 2002.
-# 8. Hình thức tổ chức dạy học: Quản lý dự án phần mềm
+# 8. hình thức tổ chức dạy học: quản lý dự án phần mềm
 8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): Quản lý dự án phần mềm Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 3 115 Giảng đường 8.2. Lịch trình dạy cụ thể: Quản lý dự án phần mềm Tuần Tiết Nội dung Nội dung SV tự học 1 1 Các khái niệm cơ bản về quản lý dự án Một số vấn đề về đạo đức nghề nghiệp trong quản lý dự án
 2 Mười miền tri thức cần có của một quản lý dự án
 Các tiêu chí đánh giá dự án
@@ -113,5 +108,3 @@ Quản lý sự tham gia dự án của các bên liên quan
 13 37 Sinh viên trình bàydoanh nghiệp trình bày kinh nghiệm quản lý dự án thực tiễn
 Sinh viên trình bàydoanh nghiệp trình bày kinh nghiệm quản lý dự án thực tiễn
 Ôn tập
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: Quản lý dự án phần mềm 
-Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web học phần) sẽ được xem xét cộng điểm học phần Mỗi buổi học sẽ có bài kiểm tra 1015 phút bao gồm các kiến thức bài cũ và bài mới Với các nội dung liên quan đến thực hành dự án nếu sinh viên không tham gia thì sẽ bị điểm học phần là 0 Nếu điểm tổng hợp của "kiểm tra hàng tuần" và "Dự án theo nhóm đánh giá theo các bài tập nhỏ hàng tuần" hoặc điểm giữa kì dưới 5.0 thì sinh viên sẽ bị cấm thi cuối kỳ

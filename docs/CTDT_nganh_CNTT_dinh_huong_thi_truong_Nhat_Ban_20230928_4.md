@@ -1,5 +1,5 @@
-# A.  Chuẩn đầu ra ngành CÔNG NGHỆ THÔNG TIN
-## 4. Vị trí việc làm mà sinh viên có thể đảm nhiệm sau khi tốt nghiệp ngành CÔNG NGHỆ THÔNG TIN
+# a.  chuẩn đầu ra ngành công nghệ thông tin
+## 4. vị trí việc làm mà sinh viên có thể đảm nhiệm sau khi tốt nghiệp ngành công nghệ thông tin
 Sinh viên ngành Công nghệ Thông tin định hướng thị trường Nhật Bản sau khi tốt nghiệp có khả năng tham mưu tư vấn và có khả năng thực hiện nhiệm vụ với tư cách như một kỹ sư trong lĩnh vực công nghệ thông tin, đáp ứng các yêu cầu cao về nghiên cứu và ứng dụng công nghệ thông tin của xã hội. Các sinh viên này sẽ có khả năng làm việc độc lập, tự học, tự nghiên cứu và nâng cao trình độ. Thêm vào đó, họ có khả năng thích nghi cao với sự phát triển nhanh chóng của ngành Công nghệ thông tin. Và đặc biệt, những sinh viên này sẽ sẵn sàng làm việc cho các doanh nghiệp Nhật Bản.
 Các vị trí công tác có thể đảm nhận:
 -   Kỹ sư cầu nối Nhật Bản;
@@ -13,6 +13,6 @@ Các vị trí công tác có thể đảm nhận:
 -   Chuyên viên kiểm thử phần mềm;
 -   Chuyên viên phân tích dữ liệu bằng máy tính.
 Sau một thời gian, các sinh viên này có khả năng phát triển lên trưởng nhóm phát triển phần mềm, quản lý hệ thống thông tin, quản lý dự án, giám đốc công nghệ... cho các doanh nghiệp.
-## 5. Khả năng học tập, nâng cao trình độ sau khi tốt nghiệp ngành CÔNG NGHỆ THÔNG TIN
+## 5. khả năng học tập, nâng cao trình độ sau khi tốt nghiệp ngành công nghệ thông tin
 Sinh viên tốt nghiệp ra trường có thể tiếp tục học tập lên các chương trình đào tạo sau đại học tại các Trường đại học trong và ngoài nước; hoặc tiếp tục nghiên cứu, thực hành trau dồi kỹ năng, nâng cao trình độ thông qua giải quyết các bài toán thực tế tại doanh nghiệp, xã hội, để thành chuyên gia trong lĩnh vực góp phần phát triển ngành Công nghệ thông tin trong tương lai.
 PHẦN III: NỘI DUNG CHƯƠNG TRÌNH ĐÀO TẠO

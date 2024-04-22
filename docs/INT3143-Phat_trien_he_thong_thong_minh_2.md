@@ -1,4 +1,4 @@
-# 4. Chuẩn đầu ra: PHÁT TRIỂN HỆ THỐNG THÔNG MINH
+# 4. chuẩn đầu ra: phát triển hệ thống thông minh
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Về phía kỹ sư phần mềm hiểu biết về các thách thức đặc thù khi làm việc với các thành phần AI khi phát triển hệ thống phần mềm.

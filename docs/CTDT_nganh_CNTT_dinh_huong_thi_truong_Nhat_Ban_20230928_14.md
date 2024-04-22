@@ -1,5 +1,5 @@
-## V. Khối kiến thức ngành chương trình đào tạo ngành CNTT định hướng thị trường Nhật Bản, Tổng số tín chỉ: 54 ngành CÔNG NGHỆ THÔNG TIN
-### V.5. Khoá luận tốt nghiệp chương trình đào tạo ngành CNTT định hướng thị trường Nhật Bản, Tổng số tín chỉ: 7 ngành CÔNG NGHỆ THÔNG TIN
+## v. khối kiến thức ngành chương trình đào tạo ngành cntt định hướng thị trường nhật bản, tổng số tín chỉ: 54 ngành công nghệ thông tin
+### v.5. khoá luận tốt nghiệp chương trình đào tạo ngành cntt định hướng thị trường nhật bản, tổng số tín chỉ: 7 ngành công nghệ thông tin
 Mã số học phần: INT4050, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Khóa luận tốt nghiệp (*) - Graduation Thesis, số tín chỉ: 7, Lý thuyết: , Thực hành: , Tự học: 105, mã số học phần tiên quyết:
 Mã số học phần: Các học phần thay thế khóa luận tốt nghiệp, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): , số tín chỉ: , Lý thuyết: , Thực hành: , Tự học: , mã số học phần tiên quyết:
 Mã số học phần: INT3509, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Dự án (bắt buộc) - Projects, số tín chỉ: 4, Lý thuyết: 21, Thực hành: , Tự học: 39, mã số học phần tiên quyết:

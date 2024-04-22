@@ -1,0 +1,9 @@
+HỌC PHẦN: PHÂN TÍCH THIẾT KẾ CÁC HỆ THỐNG THÔNG TIN
+ các giảng viên học phần: phân tích thiết kế các hệ thống thông tin - information system analysis and design là:
+Tên giảng viên: Dư Phương Hạnh, chức danh: TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Bá Duy, chức danh: ThS
+Tên giảng viên: Lê Hồng Hải, chức danh: TS
+ 2. thông tin chung về học phần: phân tích thiết kế các hệ thống thông tin
+Tên học phần: Phân tích thiết kế các hệ thống thông tin Mã số học phần: INT2020E Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết: INT 2211 Cơ sở dữ liệu Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn CHTTT Khoa CNTT
+ 3. mục tiêu học phần: phân tích thiết kế các hệ thống thông tin
+Mục tiêu chính của học phần cung cấp giới thiệu những kiến thức chủ chốt về "nghệ thuật" giải quyết vấn đềbài toán đặt ra thông qua những phương pháp kỹ thuật phân tích thiết kế hệ thống thông tin (HTTT). học phần sẽ chú trọng đến việc thực nghiệm thông qua cả bài tập lớn trên lớp và thi hành dự án theo nhóm. Kết thúc học phần sinh viên cần có được những tri thức để có thể: \ Trình bày rõ được những khái niệm những thuật ngữ cơ bản về phân tích thiết kế hệ HTTT cũng như hiểu được vai trò của chúng trong phát triển hệ thống thực tế. \ Đặc tả được vòng đời phát triển HTTT và hiểu rõ các bước chính trong vòng đời này. \ Cập nhật được những phương thức và công nghệ mới trong lĩnh vực phân tích thiết kế HTTT. \ Hiểu và trình bày được quy trình phân tích biết dùng các công cụ phục vụ quá trình phân tích. \ So sánh sử dụng và đánh giá được những kỹ thuật mô hình hoá quan niệm trong phân tích hệ thống (lược đồ luồng dữ liệu lược đồ ER mô hình sử dụng UML ...) \ Nắm được các kỹ năng thiết kế và sử dụng các công cụ phục vụ quá trình thiết kế HTTT \ Biết cách vận dụng những kiến thức có được trong việc phân tích và thiết kế một hệ thống thông tin giải quyết một bài toán thực tế.

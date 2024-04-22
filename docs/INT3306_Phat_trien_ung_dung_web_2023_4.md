@@ -1,11 +1,21 @@
-# 7. Học liệu PHÁT TRIỂN ỨNG DỤNG WEB
-7.1. Học liệu bắt buộc: PHÁT TRIỂN ỨNG DỤNG WEB
-[1] Lê Đình Thanh Nguyễn Việt Anh "Phát triển ứng dụng web" NXB ĐHQGHN 2019.
-[2] Ben Frain "Responsive Web Design with HTML5 and CSS3 3rd Edition" Packt Publishing 2020.
-[3] Brenda Jin Saurabh Sahni and Amir Shevat "Designing Web APIs Building APIs That Developers Love" O'Reilly Media 2018.
-[4] Tal Ater "Building Progressive Web Apps Bringing the Power of Native to the Browser" O'Reilly Media 2017.
-7.2. Học liệu tham khảo: PHÁT TRIỂN ỨNG DỤNG WEB [1] Jeremy Wilken "Angular in Action" Manning Publications 2018.
-[2] Erik Hanchett Ben Listwon "Vue.js in Action" Manning Publications 2018.
-[3] Matt Stauffer "Laravel: Up & Running 2nd edition" O'Reilly Media 2019.
-[4] Andrew Lock "ASP.NET Core in Action 2nd edition" Manning Publications 2021.
-[5] MDN "Learn web development" online at https:developer.mozilla.orgenUSdocsLearn.
+# 8. hình thức tổ chức dạy học: phát triển ứng dụng web
+Lịch trình dạy cụ thể: PHÁT TRIỂN ỨNG DỤNG WEB Tuần Nội dung Lý thuyết Nội dung Thực hành 1 Kiến trúc ứng dụng web
+2 [HTML](https:itest.com.vnlectswebappdevslidesch02.pdf) [Lab. Quản trị ứng dụng web](https:itest.com.vnlectswebappdevhosting)
+3 [CSS](https:itest.com.vnlectswebappdevslidesch03.pdf) [Lab. Letter](https:itest.com.vnlectswebappdevletter)
+4 [CSS](https:itest.com.vnlectswebappdevslidesch03.pdf) (tiếp) [Lab. Trang tin](https:itest.com.vnlectswebappdevwebpage)
+5 [Thiết kế đáp ứng (RWD)](https:itest.com.vnlectswebappdevslidesrwd.pdf) [Lab. Flexbox 2](https:itest.com.vnlectswebappdevlayoutflexbox2.htm)\
+[Lab. Fluid Typography](https:itest.com.vnlectswebappdevtypotypo2.htm)
+6 [JavaScript DOM](https:itest.com.vnlectswebappdevslidesch041.pdf) [Lab. Form nhập](https:itest.com.vnlectswebappdevform)\
+[Lab. Danh sách](https:itest.com.vnlectswebappdevtable)
+7 [AJAX JSON](https:itest.com.vnlectswebappdevslidesch042.pdf)\ [Lab. Sắp xếp trên bảng](https:itest.com.vnlectswebappdevsortable)\
+[JavaScript không đồng bộ](https:itest.com.vnlectswebappdevslidesadvjs.pdf) [Lab. JSON](https:itest.com.vnlectswebappdevjson)
+8 [PWA](https:itest.com.vnlectswebappdevslidespwa.pdf) [Lab. JavaScript không đồng bộ](https:itest.com.vnlectswebappdevasyncjs)\
+[Lab. Fetch API](https:itest.com.vnlectswebappdevfetch)
+9 [Công nghệ web động](https:itest.com.vnlectswebappdevslidesch06.pdf)\ [Lab. PWA](https:itest.com.vnlectswebappdevpwa)
+Công bố bài tập lớn
+10 [Viết lại và định tuyến URL](https:itest.com.vnlectswebappdevslidesch09.pdf) KIỂM TRA GIỮA KỲ (trắc nghiệm trên máy tính)
+11 [Thao tác CSDL](https:itest.com.vnlectswebappdevslidesch07.pdf) [Lab. Flat vs MVC vs MC (API)](https:itest.com.vnlectswebappdevmvc)
+12 [Lưu trạng thái](https:itest.com.vnlectswebappdevslidesch08.pdf) [Lab. Định tuyến URL](https:itest.com.vnlectswebappdevroutingindex.htm)
+13 [Đảm bảo an ninh](https:itest.com.vnlectswebappdevslidesch08.pdf) [Lab. Ứng dụng CSDL](https:itest.com.vnlectswebappdevdbindex.htm)
+14 Sử dụng frameworks [Lab. Quản lý truy cập](https:itest.com.vnlectswebappdevauthorizationindex.htm)
+15 [Kiểm thử ứng dụng web](https:itest.com.vnlectswebappdevtesting) [Lab. Kiểm tra hợp thức](https:itest.com.vnlectswebappdevvalidationindex.htm)

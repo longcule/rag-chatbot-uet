@@ -1,20 +1,17 @@
-# 4. Đội ngũ cán bộ giảng dạy ngành CÔNG NGHỆ THÔNG TIN
-## Các giảng viên học phần: Thực hành hệ điều hành mạng - Network operating system lab ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Đỗ Hoàng Kiên, chức danh: ThS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Mạng không dây - Wireless Networks ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Nguyễn Hoài Sơn, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Trần Trúc Mai, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Lập trình mạng - Network Programing ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Hoài Sơn, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Truyền thông đa phương tiện - Multimedia Communications ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Thanh Hà, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: An toàn và an ninh mạng - Network Safety and Security ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Điện toán đám mây - Cloud computing ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+# 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin chuẩn
+## các môn học sẽ học trong học kỳ 7 chương trình đào tạo ngành công nghệ thông tin chuẩn
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT3220E,"Các chủ đề hiện đại của HTTT - Advanced topics in Information systems",3
+2,INT4002,"Thực tập doanh nghiệp - Industrial Internship",3
+3,,"Kỹ năng bổ trợ - Soft Skills",3
+4-5,,02 học phần khối V.2,6-8
+6,INT3227,"Tích hợp dịch vụ - Service Integration",4
+INT3232E,"Phân tích kinh doanh - Business Analytics",4
+INT3233,"Khai phá dữ liệu hướng lĩnh vực - Domain-driven Data Mining",4
+INT3234E,"Phân tích dữ liệu dự báo - Predictive analytics",4
+INT3236E,"Phát triển ứng dụng doanh nghiệp - Application Development for Enterprise",4
+Tổng: 15-17 tín chỉ
+## các môn học sẽ học trong học kỳ 8 chương trình đào tạo ngành công nghệ thông tin chuẩn
+STT,Mã học phần,Học phần,Số tín chỉ
+1,,"Khóa luận tốt nghiệp - Các học phần thay thế khóa luận tốt nghiệp",7
+Tổng tín chỉ: 7

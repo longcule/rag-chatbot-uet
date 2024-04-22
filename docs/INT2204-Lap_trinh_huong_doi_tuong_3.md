@@ -1,5 +1,4 @@
-# 6. Nội dung chi tiết học phần: Lập trình hướng đối tượng
-
+# 6. nội dung chi tiết học phần: lập trình hướng đối tượng
 1. Giới thiệu về ngôn ngữ Java
 1.1. Lịch sử ngôn ngữ Java
 1.2. Môi trường lập trình Java máy ảo và JDK
@@ -50,7 +49,7 @@
 7.5 Quan hệ giữa lớp tổng quát và thừa kế
 8. Các cấu trúc dữ liệu (chỉ giới thiệu thư viện chuẩn)
 8.1. Các cấu trúc dữ liệu cơ bản và các lớp wrapper tương ứng String StringBuffer Math Array
-8.2. Các kiểu dữ liệu container tổng quát (list set\....)
+8.2. Các kiểu dữ liệu container tổng quát (list set....)
 9. Luồng dữ liệu
 9.1. Khái niệm về luồng dữ liệu
 9.2. Cơ chế tổng quát lắp ráp các luồng dữ liệu khi đọcghi
@@ -60,4 +59,3 @@
 10.1 Giới thiệu các nguyên tắc xây dựng thiết kế hướng đối tượng tốt
 10.2. Giới thiệu sơ lược về mẫu thiết kế và 3 mẫu điển hình.
 11. Các chủ đề mở rộng Sinh viên tự nghiên cứu các chủ đề tự chọn xung quanh lập trình Java và các ngôn ngữ hướng đối tượng khác
-

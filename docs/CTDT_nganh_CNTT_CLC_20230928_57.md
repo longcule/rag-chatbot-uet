@@ -1,19 +1,27 @@
-# 4. Đội ngũ cán bộ giảng dạy ngành CÔNG NGHỆ THÔNG TIN
-## Các giảng viên học phần: Khoa học dịch vụ ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Hà Quang Thuỵ, chức danh: PGS. TS, chuyên ngành: Đảm bảo toán học cho máy tính và hệ thống tính toán, đơn vị:
-Tên giảng viên: Bùi Quang Hưng, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị:
-Tên giảng viên: Nguyễn Ngọc Hoá, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Công nghệ Blockchain Blockchain and Distributed - Ledger Technologies ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Nguyễn Ngọc Hóa, chức danh: PGS TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Khoa CNTT
-Tên giảng viên: Lê Hồng Hải, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Thực hành hệ điều hành mạng - Network Operating System Lab ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Đỗ Hoàng Kiên, chức danh: ThS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Mạng không dây - Wireless Networks ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Nguyễn Hoài Sơn, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Trần Trúc Mai, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chất lượng cao(clc)
+## các giảng viên học phần: xử lý tiếng nói - speech processing ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Trần Quốc Long, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+## các giảng viên học phần: tác tử thông minh và rô-bốt - intelligence agents and robotics ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên:  Trường ĐHCN
+## các giảng viên học phần: thuật toán nâng cao và ứng dụng - advanced algorithms and applications ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Các giảng viên Khoa CNTT và giảng viên mời
+## các giảng viên học phần: phương pháp tính - numerical methods ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Bằng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Bộ quốc phòng
+## các giảng viên học phần: tối ưu hóa - optimization ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Huấn, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+## các giảng viên học phần: bổ trợ ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Các giảng viên Khoa CNTT và giảng viên mời
+## các giảng viên học phần: khóa luận tốt nghiệp - graduation thesis ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Các giảng viên Khoa CNTT, Trường ĐHCN và giảng viên mời
+# 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin chất lượng cao(clc)
+## các môn học sẽ học trong học kỳ 1 chương trình đào tạo cntt chất lượng cao(clc)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT1009,Tin học cơ sở,3
+3,INT1008,Nhập môn lập trình,3
+4,MAT1093,Đại số,4
+5,MAT1041,Giải tích 1,4
+6,EPN1095,Vật lý đại cương 1,2
+7,PHI1006,Triết học Mác – Lênin,3
+Tổng: 19 môn học

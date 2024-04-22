@@ -1,0 +1,12 @@
+ 4. chuẩn đầu ra: phân tích mạng phương tiện xã hội trong kinh doanh
+Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
+CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
+CLO 1 Phân tích các khái niệm cơ bản của mạng phương tiện xã hội và phân tích mạng phương tiện xã hội trong kinh doanh
+CLO 2 Đánh giá khả năng áp dụng các bài toán kỹ thuật của khai phá dữ liệu vào dữ liệu mạng phương tiện xã hội
+CLO 3 Đánh giá các phương pháp ứng dụng thực tế và xu hướng phát triển của phân tích mạng phương tiện xã hội trong kinh doanh
+Kỹ năng
+CLO 4 Quyết định phương án thu thập tiền xử lý và lưu trữ dữ liệu mạng xã hội phù hợp với yêu cầu thực tế
+CLO 5 Phân tích phương án phát triển các kỹ thuật phân tích mạng phương tiện xã hội
+CLO 6 Quyết định mô hình phân tích mạng phương tiện xã hội có khả năng ứng dụng thực tế
+ 5. tóm tắt nội dung học phần: phân tích mạng phương tiện xã hội trong kinh doanh
+Từ những mục tiêu chính nêu trên nội dung chính của học phần sẽ cung cấp những kiến thức cơ bản về phân tích mạng phương tiện xã hội để từ đó đưa ra được hệ thống giải quyết bài toán thực tế. Các nội dung kiến thức sẽ bao gồm: Giới thiệu mạng phương tiện xã hội Giới thiệu về phân tích mạng phương tiện xã hội Áp dụng các thông tin từ mạng phương tiện xã hội vào kinh doanh Các bài toán phân tích mạng phương tiện xã hội. PHÂN TÍCH MẠNG PHƯƠNG TIỆN XÃ HỘI TRONG KINH DOANH

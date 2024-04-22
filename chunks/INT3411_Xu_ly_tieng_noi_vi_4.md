@@ -14,5 +14,4 @@
 13 Chương 7. Ứng dụng của mô hình âm thanh Làm bài tập
 14 Chương 7. Ứng dụng của mô hình âm thanh Làm bài tập
 15 Báo cáo bài tập lớn
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: XỬ LÝ TIẾNG NÓI
-Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được xem xét cộng điểm môn học. Với các nội dung liên quan đến lập trình (ví dụ bài tập lớn) nếu sinh viên gian lận mã nguồn thì sẽ bị điểm môn học là 0.
+

@@ -1,0 +1,11 @@
+HỌC PHẦN: Công nghệ phần mềm
+ các giảng viên học phần: công nghệ phần mềm - software engineering ngành khoa học máy tính
+Tên giảng viên: Nguyễn Việt Hà, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: TS
+Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS
+Tên giảng viên: Đặng Đức Hạnh, chức danh: TS
+ 2. thông tin chung về học phần: công nghệ phần mềm
+Tên học phần: Công nghệ phần mềm Mã số học phần: INT2208 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết: Nhập môn lập trình (INT1008) Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn CNPM Khoa CNTT
+ 3. mục tiêu học phần: công nghệ phần mềm
+Trang bị các khái niệm cơ bản về công nghệ phần mềm các nguyên lý quy trình kỹ thuật và công cụ hỗ trợ nhằm phát triển một hệ thống phần mềm có chất lượng trong thời gian ngắn với chi phí hợp lý; Cho sinh viên trải nghiệm thực tế qua việc thực hiện một dự án theo nhóm biết làm việc nhóm; Trang bị cho sinh viên khả năng sử dụng một số công cụ phổ biến trong phát triển phẩn mềm; Cung cấp một số kiến thức cập nhật về phát triển phần mềm như qui trình linh hoạt v.v.

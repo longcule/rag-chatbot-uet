@@ -1,0 +1,8 @@
+HỌC PHẦN: CƠ SỞ CÁC HỆ THỐNG THÔNG TIN
+ các giảng viên học phần: cơ sở các hệ thống thông tin  - foundation of information systems là:
+Tên giảng viên: Hà Quang Thụy, chức danh: PGS.TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Ngọc Hóa, chức danh: PGS.TS
+Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS.TS
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS
+ 2. thông tin chung về học phần cơ sở các hệ thống thông tin
+Tên học phần : Cơ sở các Hệ thống thông tin Foundation of Information Systems Mã số học phần: INT3201E Số tín chỉ: 4 Giờ tín chỉ đối với các hoạt động (LTThHTH): 6000 Học phần tiên quyết: INT2211 Cơ sở dữ liệu Các yêu cầu khác đối với học phần (nếu có): Không Bộ môn Khoa phụ trách học phần: Bộ môn HTTT Khoa CNTT

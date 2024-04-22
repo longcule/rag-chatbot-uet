@@ -1,0 +1,10 @@
+ v.2. nhóm các học phần tự chọn chương trình đào tạo ngành mạng máy tính(mmt), tổng số tín chỉ: 21 ngành mạng máy tính và truyền thông dữ liệu
+ v.2.2. nhóm các học phần về phát triển ứng dụng internet và điện toán đám mây chương trình đào tạo ngành mạng máy tính(mmt), tổng số tín chỉ: ngành mạng máy tính và truyền thông dữ liệu
+Mã số học phần: INT3304, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Lập trình mạng\nNetwork programming, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2213
+Mã số học phần: INT3319E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Điện toán đám mây\nCloud computing, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2213
+Mã số học phần: INT3326, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng điện toán đám mây\nCloud computing application development, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT1008
+Mã số học phần: INT3323, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng Internet of Things\nIoT application development, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2204,\nINT2213
+Mã số học phần: INT3305, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Truyền thông đa phương tiện\nMultimedia Communications, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2213
+Mã số học phần: INT3202, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Hệ quản trị cơ sở dữ liệu\nDatabase Management Systems, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
+Mã số học phần: INT3325, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Các hệ thống nhúng\nEmbedded systems, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2214
+Mã số học phần: INT3120, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng di động \nMobile application development, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT1008

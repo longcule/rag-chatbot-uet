@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: TIN SINH HỌC ỨNG DỤNG
+# 6. nội dung chi tiết học phần: tin sinh học ứng dụng
 Học phần sẽ bao gồm các nội dung chính như sau:
 Chương 1: Kiến thức cơ bản về sinh học phân tử (3 tiết)
 1. Tổng quan về sinh học phân tử

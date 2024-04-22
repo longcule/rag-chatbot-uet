@@ -1,8 +1,7 @@
-# 6. Nội dung chi tiết học phần: AN NINH DI ĐỘNG
+# 6. nội dung chi tiết học phần: an ninh di động
 1. Hệ sinh thái di động
 1. Hệ sinh thái
 2. Mô hình rủi ro
-{html}
 ! 1. Hệ điều hành iOS
 1. iOS an toàn như thế nào?
 1. Jailbreak iOS
@@ -48,6 +47,3 @@
 1. Thế hệ hiện tại
 2. Thanh toán không chạm
 3. Ví Google
-# 7. Học liệu AN NINH DI ĐỘNG
-7.1. Học liệu bắt buộc: AN NINH DI ĐỘNG \[1\]. Neil Bergan et al. Hacking exposed: mobile security secrets & solutions McGraw Hill 2013 \[2\]. Jim Doherty Wireless and mobile device security Jones and Barlett Learning 2021
-7.2. Học liệu tham khảo: AN NINH DI ĐỘNG Giảng viên sẽ phát trong giờ học

@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: PHÂN TÍCH DỮ LIỆU KHÔNG GIAN VÀ ỨNG DỤNG
+# 6. nội dung chi tiết học phần: phân tích dữ liệu không gian và ứng dụng
 Ghi chú: Nội dung học phần được mô tả chi tiết đến 2 mức chương bài
 ví dụ:
 Chương 1: Giới thiệu chung Tổng quan về các dữ liệu không gian Cách tiếp cận phân tích dữ liệu không gian Các ứng dụng phổ biến

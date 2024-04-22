@@ -1,14 +1,2 @@
-# 7. Học liệu PHÂN TÍCH DỮ LIỆU DỰ BÁO
-7.1. Học liệu bắt buộc: PHÂN TÍCH DỮ LIỆU DỰ BÁO \[1\]. Daniel T. Larose and Chantal D. Larose. Data Mining and
-Predictive Analytics. John Wiley & Sons Inc. 2015.
-\[2\] Conrad Carlberg. Predictive Analytics: Microsoft Excel. Pearson
-Education Inc. 2018.
-\[3\]. James R. Evans. Business Analytics: Methods Models and
-Decisions. Pearson Education Limited 2021.
-7.2. Học liệu tham khảo: PHÂN TÍCH DỮ LIỆU DỰ BÁO \[4\] John D. Kelleher Brian Mac Namee and Aoife D'Arcy. Fundamentals
-of Machine Learning for Predictive Data Analytics: Algorithms Worked
-Examples and Case Studies. The MIT Press 2020.
-\[5\] Rob J. Hyndman and George Athanasopoulos. Forecasting: Principles
-and Practice. OTexts 2023.
-\[6\] Eric Siegel. Predictive Analytics: The Power to Predict Who Will
-Click Buy Lie or Die. Wiley 2016.
+# 8. hình thức tổ chức dạy học: phân tích dữ liệu dự báo
+8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): PHÂN TÍCH DỮ LIỆU DỰ BÁO Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 4 110 Giảng đường Lý thuyết 4 1115 Nền tảng học trực tuyến (Zoom Microsoft Teams ...) 8.2. Lịch trình dạy cụ thể: PHÂN TÍCH DỮ LIỆU DỰ BÁO Tuần Nội dung Lý thuyếtthực Nội dung sinh viên tự hành đọc tự học 1 Dạy Chương 1 (Tổng Chương 1 tài liệu [1]; quan về phân tích dữ Chương 1 tài liệu [3]; liệu dự báo) Chương 1 tài liệu [4] 2 Dạy Chương 2 (2.1 Chương 3 tài liệu [1]; 2.2 2.3) Chương 4 tài liệu [3] Dạy Chương 3 (3.1) Chia nhóm sinh viên để làm dự án hoặc seminar nhóm. 3 Dạy Chương 3 (3.2 Chương 3 tài liệu [1]; 3.3 3.4 3.5 3.6) Chương 4 5 6 tài liệu [3] Giao chủ đề dự án hoặc chủ để seminar 4 Dạy Chương 4 (4.1 Chương 2 tài liệu [1]; 4.2 4.3 4.4 4.5) Chương 3 tài liệu [4] 5 Dạy Chương 5 (5.1 Chương 8 9 tài liệu 5.2 5.3) [1]; Chương 2 tài liệu [2]; Chương 8 tài liệu [3] 6 Dạy Chương 5 (5.4) Chương 8 9 tài liệu [1]; Chương 2 tài liệu Dạy Chương 6 (6.1 [2]; Chương 8 tài liệu 6.2 6.3) [3] Chương 3 4 5 6 tài liệu [2]; Chương 9 tài liệu [3]; Các chương tài liệu [5] 7 Dạy Chương 6 (6.4 Chương 3 4 5 6 tài liệu 6.5 6.6) [2]; Chương 9 tài liệu [3]; Các chương tài liệu [5] 8 Dạy Chương 6 (6.7 Chương 3 4 5 6 tài liệu 6.8) [2]; Chương 9 tài liệu [3]; Các chương tài liệu Dạy Chương 7 (7.1 [5] 7.2) 9 Dạy Chương 7 (7.3 Chương 11 13 14 tài liệu 7.4 7.5) [1]; Chương 4 6 tài liệu [4] 10 Dạy Chương 7 (7.6 Chương 12 tài liệu [1] 7.7) 11 Dạy Chương 7 (7.8 Chương 15 25 tài liệu 7.9) [1]; Chương 8 tài liệu [4] Dạy Chương 8 (8.1 8.2) Các chương tài liệu [6] và các tài liệu bên ngoài. 12 Dạy Chương 8 (8.3 Các chương tài liệu [6] 8.4 8.5 8.6 8.7 và các tài liệu bên ngoài. 8.8) 13 Trình bày dự án Các nhóm sinh viên trình seminar nhóm (buổi 1) bày 14 Trình bày dự án Các nhóm sinh viên trình seminar nhóm (buổi 2) bày 15 Trình bày dự án Các nhóm sinh viên trình seminar nhóm (buổi 3) bày Ôn tập và hỏi đáp trước thi cuối kỳ.

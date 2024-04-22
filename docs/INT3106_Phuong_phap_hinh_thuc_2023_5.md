@@ -1,10 +1,2 @@
-# 7. Học liệu PHƯƠNG PHÁP HÌNH THỨC
-7.1. Học liệu bắt buộc: PHƯƠNG PHÁP HÌNH THỨC \[1\]. Flemming Nielson Hanne Riis Nielson. Formal Methods: An
-Appetizer. Springer 2019.
-\[2\]. Jiacun Wang. Formal Methods in Computer Science. Chapman and HallCRC 2019. PHƯƠNG PHÁP HÌNH THỨC
-7.2. Học liệu tham khảo: PHƯƠNG PHÁP HÌNH THỨC \[1\]. Markus Roggenbach Antonio Cerone BerndHolger
-Schlingloff Gerardo Schneider Siraj Ahmed Shaikh. Formal
-Methods for Software Engineering: Languages Methods Application
-Domains. Springer 2022.
-\[2\]. Gerard O\'Regan. Concise Guide to Formal Methods: Theory
-Fundamentals and Industry Applications. Springer 2017.
+# 8. hình thức tổ chức dạy học: phương pháp hình thức
+Lịch trình dạy cụ thể: PHƯƠNG PHÁP HÌNH THỨC Tuần Nội dung giảng dạy lý Nội dung sinh viên tự thuyếtthực hành học 1 Giới thiệu về nội dungmôn Đọc thêm học liệu cung học cấp trên website môn học Giới thiệu về phương pháp hình thức 2 Lôgic mệnh đề Đọc thêm học liệu cung cấp trên website môn học 3 Phương pháp SAT Encoding Đọc thêm tài liệu do giáo viên cung cấp 4 Kỹ thuật CNF Encoding Đọc thêm tài liệu do giáo viên cung cấp 5 SAT Solver và thuật toán Đọc thêm tài liệu do giáo DPLL viên cung cấp; hoàn thành bài tập cài đặt được giao (nếu có) 6 Lôgic vị từ cấp I Đọc thêm tài liệu do giáo viên cung cấp; hoàn thành bài tập cài đặt được giao (nếu có) 7 SMT solver và ứng dụng Đọc thêm tài liệu do giáo viên cung cấp; hoàn thành bài tập cài đặt được giao (nếu có) 8 Báo cáo bài tập giao cho Sinh viên chuẩn bị nội từng sinh viên dung theo mẫu báo cáo Giáo viên yêu cầu 9 Lôgic Hoare và Program Đọc thêm tài liệu do giáo caculus viên cung cấp; hoàn thành bài tập lớn được giao. 10 Kiểm thử và Gỡ lỗi Đọc thêm tài liệu do giáo viên cung cấp; hoàn thành bài tập lớn được giao. 11 Đặc tả và kiểm chứng hình Đọc thêm tài liệu do giáo thức viên cung cấp; hoàn thành bài tập lớn được giao. 12 Kỹ thuật thực thi tượng Đọc thêm tài liệu do giáo trưng SE viên cung cấp; hoàn thành bài tập lớn được giao. 13 Báo cáo bài tập lớn Các nhóm sẽ trình bày tại Giảng đường hoặc Online trên hệ thống Microsoft Teams theo lịch học của Nhà trường. 14 Báo cáo bài tập lớn 15 Báo cáo bài tập lớn

@@ -1,12 +1,13 @@
 HỌC PHẦN: PHÁT TRIỂN ỨNG DỤNG DI ĐỘNG
-# 1. Thông tin về các giảng viên học phần: PHÁT TRIỂN ỨNG DỤNG DI ĐỘNG
-STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoại Email Ghi chú 1 Lê Khánh Trình TS Bộ môn CNPM trinhlk\@vnu.edu.vn Giảng viên
-2 Nguyễn Việt Tân ThS Bộ môn CNPM tannv\@vnu.edu.vn Giảng viên
-# 2. Thông tin chung về học phần: PHÁT TRIỂN ỨNG DỤNG DI ĐỘNG
+# các giảng viên học phần: phát triển ứng dụng di động  - mobile application development ngành công nghệ thông tin
+Tên giảng viên: Nguyễn Việt Tân, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Võ Đinh Hiếu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+# 2. thông tin chung về học phần: phát triển ứng dụng di động
 Tên học phần: Tiếng Việt: Phát triển ứng dụng di động Tiếng Anh: Mobile Application Development Mã số học phần: INT3120 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết: INT2204 Lập trình hướng đối tượng Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn Công nghệ phần mềm Khoa CNTT
-# 3. Mục tiêu học phần: PHÁT TRIỂN ỨNG DỤNG DI ĐỘNG
+# 3. mục tiêu học phần: phát triển ứng dụng di động
 Học phần giới thiệu các kiến thức nền tảng về lập trình động. Sau khi hoàn thành học phần này sinh viên sẽ Biết được xu hướng công nghệ và kinh doanh ảnh hưởng đến ứng dụng di động Nắm được các đặc điểm và kiến trúc cơ bản của ứng dụng di động Nắm được các yêu cầu ở mức doanh nghiệp đối với các ứng dụng di động Có thể sử dụng một khung ứng dụng để phát triển ứng dụng di động
-# 4. Chuẩn đầu ra: PHÁT TRIỂN ỨNG DỤNG DI ĐỘNG
+# 4. chuẩn đầu ra: phát triển ứng dụng di động
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Hiểu các nguyên tắc cơ bản và quy trình phát triển ứng dụng di động trên nhiều loại thiết bị khác nhau

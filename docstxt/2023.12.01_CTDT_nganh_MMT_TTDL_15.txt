@@ -1,0 +1,8 @@
+ v.2. nhóm các học phần tự chọn chương trình đào tạo ngành mạng máy tính(mmt), tổng số tín chỉ: 21 ngành mạng máy tính và truyền thông dữ liệu
+ v.2.4. các học phần lựa chọn khác chương trình đào tạo ngành mạng máy tính(mmt), tổng số tín chỉ: ngành mạng máy tính và truyền thông dữ liệu
+Mã số học phần: INT3209E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Khai phá dữ liệu\nData Mining, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
+Mã số học phần: INT3401, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Trí tuệ nhân tạo\nArtificial Intellegence, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
+Mã số học phần: INT3405, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Học máy\nMachine Learning, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: MAT1101
+Mã số học phần: INT3105, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiến trúc phần mềm\nSoftware Architecture, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
+Mã số học phần: INT3111, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Quản lý dự án phần mềm\nSoftware Project Management, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2208
+Mã số học phần: INT3125, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Các chuyên đề trong TT&MMT\nSpecial Problems in Communications and Computer networks, số tín chỉ: 3, Lý thuyết: 21, Thực hành: 24, Tự học: , mã số học phần tiên quyết: INT2213

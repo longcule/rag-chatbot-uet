@@ -14,5 +14,3 @@
 13 Tri thức và lập luận không chắc chắn Mạng xác xuất
 14 Giới thiệu về học máy Ứng dụng của học máy trong thực tế
 15 Ôn tập và tổng kết
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: TRÍ TUỆ NHÂN TẠO
-Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web môn học) sẽ được tính vào điểm chuyên cần. Với các nội dung liên quan đến lập trình (ví dụ bài tập lớn) nếu sinh viên sao chép code của bạn hoặc cho bạn sao chép code sẽ bị điểm 0.

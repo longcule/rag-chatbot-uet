@@ -1,18 +1,25 @@
-# 4. Đội ngũ cán bộ giảng dạy ngành CÔNG NGHỆ THÔNG TIN
-## Các giảng viên học phần: Phân tích và thiết kế hướng đối tượng - Object-oriented Analysis and Design ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Đặng Đức Hạnh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Trần Hoàng Việt, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Trương Ninh Thuận, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Tô Văn Khánh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Kiểm thử và đảm bảo chất lượng phần mềm - Software Testing and Quality Assurance ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Trương Ninh Thuận, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Phạm Ngọc Hùng, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Võ Đình Hiếu, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Thu Trang, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Kiến trúc phần mềm - Software Architecture ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Võ Đình Hiếu, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Việt Hà, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Trương Ninh Thuận, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Lập trình nhúng và thời gian thực - Real-time and embedded programming ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Tô Văn Khánh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Quang Minh, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Viện CNTT, ĐHQGHN
+# 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin
+## các môn học sẽ học trong học kỳ 7 chương trình đào tạo ngành cntt định hướng thị trường nhật bản
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT3138,Chuyên đề công nghệ Nhật Bản (*),3
+2,THL1057,Nhà nước và Pháp luật Đại cương,2
+3,JAP2086,Tiếng Nhật 3C,3
+4,INT3141,Tiếng Nhật trong Công nghệ thông tin 2,3
+5,INT3510,Chuẩn kỹ năng của CNTT,2
+6,Sinh viên chọn 01 học phần (03 tín chỉ) từ các học phần lựa chọn,,3
+INT3321,Thực hành phát triển ứng dụng di động (*),3
+INT3117,Kiểm thử và đảm bảo chất lượng phần mềm,3
+INT3111,Quản lý dự án phần mềm (*),3
+INT3115,Thiết kế giao diện người dung (*),3
+INT3307,An toàn và an ninh mạng,3
+INT3209,Khai phá dữ liệu,3
+INT3404,Xử lý ảnh,3
+INT3506,Các hệ thống thương mại điện tử,3
+INT3404,Xử lý ảnh,3
+INT3422,Tin học y tế,3
+Tổng: 16 môn học
+## các môn học sẽ học trong học kỳ 8 chương trình đào tạo ngành cntt định hướng thị trường nhật bản
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT4050,"Khóa luận tốt nghiệp
+Các học phần thay thế khóa luận tốt nghiệp",7
+Tổng: 7 môn học

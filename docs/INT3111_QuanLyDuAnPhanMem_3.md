@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: Quản lý dự án phần mềm
+# 6. nội dung chi tiết học phần: quản lý dự án phần mềm
 Học phần sẽ bao gồm các nội dung chính như sau:
 Chương 1. Tổng quan về quản lý dự án (3 tiết) \ Các khái niệm cơ bản về quản lý dự án các miền tri thức trong quản lý dự án các tiêu chí đánh giá dự án các kỹ năng cần có của người quản lý dự án v.v. \ Các vấn đề về đạo đức nghề nghiệp trong quản lý dự án.
 Chương 2. Quản lý dự án trong ngữ cảnh tổ chức (3 tiết) Giới thiệu về khái niệm tổ chức các bên liên quan các pha và vòng đời của một dự án phần mềm và một số đặc trưng của dự án phần mềm. Một số xu hướng ảnh hưởng đến việc quản lý các dự án phần mềm.

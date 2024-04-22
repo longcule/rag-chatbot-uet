@@ -1,0 +1,61 @@
+ 6. nội dung chi tiết học phần: lập trình hướng đối tượng
+1. Giới thiệu về ngôn ngữ Java
+1.1. Lịch sử ngôn ngữ Java
+1.2. Môi trường lập trình Java máy ảo và JDK
+1.3. Giới thiệu về các loại chương trình Java: application và applet
+1.4. Dịch và chạy chương trình
+2. Các khái niệm về lập trình hướng đối tượng
+2.1. Lịch sử ngôn ngữ lập trình
+2.2. So sánh lập trình thủ tục và lập trình hướng đối tượng
+2.3. Khái niệm hướng đối tượng và mục tiêu của thiết kế hướng đối tượng
+2.4. Sơ lược về các khái niệm cơ bản: trừu tượng hóa đối tượng lớp thông điệp đóng gói che dấu thông tin thừa kế.
+3. Lớp và đối tượng trong Java:
+3.1. Vị trí của đối tượng trong chương trình
+3.2. Cài đặt và sử dụng lớp và đối tượng
+3.3. Đối tượng và tham chiếu đối tượng
+3.4. Overloading
+3.5. Constructor
+3.6. Giới thiệu và phân biệt khái niệm implementationinterface
+3.7. Thể hiện của khái niệm đóng gói và che dấu thông tin trong cài đặt lớp
+3.8. Phân biệt các kiểu dữ liệu cơ bản và đối tượng
+3.9. Bản chất của đối tượng và tham chiếu đối tượng
+3.10. Cơ chế phép gán và các phép so sánh
+3.11. Cơ chế truyền tham số và giá trị trả về
+3.12. Tham chiếu this
+3.13. Các đặc điểm đặc thù ngôn ngữ như thành viên static package tham số dòng lệnh
+3.14. Quan hệ composition giữa các đối tượng
+4. Thừa kế
+4.1. Khái niệm thừa kế
+4.2. Cài đặt quan hệ thừa kế trong Java
+4.3. Quyền truy nhập và che dấu thông tin
+4.4. Thành viên final constructor
+4.5. Tái sử dụng bằng quan hệ thừa kế so sánh với composition
+5. Đa hình
+5.1. Upcast và downcast
+5.2. Cơ chế liên kết động và liên kết tĩnh
+5.3. Lớp trừu tượng và phương thức trừu tượng
+5.4. Đa thừa kế và interface
+5.5. Mẫu thiết kế: Prototype và Template Method
+6. Ngoại lệ
+6.1. Ngoại lệ là gì và tại sao cần so sánh với các cơ chế bắt và xử lý lỗi truyền thống
+6.2. Cơ chế ném và bắt ngoại lệ
+6.3. Định nghĩa các ngoại lệ mới
+6.4. Quan hệ giữa ngoại lệ và đa hình
+7. Lập trình tổng quát
+7.1. Lớp tổng quát
+7.2. Phương thức tổng quát
+7.3. Kiểu con và wildcard
+7.4. Hạn chế và ràng buộc tham số kiểu
+7.5 Quan hệ giữa lớp tổng quát và thừa kế
+8. Các cấu trúc dữ liệu (chỉ giới thiệu thư viện chuẩn)
+8.1. Các cấu trúc dữ liệu cơ bản và các lớp wrapper tương ứng String StringBuffer Math Array
+8.2. Các kiểu dữ liệu container tổng quát (list set....)
+9. Luồng dữ liệu
+9.1. Khái niệm về luồng dữ liệu
+9.2. Cơ chế tổng quát lắp ráp các luồng dữ liệu khi đọcghi
+9.3. Các luồng cơ bản để xử lý file
+9.4. Áp dụng cơ chế chung cho các thao tác đọc ghi với các loại nguồn dữ liệu khác ví dụ kết nối mạng.
+10. Thiết kế hướng đối tượng
+10.1 Giới thiệu các nguyên tắc xây dựng thiết kế hướng đối tượng tốt
+10.2. Giới thiệu sơ lược về mẫu thiết kế và 3 mẫu điển hình.
+11. Các chủ đề mở rộng Sinh viên tự nghiên cứu các chủ đề tự chọn xung quanh lập trình Java và các ngôn ngữ hướng đối tượng khác

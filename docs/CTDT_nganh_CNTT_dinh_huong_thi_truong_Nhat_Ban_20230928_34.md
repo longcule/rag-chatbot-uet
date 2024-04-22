@@ -1,21 +1,20 @@
-# 4. Đội ngũ cán bộ giảng dạy ngành CÔNG NGHỆ THÔNG TIN
-## Các giảng viên học phần: Triết học Mác – Lênin - Marxist-Leninist Philosophy ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Kinh tế chính trị Mác – Lênin - Marx-Lenin Political Economy ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Chủ nghĩa xã hội khoa học - Scientific Socialism ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Lịch sử Đảng Cộng sản Việt Nam - Revolutionary Guidelines of Vietnam Communist Party ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Tư tưởng Hồ Chí Minh - Ho Chi Minh's Ideology ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Nhà nước và Pháp luật Đại cương - State and Law ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng Trường ĐH Luật, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Tiếng Nhật 1A - Japanese 1A ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Tiếng Nhật 1B - Japanese 1B ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Tin học cơ sở - Introduction to Informatics ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Giảng viên Trường ĐHCN, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Kỹ năng bổ trợ - Soft Skills ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng TT Dự báo phát triển nguồn nhân lực, chức danh: , chuyên ngành: , đơn vị:
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin
+## các giảng viên học phần: toán học rời rạc - discrete mathematics ngành công nghệ thông tin
+Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Xác suất thống kê, đơn vị: Trường ĐHCN
+Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Thanh Hải, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Cao Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Thị Điệp, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: nguyên lý hệ điều hành - principles of operating systems ngành công nghệ thông tin
+Tên giảng viên: Nguyễn Hải Châu, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Phan Xuân Hiếu, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thị Hậu, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trọng Hiếu, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: mạng máy tính - computer network ngành công nghệ thông tin
+Tên giảng viên: Hồ Đắc Phương, chức danh: ThS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trúc Mai, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN

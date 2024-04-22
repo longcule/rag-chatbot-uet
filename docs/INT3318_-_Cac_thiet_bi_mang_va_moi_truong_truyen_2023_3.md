@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: CÁC THIẾT BỊ MẠNG VÀ MÔI TRƯỜNG TRUYỀN
+# 6. nội dung chi tiết học phần: các thiết bị mạng và môi trường truyền
 Chương 1. Giới thiệu về mạng
 1.1 Sử dụng mạng để làm gì?
 1.2 Các loại mạng

@@ -1,5 +1,5 @@
-### V.2. Các học phần lựa chọn chương trình đào tạo ngành CNTT, Tổng số tín chỉ: 27/106 ngành CÔNG NGHỆ THÔNG TIN
-#### V.2.2. Nhóm các học phần về Hệ thống thông tin chương trình đào tạo ngành CNTT, Tổng số tín chỉ: ngành CÔNG NGHỆ THÔNG TIN
+### v.2. các học phần lựa chọn chương trình đào tạo ngành cntt, tổng số tín chỉ: 27/106 ngành công nghệ thông tin chuẩn
+#### v.2.2. nhóm các học phần về hệ thống thông tin chương trình đào tạo ngành cntt, tổng số tín chỉ: ngành công nghệ thông tin chuẩn
 Mã số học phần: INT3202, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Hệ quản trị cơ sở dữ liệu\nDatabase Management Systems, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
 Mã số học phần: INT3209, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Khai phá dữ liệu \nData Mining, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
 Mã số học phần: INT3225, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Trí tuệ kinh doanh\nBusiness Intelligence, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211

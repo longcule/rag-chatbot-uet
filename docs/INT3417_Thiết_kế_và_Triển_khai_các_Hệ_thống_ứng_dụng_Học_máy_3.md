@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY Chương 1: Giới thiệu tổng quan
+# 6. nội dung chi tiết học phần: thiết kế và triển khai các hệ thống ứng dụng học máy chương 1: giới thiệu tổng quan
 1. Các khái niệm liên quan hệ thống học máy
 2. Các thách thức với hệ thống học máy
 3. Đánh giá rủi ro của hệ thống

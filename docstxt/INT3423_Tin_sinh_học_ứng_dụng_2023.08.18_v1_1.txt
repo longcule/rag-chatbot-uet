@@ -1,0 +1,21 @@
+HỌC PHẦN: TIN SINH HỌC ỨNG DỤNG
+ các giảng viên học phần: tin sinh học ứng dụng - bioinformatics and its applications ngành khoa học máy tính
+Tên giảng viên: Đặng Cao Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS
+Tên giảng viên: Đặng Thanh Hải, chức danh: TS
+ 2. thông tin chung về học phần: tin sinh học ứng dụng
+tên học phần:
+Tiếng Việt: Tin sinh học ứng dụng Tiếng Anh: Bioinformatics and its Applications
+Mã số học phần: INT3423 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết (tên và mã số học phần): INT2215 (Lập trình nâng cao) Các yêu cầu đối với học phần (nếu có): Có thể dạy lớp lớn Bộ môn Khoa phụ trách học phần: Bộ môn Khoa học và Kỹ thuật Tính
+toán Khoa CNTT
+ 3. mục tiêu học phần: tin sinh học ứng dụng
+Giới thiệu các bài toán cơ bản và các ứng dụng thực tế của tin sinh
+học Giới thiệu kiến thức cơ bản về tin sinh học Trang bị cho sinh viên những phương pháp và công cụ tin sinh học cơ
+bản để giải quyết các bài toán quan trọng trong tin sinh học.
+ 4. chuẩn đầu ra: tin sinh học ứng dụng
+Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
+CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
+CLO1 Hiểu được các khái niệm cơ bản trong tin sinh và sinh học phân tử
+CLO2 Tìm hiểu và trình bày được kiến thức một chủ đề hiện đại trong tin sinh học dưới dạng một báo cáo khoa học
+CLO3 Biết cách cập nhật các kiến thức hiện đại trong tin sinh học
+CLO4 Biết và sử dụng được một ứng dụng thích hợp để giải quyết một số bài toán trong tin sinh học

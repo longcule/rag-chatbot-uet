@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: TƯƠNG TÁC NGƯỜI MÁY
+# 6. nội dung chi tiết học phần: tương tác người máy
 Chương 1 GIỚI THIỆU
 1.1. Tương tác người máy là gì
 1.1.1. Khái niệm chung

@@ -1,0 +1,27 @@
+ 3. danh mục tài liệu tham khảo ngành mạng máy tính và truyền thông dữ liệu
+ Danh mục tài liệu tham khảo học phần Tín hiệu và hệ thống - Signals and Systems là:
+Tài liệu bắt buộc
+1. Lê Vũ Hà, Nguyễn Linh Trung, Đề cương giảng dạy của giảng viên
+2. Haykin, Signals and Systems, John Wiley&Sons, 2005.
+Tài liệu tham khảo thêm
+1. Kamen, Fundamentals of Signals and Systems using the Web and MATLAB, Prentice Hall, 2006.
+2. Alan V. Oppenheim, Signals and Systems, Prentice Hall. 1996
+ Danh mục tài liệu tham khảo học phần Cấu trúc dữ liệu và giải thuật - Data Structures and Algorithms là:
+Tài liệu bắt buộc
+Java:
+1. Robert Sedgewick and Kevin Wayne. Algorithms (4th edition) Pearson 2011
+C++:
+1. Đinh Mạnh Tường, Cấu trúc dữ liệu và giải thuật, Nhà xuất bản Khoa học và kỹ thuật 2008.
+2. Michael T. Goodrich and Roberto Tamassia, Data structures and Algorithms in C++ (2nd edition), Wiley 2011.
+Tài liệu tham khảo thêm
+ Danh mục tài liệu tham khảo học phần Xác suất thống kê - Probability and Statistics là:
+Tài liệu bắt buộc
+1. Đặng Hùng Thắng, Mở đầu về lý thuyết xác suất và các ứng dụng, Nhà Xuất bản Giáo dục, 2009.
+2. Đặng Hùng Thắng, Thống kê và ứng dụng. Nhà Xuất bản Giáo dục, 2008.
+3. Đặng Hùng Thắng, Bài tập xác suất. Nhà Xuất bản Giáo dục, 2009.
+4. Đặng Hùng Thắng, Bài tập thống kê. Nhà Xuất bản Giáo dục, 2008.
+Tài liệu tham khảo thêm
+1. Leon-Garcia, Alberto, And Alberto. Leon-Garcia. Probability, statistics, and random processes for electrical engineering. 3rd ed. Upper Saddle River, NJ: Pearson/Prentice Hall, 2008.
+2. Peter J.Bickel, Kjell A. Doksum. Mathematical Statistics: Basic Ideas and Selected Topics, Vol I (2nd Edition) - Prentice Hall (2000)
+3. S. M . Ross. Introduction to Probability and Statistics for Engineers and Scientists, Fifth Edition (2014).
+4. Hossein Pishro-Nik. Introduction to Probability, Statistics, and Random Processes. Kappa Research, LLC. (2014).

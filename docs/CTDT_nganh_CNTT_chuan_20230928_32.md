@@ -1,15 +1,21 @@
-# 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
-## Mã học phần: INT3229
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kỹ thuật và công nghệ dữ liệu lớn - BigData Techniques and Technologies, Số tín chỉ: 4, Danh mục tài liệu tham khảo học phần Kỹ thuật và công nghệ dữ liệu lớn - BigData Techniques and Technologies là:
-1. Tài liệu bắt buộc
-1. Vũ Bá Duy, Hà Quang Thuỵ, Nguyễn Ngọc Hóa. Bài giảng Kỹ thuật và công nghệ dữ liệu lớn (cập nhật hàng năm).
-2. Tom White, Hadoop: The Definitive Guide, O'Reilly Media, 4th Edition, 2015.
-3. Hien Luu, Beginning Apache Spark 3: With DataFrame, Spark SQL, Structured Streaming, and Spark Machine Learning Library, Apress (2021).
-4. H. Karau, A. Konwinski, P. Wendell, and M. Zaharia, Learning Spark: Lightning-Fast Big Data Analysis, 2nd Edition, O’Reilly, 2020.
-5. Data Science and Big Data Analytics (John Wiley & Sons, Indianapolis IN, 2015) by EMC Education Services
-2. Tài liệu tham khảo
-1. Thomas Erl (with Wajid Khattak, Paul Buhler). Big Data Fundamentals: Concepts, Drivers & Techniques. Prentice Hall, 2016.
-2. Albert Y. Zomaya, Sherif Sakr. Handbook of Big Data Technologies. Springer, 2017.
-3. Bart Baesens. Analytics in a Big Data World: The Essential Guide to Data Science and its Applications, Wiley, 2014.
-4. Borko Furht, Flavio Villanustre. Big Data Technologies and Applications. Springer International, 2016.
-5. Sharath Kumar M. N. and Pranav Shukla, Learning Elastic Stack 7.0: distributed search, analytics, and visualization using Elasticsearch, Logstash, Beats, and Kibana (2019).
+# 3. danh mục tài liệu tham khảo ngành công nghệ thô
+## Danh mục tài liệu tham khảo học phần Thực hành hệ điều hành mạng - Network operating system lab là:
+1. Tài liệu tham khảo bắt buộc
+1. Christine Bresnahan and Richard Blum. Mastering Linux System Administration. Wiley, 2021.
+Tài liệu tham khảo thêm
+1. LPI level 1, 2, 2021.
+2. Alexandru Calcatinge and Julian Balog. Mastering Linux Administration: A Comprehensive Guide to Installing, Configuring, and Maintaining Linux Systems in the Modern Data Center. Packt, 2021.
+## Danh mục tài liệu tham khảo học phần Mạng không dây - Wireless Networks là:
+Tài liệu bắt buộc
+1. Jochen H Schileer. Mobile Communication Third Edition. Prentice Hall, 2007
+2. Cory Beard, William Stallings, Wireless Communication Networks and Systems, Pearson, 2015
+Tài liệu tham khảo thêm
+1. William Stallings, 5G Wireless: A Comprehensive Introduction, Addison-Wesley, 2021
+2. Các bài báo của IEEE
+## Danh mục tài liệu tham khảo học phần Lập trình mạng - Network Programing là:
+Tài liệu bắt buộc
+1. W. Richard Stevens, Bill Fenner, Andrew M. Rudoff, UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API, Addison Wesley, 2003.
+2. Bogdan Ciubotaru, Gabriel-Miro Muntean, Advanced Network Programming – Principles and Techniques, Network Application Programming with Java, Springer, 2013
+Tài liệu tham khảo thêm
+1. D. Comer and S. Stevens, Inter-networking with TCP/IP Vol III: Client-Server Programming and Applications, 3rd edition, Prentice Hall, 1999.
+2. Jan Graba, An Introduction to Network Programming with Java, Third Edition, Springer, 2013

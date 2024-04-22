@@ -1,0 +1,18 @@
+ 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chuẩn
+ các giảng viên học phần: phương pháp hình thức - formal methods ngành công nghệ thông tin chuẩn
+Tên giảng viên: Tô Văn Khánh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trương Ninh Thuận, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+ các giảng viên học phần: lập trình nhúng và thời gian thực - real-time and embedded programming ngành công nghệ thông tin chuẩn
+Tên giảng viên: Tô Văn Khánh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Quang Minh, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Viện CNTT, ĐHQGHN
+ các giảng viên học phần: thu thập và phân tích yêu cầu - requirements engineering ngành công nghệ thông tin chuẩn
+Tên giảng viên: Đặng Đức Hạnh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Hoàng Việt, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+ các giảng viên học phần: quản lý dự án phần mềm - software project management ngành công nghệ thông tin chuẩn
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Hoàng Việt, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+ các giảng viên học phần: thiết kế giao diện người dùng - user interface design ngành công nghệ thông tin chuẩn
+Tên giảng viên: Ngô Thị Duyên, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN

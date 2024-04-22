@@ -1,0 +1,54 @@
+ 6. nội dung chi tiết học phần: khoa học dữ liệu
+[Chương 1]{.underline}: Giới thiệu về Khoa học dữ liệu
+1. Khoa học dữ liệu và ra quyết định dựa trên dữ liệu
+2. Dữ liệu lớn và việc quản trị phân tích dữ liệu
+3. Ứng dụng của khoa học dữ liệu
+4. Vòng đời của dự án khoa học dữ liệu
+[Chương 2:]{.underline} Làm quen với Python
+1. Giới thiệu ngôn ngữ lập trình Python
+2. Các vấn đề cơ bản của ngôn ngữ Python
+3. Một số thư viện phục vụ cho khoa học dữ liệu
+[Chương 3:]{.underline} Làm việc với dữ liệu
+1. Chuẩn bị dữ liệu
+2. Tiển xử lý dữ liệu
+3. Một số kỹ thuật thao tác với dữ liệu truyền thống
+4. Một số kỹ thuật thao tác với dữ liệu lớn
+5. Trực quan hóa dữ liệu
+[Chương 5:]{.underline} Xác suất
+1. Khái niệm cơ bản
+2. Xác suất đơn giản
+3. Xác suất có điều kiện
+[Chương 6:]{.underline} Biến ngẫu nhiên và phân phối xác suất
+1. Biến ngẫu nhiên
+2. Phân phối xác suất và ứng dụng
+3. Phép thử và kỳ vọng
+4. Mô hình xác suất
+5. Ứng dụng xác suất trong khoa học dữ liệu
+[Chương 4:]{.underline} Thống kê mô tả [ ]{.underline}
+1. Phân tích khám phá dữ liệu
+2. Ước lượng dữ liệu
+3. Diễn giải và truyền đạt kết quả phân tích thống kê
+[Chương 7:]{.underline} Suy luận thống kê
+1. Khái niệm cơ bản
+2. Một số kỹ thuật ước lượng
+3. Kiểm định giả thuyết
+4. Phân tích biến phụ thuộc
+5. Phân tích dữ liệu rởi rạc
+[Chương 8]{.underline}: Học có giám sát
+1. Khái niệm cơ bản
+2. Dữ liệu huấn luyện xác thực kiểm tra
+3. Một số thuật toán học giám sát cơ bản
+4. Đánh giá mô hình
+5. Tối ưu mô hình
+6. Ứng dụng học có giám sát
+[Chương 9:]{.underline} Phân tích hồi qui
+1. Khái niệm cơ bản
+2. Hồi qui tuyến tính một biến
+3. Hồi qui tuyến tính bội
+4. Phân tích dự báo
+5. Đánh giá mô hình
+[Chương 10]{.underline}: Học không giám sát
+1. Khái niệm cơ bản
+2. Một số thuật toán học không giám sát cơ bản
+3. Mô hình hóa và Đánh giá mô hình
+4. Ứng dụng của học không giám sát

@@ -1,19 +1,14 @@
-# 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
-## Mã học phần: INT3120
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng di động - Mobile Application Development, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Phát triển ứng dụng di động - Mobile Application Development là:
-1. Tài liệu bắt buộc
-1. Bill Phillips, Android Programming: The Big Nerd Ranch Guide, Big Nerd Ranch Guides, ISBN: 978-0321804334, 2013.
-2. Wei-Meng Lee, Beginning Android 4 Application Development, Wrox, ISBN: 978-1118199541, 2012.
-2. Tài liệu tham khảo thêm
-Barry Burd, Android Application Development All-in-One For Dummies, John Wiley & Sons, 978-1118027707, 2011.
-## Mã học phần: INT3306
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng Web - Web Application Development, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Phát triển ứng dụng Web - Web Application Development là:
-1. Tài liệu bắt buộc
-1. Lê Đình Thanh, Nguyễn Việt Anh, Phát triển ứng dụng web, NXB ĐHQGHN, 2019.
-2. Ben Frain, Responsive Web Design with HTML5 and CSS3, 3rd Edition, Packt Publishing, 2020.
-3. Brenda Jin, Saurabh Sahni, and Amir Shevat, Designing Web APIs Building APIs That Developers Love, O’Reilly Media, 2018.
-4. Tal Ater, Building Progressive Web Apps, Bringing the Power of Native to the Browser, O’Reilly Media, 2017.
-2. Tài liệu tham khảo thêm
-1. Ralph F. Grove, Web Based Application Development, Jones & Bartlett Publishers, 2010.
-2. Kyle Loudon, Developing Large Web Applications: Producing Code That Can Grow and Thrive, O'Reilly Media, 2010.
-3. MDN, Learn web development, online at https://developer.mozilla.org/en-US/docs/Learn.
+# 3. danh mục tài liệu tham khảo ngành công nghệ thô
+## Danh mục tài liệu tham khảo học phần Kỹ thuật và công nghệ dữ liệu lớn - BigData Techniques and Technologies là:
+Tài liệu bắt buộc
+1. Vũ Bá Duy, Hà Quang Thuỵ, Nguyễn Ngọc Hóa. Bài giảng Kỹ thuật và công nghệ dữ liệu lớn (cập nhật hàng năm).
+2. Tom White, Hadoop: The Definitive Guide, O'Reilly Media, 4th Edition, 2015.
+3. Hien Luu, Beginning Apache Spark 3: With DataFrame, Spark SQL, Structured Streaming, and Spark Machine Learning Library, Apress (2021).
+4. H. Karau, A. Konwinski, P. Wendell, and M. Zaharia, Learning Spark: Lightning-Fast Big Data Analysis, 2nd Edition, O’Reilly, 2020.
+5. Data Science and Big Data Analytics (John Wiley & Sons, Indianapolis IN, 2015) by EMC Education Services
+Tài liệu tham khảo
+1. Thomas Erl (with Wajid Khattak, Paul Buhler). Big Data Fundamentals: Concepts, Drivers & Techniques. Prentice Hall, 2016.
+2. Albert Y. Zomaya, Sherif Sakr. Handbook of Big Data Technologies. Springer, 2017.
+3. Bart Baesens. Analytics in a Big Data World: The Essential Guide to Data Science and its Applications, Wiley, 2014.
+4. Borko Furht, Flavio Villanustre. Big Data Technologies and Applications. Springer International, 2016.
+5. Sharath Kumar M. N. and Pranav Shukla, Learning Elastic Stack 7.0: distributed search, analytics, and visualization using Elasticsearch, Logstash, Beats, and Kibana (2019).

@@ -87,12 +87,14 @@ class CreateAndRefineStrategy(BaseSynthesisStrategy):
         num_of_contents = len(retrieved_contents)
         print("num: ",num_of_contents)
         if num_of_contents > 0:
-            for idx, node in enumerate(retrieved_contents, start=1):
+            # for idx, node in enumerate(retrieved_contents, start=1):
+            for idx, node in enumerate(retrieved_contents[2::-1], start=3):
                 logger.info(f"--- Generating an answer for the chunk {idx} ... ---")
-                context = node.page_content
+                # context = node[0].page_content
+                context = node
                 logger.debug(f"--- Context: '{context}' ... ---")
-                print(f"--- Context: '{context}' ... ---")
-                if idx == 1:
+                # print(f"--- Context: '{context}' ... ---")
+                if idx == 3:
                     fmt_prompt = self.llm.generate_ctx_prompt(question=question, context=context)
                     print("prompt_1: ", fmt_prompt)
                 else:
@@ -104,13 +106,14 @@ class CreateAndRefineStrategy(BaseSynthesisStrategy):
                     print("prompt_2: ", fmt_prompt)
                 # if idx == num_of_contents:
                 #     cur_response = self.llm.start_answer_iterator_streamer(fmt_prompt, max_new_tokens=max_new_tokens)
-
                 # else:
                 print("hello1")
                 cur_response = self.llm.generate_answer(fmt_prompt)
                 print("hello2")
                 logger.debug(f"--- Current response: '{cur_response}' ... ---")
                 fmt_prompts.append(fmt_prompt)
+                # if idx == 3:
+                #     break
         else:
             fmt_prompt = self.llm.generate_qa_prompt(question=question)
             cur_response = self.llm.start_answer_iterator_streamer(fmt_prompt, max_new_tokens=max_new_tokens)

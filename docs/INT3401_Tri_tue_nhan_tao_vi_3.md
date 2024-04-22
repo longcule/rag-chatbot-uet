@@ -1,47 +1,16 @@
-# 6. Nội dung chi tiết học phần: TRÍ TUỆ NHÂN TẠO
-1. Mở đầu
-1. Giới thiệu môn học
-2. Tổng quan lịch sử của lĩnh vực trí tuệ nhân tạo
-2. Các chiến lược tìm kiếm
-1. Giải quyết vấn đề bằng tìm kiếm
-2. Các tính chất của phương pháp tìm kiếm
-3. Các chiến lược tìm kiếm mù
-3. Các chiến lược tìm kiếm có kinh nghiệm
-1. Các phương pháp tìm kiếm tốt nhất trước
-2. Thuật toán tìm kiếm A
-3. Các hướng dẫn để xây dựng cận chấp nhận được cho A
-4. Các chiến lược tìm kiếm nâng cao
-1. Tìm kiếm thỏa mãn các ràng buộc
-2. Tìm kiếm cục bộ
-3. Tìm kiếm mô phỏng luyện kim
-5. Tìm kiếm có đối thủ trong trò chơi
-1. Cây trò chơi
-2. Minimax
-3. Phương pháp cắt cụt alphabeta
-4. Ứng dụng thực tế
-6. Logic mệnh đề
-1. Biểu diễn tri thức
-2. Cú pháp và ngữ nghĩa
-3. Dạng chuẩn tắc
-4. Luật suy diễn và luật phân giải
-7. Logic vị từ cấp một
-1. Biểu diễn tri thức
-2. Cú pháp và ngữ nghĩa
-3. Luật suy diễn
-4. Luật phân giải và các chiến lược phân giải
-8. Lập trình sử dụng logic
-1. Prolog
-2. Luật phân giải và chiến lược tìm kiếm trong Prolog
-3. Các ứng dụng
-9. Tri thức và lập luận không chắc chắn
-1. Biểu diễn tri thức không chắc chắn
-2. Một số khái niệm cơ bản
-3. Định lý Bayes
-4. Mạng xác suất
-10. Giới thiệu về học máy
-1. Giới thiệu
-2. Cây quyết định
-3. Phân loại Naïve Bayes
-# 7. Học liệu TRÍ TUỆ NHÂN TẠO ### 7.1. Học liệu bắt buộc TRÍ TUỆ NHÂN TẠO
-\[1\] Đinh Mạnh Tường. Trí tuệ nhân tạo. NXB Khoa học & Kỹ thuật 2002 \[2\] Russel S. and Norvig P. Artificial Intelligence: A modern approach. Prentice Hall 2008.
-7.2 Học liệu tham khảo \[3\] Ben Coppin. Artificial Intelligence Illuminated. Jones and Bartlett Publishers 2004.
+# 8. hình thức tổ chức dạy học: trí tuệ nhân tạo
+Lịch trình dạy cụ thể: TRÍ TUỆ NHÂN TẠO Tuần Nội dung giảng dạy lý thuyếtthực hành Nội dung sinh viên tự học 1 Giới thiệu về Trí tuệ nhân tạo Các hệ thống Trí tuệ nhân tạo thực tế
+2 Giải quyết vấn đề bằng tìm kiếm và các chiến lược tìm kiếm mù Đệ quy trong vét cạn
+3 Các chiến lược tìm kiếm có kinh nghiệm Tìm kiếm hai chiều trong bài toán đối xứng
+4 Ứng dụng các chiến lược tìm kiếm trong giải quyết vấn đề Làm bài tập ở nhà. Tìm hiểu giải thuật di truyền cho bài toán tìm kiếm.
+5 Tìm kiếm thỏa mãn các ràng buộc Ứng dụng vào giải quyết bài toán n con hậu
+6 Tìm kiếm có đối thủ trong trò chơi Ứng dụng trong bài toán chơi cờ vua
+7 Làm bài tập về tìm kiếm thỏa mãn các ràng buộc và tìm kiếm có đối thủ Làm bài tập ở nhà
+8 Logic mệnh đề Thực hành biểu diễn tri thức sử dụng logic mệnh đề
+9 Logic vị từ cấp 1 Thực hành biểu diễn tri thức sử dụng logic vị từ
+10 Làm bài tập về biểu diễn tri thức sử dụng logic Làm bài tập ở nhà
+11 Lập trình logic sử dụng Prolog Cài đặt và sử dụng swiprolog
+12 Làm bài tập về Prolog Lập trình sử dụng swiprolog
+13 Tri thức và lập luận không chắc chắn Mạng xác xuất
+14 Giới thiệu về học máy Ứng dụng của học máy trong thực tế
+15 Ôn tập và tổng kết

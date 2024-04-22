@@ -1,14 +1,18 @@
-# 4. Đội ngũ cán bộ giảng dạy ngành CÔNG NGHỆ THÔNG TIN
-## Các giảng viên học phần: Nhập môn lập trình - Fundamentals of Programming ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Trần Quốc Long, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Bùi Ngọc Thăng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Nguyên Khôi, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Trần Thị Minh Châu, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Hoàng Thị Điệp, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Đặng Cao Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Ngô Thị Duyên, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Ma Thị Châu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Tín hiệu và hệ thống - Signals and systems ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Lê Vũ Hà, chức danh: TS, chuyên ngành: ĐTVT, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Linh Trung, chức danh: PGS.TS, chuyên ngành: ĐTVT, đơn vị: Trường ĐHCN
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin
+## các giảng viên học phần: chuẩn kỹ năng của cntt - it skill standards ngành công nghệ thông tin
+Tên giảng viên: Giảng viên của Khoa CNTT, Trường ĐHCN và doanh nghiệp
+## các giảng viên học phần: chuyên đề công nghệ nhật bản  - workshop on japanese technology ngành công nghệ thông tin
+Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS, chuyên ngành: Khoa học & Kỹ thuật tính toán, đơn vị:
+Tên giảng viên: Lê Quang Hiếu, chức danh: TS, chuyên ngành: Khoa học Máy tính, đơn vị:
+## các giảng viên học phần: tiếng nhật trong công nghệ thông tin 1 - japanese for it 1 ngành công nghệ thông tin
+Tên giảng viên: Giảng viên của Khoa CNTT, Trường ĐHCN và doanh nghiệp
+## các giảng viên học phần: tiếng nhật trong công nghệ thông tin 2 - japanese for it 2 ngành công nghệ thông tin
+Tên giảng viên: Giảng viên của Khoa CNTT, Trường ĐHCN và doanh nghiệp
+## các giảng viên học phần: thực tập doanh nghiệp nhật bản - japanese enterprise internship ngành công nghệ thông tin
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Giảng viên của Khoa CNTT, Trường ĐHCN và doanh nghiệp
+## các giảng viên học phần: trí tuệ nhân tạo - artificial intellegence ngành công nghệ thông tin
+Tên giảng viên: Nguyễn Thị Nhật Thanh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Bảo Sơn, chức danh: PGS.TS, chuyên ngành: KH và KT máy tính, đơn vị: ĐHQGHN
+Tên giảng viên: Nguyễn Thanh Thủy, chức danh: GS.TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Văn Vinh, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN

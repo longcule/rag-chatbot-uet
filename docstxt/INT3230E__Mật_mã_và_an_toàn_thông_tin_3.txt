@@ -1,0 +1,2 @@
+ 5. tóm tắt nội dung học phần: mật mã và an toàn thông tin
+Nội dung 1: Các nhiệm vụ bảo vệ thông tin. \ Nội dung 2: Các phương pháp để thực hiện Các nhiệm vụ bảo vệ thông tin. \ Nội dung 3: Một số ứng dụng của học phần Mật mã và An toàn thông tin.

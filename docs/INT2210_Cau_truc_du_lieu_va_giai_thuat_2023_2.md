@@ -1,4 +1,4 @@
-# 4. Chuẩn đầu ra: CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT
+# 4. chuẩn đầu ra: cấu trúc dữ liệu và giải thuật
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Nắm được các cấu trúc dữ liệu cơ bản như danh sách liên kết ngăn xếp hàng đợi hang đợi ưu tiên cây cây tìm kiếm nhị phân cây cân bằng đồ thị bảng băm... và các giải thuật kèm theo

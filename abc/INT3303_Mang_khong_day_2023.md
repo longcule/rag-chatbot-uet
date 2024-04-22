@@ -1,18 +1,14 @@
 HỌC PHẦN: MẠNG KHÔNG DÂY
-# 1. Thông tin về các giảng viên học phần: MẠNG KHÔNG DÂY
-STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoại Email Ghi chú 1 Nguyễn Hoài Sơn PGS. TS. BM MMT [[sonnh\@vnu.edu.vn]{.underline}](mailto:sonnh@vnu.edu.vn) Trưởng học phần
-2 Trần Trúc Mai TS BM MMT [[mai.tran\@vnu.edu.vn]{.underline}](mailto:mai.tran@vnu.edu.vn)
-3 Nguyễn Ngọc Tân TS BM MMT [[tan.nguyen\@vnu.edu.vn]{.underline}](mailto:tan.nguyen@vnu.edu.vn)
-# 2. Thông tin chung về học phần: MẠNG KHÔNG DÂY Tên học phần:
-{html}
-! Tiếng Việt: Mạng không dây Tiếng Anh: Wireless Networks
-{html}
-! Mã số học phần: INT3303 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 450 0 Học phần tiên quyết (tên và mã số học phần): INT2213 Mạng máy
-tính Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn Mạng và Truyền thông Khoa
-CNTT
-# 3. Mục tiêu học phần: MẠNG KHÔNG DÂY
+# các giảng viên học phần: mạng không dây - wireless networks ngành công nghệ thông tin
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trúc Mai, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+# 2. thông tin chung về học phần: mạng không dây 
+tên học phần:
+Tiếng Việt: Mạng không dây Tiếng Anh: Wireless Networks
+Mã số học phần: INT3303 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 450 0 Học phần tiên quyết (tên và mã số học phần): INT2213 Mạng máy tính Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn Mạng và Truyền thông Khoa CNTT
+# 3. mục tiêu học phần: mạng không dây
 Mục tiêu của học phần là giúp sinh viên hiểu được kiến thức về khái niệm mạng không dây khả n ăng ứng dụng của mạng không dây các công nghệ truyền thông trên môi trường không dây bao gồm các phương pháp điều chế tín hiệu các phương pháp truy cập môi trường truyền. Học phần cũng giúp sinh viên hiểu và vận dụng được các kiến thức về các hệ thống viễn thông 2G 3G 4G mạng Wifi mạng adhoc không dây mạng cảm biến không dây phương thức hỗ trợ tính di động ở tầng Mạng. Học phần cũng rèn luyện cho sinh viên kỹ năng tư duy một cách logic về các giải pháp công nghệ ứng dụng trong các mạng không dây di động thế hệ mới.
-# 4. Chuẩn đầu ra: MẠNG KHÔNG DÂY
+# 4. chuẩn đầu ra: mạng không dây
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Vận dụng kiến thức cơ bản về mạng máy tính và truyền thông trong phát triển các giải pháp công nghệ của các mạng không dây
@@ -22,9 +18,9 @@ CLO3 Tư duy một cách logic biện chứng về các giải pháp công ngh�
 CLO4 Phân tích đánh giá và cập nhật các kiến thức công nghệ mới trong các mạng không dây thế hệ mới
 Mức độ tự chủ và trách nhiệm
 CLO5 Thể hiện tính trung thực chịu trách nhiệm cá nhân tinh thần tự học tự nghiên cứu các công nghệ mới 
-# 5. Tóm tắt nội dung học phần: MẠNG KHÔNG DÂY
+# 5. tóm tắt nội dung học phần: mạng không dây
 Nội dung của học phần tập trung giới thiệu các khái niệm cơ bản và khả năng ứng dụng của mạng không dây các đặc tính của môi trường truyền không dây và các kỹ thuật điều chế tín hiệu truy cập môi trường truyền. Trong nội dung tiếp theo sinh viên sẽ được cung cấp các kiến thức về kiến trúc và nguyên lý hoạt động của các hệ thống viễn thông 2G 3G và 4G. Sinh viên cũng được học về mạng LAN không dây bao gồm mạng Wifi mạng Bluetooth mạng Zigbee cũng như cách thức hỗ trợ di động ở tầng Mạng với các loại mạng không dây di động khác nhau.
-# 6. Nội dung chi tiết học phần: MẠNG KHÔNG DÂY
+# 6. nội dung chi tiết học phần: mạng không dây
 Chương 1. Giới thiệu chung
 1. Ứng dụng của mạng không dây
 2. Lịch sử mạng không dây
@@ -54,19 +50,8 @@ Chương 6. Hỗ trợ di động ở tầng Mạng
 1. Mobile IP
 2. Mạng Adhoc không dây
 3. Mạng cảm biến
-# 7. Học liệu MẠNG KHÔNG DÂY
-7.1. Học liệu bắt buộc: MẠNG KHÔNG DÂY \[1\] Jochen H Schileer. Mobile Communication Third Edition. Prentice
-Hall 2007.
-\[2\] Cory Beard William Stallings Wireless Communication Networks and
-Systems Pearson 2015
-7.2. Học liệu tham khảo: MẠNG KHÔNG DÂY \[1\] William Stallings 5G Wireless: A Comprehensive Introduction
-AddisonWesley 2021
-\[2\] A. F. Molisch Wireless Communications: From Fundamentals to
-Beyond 5G John Wiley & Sons Third Edition 2022
-\[3\] Mathuranathan Viswanathan Digital Modulations using Python
-\[2\] Các bài báo của IEEE
-# 8. Hình thức tổ chức dạy học: MẠNG KHÔNG DÂY
-8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): MẠNG KHÔNG DÂY Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 3 115 Giảng đường 8.2. Lịch trình dạy cụ thể: MẠNG KHÔNG DÂY Tuần Nội dung giảng dạy lý thuyết Nội dung sinh viên tự học 1 Giới thiệu mạng không dây và di động ứng dụng của mạng không dây lịch sử phát triển của các mạng không dây di động
+# 8. hình thức tổ chức dạy học: mạng không dây
+Lịch trình dạy cụ thể: MẠNG KHÔNG DÂY Tuần Nội dung giảng dạy lý thuyết Nội dung sinh viên tự học 1 Giới thiệu mạng không dây và di động ứng dụng của mạng không dây lịch sử phát triển của các mạng không dây di động
 2 Các đặc tính truyền tín hiệu trong môi trường truyền không dây Lập trình Python
 3 Các phương pháp điều chế tín hiệu để truyền trong môi trường không dây Lập trình điều chế tín hiệu số bằng Python
 45 Các phương pháp truy cập môi trường truyền không dây SDMA FDMA TDMA và CDMA Lập trình điều chế tín hiệu số bằng Python
@@ -80,5 +65,3 @@ Beyond 5G John Wiley & Sons Third Edition 2022
 14 Mạng Adhoc không dây Các phương thức định tuyến trong mạng Adhoc không dây lập trình Arduino
 15 Mạng cảm biến không dây Các phương thức định tuyến trong mạng cảm biến không dây lập trình Arduino
 MẠNG KHÔNG DÂY
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: MẠNG KHÔNG DÂY 
-Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web học phần) sẽ được xem xét cộng điểm học phần.

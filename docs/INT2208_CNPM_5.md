@@ -1,4 +1,4 @@
-# 8. Hình thức tổ chức dạy học: Công nghệ phần mềm
+# 8. hình thức tổ chức dạy học: công nghệ phần mềm
 8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): Công nghệ phần mềm Hình thức Số Từ tuần ... Địa điểm dạy tiết tuần đến tuần ... (Giảng đường PM online) Lý thuyết 3 115 Giảng đường
 8.2. Lịch trình dạy cụ thể: Công nghệ phần mềm Tuần Nội dung Lý thuyết Nội dung Thực hành 1
 Bài 1: Các khái niệm cơ Các tiêu chí đánh giá chất bản trong công nghệ phần lượng phần mềm theo ISO mềm (phần 1) 2

@@ -1,6 +1,6 @@
-# 5. Tóm tắt nội dung học phần: TOÁN HỌC RỜI RẠC
+# 5. tóm tắt nội dung học phần: toán học rời rạc
 Toán học rời rạc cho ngành công nghệ thông tin cung cấp kiến thức toán học cơ sở cho ngành học bao gồm cơ sở của lô gích toán học lý thuyết số thuật toán lý thuyết đếm lý thuyết đồ thị cây ôtô mát ngôn ngữ hình thức và mô hình tính toán. Tất cả các đơn vị kiến thức trên đây được liên kết với nhau thành một giáo trình liên quan và thống nhất với nhau về mặt lô gích. Học phần còn bao gồm nhiều bài tập giúp cho học sinh rèn luyện kỹ năng tư duy toán học và vận dụng kiến thức lý thuyết đã học vào các bài toán thực tế.
-# 6. Nội dung chi tiết học phần: TOÁN HỌC RỜI RẠC
+# 6. nội dung chi tiết học phần: toán học rời rạc
 Chương 1. Lô gích và chứng minh (10 tiết)
 1.1. Logic mệnh đề
 1.2. Logic lượng từ

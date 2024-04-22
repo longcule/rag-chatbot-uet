@@ -1,22 +1,18 @@
-# 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
-## Mã học phần: INT3406
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Xử lý ngôn ngữ tự nhiên - Natural Language Processing, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Xử lý ngôn ngữ tự nhiên - Natural Language Processing là:
-1. Tài liệu bắt buộc
-- Manning, C. and Schuetze, H. Foundations of Statistical Natural Language Processing. MIT Press 1999.
-- Daniel Jurafsky and James H. Martin, Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. 2nd Edition 2007.
-## Mã học phần: INT3209
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Khai phá dữ liệu - Data Mining, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Khai phá dữ liệu - Data Mining là:
-1. Tài liệu bắt buộc
-- Nguyễn Hà Nam, Nguyễn Trí Thành, Hà Quang Thụy (2013). Giáo trình khai phá dữ liệu (Các chương: 1-6, 10). NXB ĐHQGHN.
-2. Tài liệu tham khảo thêm
-- J. Han, M. Kamber, and Jian Pei (2011). Data Mining: Concepts and Techniques (3rd edition). Morgan Kaufmann.
-- Charu C. Aggarwal, Data Mining: The Textbook. Springer, 2015.
-- Mehmed Kantardzic. Data Mining: Concepts, Models, Methods, and Algorithms (3rd edition). Wiley-IEEE Press, 2020.
-## Mã học phần: INT3506
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Các hệ thống thương mại điện tử - E-commerce Systems, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Các hệ thống thương mại điện tử - E-commerce Systems là:
-1. Tài liệu bắt buộc
-- Dave Chaffey, Tanya Hemphill, David Edmundson-Bird: Digiral Business and E-Commerce Management, Seventh Edition, Pearson, 2019.
-Tài liệu tham khảo thêm
-- Electronic Commerce 2019: A Managerial and Social Networks Perspective [9 ed.], Efraim Turban & David King, Pearson International Edition 2018.
-- Electronic Commerce, Gary P. Perry and James T. Perry, Thomson Learning 2002.
-- Electronic Commerce: A manager’s Guide, Ravi Kalakota, 2004
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin
+## các giảng viên học phần: tín hiệu và hệ thống - signals and systems ngành công nghệ thông tin
+Tên giảng viên: Lê Vũ Hà, chức danh: TS, chuyên ngành: ĐTVT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Linh Trung, chức danh: PGS.TS, chuyên ngành: ĐTVT, đơn vị: Trường ĐHCN
+## các giảng viên học phần: cấu trúc dữ liệu và giải thuật - data structures and algorithms ngành công nghệ thông tin
+Tên giảng viên: Bùi Ngọc Thăng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Nguyên Khôi, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Thị Minh Châu, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Quang Hiếu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thị Nhật Thanh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Bảo Sơn, chức danh: PGS TS, chuyên ngành: KH và KT máy tính, đơn vị: ĐHQGHN
+## các giảng viên học phần: xác suất thống kê  - probability and statistics ngành công nghệ thông tin
+Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Xác suất thống kê, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Thị Điệp, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Cao Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Thanh Hải, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN

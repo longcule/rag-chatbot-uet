@@ -1,5 +1,5 @@
-# 8. Hình thức tổ chức dạy học: TÁC TỬ THÔNG MINH VÀ RÔBỐT
-8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): TÁC TỬ THÔNG MINH VÀ RÔBỐT Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 3 115 Giảng đường Thực hành \ \ 8.2. Lịch trình dạy cụ thể: TÁC TỬ THÔNG MINH VÀ RÔBỐT Tuần Nội dung giảng dạy lý thuyếtthực hành Nội dung sinh viên tự học 1 Giới thiệu chung về tác tử thông minh và robot. Đọc tài liệu tham khảo và làm bài tập
+# 8. hình thức tổ chức dạy học: tác tử thông minh và rôbốt
+Lịch trình dạy cụ thể: TÁC TỬ THÔNG MINH VÀ RÔBỐT Tuần Nội dung giảng dạy lý thuyếtthực hành Nội dung sinh viên tự học 1 Giới thiệu chung về tác tử thông minh và robot. Đọc tài liệu tham khảo và làm bài tập
 2 Mô hình hoá tác tử thông minh và môi trường. Các mức độ điều khiển nhận thức của robot Đọc tài liệu tham khảo và làm bài tập
 3 Mô hình hoá và điều khiển bằng mô hình Markov ngẫu nhiên. Hàm chiến thuật và hàm giá trị trên mô hình Markov ngẫu nhiên Đọc tài liệu tham khảo và làm bài tập
 4 Điều khiển bằng mô hình Markov ngẫu nhiên Đọc tài liệu tham khảo và làm bài tập

@@ -1,4 +1,4 @@
-# 4. Chuẩn đầu ra: CÁC THUẬT TOÁN ĐỒ THỊ & ỨNG DỤNG
+# 4. chuẩn đầu ra: các thuật toán đồ thị & ứng dụng
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Hiểu được các khái niệm cơ bản về đồ thị và cách mô hình hoá bài toán thực tế về đồ thị

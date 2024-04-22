@@ -1,4 +1,4 @@
-# 4. Chuẩn đầu ra: Các chuyên đề trong Khoa học máy tính
+# 4. chuẩn đầu ra: các chuyên đề trong khoa học máy tính
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Nhận diện mô tả và giải thích được bài toán phương pháp quy trình xử lý dữ liệu vàora các công cụ và môi trường phát triển phương pháp tích hợp triển khai hệ thống
@@ -10,5 +10,5 @@ CLO5 Lập trình thành thạo xử lý dữ liệu biết sử dụng các cô
 CLO6 Tự đọc và nghiên cứu tài liệu chuyên ngành bằng tiếng Anh nhằm học phân tích đánh và cập nhật công nghệ; ứng dụng vào giải quyết bài toán cụ thể
 Mức độ tự chủ và trách nhiệm
 CLO7 Thực hiện những bài toán có ý nghĩa thực tế phục vụ cộng đồng sử dụng kiến thức chuyên môn
-# 5. Tóm tắt nội dung học phần: Các chuyên đề trong Khoa học máy tính
+# 5. tóm tắt nội dung học phần: các chuyên đề trong khoa học máy tính
 Học phần này sẽ hướng dẫn sinh viên tìm hiểu về một số phương pháp mới trong các định hướng của ngành Khoa học máy tính. Học phần sẽ tập trung vào các phương pháp hiện đại xử lý dữ liệu lớn đang hoặc sẽ được sử dụng rộng rãi. Học phần yêu cầu sinh viên cài đặt phương pháp được học trên các nền tảng tính toán hiện đại đang được sử dụng trong công nghiệp như kiến trúc song song hoặc điện toán đám mây. Sinh viên sẽ nắm được các kiến thức nền tảng của phương pháp ứng dụng để giải quyết một số bài toán và xu hướng phát triển của phương pháp được học trong tương lai.

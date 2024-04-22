@@ -18,5 +18,3 @@ Technology 2005
 6 Triển khai và tích hợp hệ thống.
 7 Seminar về các công nghệ khác nhau hiện có Sinh viên chia nhóm làm một dự án áp dụng công nghệ vừa được học
 8 Báo cáo dự án và tổng kết Sinh viên báo cáo dự án
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: CHUYÊN ĐỀ CÔNG NGHỆ
-Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi. Sinh viên gian lận trong bài tập lớn hoặc các kỳ thi thì sẽ bị điểm môn học là 0.

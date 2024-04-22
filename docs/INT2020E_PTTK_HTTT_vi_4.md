@@ -1,4 +1,64 @@
-# 7. Học liệu PHÂN TÍCH THIẾT KẾ CÁC HỆ THỐNG THÔNG TIN
-7.1. Học liệu bắt buộc [1] Modern Systems Analysis and Design 9^th^ Edition by Jeffrey A. Hoffer; Joey F. George; Joseph S. Valacich Prentice Hall 2020 ISBN10: 0134204921 • ISBN13: 978134204925. [2] Systems Analysis and Design 10^th^ Global Edition by Kenneth E. Kendall & Julie E. Kendall Pearson 2020. [3] Information Systems for Business and Beyond (2019) David Bourgeois [[https:opentextbook.siteinformationsystems2019]{.underline}](https:opentextbook.siteinformationsystems2019)
-7.2 Học liệu tham khảo
-[4] ObjectOriented systems Analysis and Design Using UML 4th Edition by Simon Bennett Steve McRobb and Ray Farmer Mc Graw Hill 2010 ISBN10: 0077125363. [5] System Analysis & Design Methods Seventh Edition by Jeffery L. Whitten Lonnie D. Bentley McGraw Hill 2007 ISBN 0073052337.
+# 8. hình thức tổ chức dạy học phân tích thiết kế các hệ thống thông tin
+8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần)
+8.2 Lịch trình dạy cụ thể
+Tuần 1
+Nội dung giảng dạy lý thuyếtthực hành, Nội dung sinh viên tự học
+Giới thiệu tổng quan về học phần thuyết giảng nội dung Chương 1
+Tài liêu [1] – chương 1 2
+2
+Giới thiệu tổng quan về học phần thuyết giảng nội dung Chương 1
+Chuẩn bị tài liệu theo yêu cầu của giảng viên
+Tài liêu [1] – chương 3
+3
+Giảng dạy theo nội dung Chương 2
+Giao bài tập cho sinh viên
+Chuẩn bị tài liệu theo yêu cầu của giảng viên
+Tài liêu [1] – chương 4
+4
+Giảng dạy theo nội dung Chương 2
+Chữa bài tập
+Chuẩn bị tài liệu theo yêu cầu của giảng viên
+Tài liêu [1] – bài tập chương 5
+5
+Giảng dạy theo nội dung Chương 3
+Giao bài tập cho sinh viên
+Chuẩn bị tài liệu theo yêu cầu của giảng viên
+Tài liêu [1] – chương 6 6
+Giảng dạy theo nội dung Chương 3
+Chữa bài tập
+Chuẩn bị tài liệu theo yêu cầu của giảng viên
+Tài liêu [1] – chương 7
+7
+Giảng dạy theo nội dung Chương 3
+Chữa bài tập
+Chuẩn bị tài liệu theo yêu cầu của giảng viên
+Tài liêu [1] –chương 8
+8
+Thảo luận về kết quả đã thu được trong bài tập và kiểm tra giữa kỳ
+Chuẩn bị tài liệu theo yêu cầu của giảng viên
+9 Giảng dạy theo nội dung Chương 4
+Giao bài tập
+Chuẩn bị tài liệu theo yêu cầu của giảng viên
+Tài liêu [1] –chương 9
+10
+Giảng dạy theo nội dung Chương 4
+Chữa bài tập
+Chuẩn bị tài liệu theo yêu cầu của giảng viên
+Tài liêu [1] –chương 10
+11
+Giảng dạy theo nội dung Chương 4
+Giao bài tập
+Chuẩn bị tài liệu theo yêu cầu của giảng viên
+Tài liêu [1] –chương 11 12
+Giảng dạy theo nội dung Chương 4
+Chữa bài tập
+Chuẩn bị tài liệu theo yêu cầu của giảng viên
+Tài liêu [1] –chương 12
+13
+Thực hiện thảo luận kết quả thiết kế hệ thống trong bài tập
+Chuẩn bị tài liệu theo yêu cầu của giảng viên
+14
+Thực hiện thảo luận kết quả thiết kế hệ thống trong bài tập
+Chuẩn bị tài liệu theo yêu cầu của giảng viên
+15
+Ôn tập chung

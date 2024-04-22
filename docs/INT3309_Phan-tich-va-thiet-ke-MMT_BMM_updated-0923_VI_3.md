@@ -1,4 +1,5 @@
-# 6. Nội dung chi tiết học phần PHÂN TÍCH VÀ THIẾT KẾ MẠNG MÁY TÍNH 1. Topo mạng và mô hình OSI (4200)
+# 6. nội dung chi tiết học phần phân tích và thiết kế mạng máy tính
+1. Topo mạng và mô hình OSI (4200)
 1. Topo mạng
 2. Mô hình OSI và TCPIP
 {html}
@@ -30,7 +31,3 @@
 7. Tổ chức các dịch vụ mạng cơ bản (Internet Service VPN Firewall and security setup IT telephony interface design and implementation \...)
 8. Nội dung công tác quản trị mạng
 9. Một số giải pháp giám sát mạng
-# 7. Học liệu PHÂN TÍCH VÀ THIẾT KẾ MẠNG MÁY TÍNH
-7.1. Học liệu bắt buộc
-1. James D. McCabe Network Analysis Architecture and Design Morgan Kaufmann Publisher Inc. Third Edition 2010. 7.2. Học liệu tham khảo
-2. Giảng viên sẽ phát trong giờ học

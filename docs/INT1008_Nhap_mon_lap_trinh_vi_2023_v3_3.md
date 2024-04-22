@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: NHẬP MÔN LẬP TRÌNH
+# 6. nội dung chi tiết học phần: nhập môn lập trình
 1. Giới thiệu
 1. Khái niệm về lập trình
 2. Các ngôn ngữ lập trình

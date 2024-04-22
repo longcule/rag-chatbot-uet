@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: CÁC THUẬT TOÁN ĐỒ THỊ & ỨNG DỤNG
+# 6. nội dung chi tiết học phần: các thuật toán đồ thị & ứng dụng
 [Chương I:]{.underline} Giới thiệu về chủ đề mục tiêu và khoá học Các khái niệm cơ bản của đồ thị Các hướng ứng dụng chính và các kiến thức liên quan Nội dung khoá học
 [Chương II:]{.underline} Tìm đường đi ngắn nhất trên đồ thị Bài toán tìm đường đi ngắn nhất trên đồ thị không trọng số Bài toán tìm đường đi ngắn nhất trên đồ thị có trọng số Các vấn đề trong thực tế của bài toán tìm đường đi trên đồ thị
 [Chương III:]{.underline} Cây Giới thiệu về cây trên đồ thị Cây khung nhỏ nhất trên đồ thị có trọng số Các bài toán tối ưu trên cây Ứng dụng về cây trong bài toán thực tế

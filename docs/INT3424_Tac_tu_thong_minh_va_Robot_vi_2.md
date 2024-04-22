@@ -1,4 +1,4 @@
-# 4. Chuẩn đầu ra: TÁC TỬ THÔNG MINH VÀ RÔBỐT
+# 4. chuẩn đầu ra: tác tử thông minh và rôbốt
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Định nghĩa được các khái niệm cơ sở về điều khiển và tối ưu hoá trong các hệ thống tự động và rô bốt

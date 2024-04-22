@@ -1,18 +1,17 @@
-# 4. Đội ngũ cán bộ giảng dạy ngành CÔNG NGHỆ THÔNG TIN
-## Các giảng viên học phần: Phương pháp hình thức - Formal Methods ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Tô Văn Khánh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Phạm Ngọc Hùng, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Trương Ninh Thuận, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Lập trình nhúng và thời gian thực - Real-time and embedded programming ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Tô Văn Khánh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Quang Minh, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Viện CNTT, ĐHQGHN
-## Các giảng viên học phần: Thu thập và phân tích yêu cầu - Requirements Engineering ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Đặng Đức Hạnh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Trần Hoàng Việt, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Quản lý dự án phần mềm - Software Project Management ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Phạm Ngọc Hùng, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Trần Hoàng Việt, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Thiết kế giao diện người dùng - User Interface Design ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Ngô Thị Duyên, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chuẩn
+## các giảng viên học phần: thực hành hệ điều hành mạng - network operating system lab ngành công nghệ thông tin chuẩn
+Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đỗ Hoàng Kiên, chức danh: ThS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: mạng không dây - wireless networks ngành công nghệ thông tin chuẩn
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trúc Mai, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+## các giảng viên học phần: lập trình mạng - network programing ngành công nghệ thông tin chuẩn
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+## các giảng viên học phần: truyền thông đa phương tiện - multimedia communications ngành công nghệ thông tin chuẩn
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Thanh Hà, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: an toàn và an ninh mạng - network safety and security ngành công nghệ thông tin chuẩn
+Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN

@@ -1,17 +1,29 @@
-# 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
-## Mã học phần: INT2020
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phân tích thiết kế các HTTT - Design and Analysis of Experiments, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Phân tích thiết kế các HTTT - Design and Analysis of Experiments là:
-1. Tài liệu bắt buộc
-1. Jeffrey A. Hoffer; Joey F. George; Joseph S. Valacich, Modern Systems Analysis and Design, 8th Edition by Prentice Hall, 2017, ISBN-10: 0134204921 • ISBN-13: 978-134204925.
-2. Kenneth E. Kendall & Julie E. Kendall, Systems Analysis and Design, 10th Global Edition, Pearson, 2020.
-3. Jeffery L. Whitten, Lonnie D. Bentley, System Analysis & Design Methods, Seventh Edition by McGraw Hill, 2007, ISBN 0073052337.
-2 Tài liệu tham khảo
-Object-Oriented Systems Analysis and Design Using UML, 4th Edition by Simon Bennett, Steve McRobb and Ray Farmer, McGraw Hill, 2010, ISBN-10:
-## Mã học phần: INT3505
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiến trúc hướng dịch vụ  - Service Oriented Architecture, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Kiến trúc hướng dịch vụ  - Service Oriented Architecture là:
-1. Tài liệu bắt buộc
-Võ Đình Hiếu, Giáo trình Kiến trúc hướng dịch vụ, NXB ĐHQGHN 2016
-2. Tài liệu tham khảo
-1. Sam Newman, Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith, O'Reilly Media, 2019
-2. Arnaud Lauret, The Design of Web APIs, Manning Publications, 2019
-3. Neil Madden, API Security in Action, Manning Publications, 2020
+# 3. danh mục tài liệu tham khảo ngành công nghệ thô
+## Danh mục tài liệu tham khảo học phần Quản trị mạng - Network Administration là:
+Tài liệu bắt buộc
+1. Dương Lê Minh, Tập bài giảng điện tử, 2018
+Tài liệu tham khảo thêm
+1. Thomas A. Limoncelli, Christina J. Hogan and Strata R. Chalup, The Practice of System and Network Administration, Addison-Wesley (2016).
+## Danh mục tài liệu tham khảo học phần Phát triển ứng dụng Internet of Things - IoT application development là:
+Tài liệu bắt buộc
+1. Bài giảng của giáo viên
+2. Marco Schwartz, Internet of Things with Arduino Cookbook, Packt Publishing, 2016
+Tài liệu tham khảo
+1. Halfacree, Gareth, and Eben Upton. Raspberry Pi user guide. John Wiley & Sons, 2012.
+2. Maciej Kranz, Building the Internet of Things: Implement New Business Models, Disrupt Competitors, Transform Your Industry, Wiley, 2016
+## Danh mục tài liệu tham khảo học phần Xử lý ảnh - Image Processing là:
+Tài liệu bắt buộc
+Đề cương giảng dạy của giảng viên
+Tài liệu tham khảo thêm
+1. R. C. Gonzalez, R. E. Woods, Digital Image Processing, Third Edition.
+## Danh mục tài liệu tham khảo học phần Tin sinh học ứng dụng - Bioinformatics and its Applications là:
+Tài liệu bắt buộc
+1. Lê Sỹ Vinh, Nhập môn Tin sinh học, NXB ĐHQGHN 2014.
+Tài liệu tham khảo thêm
+1. Jean-Michel Claverie & Cedric Notredame, Bioinformatics for Dummies, Wiley Publishing, Inc., 2006.
+2. R. Durbin, S. Eddy, A. Krogh, and G. Mitchison. Biological sequence analysis: probabilistic models of proteins and nucleic acids. Cambridge University Express, 2010.
+## Danh mục tài liệu tham khảo học phần Tin học y tế - Health Informatics là:
+Tài liệu bắt buộc
+1. Trần Quốc Dũng (2023). Bài giảng Tin học y tế.
+Tài liệu tham khảo thêm
+1. Hoyt, R.E., Hersh, W.R., (2018). Health Informatics: Practical Guide, Seventh Edition, Lulu.com.

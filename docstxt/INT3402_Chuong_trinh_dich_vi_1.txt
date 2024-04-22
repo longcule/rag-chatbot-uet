@@ -1,0 +1,10 @@
+HỌC PHẦN: CHƯƠNG TRÌNH DỊCH
+ các giảng viên học phần: chương trình dịch - compilers ngành công nghệ thông tin
+Tên giảng viên: Nguyễn Phương Thái, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Văn Vinh, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+ 2. thông tin chung về học phần: chương trình dịch
+Tên học phần:
+Tiếng Việt: Chương trình dịch Tiếng Anh: Compilers
+Mã số học phần: INT3402 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết (tên và mã số học phần): INT2210 Cấu trúc dữ liệu và giải thuật Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn KHMT Khoa CNTT
+ 3. mục tiêu học phần: chương trình dịch
+Môn học giúp sinh viên hiểu vai trò của chương trình dịch trong phát triển phần mềm. Hiểu biết về chương trình dịch giúp sinh viên có thể lựa chọn và làm chủ tốt hơn ngôn ngữ lập trình môi trường và công cụ lập trình. Sinh viên có khả năng nhận biết được các bài toán có thể giải quyết bằng kỹ thuật chương trình dịch. Sinh viên cũng có thể tự xây dựng được một chương trình dịch sử dụng các công cụ trợ giúp sẵn có.

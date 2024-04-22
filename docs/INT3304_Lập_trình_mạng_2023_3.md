@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: LẬP TRÌNH MẠNG
+# 6. nội dung chi tiết học phần: lập trình mạng
 Chương 1. Tổng quan về ứng dụng mạng
 1. Các ứng dụng mạng phổ biến trên mạng Internet
 2. Mô hình ứng dụng mạng Mô hình khách phục vụ Mô hình ngang hàng
@@ -25,11 +25,3 @@ Chương 4. Gọi thủ tục từ xa (RPC)
 1. XDR (Biểu diễn dữ liệu ngoài)
 2. Gọi thủ tục từ xa (RPC)
 3. Thực thi RPC của Sun Microsystems
-# 7. Học liệu LẬP TRÌNH MẠNG
-7.1. Học liệu bắt buộc: LẬP TRÌNH MẠNG \[1\]. W. R. Stevens B. Fenner và A. M. Rudoff UNIX Network
-Programming Volume 1 Third Edition: The Sockets Networking API
-Addison Wesley 2003.
-\[2\]. B. Ciubotaru G.M. Muntean Advanced Network Programming Principles and Techniques Network Application Programming with Java
-Springer 2013.
-7.2. Học liệu tham khảo: LẬP TRÌNH MẠNG \[1\]. J. Graba An Introduction to Network Programming with Java
-Third Edition Springer 2013.

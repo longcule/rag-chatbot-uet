@@ -1,7 +1,7 @@
 HỌC PHẦN: MẬT MÃ VÀ AN TOÀN THÔNG TIN
-# 1. Thông tin về các giảng viên học phần: MẬT MÃ VÀ AN TOÀN THÔNG TIN
-STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoạiEmail Ghi chú 1 Lê Phê Đô TS Khoa CNTT dolp\@vnu.edu.vn Giảng viên 2 Trần Trọng Hiếu PGS.TS Khoa CNTT [hieutt\@vnu.edu.vn]{.underline} Giảng viên 3 Nguyễn Đại Thọ TS Khoa CNTT [[thond\@vnu.edu.vn]{.underline}](mailto:thond@vnu.edu.vn) Giảng viên
-# 2. Thông tin chung về học phần: MẬT MÃ VÀ AN TOÀN THÔNG TIN
+# các giảng viên học phần: mật mã và an toàn thông tin - cryptography and information security là:
+Tên giảng viên: Lê Phê Đô, chức danh: TS., chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trọng Hiếu, chức danh: PGS.TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS., chuyên ngành: Mạng máy tính và TTDL, đơn vị: Trường ĐHCN
+# 2. thông tin chung về học phần: mật mã và an toàn thông tin
 Tên học phần: Mật mã và an toàn thông tin (Cryptography and Information security) Mã số học phần: INT3230E Số tín chỉ: 4 Giờ tín chỉ đối với các hoạt động (LTBTThHTH): 6000 Học phần tiên quyết: INT1050Toán học rời rạc Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn CHTTT Khoa CNTT
-# 3. Mục tiêu học phần MẬT MÃ VÀ AN TOÀN THÔNG TIN
-a. Mục tiêu chung: \ Mật mã và An toàn thông tin (MM & ATTT) trang bị cho sinh viên các kiến thức cơ bản về các kiến thức toán học nền tảng cho Mật mã và An toàn thông tin các thuật toán mã hóa khóa đối xứng và khóa công khai các sơ đồ chữ ký số các chứng chỉ số và mã thám; quản lý và phân phối khóa; các giao thức định danh và xác thực người dùng; các sự cố an ninh an toàn và tấn công hệ thống thông tin; các phương pháp phát hiện ngăn chặn và xử lý các sự cố an toàn thông tin. \ Trên cơ sở các kiến thức về bảo vệ thông tin sinh viên sẽ hiểu được một số ứng dụng của học phần trong: Blockchain "Chính phủ điện tử" "Y tế điện tử" ... b. Mục tiêu cụ thể: \Về Lý thuyết:  Sinh viên phải hiểu và thực hiện được các vấn đề sau: \ Sử dụng các kiến thức toán học nền tảng vào giải quyết các bài toán Mật mã và An toàn thông tin. \ Mã hóa và giải mã dữ liệu bằng mật mã khóa đối xứng và khóa công khai. \ Phân tích các giải pháp để quản lý và phối khóa hiệu quả. \ Các phương pháp bảo vệ thông tin. \ Một số ứng dụng của học phần Mật mã và An toàn thông tin. \ Về thực hành:   Sinh viên có thể xây dựng được một số chương trình bảo vệ thông tin.

@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: PHÁT TRIỂN ỨNG DỤNG DI ĐỘNG
+# 6. nội dung chi tiết học phần: phát triển ứng dụng di động
 Chương 1. Tổng quan:
 1. Các nền tảng phát triển ứng dụng di động so sánh và kết luận về việc sử dụng HĐH Android trong học phần.
 2. Trình bày kiến trúc HĐH Android.

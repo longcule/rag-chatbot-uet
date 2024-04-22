@@ -1,7 +1,6 @@
-# 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
-## Mã học phần: INT1008
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Nhập môn lập trình - Introduction to Programming, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Nhập môn lập trình - Introduction to Programming là:
-1. Tài liệu bắt buộc
+# 3. danh mục tài liệu tham khảo ngành công nghệ thô
+## Danh mục tài liệu tham khảo học phần Nhập môn lập trình - Introduction to Programming là:
+Tài liệu bắt buộc
 Lựa chọn 1. Lập trình căn bản với C
 1. Bài giảng của giáo viên
 2. Brian W. Kernighan and Dennis M. Ritchie, The C programming language, Prentice Hall 1988.
@@ -9,7 +8,7 @@ Lựa chọn 2. Lập trình căn bản với C++
 1. Bài giảng của giáo viên
 2. Hồ Sĩ Đàm (chủ biên), Trần Thị Minh Châu, Lê Sỹ Vinh, Giáo trình: Lập trình căn bản C++, NXB ĐHQGHN 2011
 Lựa chọn 3. Lập trình căn bản với Java
-2. Tài liệu tham khảo thêm
+Tài liệu tham khảo thêm
 1. Robert Sedgewick (Author), Kevin Wayne, Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition. Addison-Wesley Professional 2017
 Lựa chọn 1. Lập trình căn bản với C
 1. K. N. King, C Programming: A Modern Approach, 2nd Edition, W. W. Norton & Company 2008
@@ -23,3 +22,10 @@ Lựa chọn 3. Lập trình căn bản với Java
 1. Kathy Sierra, Bert Bates, Head First Java: A Brain-Friendly, O'Reilly 2005
 2. Allen B. Downey, Chris Mayfield, Think Java: How to Think Like a Computer Scientist, O'Reilly 2006
 3. J. Glenn Brookshear, Computer Science: An Overview, Addision Wesley 2009
+## Danh mục tài liệu tham khảo học phần Tín hiệu và hệ thống - Signals and Systems là:
+Tài liệu bắt buộc
+1. Lê Vũ Hà, Nguyễn Linh Trung, Đề cương giảng dạy của giảng viên
+2. Haykin, Signals and Systems, John Wiley&Sons, 2005.
+Tài liệu tham khảo thêm
+1. Kamen, Fundamentals of Signals and Systems using the Web and MATLAB, Prentice Hall, 2006.
+2. Alan V. Oppenheim, Signals and Systems, Prentice Hall. 1996

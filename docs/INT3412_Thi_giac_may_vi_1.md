@@ -1,13 +1,12 @@
 HỌC PHẦN: THỊ GIÁC MÁY
-# 1. Thông tin về các giảng viên học phần: THỊ GIÁC MÁY
-STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoại Email Ghi chú 1 Lê Thanh Hà PGS.TS PTN TTNM [[ltha\@vnu.edu.vn]{.underline}](mailto:ltha@vnu.edu.vn) Trưởng môn học
-2 Tạ Việt Cường TS PTN TTNM cuongtv\@vnu.edu.vn Giảng viên
-# 2. Thông tin chung về học phần: THỊ GIÁC MÁY
+# các giảng viên học phần: thị giác máy ngành khoa học máy tính
+Tên giảng viên: Lê Thanh Hà, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Tạ Việt Cường, chức danh: TS
+# 2. thông tin chung về học phần: thị giác máy
 Tên học phần:
-{html}
-! Tiếng Việt: Thị giác máy Tiếng Anh: Computer Vision
-{html}
-! Mã số học phần: INT3412 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 45 0 0 Học phần tiên quyết (tên và mã số học phần): INT2210 Cấu trúc dữ
-liệu và giải thuật Các yêu cầu đối với học phần (nếu có): Xử lý ảnh Bộ môn Khoa phụ trách học phần: Bộ môn KHMT Khoa CNTT
-# 3. Mục tiêu học phần: THỊ GIÁC MÁY
+Tiếng Việt: Thị giác máy Tiếng Anh: Computer Vision
+Mã số học phần: INT3412 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 45 0 0 Học phần tiên quyết (tên và mã số học phần): INT2210 Cấu trúc dữ liệu và giải thuật Các yêu cầu đối với học phần (nếu có): Xử lý ảnh Bộ môn Khoa phụ trách học phần: Bộ môn KHMT Khoa CNTT
+# 3. mục tiêu học phần: thị giác máy
 Giới thiệu cho sinh viên các khái niệm và thuật toán cơ bản được sử dụng trong thị giác máy vai trò của thị giác máy trong các ứng dụng thực tiễn từ công nghiệp đến đời sống hàng ngày. Sinh viên có khả năng phân tích yêu cầu của các bài toán có sử dụng thị giác máy trong thực tiễn biết cách đánh giá sử dụng các công cụ có sẵn hoặc có thể phát triển phương pháp mới nhằm đáp ứng nhu cầu thực tiễn của bài toán.
+# 5. tóm tắt nội dung học phần: thị giác máy
+Trước tiên sinh viên sẽ được giới thiệu về ý nghĩa của môn học quan hệ của nó với các môn học khác trong chương trình đào tạo và một số vị trí công việc thực tế cần kiến thức thị giác máy. Sau đó sinh viên sẽ được học lý thuyết chung về thị giác máy bao gồm: Ảnh và các phương pháp biểu diễn ảnh Điểm đặc trưng của ảnh Mô hình camera và hiệu chỉnh Huấn luyện và triển khác các mô hình thị giác máy cơ bản

@@ -1,0 +1,14 @@
+ 2. khung chương trình đào tạo ngành mạng máy tính và truyền thông dữ liệu
+ i. khối kiến thức chung (chưa tính kỹ năng bổ trợ, giáo dục thể chất, giáo dục quốc phòng - an ninh) chương trình đào tạo ngành mạng máy tính(mmt), tổng số tín chỉ: 26 ngành mạng máy tính và truyền thông dữ liệu
+Mã số học phần: PHI1006, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Triết học Mác – Lênin\nMarxist-Leninist Philosophy, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết:
+Mã số học phần: PEC1008, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kinh tế chính trị Mác-Lênin\nMarx-Lenin Political Economy, số tín chỉ: 2, Lý thuyết: 20, Thực hành: 10, Tự học: , mã số học phần tiên quyết: PHI1006
+Mã số học phần: PHI1002, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Chủ nghĩa xã hội khoa học\nScientific Socialism, số tín chỉ: 2, Lý thuyết: 30, Thực hành: , Tự học: , mã số học phần tiên quyết:
+Mã số học phần: HIS1001, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Lịch sử Đảng Cộng sản Việt Nam\nRevolutionary Guidelines of Vietnam Communist Party, số tín chỉ: 2, Lý thuyết: 20, Thực hành: 10, Tự học: , mã số học phần tiên quyết:
+Mã số học phần: POL1001, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tư tưởng Hồ Chí Minh\nHo Chi Minh's Ideology, số tín chỉ: 2, Lý thuyết: 20, Thực hành: 10, Tự học: , mã số học phần tiên quyết:
+Mã số học phần: THL1057, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Nhà nước và Pháp luật đại cương\nState and Law, số tín chỉ: 2, Lý thuyết: 20, Thực hành: 5, Tự học: 5, mã số học phần tiên quyết:
+Mã số học phần: FLF1107, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tiếng Anh B1\nEnglish B1, số tín chỉ: 5, Lý thuyết: 20, Thực hành: 35, Tự học: 20, mã số học phần tiên quyết:
+Mã số học phần: FLF1108, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tiếng Anh B2\nEnglish B2, số tín chỉ: 5, Lý thuyết: 20, Thực hành: 35, Tự học: 20, mã số học phần tiên quyết:
+Mã số học phần: INT1009, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tin học cơ sở\nIntroduction to Informatics, số tín chỉ: 3, Lý thuyết: 15, Thực hành: 30, Tự học: , mã số học phần tiên quyết:
+Mã số học phần: , Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kỹ năng bổ trợ\nSoft Skills, số tín chỉ: 3, Lý thuyết: , Thực hành: , Tự học: , mã số học phần tiên quyết:
+Mã số học phần: , Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Giáo dục thể chất \nPhysical Education, số tín chỉ: 4, Lý thuyết: , Thực hành: , Tự học: , mã số học phần tiên quyết:
+Mã số học phần: , Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Giáo dục quốc phòng - an ninh\nNational Defence Education, số tín chỉ: 8, Lý thuyết: , Thực hành: , Tự học: , mã số học phần tiên quyết:

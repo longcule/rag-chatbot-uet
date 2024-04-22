@@ -1,0 +1,22 @@
+ 4. đội ngũ cán bộ giảng dạy ngành mạng máy tính và truyền thông dữ liệu
+ các giảng viên học phần: công nghệ phần mềm - software engineering ngành mạng máy tính và truyền thông dữ liệu
+Tên giảng viên: Nguyễn Việt Hà, chức danh: PGS.TS., chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS.
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: TS.
+Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS.
+Tên giảng viên: Đặng Đức Hạnh, chức danh: TS.
+ các giảng viên học phần: lý thuyết thông tin - information theory ngành mạng máy tính và truyền thông dữ liệu
+Tên giảng viên: Nguyễn Phương Thái, chức danh: PGS.TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Nguyên Khôi, chức danh: TS
+ các giảng viên học phần: truyền thông số và mã hóa - digital communications and coding ngành mạng máy tính và truyền thông dữ liệu
+Tên giảng viên: Trịnh Anh Vũ, chức danh: PGS.TS, chuyên ngành: Điện tử viễn thông, đơn vị: Trường ĐHCN
+Tên giảng viên: Đinh Triều Dương, chức danh: TS, chuyên ngành: Điện tử viễn thông, đơn vị: Trường ĐHCN
+ các giảng viên học phần: mạng không dây - wireless networks ngành mạng máy tính và truyền thông dữ liệu
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trúc Mai, chức danh: TS
+ các giảng viên học phần: an toàn và an ninh mạng - network security ngành mạng máy tính và truyền thông dữ liệu
+Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đình Thanh, chức danh: TS
+ các giảng viên học phần: quản trị mạng - network administration ngành mạng máy tính và truyền thông dữ liệu
+Tên giảng viên: Dương Lê Minh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Đỗ Hoàng Kiên, chức danh: ThS

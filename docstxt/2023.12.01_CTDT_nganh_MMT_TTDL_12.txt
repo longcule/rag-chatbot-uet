@@ -1,0 +1,10 @@
+ v. khối kiến thức ngành chương trình đào tạo ngành mạng máy tính(mmt), tổng số tín chỉ: 65 ngành mạng máy tính và truyền thông dữ liệu
+ v.2. nhóm các học phần tự chọn chương trình đào tạo ngành mạng máy tính(mmt), tổng số tín chỉ: 21 ngành mạng máy tính và truyền thông dữ liệu
+ v.2.1. nhóm các học phần về quản trị và an ninh mạng chương trình đào tạo ngành mạng máy tính(mmt), tổng số tín chỉ: ngành mạng máy tính và truyền thông dữ liệu
+Mã số học phần: INT3301, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thực hành hệ điều hành mạng \nNetwork operating system lab, số tín chỉ: 3, Lý thuyết: 15, Thực hành: 30, Tự học: , mã số học phần tiên quyết: INT1008
+Mã số học phần: INT3308, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Đánh giá hiệu năng mạng\nNetwork Performance Evaluation, số tín chỉ: 3, Lý thuyết: 42, Thực hành: 3, Tự học: , mã số học phần tiên quyết: INT2213
+Mã số học phần: INT3309, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phân tích và thiết kế mạng máy tính\nAnalysis and Design of Computer Networks, số tín chỉ: 3, Lý thuyết: 24, Thực hành: 6, Tự học: 15, mã số học phần tiên quyết: INT2213
+Mã số học phần: INT3317E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thực hành an ninh mạng\nNetwork security lab, số tín chỉ: 3, Lý thuyết: 15, Thực hành: 30, Tự học: , mã số học phần tiên quyết: INT2213
+Mã số học phần: INT3327, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiểm thử an ninh mạng\nNetwork Security Testing, số tín chỉ: 3, Lý thuyết: 15, Thực hành: 30, Tự học: , mã số học phần tiên quyết: INT3317
+Mã số học phần: INT3324, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): An ninh di động\nMobile Security, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2213
+Mã số học phần: INT3318, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Các thiết bị mạng và môi trường truyền\nNetwork Devices and Transmission Media, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2213

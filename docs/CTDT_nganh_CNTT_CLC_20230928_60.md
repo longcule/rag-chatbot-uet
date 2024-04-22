@@ -1,21 +1,37 @@
-# 4. Đội ngũ cán bộ giảng dạy ngành CÔNG NGHỆ THÔNG TIN
-## Các giảng viên học phần: Tin học y tế - Health Informatics ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Trần Quốc Dũng, chức danh: ThS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Xử lý tiếng nói - Speech Processing ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Trần Quốc Long, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Tác tử thông minh và Rô-bốt - Intelligence Agents and Robotics ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: , chức danh: , chuyên ngành: , đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Thuật toán nâng cao và Ứng dụng - Advanced Algorithms and Applications ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Các giảng viên Khoa CNTT và giảng viên mời, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Phương pháp tính - Numerical Methods ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Đức Bằng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Bộ quốc phòng
-## Các giảng viên học phần: Tối ưu hóa - Optimization ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Hoàng Xuân Huấn, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-## Các giảng viên học phần: Bổ trợ ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Các giảng viên Khoa CNTT và giảng viên mời, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Khóa luận tốt nghiệp - Graduation Thesis ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Các giảng viên Khoa CNTT, Trường ĐHCN và giảng viên mời, chức danh: , chuyên ngành: , đơn vị:
-# 5. Hướng dẫn thực hiện chương trình đào tạo ngành CÔNG NGHỆ THÔNG TIN
+# 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin chất lượng cao(clc)
+## các môn học sẽ học trong học kỳ 7 chương trình đào tạo cntt chất lượng cao(clc)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,THL1057,Nhà nước và pháp luật đại cương,2
+2,INT3507,Các vấn đề hiện đại Công nghệ thông tin,3
+3,INT3508,Thực tập chuyên ngành,3
+4,Chọn 1 trong 2 học phần,,3
+INT3131,Dự án khoa học,3
+INT3132,Dự án công nghệ,3
+5,01 học phần bổ trợ,,2
+UET1002,Kỹ năng khởi nghiệp,2
+6,Sinh viên chọn 03 học phần từ các học phần lựa chọn,,9
+INT3117,Kiểm thử và đảm bảo chất lượng phần mềm,3
+INT3111,Quản lý dự án phần mềm,3
+INT3115,Thiết kế giao diện người dùng,3
+INT3506,Các hệ thống thương mại điện tử,3
+INT3301,Thực hành hệ điều hành mạng,3
+INT3303,Mạng không dây,3
+INT3304,Lập trình mạng,3
+INT3305,Truyền thông đa phương tiện,3
+INT3512,Lập trình thi đấu,3
+INT3423,Tin sinh học ứng dụng,3
+INT3404,Xử lý ảnh,3
+INT3501,Khoa học dịch vụ,3
+INT3423,Tin sinh học ứng dụng,3
+INT3422,Tin học y tế,3
+INT3323,Phát triển ứng dụng Internet of Things,3
+INT3405,Học máy,3
+INT3402,Chương trình dịch,3
+INT3411,Xử lý tiếng nói,3
+INT3424,Tác tử thông minh và Rô-bốt,3
+INT3227,Tích hợp dịch vụ,4
+Tổng: 22 môn học
+## các môn học sẽ học trong học kỳ 8 chương trình đào tạo cntt chất lượng cao(clc)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT4050,Khóa luận tốt nghiệp,10
+Tổng: 10 môn học

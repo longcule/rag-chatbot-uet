@@ -1,19 +1,24 @@
-# 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
-## Mã học phần: INT3110
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phân tích và thiết kế hướng đối tượng - Object-oriented Analysis and Design, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Phân tích và thiết kế hướng đối tượng - Object-oriented Analysis and Design là:
-1. Tài liệu bắt buộc
-1. Trương Ninh Thuận and Đặng Đức Hạnh, Phân tích và thiết kế hướng đối tượng, NXB ĐHQGHN, 2013.
-2. Slides: ”Object oriented analysis and design”, IBM courses.
-2. Tài liệu tham khảo thêm
-1. Grady Booch, James Rumbaugh and Ivar Jacobson, Unified Modeling Language User Guide, 2nd Edition, Addition Wesley Professional, 2005.
-2. Bertrand Meyer, Object oriented software construction, Prentice Hall, 2000.
-3. Erich Gamma et al., Design pattern: Elements of Reusable Object Oriented Software, Addison Wesley Professional, 1994.
-## Mã học phần: INT3202
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Hệ quản trị cơ sở dữ liệu - Database Management Systems, Số tín chỉ: 3, Danh mục tài liệu tham khảo học phần Hệ quản trị cơ sở dữ liệu - Database Management Systems là:
-1. Tài liệu bắt buộc
-1. Nguyễn Tuệ, Nguyễn Hải Châu, Nguyễn Ngọc Hoá, Cơ sở dữ liệu nâng cao, NXB ĐHQGHN, 2015.
-2. Abraham Silberschatz, S. Sudarshan, Henry F. Korth, Database System Concepts, 7th Edition, McGraw-Hill Science/Engineering/Math; 2019.
-3. Ramez Elmasri and Shamkant B. Navathe, Fundamentals of Database Systems, 7th Edition by Addison-Wesley, 2016.
-2. Tài liệu tham khảo thêm
-1. Tài liệu về hệ quản trị CSDL MySQL http://dev.mysql.com/doc/
-2. Các tài liệu được giảng viên cung cấp để tìm hiểu về hệ quản trị dữ liệu quy mô lớn
+# 3. danh mục tài liệu tham khảo ngành công nghệ thô
+## Danh mục tài liệu tham khảo học phần Mật mã và An toàn thông tin - Cryptography and Information security là:
+Tài liệu bắt buộc
+1. Phan Đình Diệu. Lý thuyết mật mã và An toàn thông tin. 2002
+2. Trịnh Nhật Tiến. Giáo trình An toàn dữ liệu. 2007
+3. Nguyễn Đại Thọ. Giáo trình An ninh Mạng. 2008
+Tài liệu tham khảo:
+1. Jonathan Katz, Yehuda Lindell, Introduction to Modern Cryptography, Second Edition, 2015,
+2. Lectures, MIT 6.875J/18.425J and Berkeley CS276 Foundations of Cryptography (Fall 2020) https://inst.eecs.berkeley.edu/~cs276/fa20/slides/
+3. Network Security Essentials: Applications and Standards, by William Stallings. Prentice Hall
+## Danh mục tài liệu tham khảo học phần Thiết kế và phân tích thực nghiệm - Design and Analysis of Experiments là:
+Tài liệu bắt buộc
+1. Douglas C. Montgomery. Design and Analysis of Experiments, 9th edition, John Wiley & Sons, 2017.
+2. M. Crawley, Statistics: An introduction using R, 2nd edition, John Wiley & Sons, 2015.
+3. Nguyễn Hải Châu, Bài giảng thiết kế phân tích thực nghiệm, cập nhật hằng năm.
+Tài liệu tham khảo:
+1. G. W. Oehlert, A first course in design and analysis of experiments, W. H. Freeman, 2010.
+## Danh mục tài liệu tham khảo học phần Phân tích thiết kế các HTTT - Design and Analysis of Experiments là:
+Tài liệu bắt buộc
+1. Jeffrey A. Hoffer; Joey F. George; Joseph S. Valacich, Modern Systems Analysis and Design, 8th Edition by Prentice Hall, 2017, ISBN-10: 0134204921 • ISBN-13: 978-134204925.
+2. Kenneth E. Kendall & Julie E. Kendall, Systems Analysis and Design, 10th Global Edition, Pearson, 2020.
+3. Jeffery L. Whitten, Lonnie D. Bentley, System Analysis & Design Methods, Seventh Edition by McGraw Hill, 2007, ISBN 0073052337.
+Tài liệu tham khảo
+1. Object-Oriented Systems Analysis and Design Using UML, 4th Edition by Simon Bennett, Steve McRobb and Ray Farmer, McGraw Hill, 2010, ISBN-10:

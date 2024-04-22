@@ -1,0 +1,10 @@
+ v.2. các học phần tự chọn chương trình đào tạo ngành khoa học máy tính(khmt), tổng số tín chỉ: 21/99 ngành khoa học máy tính
+ v.2.3. nhóm các học phần về xử lý dữ liệu thông minh chương trình đào tạo ngành khoa học máy tính(khmt), tổng số tín chỉ: ngành khoa học máy tính
+Mã số học phần: INT2044E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Lý thuyết thông tin\nInformation Theory, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: MAT1101
+Mã số học phần: INT3423E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tin sinh học ứng dụng\nBioinformatics and its Applications, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2215
+Mã số học phần: INT3406, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Xử lý ngôn ngữ tự nhiên\nNatural Language Processing, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
+Mã số học phần: INT3411, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Xử lý tiếng nói\nSpeech Processing, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
+Mã số học phần: INT3123, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Các thuật toán đồ thị và ứng dụng\nGraph algorithms and applications, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
+Mã số học phần: INT3419, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phân tích Dữ liệu không gian và Ứng dụng\nGeospatial Data Analysis and Applications, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT3405E\nINT3416
+Mã số học phần: INT3420E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Học sâu và Ứng dụng\nDeep learning and Applications, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT3405E
+Mã số học phần: INT3137, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phân tích dữ liệu trực quan\nVisual Data Analytics, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT3405E\nINT3416

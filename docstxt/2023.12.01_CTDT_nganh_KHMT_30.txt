@@ -1,0 +1,20 @@
+ 3. danh mục tài liệu tham khảo ngành khoa học máy tính
+ Danh mục tài liệu tham khảo học phần Mật mã và An toàn thông tin - Cryptography and Information security là:
+Tài liệu bắt buộc
+1. Jonathan Katz, Yehuda Lindell, Introduction to Modern Cryptography, Second Edition, 2015
+2. Phan Đình Diệu. Lý thuyết mật mã và An toàn thông tin. 2002
+3. Trịnh Nhật Tiến. Giáo trình An toàn dữ liệu. 2007
+4. Nguyễn Đại Thọ. Giáo trình An ninh Mạng. 2008
+Tài liệu tham khảo thêm
+1. Janathan Katz, Yehuda Lindell, Introduction to Modern Cryptography, Second Edition, 2015.
+2. Lectures, MIT 6.875J/18.425J and Berkeley CS276 Foundations of Cryptography (Fall 2020) https://inst.eecs.berkeley.edu/~cs276/fa20/slides/
+3. Network Security Essentials: Applications and Standards, Six Edition, 2017, by William Stallings. Prentice Hall
+4. Cryptography: Theory and Practice, Fourth Edition, 2019 by Douglas R. Stinson, CRC press
+ Danh mục tài liệu tham khảo học phần An toàn và an ninh mạng - Network Security là:
+Tài liệu bắt buộc
+1. William Stallings. Network Security Essentials: Applications and Standards, Fourth Edition. Prentice Hall, 2011
+2. Vincent Nestler, Gregory White, Wm. Arthur Conklin, and Matthew Hirsch. Principles of Computer Security: CompTIA Security+ and Beyond, Lab Manual, Second Edition. McGraw-Hill, 2011
+3. Mark Ciampa. Security+ Guide to Network Security Fundamentals, Third Edition. Course Technology, 2008.
+Tài liệu tham khảo
+1. William Stallings. Cryptography and Network Security: Principles and Practice, Fifth Edition. Prentice Hall, 2010.
+2. Wm. Arthur Conklin and Gregory White. Principles of Computer Security, CompTIA Security+ and Beyond (Exam SY0-301), Third Edition. McGraw-Hill, 2011

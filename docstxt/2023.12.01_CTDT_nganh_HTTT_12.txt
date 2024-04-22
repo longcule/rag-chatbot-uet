@@ -1,0 +1,11 @@
+ v.2. các học phần tự chọn chương trình đào tạo ngành hệ thống thông tin(httt), tổng số tín chỉ: 20/63 ngành hệ thống thông tin
+ v.2.1. nhóm các học phần về tích hợp dịch vụ và quản lý dữ liệu lớn chương trình đào tạo ngành hệ thống thông tin(httt)
+Mã số học phần: INT2045E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Quản lý dự án HTTT \nInformation System Project Management, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2020E
+Mã số học phần: INT3227, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tích hợp dịch vụ\nService Integration, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT3201
+Mã số học phần: INT3228E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thiết kế và phân tích thực nghiệm\nDesign and Analysis of Experiments, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: MAT1101
+Mã số học phần: INT3229E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kỹ thuật và công nghệ dữ liệu lớn\nBigData Techniques and Technologies, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
+Mã số học phần: INT3230E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Mật mã và An toàn thông tin\nCryptography and Information security, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT1050
+Mã số học phần: INT3231E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Công nghệ Blockchain\nBlockchain and Distributed Ledger Technologies, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
+Mã số học phần: INT3505, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kiến trúc hướng dịch vụ\nService-Oriented Architectures, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2204
+Mã số học phần: INT3506E, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Các hệ thống thương mại điện tử\nE-commerce Systems, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT1007
+Mã số học phần: INT3306, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phát triển ứng dụng Web\nWeb application development, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT2204, INT2211

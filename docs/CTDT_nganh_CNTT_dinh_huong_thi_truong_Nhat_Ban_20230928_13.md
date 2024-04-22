@@ -1,5 +1,5 @@
-## V. Khối kiến thức ngành chương trình đào tạo ngành CNTT định hướng thị trường Nhật Bản, Tổng số tín chỉ: 54 ngành CÔNG NGHỆ THÔNG TIN
-### V.4. Các học phần tự chọn bổ trợ chương trình đào tạo ngành CNTT định hướng thị trường Nhật Bản, Tổng số tín chỉ: 3 ngành CÔNG NGHỆ THÔNG TIN
+## v. khối kiến thức ngành chương trình đào tạo ngành cntt định hướng thị trường nhật bản, tổng số tín chỉ: 54 ngành công nghệ thông tin
+### v.4. các học phần tự chọn bổ trợ chương trình đào tạo ngành cntt định hướng thị trường nhật bản, tổng số tín chỉ: 3 ngành công nghệ thông tin
 Mã số học phần: UET1002, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Kỹ năng khởi nghiệp - Entrepreneurship, số tín chỉ: 2, Lý thuyết: 30, Thực hành: , Tự học: , mã số học phần tiên quyết:
 Mã số học phần: INT3418, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thuật toán nâng cao và ứng dụng - Advanced Algorithms and Applications, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2210
 Mã số học phần: INT3102, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Phương pháp tính - Numerical Methods, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: MAT1093 - MAT1042

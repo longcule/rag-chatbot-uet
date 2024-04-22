@@ -1,5 +1,5 @@
-# 4. Chuẩn đầu ra: PHÂN TÍCH KINH DOANH
-Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
+# 4. chuẩn đầu ra: phân tích kinh doanh
+Chuẩn đầu ra học phần: Mã Nội dung chuẩn đầu ra
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Phân tích được vai trò quan trọng của phân tích kinh doanh trong việc nâng cao hiệu quả hoạt động của các tổ chức doanh nghiệp ở nhiều khía cạnh như tài chính sản xuất chuỗi cung ứng khách hàng marketing bán hàng ...
 CLO2 Vận dụng thành thạo các kỹ thuật phương pháp phân tích kinh doanh đã học vào việc xây dựng các giải pháp thực tiễn cho các tổ chức doanh nghiệp.

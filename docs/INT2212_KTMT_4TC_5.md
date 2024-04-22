@@ -1,4 +1,4 @@
-# 8. Hình thức tổ chức dạy học KIẾN TRÚC MÁY TÍNH
+# 8. hình thức tổ chức dạy học kiến trúc máy tính
 Tuỳ theo hoàn cảnh thực tế từng năm học việc dạy học có thể kết hợp cả hình thức trực tuyến và trực tiếp tuân thủ đúng theo các quy định của ĐHQGHN Trường ĐHCN. 8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần) Hình thức dạy Số tiếttuần Từ tuần ...đến tuần... Địa điểm Lý thuyết 4 110 Giảng đường Lý thuyết 4 1115 Nền tảng học trực tuyến (Zoom Microsoft Teams ...) Tự học bắt buộc 1 115 Ở nhà 8.2 Lịch trình dạy cụ thể
 Tuần
 Nội dung giảng dạy lý thuyếtthực hành

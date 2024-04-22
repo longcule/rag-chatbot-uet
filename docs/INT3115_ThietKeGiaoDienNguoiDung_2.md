@@ -1,2 +1,14 @@
-# 5. Tóm tắt nội dung học phần: THIẾT KẾ GIAO DIỆN NGƯỜI DÙNG
+# 4. chuẩn đầu ra: thiết kế giao diện người dùng
+Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
+CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
+CLO1 Giải thích được các kiến thức tổng quan về thiết kế giao diện các khái niệm chung về quy trình thiết kế giao diện các kỹ thuật xây dựng giao diện cho hệ thống phần mềm có chất lượng;
+CLO2 Vận dụng được các kiến thức về quy tắc quy trình thiết kế kỹ thuật thiết kế giao diện và tương tác trong xây dựng hệ thống phần mềm;
+CLO3 Vận dụng được các kiến thức về phân tích thiết kế để xây dựng yêu cầu tiến hành phân tích và thiết kế hệ thống phần mềm;
+Kỹ năng
+CLO4 Có kỹ năng mô hình hóa;
+CLO5 Có kỹ năng áp dụng kiến thức vào thực tế;
+CLO6 Có tư duy logic sáng tạo phản biện;
+CLO7 Làm việc nhóm;
+CLO8 Đọc hiểu tài liệu tiếng Anh chuyên ngành.
+# 5. tóm tắt nội dung học phần: thiết kế giao diện người dùng
 Học phần giới thiệu tổng quan về thiết kế giao diện cũng như khái niệm về tính dễ dùng các hệ thống tương tác. Sau đó sinh viên sẽ được tìm hiểu về các hướng dẫn các nguyên tắc và các lý thuyết thiết kế. Nội dung về các phương pháp quản lý thiết kế như phương pháp của IBM LUCID cũng sẽ được đề cập trong học phần. Sinh viên sẽ được tìm hiểu về các phương pháp đánh giá giao diện.

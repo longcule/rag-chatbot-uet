@@ -1,17 +1,2 @@
-# 7. Học liệu LẬP TRÌNH NÂNG CAO
-Ghi chú: Học liệu được sắp xếp theo thứ tự ưu tiên. Thông tin học liệu bao gồm: tên tác giả tên sáchgiáo trình... nhà xuất bản năm xuất bản. LẬP TRÌNH NÂNG CAO
-7.1. Học liệu bắt buộc: LẬP TRÌNH NÂNG CAO \[1\] Nguyễn Văn Vinh Phạm Hồng Thái Trần Quốc Long Giáo trình Lập
-trình nâng cao NXB ĐHQGHN 2018.
-\[2\] (Online) Bộ dự án lập trình kiểm thử tự động với Github Actions
-https:github.comcsuet
-7.2. Học liệu tham khảo: LẬP TRÌNH NÂNG CAO \[1\]. Walter Savitch and Kenrick Mock Absolute C 6^th^ edition
-Pearson 2016.
-\[2\]. Michael Dawson Beginning C Through Game Programming 3^rd^
-edition Course Technology 2011
-\[3\]. Walter Savitch Problem Solving with C 8th edition
-AddisonWesley 2012.
-\[4\]. y Robert Sedgewick and Kevin Wayne Introduction to Programming
-in Java: An Interdisciplinary Approach 2nd edition AddisonWesley
-2017
-\[5\]. Robert C. Martin Clean Code: A Handbook of Agile Software
-Craftsmanship Pearson 2008.
+# 8. hình thức tổ chức dạy học: lập trình nâng cao
+Lịch trình dạy cụ thể: LẬP TRÌNH NÂNG CAO Tuần Nội dung Lý Nội dung giảng Nội dung sinh thuyếtThực dạy online viên tự học hành 1 Giới thiệu về Hướng dẫn định Làm bài tập về học phần lập hướng làm bài kiểu dữ liệu trình nâng cao tập thông qua hằng số biểu chương trình đầu nền tảng thức tiên ôn tập Microsoft Teams kiểu dữ liệu biến hằng số Thực hiện các biểu thức bài tập thực hành & tự động chấm điểm sử dụng Github Actions 2 Xây dựng chương Làm bài tập về trình từ ý tưởng các lệnh rẽ đến mã giảsơ đồ nhánh vòng lặp khối và chương trình cuối cùng Ôn tập các lệnh rẽ nhánh lệnh lặp 3 Hàm và giải Làm bài tập về quyết bài toán xây dựng hàm theo mô hình topdown 4 Hàm đệ quy Làm bài tập về hàm và hàm đệ quy 5 Mảng vector Làm bài tập về lập trình thao các thao tác tác trên mảng trên mảng xâu Xâu string 6 Đếm thống kê Hướng dẫn định Làm bài tập về tìm kiếm sắp hướng làm bài các thuật toán xếp tập thông qua đếm tìm kiếm nền tảng sắp xếp Tập hợp set Microsoft Teams Ánh xạ map Suy nghĩ về dự Thực hiện các án sẽ làm bài tập thực hành & tự động chấm điểm sử dụng Github Actions 7 Vào ra dữ liệu Làm bài tập về vào ra dữ liệu với file 8 Lập trình đồ hoạ Làm bài tập vẽ hình đồ hoạ Lựa chọn dự án lập trình 9 Kiểu dữ liệu Làm bài tập về trừu tượng struct & class struct 10 Kiểu dữ liệu Làm bài tập về trừu tượng struct class class enum enum union union Báo cáo tiến độ dự án 11 Lập trình nhiều Làm bài tập tổng file hợp Tổ chức môđun hóa chương trình của dự án 12 Quản lý bộ nhớ Làm bài tập về bộ nhớ động bộ nhớ và con trỏ Báo cáo tiến độ dự án 13 Danh sách liên Làm bài tập về kết danh sách liên kết 14 Kỹ thuật xử lý Làm bài tập về ngoại lệ xử lý ngoại lệ 15 Lập trình với Báo cáo dự án thư viện chuẩn Tổng kết

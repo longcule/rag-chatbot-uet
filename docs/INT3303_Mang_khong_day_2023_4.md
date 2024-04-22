@@ -1,5 +1,5 @@
-# 8. Hình thức tổ chức dạy học: MẠNG KHÔNG DÂY
-8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): MẠNG KHÔNG DÂY Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 3 115 Giảng đường 8.2. Lịch trình dạy cụ thể: MẠNG KHÔNG DÂY Tuần Nội dung giảng dạy lý thuyết Nội dung sinh viên tự học 1 Giới thiệu mạng không dây và di động ứng dụng của mạng không dây lịch sử phát triển của các mạng không dây di động
+# 8. hình thức tổ chức dạy học: mạng không dây
+Lịch trình dạy cụ thể: MẠNG KHÔNG DÂY Tuần Nội dung giảng dạy lý thuyết Nội dung sinh viên tự học 1 Giới thiệu mạng không dây và di động ứng dụng của mạng không dây lịch sử phát triển của các mạng không dây di động
 2 Các đặc tính truyền tín hiệu trong môi trường truyền không dây Lập trình Python
 3 Các phương pháp điều chế tín hiệu để truyền trong môi trường không dây Lập trình điều chế tín hiệu số bằng Python
 45 Các phương pháp truy cập môi trường truyền không dây SDMA FDMA TDMA và CDMA Lập trình điều chế tín hiệu số bằng Python

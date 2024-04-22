@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: PHÂN TÍCH KINH DOANH
+# 6. nội dung chi tiết học phần: phân tích kinh doanh
 Chương 1. Tổng quan về phân tích kinh doanh
 1.1. Giới thiệu học phần
 1.2. Các khái niệm trong phân tích kinh doanh

@@ -1,0 +1,20 @@
+CHƯƠNG TRÌNH ĐÀO TẠO
+TRÌNH ĐỘ ĐẠI HỌC
+TRÌNH ĐỘ: ĐẠI HỌC
+NGÀNH: KHOA HỌC MÁY TÍNH
+MÃ SỐ: 7480101
+PHẦN I. GIỚI THIỆU CHUNG VỀ CHƯƠNG TRÌNH ĐÀO TẠO
+ 1. một số thông tin về chương trình đào tạo ngành khoa học máy tính
+-   Tên ngành đào tạo:
+-   Tiếng Việt: Khoa học Máy tính
+-   Tiếng Anh: Computer Science
+-   Mã số đào tạo: 7480101
+-   Danh hiệu tốt nghiệp: Cử nhân
+-   Thời gian đào tạo: 04 năm
+-   Tên văn bằng sau khi tốt nghiệp:
+-   Tiếng Việt: Cử nhân ngành Khoa học Máy tính
+-   Tiếng Anh: The Degree of Bachelor in Computer Science
+-   Đơn vị được giao nhiệm vụ đào tạo: Trường Đại học Công nghệ (ĐHCN), > Đại học Quốc gia Hà Nội (ĐHQGHN)
+ 2. mục tiêu của chương trình đào tạo ngành khoa học máy tính
+ 2.1. mục tiêu chung ngành khoa học máy tính
+Mục tiêu của chương trình đào tạo Cử nhân Khoa học máy tính (KHMT) là nhằm đào tạo những sinh viên giỏi về chuyên môn và cao về kỹ năng, đáp ứng được nhu cầu sử dụng nhân lực trình độ cao của các công ty, tập đoàn lớn về Công nghệ thông tin (CNTT) tại Việt Nam cũng như thế giới. Bên cạnh đó, chương trình cũng hướng tới góp phần đào tạo, bồi dưỡng các sinh viên tài năng định hướng học thuật, được hướng dẫn để phát triển khả năng nghiên cứu, xây dựng các mô hình, thuật toán, công nghệ lõi thuộc lĩnh vực Khoa học máy tính, để trở thành đội ngũ nhà khoa học kế cận tại các trường Đại học, Trung tâm, viện nghiên cứu trong tương lai.

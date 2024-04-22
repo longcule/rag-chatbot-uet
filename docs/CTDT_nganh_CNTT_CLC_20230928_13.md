@@ -1,5 +1,5 @@
-#### V.2.2. Các học phần tự chọn theo các định hướng chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: 36/123 ngành CÔNG NGHỆ THÔNG TIN
-##### V.2.2.2. Nhóm các học phần về Hệ thống thông tin chương trình đào tạo ngành CNTT Chất lượng cao(CLC), Tổng số tín chỉ: ngành CÔNG NGHỆ THÔNG TIN
+#### v.2.2. các học phần tự chọn theo các định hướng chương trình đào tạo ngành cntt chất lượng cao(clc), tổng số tín chỉ: 36/123 ngành công nghệ thông tin chất lượng cao(clc)
+##### v.2.2.2. nhóm các học phần về hệ thống thông tin chương trình đào tạo ngành cntt chất lượng cao(clc), tổng số tín chỉ: ngành công nghệ thông tin chất lượng cao(clc)
 Mã số học phần: INT3202, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Hệ quản trị cơ sở dữ liệu - Database Management Systems, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
 Mã số học phần: INT3209, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Khai phá dữ liệu  - Data Mining, số tín chỉ: 3, Lý thuyết: 45, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211
 Mã số học phần: INT3224, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Trí tuệ kinh doanh - Business Intelligence, số tín chỉ: 4, Lý thuyết: 60, Thực hành: , Tự học: , mã số học phần tiên quyết: INT2211

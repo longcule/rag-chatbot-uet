@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: MẠNG MÁY TÍNH
+# 6. nội dung chi tiết học phần: mạng máy tính
 Chương 1 (5 tiết)
 1. Tổng quan kiến trúc mạng Internet (1 tiết)
 2. Ý nghĩa của việc phân tầng giao thức. (1 tiết)
@@ -17,12 +17,10 @@ Chương 2 (7 tiết)
 2. Cơ chế kiểm chứng (Authentication).
 3. Cơ chế Cookies.
 4. Web cache Web proxy.
-{html}
 ! 3. Ứng dụng FTP (1 tiết)
 4. Ứng dụng Thư tín điện tử (eMail) (1 tiết)
 1. Giao thức SMTP giữa các Mail Server
 2. Giao thức lấy thư POP3 IMAP
-{html}
 ! 5. Hệ thống tên miền DNS và vấn đề giải mã địa chỉ. (1 tiết)
 6. Lập trình socket (1 tiết)
 Chương 3 Tầng giao vận (9 tiết)
@@ -46,20 +44,17 @@ Chương 4 Tầng mạng (8 tiết)
 1. Các mô hình dịch vụ của tầng mạng (1 tiết)
 1. Mạch ảo (Virtual Circuit)
 2. Mạch gói (Datagram)
-{html}
 ! 1. Các giải thuật định tuyến (2 tiết)
 2. Giao thức IP (2 tiết)
 1. Quy ước địa chỉ (có phân lớp không phân lớp)
 2. Ý nghĩa các trường trong gói IP datagram
 3. Cách thức xử lý các gói tin IP tại router
 4. Phân mảnh Hợp nhất gói IP datagram.
-{html}
 ! 4. Một số giao thức định tuyến trên mạng (RIP OSPF BGP) (1 tiết)
 5. Cấu trúc router (1 tiết)
 1. Cổng vào
 2. Cổng ra
 3. Mạng chuyển mạch
-{html}
 ! 6. Giao thức IP6. (1 tiết)
 Chương 5 Tầng liên kết dữ liệu (10 tiết)
 1. Các dịch vụ của tầng liên kết dữ liệu (1 tiết)

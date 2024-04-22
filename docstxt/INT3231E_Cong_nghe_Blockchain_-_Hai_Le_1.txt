@@ -1,0 +1,7 @@
+HỌC PHẦN: CÔNG NGHỆ BLOCKCHAIN
+ các giảng viên học phần: công nghệ blockchain - blockchain and distributed ledger technologies là:
+Tên giảng viên: Nguyễn Ngọc Hóa, chức danh: PGS.TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Phê Đô, chức danh: TS., chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Hồng Hải, chức danh: TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+ 2. thông tin chung về học phần công nghệ blockchain
+Tên học phần: Blockchain Mã số học phần: INT3231E Số tín chỉ: 4 Giờ tín chỉ đối với các hoạt động (LTThHTH): 6000 Học phần tiên quyết: Cơ sở dữ liệu (INT2211) Bộ môn Khoa phụ trách học phần: Bộ môn Các hệ thống thông tin Khoa Công nghệ Thông tin.

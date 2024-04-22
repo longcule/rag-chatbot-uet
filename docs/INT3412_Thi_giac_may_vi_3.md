@@ -1,20 +1,2 @@
-# 6. Nội dung chi tiết học phần: THỊ GIÁC MÁY Chương I: Giới thiệu
-1. Giới thiệu môn học
-2. Giới thiệu các khái niệm và ứng dụng của thị giác máy. Chương II: Ảnh và các phương pháp biểu diễn ảnh
-1. Ánh sáng và màu sắc
-2. Các phép lọc: làm mượt và tìm cạnh
-3. Tư duy và lọc trong miền tần số
-4. Mẫu kim tự tháp và thông lọc
-Chương III: Điểm đặc trưng
-1. Điểm đặc trưng
-2. Theo dấu đặc trưng
-3. Optical flow
-4. So khớp căn chỉnh và nhận dạng tức thời Chương IV: Camera
-1. Mô hình camera
-2. Hình học đơn khung hình và hiệu chỉnh Chương V: Ứng dụng học máy trong thị giác máy
-1. Các bộ phân lớp cơ bản áp dụng cho bài toán phân lớp đối tượng
-2. Làm quen với mô hình mạng học sâu nhân chập cho bài toán nhận dạng ảnh
-3. Các ứng dụng cơ bản của mạng học sâu nhân chập trong thị giác máy
-# 7. Học liệu THỊ GIÁC MÁY
-7.1. Học liệu bắt buộc: THỊ GIÁC MÁY 1\. Computer Vision: A Modern Approach Forsyth and Ponce Prentice Hall 2011.
-7.2. Học liệu tham khảo: THỊ GIÁC MÁY 1\. Computer Vision: Algorithms and Applications Richard Szeliski Springer London 2010 2\. Deep learning (Vol. 1 No. 2). Goodfellow I. Bengio Y. Courville A. & Bengio Y. (2016). Cambridge: MIT press.
+# 8. hình thức tổ chức dạy học: thị giác máy
+Lịch trình dạy cụ thể: THỊ GIÁC MÁY Tuần Nội dung giảng dạy lý Nội dung sinh viên tự thuyếtthực hành học 1 Giới thiệu môn học Tìm hiểu lịch sử phát triển lĩnh vực thị giác Giới thiệu khái niệm và máy trên thế giới ứng dụng của thị giác máy 2 Ánh sáng và màu sắc Ôn tập lại các kiến thức xử lý tín hiệu số và xử Các phép lọc làm mượt và lý ảnh tìm cạnh 3 Điểm đặc trưng Thực tập công cụ tách góc Harris sử dụng công cụ Tìm điểm đặc trưng: OpenCV Harris Hessian 4 Theo dấu đặc trưng và Bài tập 1 Optical Flow 5 Mô hình camera và hiệu Thực tập các công cụ hiệu chỉnh chỉnh camera sử dụng OpenCV 6 Nhận dạng dựa trên so Bài tập 2 khớp căn chỉnh điểm đặc trưng 7 Nhận dạng ảnh dựa trên Thực tập làm quen với các mạng học sâu nhân chập thư viện học sâu PytorchTensorflow 8 Giới thiệu đồ án môn học Đăng ký thực hiện đồ án môn học 9 Các mô hình trích chọn Thực tập làm quen với các đặc trưng ảnh dựa trên mô khung mô hình cơ bản cho hình học sâu bài toán trích chọn đặc trưng ảnh: VGG ResNet 10 Bài toán nhận dạng vật Làm quen với các mô hình thể và phân vùng ảnh ngữ phân vùng ảnh: Yolo nghĩa Unet RCNN 11 Huấn luyện và triển khai Đọc thêm tài liệu các ứng dụng thị giác máy trong thực tế 12 Hướng dẫn sinh thực hiện Trình bày đồ án môn học đồ án môn học Các nhóm sẽ trình bày online trên hệ thống Microsoft Teams theo lịch học của Nhà trường. 13 Hướng dẫn sinh thực hiện đồ án môn học 14 Hướng dẫn sinh thực hiện đồ án môn học 15 Tổng kết cuối kỳ THỊ GIÁC MÁY

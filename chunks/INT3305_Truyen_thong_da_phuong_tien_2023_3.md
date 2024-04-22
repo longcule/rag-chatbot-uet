@@ -6,5 +6,3 @@ Approach" Fifth Edition \[2\] Khalid Sayood Introduction to Data Compression Thi
 Elsvier 2006 7.2 Học liệu tham khảo
 # 8. Hình thức tổ chức dạy học TRUYỀN THÔNG ĐA PHƯƠNG TIỆN
 8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần) Hình thức dạy Số tiếttuần Từ tuần ...đến tuần... Địa điểm Lý thuyết 2 115 Giảng đường Thực hành Tự học bắt buộc 1 115 8.2 Lịch trình dạy cụ thể Nội dung 15 tuần được triển khai theo thứ tự với thời lượng tương ứng trong phần nội dung chi tiết môn học.
-# 9. Chính sách đối với môn học và các yêu cầu khác của giảng viên TRUYỀN THÔNG ĐA PHƯƠNG TIỆN
-Điểm danh các buổi học Vắng mặt quá 4 lần sẽ không được thi và không có điểm tổng kết môn

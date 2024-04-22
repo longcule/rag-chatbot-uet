@@ -1,0 +1,22 @@
+HỌC PHẦN: TỐI ƯU HÓA
+ các giảng viên học phần: tối ưu hóa - optimization ngành công nghệ thông tin
+Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Huấn, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+ 2. thông tin chung về học phần: tối ưu hóa
+Tên học phần:
+Tiếng Việt: Tối ưu hóa Tiếng Anh: Optimization
+Mã số học phần: INT3103 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 30150 Học phần tiên quyết (tên và mã số học phần): Toán học rời rạc
+(INT1050) Cấu trúc dữ liệu và giải thuật (INT2210) Các yêu cầu đối với học phần (nếu có): không có Bộ môn Khoa phụ trách học phần: Bộ môn KH&KT TT Khoa CNTT
+ 3. mục tiêu học phần: tối ưu hóa
+Mục tiêu kiến thức. Học phần "tối ưu hóa" trang bị cho sinh viên các phương pháp cơ giải các bài toán tối ưu thường gặp trong nghiên cứu và ứng dụng bao gồm: Các phương pháp phương pháp quy hoạch tuyến tính phi tuyến thường gặp. Các kỹ thuật tính toán mềm giải các bài toán tối ưu tổ hợp và các bài toán tối ưu khó.
+Mục tiêu kỹ năng. Khi hoàn thành học phần này sinh viên nắm được các kỹ thuật và phương pháp cơ bản để xây dựng được các chương trình giải các bài toán tối ưu trong nghiên cứu và ứng dụng
+ 4. chuẩn đầu ra: tối ưu hóa
+Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
+CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
+CLO1 Biết mô hình bài toán tối ưu phân lớp các bài toán tối ưu
+CLO2 Biết phương pháp giải bài toán tuyến tính
+CLO3 Biết phương pháp giải bài toán phi tuyến tính
+CLO4 Biết phương pháp giải bài toán tối ưu tổ hợp
+Kỹ năng
+CLO5 Vận dụng các kiến thức để mô hình hóa bài toán trong khoa học công nghệ và đời sống
+CLO6 Biết lựa chọn các phương pháp giải quyết bài toán tối ưu

@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: LẬP TRÌNH NÂNG CAO
+# 6. nội dung chi tiết học phần: lập trình nâng cao
 Ghi chú: Nội dung học phần được mô tả chi tiết đến 2 mức chương bài
 ví dụ:
 1. Mở đầu

@@ -1,0 +1,12 @@
+ 1. tóm tắt yêu cầu chương trình đào tạo ngành hệ thống thông tin
+Tổng số tín chỉ của chương trình đào tạo (Chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng - An ninh, Kỹ năng bổ trợ): 136 tín chỉ
+-   Khối kiến thức chung (Chưa tính các học phần Giáo dục thể chất, Giáo dục Quốc phòng - An ninh, Kỹ năng bổ trợ): 26 tín chỉ
+-   Khối kiến thức chung theo lĩnh vực 19 tín chỉ
+-   Khối kiến thức chung cho khối ngành 10 tín chỉ
+-   Khối kiến thức chung cho nhóm ngành 30 tín chỉ
+-   Khối kiến thức ngành 51 tín chỉ
+-   Khối kiến thức bắt buộc: 19 tín chỉ
+-   Khối kiến thức tự chọn: 20 tín chỉ
+-   Khối kiến thức bổ trợ: 05 tín chỉ
+-   Khóa luận tốt nghiệp: 07 tín chỉ
+ 2. chương trình đào tạo ngành hệ thống thông tin

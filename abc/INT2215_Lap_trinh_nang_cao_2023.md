@@ -1,19 +1,17 @@
 HỌC PHẦN: LẬP TRÌNH NÂNG CAO
-# 1. Thông tin về các giảng viên học phần: LẬP TRÌNH NÂNG CAO
-STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoại Email Ghi chú 1 Lê Đức Trọng TS. BMKHMT trongld\@vnu.edu.vn
-2 Trần Thị Minh Châu TS BM KHMT chauttm\@vnu.edu.vn
-3 Lê Quang Hiếu TS BM KHMT hieulq\@vnu.edu.vn
-4 Nguyễn Văn Vinh TS BM KHMT vinhnv\@vnu.edu.vn
-5 Nguyễn Việt Anh PGS. TS. BM KHMT vietanh\@vnu.edu.vn
-# 2. Thông tin chung về học phần: LẬP TRÌNH NÂNG CAO Tên học phần:
-{html}
-! Tiếng Việt: Lập trình nâng cao Tiếng Anh: Advanced programming
-{html}
-! Mã số học phần: INT2215 Số tín chỉ: 4 Giờ tín chỉ đối với các hoạt động (LTThHTH): 45150 Học phần tiên quyết (tên và mã số học phần): INT1008 Nhập môn lập
-trình Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn KHMT Khoa CNTT
-# 3. Mục tiêu học phần: LẬP TRÌNH NÂNG CAO
+# các giảng viên học phần: lập trình nâng cao - advanced programming là: 
+Tên giảng viên: Trần Quốc Long, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Văn Vinh, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Thị Minh Châu, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Quang Hiếu, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+# 2. thông tin chung về học phần: lập trình nâng cao 
+Tên học phần:
+Tiếng Việt: Lập trình nâng cao Tiếng Anh: Advanced programming
+Mã số học phần: INT2215 Số tín chỉ: 4 Giờ tín chỉ đối với các hoạt động (LTThHTH): 45150 Học phần tiên quyết (tên và mã số học phần): INT1008 Nhập môn lập trình Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn KHMT Khoa CNTT
+# 3. mục tiêu học phần: lập trình nâng cao
 Học phần này giúp sinh viên xây dựng tư duy lập trình cách xây dựng chương trình xuất phát từ ý tưởng ban đầu đến chương trình hoàn chỉnh cuối cùng cũng như giới thiệu một số kỹ thuật lập trình nâng cao. Sinh viên có thể xây dựng một chương trình hoàn chỉnh có tương tác với người dùng để thực hiện một nhiệm vụ cụ thể thông qua các kỹ thuật lập trình trong ngôn ngữ lập trình bậc cao. Sinh viên có khả năng môđun hóa chương trình thành những thành phần tương đối độc lập và có khả năng thực hiện kiểm thử đơn vị gỡ rối chương trình đơn giản.
-# 4. Chuẩn đầu ra: LẬP TRÌNH NÂNG CAO
+# 4. chuẩn đầu ra: lập trình nâng cao
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Nhận diện mô tả và giải thích được cú pháp của một số ngôn ngữ lập trình thông dụng
@@ -25,9 +23,9 @@ CLO5 Rèn luyện tính chuyên nghiệp trong lập trình; phong cách lập t
 CLO6 Giải quyết hoàn chỉnh các bài toán bằng lập trình bao gồm cài đặt thành chương trình gỡ rối và kiểm thử chương trình.
 Mức độ tự chủ và trách nhiệm
 CLO7 Tự xây dựng được phần mềm hoàn chỉnh
-# 5. Tóm tắt nội dung học phần: LẬP TRÌNH NÂNG CAO
+# 5. tóm tắt nội dung học phần: lập trình nâng cao
 Trước tiên sinh viên sẽ được hướng dẫn quy trình phát triển một ý tưởng thành một chương trình cụ thể chạy được. Sau đó sinh viên tiếp tục học các kỹ thuật lập trình nâng cao sử dụng ngôn ngữ lập trình bậc cao để giải quyết các bài toán cụ thể trên máy tính đồng thời sinh viên cũng học phong cách lập trình chuyên nghiệp lập trình nhóm kiểm thử và gỡ rối chương trình. Sinh viên sẽ được hướng dẫn xây dựng một số dự án lập trình nhỏ dưới dạng các trò chơi để học và ôn luyện các kỹ thuật lập trình. Lý thuyết chung về Lập trình nâng cao bao gồm: các khái niệm cơ bản và kỹ thuật lập trình nâng cao được thể hiện trong ngôn ngữ lập trình bậc cao (C hoặc Java); các kiểu cấu trúc dữ liệu thông dụng như mảng cấu trúc lớp hàm con trỏ danh sách liên kết; các thuật toán tìm kiếm sắp xếp đơn giản; hàm đệ quy; thao tác với tệp; lập trình trên nhiều tệp; lập trình đồ hoạ; tương tác với người dùng qua bàn phím con chuột; cách sử dụng các khái niệm này để tổ chức chương trình tối ưu và cách thức lập trình nhóm. Sinh viên cũng được hướng dẫn thực hành để có thể lập trình nhóm và xây dựng gỡ rối và kiểm thử chương trình dựa trên ngôn ngữ bậc cao (C hoặc Java).
-# 6. Nội dung chi tiết học phần: LẬP TRÌNH NÂNG CAO
+# 6. nội dung chi tiết học phần: lập trình nâng cao
 Ghi chú: Nội dung học phần được mô tả chi tiết đến 2 mức chương bài
 ví dụ:
 1. Mở đầu
@@ -96,24 +94,5 @@ ví dụ:
 2. Khái niệm vật chứa
 3. vector map set
 4. Thuật toán trên vật chứa
-# 7. Học liệu LẬP TRÌNH NÂNG CAO
-Ghi chú: Học liệu được sắp xếp theo thứ tự ưu tiên. Thông tin học liệu bao gồm: tên tác giả tên sáchgiáo trình... nhà xuất bản năm xuất bản. LẬP TRÌNH NÂNG CAO
-7.1. Học liệu bắt buộc: LẬP TRÌNH NÂNG CAO \[1\] Nguyễn Văn Vinh Phạm Hồng Thái Trần Quốc Long Giáo trình Lập
-trình nâng cao NXB ĐHQGHN 2018.
-\[2\] (Online) Bộ dự án lập trình kiểm thử tự động với Github Actions
-https:github.comcsuet
-7.2. Học liệu tham khảo: LẬP TRÌNH NÂNG CAO \[1\]. Walter Savitch and Kenrick Mock Absolute C 6^th^ edition
-Pearson 2016.
-\[2\]. Michael Dawson Beginning C Through Game Programming 3^rd^
-edition Course Technology 2011
-\[3\]. Walter Savitch Problem Solving with C 8th edition
-AddisonWesley 2012.
-\[4\]. y Robert Sedgewick and Kevin Wayne Introduction to Programming
-in Java: An Interdisciplinary Approach 2nd edition AddisonWesley
-2017
-\[5\]. Robert C. Martin Clean Code: A Handbook of Agile Software
-Craftsmanship Pearson 2008.
-# 8. Hình thức tổ chức dạy học: LẬP TRÌNH NÂNG CAO
-8.1. Phân bổ lịch trình giảng dạy trong 1 học kỳ (15 tuần): LẬP TRÌNH NÂNG CAO Hình thức Số Từ tuần ... Địa điểm dạy tiếttuần đến tuần ... (Giảng đường PM online) Lý thuyết 2 115 Giảng đường Thực hành 2 216 Phòng máy (Hướng dẫn SV 1 115 Online tự học chữa (Microsoft bài tập) Teams) 8.2. Lịch trình dạy cụ thể: LẬP TRÌNH NÂNG CAO Tuần Nội dung Lý Nội dung giảng Nội dung sinh thuyếtThực dạy online viên tự học hành 1 Giới thiệu về Hướng dẫn định Làm bài tập về học phần lập hướng làm bài kiểu dữ liệu trình nâng cao tập thông qua hằng số biểu chương trình đầu nền tảng thức tiên ôn tập Microsoft Teams kiểu dữ liệu biến hằng số Thực hiện các biểu thức bài tập thực hành & tự động chấm điểm sử dụng Github Actions 2 Xây dựng chương Làm bài tập về trình từ ý tưởng các lệnh rẽ đến mã giảsơ đồ nhánh vòng lặp khối và chương trình cuối cùng Ôn tập các lệnh rẽ nhánh lệnh lặp 3 Hàm và giải Làm bài tập về quyết bài toán xây dựng hàm theo mô hình topdown 4 Hàm đệ quy Làm bài tập về hàm và hàm đệ quy 5 Mảng vector Làm bài tập về lập trình thao các thao tác tác trên mảng trên mảng xâu Xâu string 6 Đếm thống kê Hướng dẫn định Làm bài tập về tìm kiếm sắp hướng làm bài các thuật toán xếp tập thông qua đếm tìm kiếm nền tảng sắp xếp Tập hợp set Microsoft Teams Ánh xạ map Suy nghĩ về dự Thực hiện các án sẽ làm bài tập thực hành & tự động chấm điểm sử dụng Github Actions 7 Vào ra dữ liệu Làm bài tập về vào ra dữ liệu với file 8 Lập trình đồ hoạ Làm bài tập vẽ hình đồ hoạ Lựa chọn dự án lập trình 9 Kiểu dữ liệu Làm bài tập về trừu tượng struct & class struct 10 Kiểu dữ liệu Làm bài tập về trừu tượng struct class class enum enum union union Báo cáo tiến độ dự án 11 Lập trình nhiều Làm bài tập tổng file hợp Tổ chức môđun hóa chương trình của dự án 12 Quản lý bộ nhớ Làm bài tập về bộ nhớ động bộ nhớ và con trỏ Báo cáo tiến độ dự án 13 Danh sách liên Làm bài tập về kết danh sách liên kết 14 Kỹ thuật xử lý Làm bài tập về ngoại lệ xử lý ngoại lệ 15 Lập trình với Báo cáo dự án thư viện chuẩn Tổng kết 
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: LẬP TRÌNH NÂNG CAO 
-Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh. Sinh viên tích cực làm bài tập trên lớp tham gia thảo luận trả lời câu hỏi (ở lớp hoặc trên diễn đàn của trang web học phần) sẽ được xem xét cộng điểm học phần. Với các nội dung liên quan đến lập trình (ví dụ bài tập lớn) nếu sinh viên gian lận mã nguồn thì sẽ bị điểm học phần là 0.
+# 8. hình thức tổ chức dạy học: lập trình nâng cao
+Lịch trình dạy cụ thể: LẬP TRÌNH NÂNG CAO Tuần Nội dung Lý Nội dung giảng Nội dung sinh thuyếtThực dạy online viên tự học hành 1 Giới thiệu về Hướng dẫn định Làm bài tập về học phần lập hướng làm bài kiểu dữ liệu trình nâng cao tập thông qua hằng số biểu chương trình đầu nền tảng thức tiên ôn tập Microsoft Teams kiểu dữ liệu biến hằng số Thực hiện các biểu thức bài tập thực hành & tự động chấm điểm sử dụng Github Actions 2 Xây dựng chương Làm bài tập về trình từ ý tưởng các lệnh rẽ đến mã giảsơ đồ nhánh vòng lặp khối và chương trình cuối cùng Ôn tập các lệnh rẽ nhánh lệnh lặp 3 Hàm và giải Làm bài tập về quyết bài toán xây dựng hàm theo mô hình topdown 4 Hàm đệ quy Làm bài tập về hàm và hàm đệ quy 5 Mảng vector Làm bài tập về lập trình thao các thao tác tác trên mảng trên mảng xâu Xâu string 6 Đếm thống kê Hướng dẫn định Làm bài tập về tìm kiếm sắp hướng làm bài các thuật toán xếp tập thông qua đếm tìm kiếm nền tảng sắp xếp Tập hợp set Microsoft Teams Ánh xạ map Suy nghĩ về dự Thực hiện các án sẽ làm bài tập thực hành & tự động chấm điểm sử dụng Github Actions 7 Vào ra dữ liệu Làm bài tập về vào ra dữ liệu với file 8 Lập trình đồ hoạ Làm bài tập vẽ hình đồ hoạ Lựa chọn dự án lập trình 9 Kiểu dữ liệu Làm bài tập về trừu tượng struct & class struct 10 Kiểu dữ liệu Làm bài tập về trừu tượng struct class class enum enum union union Báo cáo tiến độ dự án 11 Lập trình nhiều Làm bài tập tổng file hợp Tổ chức môđun hóa chương trình của dự án 12 Quản lý bộ nhớ Làm bài tập về bộ nhớ động bộ nhớ và con trỏ Báo cáo tiến độ dự án 13 Danh sách liên Làm bài tập về kết danh sách liên kết 14 Kỹ thuật xử lý Làm bài tập về ngoại lệ xử lý ngoại lệ 15 Lập trình với Báo cáo dự án thư viện chuẩn Tổng kết 

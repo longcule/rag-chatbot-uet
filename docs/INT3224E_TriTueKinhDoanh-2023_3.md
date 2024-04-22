@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: TRÍ TUỆ KINH DOANH
+# 6. nội dung chi tiết học phần: trí tuệ kinh doanh
 6.1. Nội dung lý thuyết
 1. Giới thiệu chung
 1. Khái niệm chung

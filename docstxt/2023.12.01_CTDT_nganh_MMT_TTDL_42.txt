@@ -1,0 +1,20 @@
+ 4. đội ngũ cán bộ giảng dạy ngành mạng máy tính và truyền thông dữ liệu
+ các giảng viên học phần: phát triển ứng dụng web - web application development ngành mạng máy tính và truyền thông dữ liệu
+Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Việt Anh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+ các giảng viên học phần: các vấn đề hiện đại của tt&mmt - advanced topics in communications and computer networks ngành mạng máy tính và truyền thông dữ liệu
+Tên giảng viên: Trần Trúc Mai, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: PGS.TS
+ các giảng viên học phần: thực tập doanh nghiệp - industrial internship ngành mạng máy tính và truyền thông dữ liệu
+Tên giảng viên: Trần Trúc Mai, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Giảng viên của Khoa CNTT
+Tên giảng viên: Cán bộ phía cơ quan, doanh nghiệp nhận sinh viên thực tập
+ các giảng viên học phần: thực hành hệ điều hành mạng - network operating system lab ngành mạng máy tính và truyền thông dữ liệu
+Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đình Thanh, chức danh: TS
+Tên giảng viên: Đỗ Hoàng Kiên, chức danh: Ths
+ các giảng viên học phần: đánh giá hiệu năng mạng - network performance evaluation ngành mạng máy tính và truyền thông dữ liệu
+Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Ngọc Tân, chức danh: TS

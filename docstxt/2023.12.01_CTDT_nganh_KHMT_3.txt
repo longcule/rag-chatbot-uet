@@ -1,0 +1,8 @@
+ a. chuẩn đầu ra ngành khoa học máy tính
+Người học sau khi tốt nghiệp chương trình đào tạo phải đạt được các yêu cầu năng lực tối thiểu sau đây:
+ 1. chuẩn đầu ra về kiến thức ngành khoa học máy tính
+-   PLO1.1. Diễn giải (2) được kiến thức cơ bản về khoa học xã hội, về khoa học chính trị và pháp luật; về văn hóa, xã hội và nhân văn; về rèn luyện thể chất và quốc phòng.
+-   PLO1.2. Vận dụng (3) được kiến thức cơ bản của Toán học, khoa học cơ bản, và CNTT để giải quyết các bài toán liên quan đến lĩnh vực kỹ thuật.
+-   PLO1.3. Giải thích (4) được kiến thức nền tảng trong lĩnh vực máy tính gồm hệ thống máy tính, giải thuật và lập trình, cơ sở dữ liệu, phân tích thiết kế và phát triển phần mềm, mạng máy tính... trong nghiên cứu và phát triển các hệ thống, sản phẩm, giải pháp kỹ thuật CNTT.
+-   PLO1.4. Liên kết (4) được các kiến thức chuyên sâu của lĩnh vực Khoa học máy tính về học máy, trí tuệ nhân tạo, xử lý ngôn ngữ tự nhiên, xử lý ảnh, tương tác người máy với các định hướng ứng dụng về phát triển phần mềm và ứng dụng, các hệ thống ứng dụng Trí tuệ nhân tạo, phân tích dữ liệu thông minh, tương tác người máy
+-   PLO1.5. Nghiên cứu và phân tích (5) được các vấn đề hiện đại và công nghệ mới thuộc lĩnh vực Khoa học máy tính.

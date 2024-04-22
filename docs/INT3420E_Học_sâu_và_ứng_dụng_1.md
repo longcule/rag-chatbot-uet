@@ -1,21 +1,15 @@
 HỌC PHẦN: HỌC SÂU VÀ ỨNG DỤNG
-# 1. Thông tin về các giảng viên học phần: HỌC SÂU VÀ ỨNG DỤNG
-STT Họ và tên Chức danh học vị Địa chỉ liên hệ Điện thoại Email Ghi chú 1 Đặng Trần Bình TS BM KHMT binhdt\@vnu.edu.vn
-2 Tạ Việt Cường TS PTN HMI cuongtv\@vnu.edu.vn
-
-# 2. Thông tin chung về học phần: HỌC SÂU VÀ ỨNG DỤNG
+# các giảng viên học phần: học sâu và ứng dụng - deep learning and applications ngành khoa học máy tính
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Tạ Việt Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Trần Bình, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+# 2. thông tin chung về học phần: học sâu và ứng dụng
 Tên học phần:
-{html}
-! Tiếng Việt: Học sâu và ứng dụng Tiếng Anh: Deeplearning and Application
-{html}
-! Mã số học phần: INT3420E Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết (tên và mã số học phần): \.... Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn Khoa học Máy tính
-# 3. Mục tiêu học phần: HỌC SÂU VÀ ỨNG DỤNG
-Giới thiệu cho sinh viên các khái niệm cơ sở về học sâu phương pháp học
-sâu cơ bản và ứng dụng bao gồm các thuật toán kỹ thuật và cài đặt. Bên
-cạnh đó bước đầu giới thiệu cho sinh viên về các Trên cơ sở đó sinh
-viên có thể thiết kế được các hệ học và nghiên cứu sâu hơn về các bài
-toán cụ thể.
-# 4. Chuẩn đầu ra: HỌC SÂU VÀ ỨNG DỤNG
+Tiếng Việt: Học sâu và ứng dụng Tiếng Anh: Deeplearning and Application
+Mã số học phần: INT3420E Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTThHTH): 4500 Học phần tiên quyết (tên và mã số học phần): \.... Các yêu cầu đối với học phần (nếu có): \.... Bộ môn Khoa phụ trách học phần: Bộ môn Khoa học Máy tính
+# 3. mục tiêu học phần: học sâu và ứng dụng
+Giới thiệu cho sinh viên các khái niệm cơ sở về học sâu phương pháp học sâu cơ bản và ứng dụng bao gồm các thuật toán kỹ thuật và cài đặt. Bên cạnh đó bước đầu giới thiệu cho sinh viên về các Trên cơ sở đó sinh viên có thể thiết kế được các hệ học và nghiên cứu sâu hơn về các bài toán cụ thể.
+# 4. chuẩn đầu ra: học sâu và ứng dụng
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Định nghĩa được các khái niệm cơ sở về học máy và phân loại các các phương pháp học sâu cơ bản

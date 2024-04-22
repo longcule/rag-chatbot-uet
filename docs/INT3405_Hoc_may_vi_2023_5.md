@@ -1,2 +1,0 @@
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên: HỌC MÁY
-Ghi chú: Phần này nêu yêu cầu và cách thức đánh giá sự hiện diện trên lớp mức độ tích cực tham gia các hoạt động trên lớp các qui định về thời hạn chất lượng các bài tập bài kiểm tra .... Sinh viên nghỉ quá 20% số buổi học lý thuyết (3 buổi học) sẽ không được thi cuối kỳ. Mỗi buổi học sẽ có điểm danh sự chuyên cần sẽ kết hợp với kiểm tra giữa kỳ để đánh giá điểm thành phần. Sinh viên tích cực làm bài tập trên tham gia thảo luận sẽ được xem xét đánh giá điểm thành phần hoặc miễn kiểm tra giữa kỳ.

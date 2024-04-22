@@ -1,0 +1,26 @@
+ 3. danh mục tài liệu tham khảo ngành khoa học máy tính
+ Danh mục tài liệu tham khảo học phần Các chuyên đề trong KHMT - Special Problems in Computer Science là:
+Tài liệu bắt buộc
+1. Đề cương bài giảng của giảng viên- Lê Anh Cường, Trần Quốc Long, Lê Hồng Hải
+2. Peter Harrington, Machine Learning in Action, Manning Publications, 2012.
+Tài liệu tham khảo thêm
+1. Sean Owen, Robin Anil, Ted Dunning and Ellen Friedman, Mahout in Action, Manning Publications, 2011.
+ Danh mục tài liệu tham khảo học phần Lý thuyết thông tin - Information Theory là:
+Tài liệu bắt buộc
+1. Đề cương bài giảng của giảng viên- Nguyễn Phương Thái, Nguyễn Việt Hà
+2. Thomas M. Cover, Joy A. Thomas. Elements of Information Theory, second edition. A John Wiley & sons, Inc. 2006.
+Tài liệu tham khảo thêm
+3. David J.C MacKay. Information Theory, Learning, and Inference Algorithms. Cambridge University Press. 2005.
+ Danh mục tài liệu tham khảo học phần Tin sinh học ứng dụng - Bioinformatics and its Applications là:
+Tài liệu bắt buộc
+1. Lê Sỹ Vinh, Nhập môn Tin sinh học, Nhà Xuất Bản ĐHQGHN 2014.
+2. Lê Sỹ Vinh, Các phương pháp phân tích dữ liệu sinh học có kích thước lớn, Nhà Xuất Bản ĐHQGHN 2019.
+Tài liệu tham khảo thêm
+1. Jean - Michel Claverie, Cedric Notredame, Bioinformatics for Dummies, Wiley Publishing, Inc., 2006.
+2. Richard Durbin, Sean R. Eddy, Anders Krogh, Graeme Mitchison, Biological sequence analysis: probabilistic models of proteins and nucleic acids, Cambridge University Express, 1998.
+3. Edward Curry, Introduction to Bioinformatics with R, CRC Press, 2020
+ Danh mục tài liệu tham khảo học phần Xử lý ngôn ngữ tự nhiên - Natural Language Processing là:
+Tài liệu bắt buộc
+1. Manning, C. and Schuetze, H. Foundations of Statistical Natural Language Processing. MIT Press 1999.
+2. Daniel Jurafsky and James H. Martin, Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. 2nd Edition 2007.
+Tài liệu tham khảo thêm

@@ -1,4 +1,4 @@
-# 6. Nội dung chi tiết học phần: PHÂN TÍCH DỮ LIỆU DỰ BÁO
+# 6. nội dung chi tiết học phần: phân tích dữ liệu dự báo
 Chương 1. Tổng quan về phân tích dữ liệu dự báo
 1.1. Giới thiệu học phần
 1.2. Các khái niệm trong phân tích dữ liệu và phân tích dữ liệu dự báo

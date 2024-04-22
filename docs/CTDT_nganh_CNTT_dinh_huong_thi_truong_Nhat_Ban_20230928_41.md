@@ -1,15 +1,21 @@
-# 4. Đội ngũ cán bộ giảng dạy ngành CÔNG NGHỆ THÔNG TIN
-## Các giảng viên học phần: Tiếng Nhật 3C - Japanese 3C ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Chuẩn kỹ năng của CNTT - IT Skill Standards ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Giảng viên của Khoa CNTT, Trường ĐHCN và doanh nghiệp, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Chuyên đề Công nghệ Nhật Bản  - Workshop on Japanese Technology ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS, chuyên ngành: Khoa học & Kỹ thuật tính toán, đơn vị:
-Tên giảng viên: Lê Quang Hiếu, chức danh: TS, chuyên ngành: Khoa học Máy tính, đơn vị:
-## Các giảng viên học phần: Tiếng Nhật trong Công nghệ thông tin 1 - Japanese for IT 1 ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Giảng viên của Khoa CNTT, Trường ĐHCN và doanh nghiệp, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Tiếng Nhật trong Công nghệ thông tin 2 - Japanese for IT 2 ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Giảng viên của Khoa CNTT, Trường ĐHCN và doanh nghiệp, chức danh: , chuyên ngành: , đơn vị:
-## Các giảng viên học phần: Thực tập doanh nghiệp Nhật Bản - Japanese Enterprise Internship ngành CÔNG NGHỆ THÔNG TIN
-Tên giảng viên: Nguyễn Hoài Sơn, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
-Tên giảng viên: Giảng viên của Khoa CNTT, Trường ĐHCN và doanh nghiệp, chức danh: , chuyên ngành: , đơn vị:
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin
+## các giảng viên học phần: các hệ thống thương mại điện tử - e-commerce systems ngành công nghệ thông tin
+Tên giảng viên: Bùi Quang Hưng, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Hồng Hải, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Dư Phương Hạnh, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trọng Hiếu, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: phân tích thiết kế các httt - information system analysis and design ngành công nghệ thông tin
+Tên giảng viên: Dư Phương Hạnh, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Bá Duy, chức danh: ThS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Hồng Hải, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: tin học y tế - health informatics ngành công nghệ thông tin
+Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Quốc Dũng, chức danh: ThS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+## các giảng viên học phần: phương pháp tính - numerical methods ngành công nghệ thông tin
+Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Bằng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Bộ quốc phòng
+## các giảng viên học phần: tối ưu hóa - optimization ngành công nghệ thông tin
+Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Huấn, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+## các giảng viên học phần: bổ trợ ngành công nghệ thông tin
+Tên giảng viên: Các giảng viên Khoa CNTT và giảng viên mời

@@ -1,4 +1,4 @@
-# 4. Chuẩn đầu ra: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY
+# 4. chuẩn đầu ra: thiết kế và triển khai các hệ thống ứng dụng học máy
 Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
 CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
 CLO1 Định nghĩa được các khái niệm cơ sở về hệ thống học máy và quy trình xây dựng hệ thống học máy cơ bản
@@ -11,5 +11,5 @@ CLO6 Triển khai linh hoạt phương pháp làm việc độc lập và làm v
 CLO7 Sử dụng tiếng Anh nhằm chủ động tìm hiểu nghiên cứu khái niệm quy trình thiết kế xây dựng hệ thống học máy cơ bản và hiện đại
 Mức độ tự chủ và trách nhiệm
 CLO8 Thể hiện có tinh thần trung thực chịu trách nhiệm khi thực hiện các hoạt động học tập thực hành cá nhân hoặc theo nhóm
-# 5. Tóm tắt nội dung học phần: THIẾT KẾ VÀ TRIỂN KHAI CÁC HỆ THỐNG ỨNG DỤNG HỌC MÁY
+# 5. tóm tắt nội dung học phần: thiết kế và triển khai các hệ thống ứng dụng học máy
 Môn học này được chia thành ba phần chính. Đầu tiên là phần giới thiệu về chủ đề MLOps đi sâu vào cách thức nó phát triển vai trò liên quan để thực hiện MLOps thành công và những thành phần nào được yêu cầu. Phần thứ hai mô tả sơ bộ vòng đời của mô hình học máy với các chương về phát triển mô hình chuẩn bị sản xuất triển khai vào sản xuất giám sát và quản trị. Những cân nhắc về MLOps ở từng giai đoạn của vòng đời cung cấp thêm chi tiết về chủ đề được đề cập. Phần cuối cùng cung cấp các ví dụ hữu hình về hình thức MLOps trong các công ty ngày nay để người đọc có thể hiểu được cách thiết lập và ý nghĩa trong thực tế. Sinh viên sẽ nắm được các kiến thức cần thiết cũng như khả năng xây dựng cho mình một hệ thống thông minh cơ bản.

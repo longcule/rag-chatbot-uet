@@ -1,20 +1,11 @@
-# 4. Chuẩn đầu ra: CÁC VẤN ĐỀ HIỆN ĐẠI TRONG KHOA HỌC MÁY TÍNH
-Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
-CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
-CLO1
-CLO...
-Kỹ năng
-CLO...
-CLO...
-Mức độ tự chủ và trách nhiệm
-CLO...
-CLO... Ma trận liên kết giữa Chuẩn đầu ra học phần (CLO) và Chuẩn đầu ra
-chương trình đào tạo (PLO):
-Chuẩn đầu ra CTĐT CNTT CTĐT KHMT ... PLO1 PLO2 PLO... PLO... PLO...
-CLO1 x1
-CLO... x2
-CLO...
-Tổng hợp x1 x2 ....
-Ghi chú: Số lượng CLO nên dưới 10 Mỗi CLO nên đóng góp vào 1 PLO của mỗi CTĐT. Học phần xuất hiện trong nhiều CTĐT thì phải đóng góp vào PLO của các CTĐT đó. Chú ý với các PLO mức trường và mức chung của Khoa thì nên có sự đóng góp giống nhau giữa các CTĐT. Chuẩn đầu ra học phần (CLO) đóng góp cho chuẩn đầu ra CTĐT (PLO) nào thì ghi mức của CLO theo thang Bloom (căn cứ theo động từ mô tả CLO) vào ô tương ứng. Dòng Tổng hợp ghi đóng góp của các CLO cho PLO tương ứng (theo giá trị max) và phải khớp với MA TRẬN CĐR của CTĐT. Có thể đặt bảng này vào phần Phụ lục ở cuối đề cương.
-# 5. Tóm tắt nội dung học phần: CÁC VẤN ĐỀ HIỆN ĐẠI TRONG KHOA HỌC MÁY TÍNH
+# 5. tóm tắt nội dung học phần: các vấn đề hiện đại trong khoa học máy tính
 Phổ kiến thức của học phần này thuộc ba nhóm chính sau: Trí tuệ nhân tạo học máy; Phân tích dữ liệu và khai phá tri thức; Tương tác người máy; Sinh viên làm việc nhóm thực hiện chủ đềnhiệm vụ được giao trong vòng 58 tuần; sau đó viết báo cáo về chủ đềnhiệm vụ được giao tùy vào loại chủ đề sinh viên có thể nghiên cứu lý thuyết viết chương trình thực nghiệm hay tiến hành thử nghiệm trên một hệ thống sẵn có nào đó.
+# 6. nội dung chi tiết học phần: các vấn đề hiện đại trong khoa học máy tính
+Nội dung 1 : Giới thiệu tổng quan về học phần Giới thiệu chung về KHMT Ba nhóm chủ đề định hướng trong ngành KHMT Trí tuệ nhân tạo và học máy Phân tích dữ liệu và khai phá tri thức Tương tác người máy
+Nội dung 2 : Thảo luận chủ đề nghiên cứu và giao nhiệm vụ nghiên cứu cho sinh viên
+Nội dung 3 : Khung giao tiếp khoa học Mô hình khung chung trong giao tiếp khoa học Kỹ năng đọc Kỹ năng viết Kỹ năng nghe Kỹ năng trình bày
+Nội dung 4 : Hướng dẫn sinh viên thực hiện nhiệm vụ nghiên cứu
+Nội dung 5 : Sinh viên trình bày kết quả nghiên cứu và giáo viên nhận xét hướng dẫn đánh giá
+
+# 8. hình thức tổ chức dạy học: các vấn đề hiện đại trong khoa học máy tính
+Lịch trình dạy cụ thể: CÁC VẤN ĐỀ HIỆN ĐẠI TRONG KHOA HỌC MÁY TÍNH Tuần Nội dung giảng dạy lý Nội dung sinh viên tự thuyếtthực hành học 1 Giới thiệu tổng quan về học phần thuyết giảng nội dung 1 Sinh viên chia nhóm lựa chọn chủ đềnhiệm vụ được giao 27 Giảng viên hướng dẫn sinh Chuẩn bị tài liệu theo viên thực hiện chủ yêu cầu của giảng viên đềnhiệm vụ được giao 8 Kiểm tra giữa kỳ Chuẩn bị tài liệu theo yêu cầu của giảng viên 913 Giảng viên hướng dẫn sinh Chuẩn bị tài liệu theo viên thực hiện chủ yêu cầu của giảng viên đềnhiệm vụ được giao; Hướng dẫn các kỹ năng đọc viết nghe trình bày trong nghiên cứu khoa học 1415 Sinh viên trình bày kết Các nhóm sẽ trình bày quả chủ đềnhiệm vụ online trên hệ thống Microsoft Teams theo lịch học của Nhà trường.

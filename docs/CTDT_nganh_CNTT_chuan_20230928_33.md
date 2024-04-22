@@ -1,19 +1,22 @@
-# 3. Danh mục tài liệu tham khảo ngành CÔNG NGHỆ THÔNG TIN
-## Mã học phần: INT3230
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Mật mã và An toàn thông tin - Cryptography and Information security, Số tín chỉ: 4, Danh mục tài liệu tham khảo học phần Mật mã và An toàn thông tin - Cryptography and Information security là:
-1. Tài liệu bắt buộc
-1. Phan Đình Diệu. Lý thuyết mật mã và An toàn thông tin. 2002
-2. Trịnh Nhật Tiến. Giáo trình An toàn dữ liệu. 2007
-3. Nguyễn Đại Thọ. Giáo trình An ninh Mạng. 2008
-2. Tài liệu tham khảo:
-1. Jonathan Katz, Yehuda Lindell, Introduction to Modern Cryptography, Second Edition, 2015,
-2. Lectures, MIT 6.875J/18.425J and Berkeley CS276 Foundations of Cryptography (Fall 2020) https://inst.eecs.berkeley.edu/~cs276/fa20/slides/
-3. Network Security Essentials: Applications and Standards, by William Stallings. Prentice Hall
-## Mã học phần: INT3228
-Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thiết kế và phân tích thực nghiệm - Design and Analysis of Experiments, Số tín chỉ: 4, Danh mục tài liệu tham khảo học phần Thiết kế và phân tích thực nghiệm - Design and Analysis of Experiments là:
-1. Tài liệu bắt buộc
-1. Douglas C. Montgomery. Design and Analysis of Experiments, 9th edition, John Wiley & Sons, 2017.
-2. M. Crawley, Statistics: An introduction using R, 2nd edition, John Wiley & Sons, 2015.
-3. Nguyễn Hải Châu, Bài giảng thiết kế phân tích thực nghiệm, cập nhật hằng năm.
-2. Tài liệu tham khảo:
-G. W. Oehlert, A first course in design and analysis of experiments, W. H. Freeman, 2010.
+# 3. danh mục tài liệu tham khảo ngành công nghệ thô
+## Danh mục tài liệu tham khảo học phần Truyền thông đa phương tiện - Multimedia Communications là:
+Tài liệu bắt buộc
+1. James F. Kruso, Keith W. Ross, Computer Networking – A Top-Down Approach, Fifth Edition
+2. David Salomon: A Concise Introduction to Data Compression. Undergraduate Topics in Computer Science, Springer 2008, ISBN 978-1-84800-071-1, pp. i-xiii, 1-311
+Tài liệu tham khảo thêm
+1. RFC3261, "SIP: Session Initiation Protocol." J. Rosenberg, H. Schulzrinne, G. Camarillo, A. Johnston, J. Peterson, R. Sparks, M. Handley, E.
+2. Flavio E. Goncalves, Building Telephony Systems with OpenSIPS 1.6, Packt Publishing, 2010, ISBN -1849510741
+3. Alan B. Johnston, "Understanding the Session Initiation Protocol", third edition, Artech House telecommunication library, 2009
+## Danh mục tài liệu tham khảo học phần An toàn và an ninh mạng - Network Safety and Security là:
+Tài liệu bắt buộc
+1. William Stallings. Network Security Essentials: Applications and Standards, Fourth Edition. Prentice Hall, 2011.
+2. Vincent Nestler, Gregory White, Wm. Arthur Conklin, and Matthew Hirsch. Principles of Computer Security: CompTIA Security+ and Beyond, Lab Manual, Second Edition. McGraw-Hill, 2011.
+3. Mark Ciampa. Security+ Guide to Network Security Fundamentals, Third Edition. Course Technology, 2008.
+Tài liệu tham khảo thêm
+1. William Stallings. Cryptography and Network Security: Principles and Practice, Fifth Edition. Prentice Hall, 2010.
+2. Wm. Arthur Conklin and Gregory White. Principles of Computer Security, CompTIA Security+ and Beyond (Exam SY0-301), Third Edition. McGraw-Hill, 2011.
+## Danh mục tài liệu tham khảo học phần Điện toán đám mây - Cloud computing là:
+Tài liệu bắt buộc
+1. Nick Antonopoulos, Lee Gillam, Cloud Computing: Principles, Systems and Applications, Second Edition: The Sockets Networking API, Springer International Publishing, 2017.
+Tài liệu tham khảo thêm
+Giảng viên sẽ phát trong giờ học

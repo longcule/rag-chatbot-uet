@@ -1,20 +1,17 @@
-# 4. Chuẩn đầu ra: THỊ GIÁC MÁY
-Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\
-CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức
-CLO1
-CLO...
-Kỹ năng
-CLO...
-CLO...
-Mức độ tự chủ và trách nhiệm
-CLO...
-CLO... Ma trận liên kết giữa Chuẩn đầu ra học phần (CLO) và Chuẩn đầu ra
-chương trình đào tạo (PLO):
-Chuẩn đầu ra CTĐT CNTT CTĐT KHMT ... PLO1 PLO2 PLO... PLO... PLO...
-CLO1 x1
-CLO... x2
-CLO...
-Tổng hợp x1 x2 ....
-Ghi chú: Số lượng CLO nên dưới 10 Mỗi CLO nên đóng góp vào 1 PLO của mỗi CTĐT. Học phần xuất hiện trong nhiều CTĐT thì phải đóng góp vào PLO của các CTĐT đó. Chú ý với các PLO mức trường và mức chung của Khoa thì nên có sự đóng góp giống nhau giữa các CTĐT. Chuẩn đầu ra học phần (CLO) đóng góp cho chuẩn đầu ra CTĐT (PLO) nào thì ghi mức của CLO theo thang Bloom (căn cứ theo động từ mô tả CLO) vào ô tương ứng. Dòng Tổng hợp ghi đóng góp của các CLO cho PLO tương ứng (theo giá trị max) và phải khớp với MA TRẬN CĐR của CTĐT. Có thể đặt bảng này vào phần Phụ lục ở cuối đề cương.
-# 5. Tóm tắt nội dung học phần: THỊ GIÁC MÁY
-Trước tiên sinh viên sẽ được giới thiệu về ý nghĩa của môn học quan hệ của nó với các môn học khác trong chương trình đào tạo và một số vị trí công việc thực tế cần kiến thức thị giác máy. Sau đó sinh viên sẽ được học lý thuyết chung về thị giác máy bao gồm: Ảnh và các phương pháp biểu diễn ảnh Điểm đặc trưng của ảnh Mô hình camera và hiệu chỉnh Huấn luyện và triển khác các mô hình thị giác máy cơ bản
+# 6. nội dung chi tiết học phần: thị giác máy chương i: giới thiệu
+1. Giới thiệu môn học
+2. Giới thiệu các khái niệm và ứng dụng của thị giác máy. Chương II: Ảnh và các phương pháp biểu diễn ảnh
+1. Ánh sáng và màu sắc
+2. Các phép lọc: làm mượt và tìm cạnh
+3. Tư duy và lọc trong miền tần số
+4. Mẫu kim tự tháp và thông lọc
+Chương III: Điểm đặc trưng
+1. Điểm đặc trưng
+2. Theo dấu đặc trưng
+3. Optical flow
+4. So khớp căn chỉnh và nhận dạng tức thời Chương IV: Camera
+1. Mô hình camera
+2. Hình học đơn khung hình và hiệu chỉnh Chương V: Ứng dụng học máy trong thị giác máy
+1. Các bộ phân lớp cơ bản áp dụng cho bài toán phân lớp đối tượng
+2. Làm quen với mô hình mạng học sâu nhân chập cho bài toán nhận dạng ảnh
+3. Các ứng dụng cơ bản của mạng học sâu nhân chập trong thị giác máy
