@@ -1,20 +1,32 @@
- 3. danh mục tài liệu tham khảo ngành khoa học máy tính
- Danh mục tài liệu tham khảo học phần Kiến trúc hướng dịch vụ - Service Oriented Architecture là:
-Tài liệu bắt buộc
-1. Võ Đình Hiếu, Giáo trình Kiến trúc hướng dịch vụ , NXB ĐHQGHN 2016
-Tài liệu tham khảo thêm
-1. Sam Newman, Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith, O'Reilly Media, 2019.
-2. Arnaud Lauret, The Design of Web APIs, Manning Publications, 2019
-3. Neil Madden, API Security in Action, Manning Publications, 2020
- Danh mục tài liệu tham khảo học phần Công nghệ Blockchain - Blockchain and Distributed Ledger Technologies là:
-Tài liệu bắt buộc
-1. Imran Bashir, Mastering Blockchain, 4nd Edition, Packt Publishing (Mar 2023)
-Tài liệu tham khảo thêm
-1. Narayan Prusty Blockchain for Enterprise: Build scalable blockchain applications with privacy, interoperability, and permissioned features , Packt Publishing (September 26, 2018)
-2. Nitin Gaur, Hands - On Blockchain with Hyperledger: Building decentralized applications with Hyperledger Fabric and Composer Packt Publishing (June 21, 2018)
- Danh mục tài liệu tham khảo học phần Điện toán Đám mây - Cloud Computing là:
-Tài liệu bắt buộc
-1. Nick Antonopoulos, Lee Gillam, Cloud Computing: Principles, Systems and Applications, Second Edition: The Sockets Networking API, Springer International Publishing, 2017.
-Tài liệu tham khảo thêm
-1. Giảng viên sẽ phát trong giờ học
-2. Ian Foster, Dennis B. Gannon , Cloud Computing f or Science and Engineering , The MIT Press, 1st Edition (09/17) ISBN - 13: 978 - 0 - 262 - 03724 - 2
+ 4. đội ngũ cán bộ giảng dạy ngành khoa học máy tính
+ các giảng viên học phần: đồ họa máy tính ngành khoa học máy tính
+Tên giảng viên: Bùi Thế Duy, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Ma Thị Châu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Ngô Thị Duyên, chức danh: TS.
+ các giảng viên học phần: xử lý ảnh ngành khoa học máy tính
+Tên giảng viên: Lê Thanh Hà, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thị Nhật Thanh, chức danh: PGS.TS
+ các giảng viên học phần: thị giác máy ngành khoa học máy tính
+Tên giảng viên: Lê Thanh Hà, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Tạ Việt Cường, chức danh: TS
+ các giảng viên học phần: tương tác người máy ngành khoa học máy tính
+Tên giảng viên: Ngô Thị Duyên, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Ma Thị Châu, chức danh: TS
+ 5. hướng dẫn thực hiện chương trình đào tạo ngành khoa học máy tính
+ các môn học sẽ học trong học kỳ 1 chương trình đào tạo khoa học máy tính(khmt)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT1009,Tin học cơ sở,3
+2,INT1008,Nhập môn lập trình,3
+3,MAT1093,Đại số,4
+4,MAT1041,Giải tích 1,4
+5,EPN1095,Vật lý đại cương 1,2
+6,FLF1107,Tiếng Anh B1,5
+Tổng số tín chỉ: 21
+ các môn học sẽ học trong học kỳ 2 chương trình đào tạo khoa học máy tính(khmt)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,MAT1042,Giải tích 2,4
+2,INT1050,Toán học rời rạc,4
+3,INT2215,Lập trình nâng cao,4
+4,EPN1096,Vật lý đại cương 2,2
+5,FLF1108,Tiếng Anh B2,5
+Tổng số tín chỉ: 19

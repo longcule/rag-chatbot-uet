@@ -1,0 +1,25 @@
+# Danh mục tài liệu tham khảo
+## Danh mục tài liệu tham khảo học phần Học máy - Machine Learning là:
+Tài liệu bắt buộc
+1. Lê Đức Trọng, Đặng Trần Bình. Tập bài giảng môn học máy . 2022
+2. E. Alpaydın. Introduction to Machine Learning. MIT Press, Second Edition, 2010.
+Tài liệu tham khảo thêm
+1. Hoàng Xuân Huấn. Giáo trình nhận dạng mẫu. Nhà xuất bản ĐHQGHN, 2012.
+2. Andreas C. Müller and Sarah Guido. Introduction to Machine Learning with Python: A Guide for Data Scientists. 2016
+3. T. Mitchell. Machine learning . McGraw - Hill, 1997.
+4. H.B. Demuth and M. Beale. Neural network design . PWS Publishing company, 1996
+## Danh mục tài liệu tham khảo học phần Kiến trúc phần mềm - Software Architecture là:
+Tài liệu bắt buộc
+1. Len Bass, Rick Kazman, Paul C. Clements. Software Architecture in Practice ( 3rd edition) . Addison - Wesley. 2013.
+2. Robert C. Martin, Clean Architecture: A C raftsman's Guide to Software Structure and Design, Pearson, 2017
+Tài liệu tham khảo thêm
+1. Mark Richards and Neal Ford, Fundamentals of Software Architecture, O'Reilly Media, Inc., 2020
+2. Richard N. Taylor, Nenad Medvidović, Eric M. Dashofy. Software Architecture: Foundations, Theory, and Practice. John Wiley and Sons, Inc., 2009.
+3. Microsoft Application Architecture Guide, 2nd Edition. Chapter 3: Architectural Patterns and Styles.
+4. Design Patterns: Elements of Reusable Object-Oriented Software, Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides.
+## Danh mục tài liệu tham khảo học phần Kiểm thử và đảm bảo chất lượng phần mềm - Software Testing and Quality Assurance là:
+Tài liệu bắt buộc
+1. Phạm Ngọc Hùng, Trương Anh Hoàng, Đặng Văn Hưng. Giáo trình kiểm thử phần mềm. NXB ĐHQGHN, 2014
+2. Paul C. Jorgensen. Software Testing: A Craftsman's Approach, Third Edition. Auerbach. ISBN - 10: 0849374758. 2013
+Tài liệu tham khảo thêm
+1. Paul Ammann and Jeff Offutt. Introduction to Software Testing 2 nd edition. Cambridge University Press, Cambridge, UK, 2016

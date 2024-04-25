@@ -1,0 +1,23 @@
+# Danh mục tài liệu tham khảo
+## Danh mục tài liệu tham khảo học phần Truyền thông quang - Optical Communications là:
+Tài liệu bắt buộc
+1. Optical Fiber Communications. Gerd Keiser, McGraw-Hill, 2010
+2. Optical Fiber Communication Networks, John M. Senior, Prentice Hall and Pearson Education Limited, 2009
+Tài liệu tham khảo thêm
+1. Phạm Văn Hội, Thông tin quang, bài giảng dành cho sinh viên ngành công nghệ Vật lí kí thuật và Điện tử viễn thông
+2. Deepankar Medhi, Optical Fiber by ELSEVIER Inc 2007
+## Danh mục tài liệu tham khảo học phần Xử lý tín hiệu số - Digital Signal Processing là:
+Tài liệu bắt buộc
+1. Nguyễn Linh Trung, Trần Đức Tân, Huỳnh Hữu Tuệ. Xử lý tín hiệu số. NXB ĐHQGHN, 2012.
+2. John G. Proakis, Dimitris K. Manolakis (2006), Digital Signal Processing: Principles, Algorithms and Applications, 4th edition, Prentice Hall.
+Tài liệu tham khảo thêm
+1. A. V. Oppenheim, R. W. Schafer, and J. R. Buck, Discrete-Tim Signal Processing, 2nd Ed., Prentice-Hall, 1999.
+2. V. K. Ingle and J. G. Proakis, Digital Signal Processing Using MATLAB, 2nd ed., CL Engineering, 2006
+3. R. J. Schilling and S. L. Harris, Fundamentals of Digital Signal Processing Using MATLAB, 2nd ed., Cengage Learning, 2010
+4. P. P. Vaidyanathan, Multirate Systems And Filter Banks, Prentice Hall, 1992
+## Danh mục tài liệu tham khảo học phần Truyền thông vệ tinh - Satellite Communication là:
+Tài liệu bắt buộc
+1. Thái Hồng Nhị, “Hệ thống thông tin vệ tinh”, NXB Bưu điện, 2008
+Tài liệu tham khảo thêm
+1. G. Maral, M. Bousquet, “Satellite Communication Systems”, John Wiley & Son, 1997.
+2. Ray E. Sheriff, Y.Funhu, “Mobile Satellite Communication Systems”, John Wiley & Son, 2001.

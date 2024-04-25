@@ -1,18 +1,18 @@
- 3. danh mục tài liệu tham khảo ngành hệ thống thông tin
- Danh mục tài liệu tham khảo học phần Các hệ thống thương mại điện tử - E-commerce Systems là:
-Tài liệu bắt buộc
-1. Dave Chaffey, Tanya Hemphill, David Edmundson-Bird: Digital Business and E-Commerce Management, Seventh Edition, Pearson, 2019.
-Tài liệu tham khảo thêm
-1. Electronic Commerce 2018: A Managerial and Social Networks Perspective [[9 ed.], Efraim Turban & David King, Pearson International Edition 2018.
-2. Electronic Commerce, Gary P. Perry and James T. Perry, Thomson Learning 2002
-3. Electronic Commerce: A manager’s Guide, Ravi Kalakota, 2004.
- Danh mục tài liệu tham khảo học phần Phát triển ứng dụng Web - Web application development là:
-Tài liệu bắt buộc
-1. Lê Đình Thanh, Nguyễn Việt Anh, Phát triển ứng dụng web, NXB ĐHQGHN, 2019.
-2. Ben Grain, Responsive Web Design with HTML5 and CSS3, 3rd Edition, Packt Publishing, 2020.
-3. Benda Jin, Saurabh Sahni, and Amir Shevat, Designing Web APIs Building APIs That Developers Love, O’Reilly Media, 2018.
-4. Tal Ater, Building Progressive Web Apps, Bringing the Power of Native to the Browser, O’Reilly Media, 2017.
-Tài liệu tham khảo thêm
-1. Ralph F. Grove, “Web Based Application Development”, Jones & Bartlett Publishers, 2010.
-2. Kyle Loudon, “Developing Large Web Applications: Producing Code That Can Grow and Thrive”, O'Reilly Media, 2010.
-3. MDN, Lean web development, online at https://developer.mozilla.org/en-US/docs/Learn
+ 5. hướng dẫn thực hiện chương trình đào tạo ngành hệ thống thông tin
+ các môn học sẽ học trong học kỳ 7 chương trình đào tạo hệ thống thông tin(httt)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT3220E,"Các chủ đề hiện đại của HTTT - Advanced topics in Information systems",3
+2,INT4002,"Thực tập doanh nghiệp - Industrial Internship",3
+3,,"Kỹ năng bổ trợ - Soft Skills",3
+4-5,,02 học phần khối V.2,6-8
+6,INT3227,"Tích hợp dịch vụ - Service Integration",4
+INT3232E,"Phân tích kinh doanh - Business Analytics",4
+INT3233,"Khai phá dữ liệu hướng lĩnh vực - Domain-driven Data Mining",4
+INT3234E,"Phân tích dữ liệu dự báo - Predictive analytics",4
+INT3236E,"Phát triển ứng dụng doanh nghiệp - Application Development for Enterprise",4
+Tổng: 15-17 tín chỉ
+ các môn học sẽ học trong học kỳ 8 chương trình đào tạo hệ thống thông tin(httt)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,,"Khóa luận tốt nghiệp - Các học phần thay thế khóa luận tốt nghiệp",7
+Tổng tín chỉ: 7
+Trình tự đào tạo dưới đây phân bổ 136 tín chỉ tích lũy vào 8 kỳ học và đảm bảo quan hệ môn tiên quyết cũng như số tín chỉ tối thiểu sinh viên theo học chương trình đào tạo chuẩn cần đăng ký mỗi kỳ là 14 chưa kể ngoại ngữ.

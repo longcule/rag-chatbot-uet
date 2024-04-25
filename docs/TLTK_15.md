@@ -1,0 +1,20 @@
+# Danh mục tài liệu tham khảo
+##  int3234e
+Tên học phần(Ghi bằng tiếngDanh mục tài liệu tham khảo học phần Phân tích dữ liệu dự báo - Predictive analytics là:
+Tài liệu bắt buộc
+1. Applied Predictive Analytics: Principles and Techniques for the Professional Data Analyst, Dean Abbott, Wiley, 2014.
+2. Data Mining and Predictive Analytics, Daniel T. Larose and Chantal D. Larose, Wiley, 2015.
+Tài liệu tham khảo thêm
+1. Foundations of Predictive Analytics, James Wu and Stephen Coggeshall, CRC Press, 2012.
+2. Applying Predictive Analytics: Finding Value in Data, Richard V. McCarthy, Mary M. McCarthy, Wendy Ceccucci, Leila Halawi, Springer, 2019.
+3. Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies, John D. Kelleher, Brian Mac Namee, and Aoife D’Arcy, MIT Press, 2020.
+## Danh mục tài liệu tham khảo học phần Phân tích mạng phương tiện xã hội trong kinh doanh - Social Media Network Analysis for Business là:
+Tài liệu bắt buộc
+1. Trần Mai Vũ, Phan Xuân Hiếu, Lê Hoàng Quỳnh. Bài giảng Phân tích mạng phương tiện xã hội trong kinh doanh (cập nhật hàng năm).
+2. Mohammad A. Tayebi, Uwe Glässer. Social Network Analysis in Predictive Policing: Concepts, Models and Methods. Springer, 2016.
+3. Xiaoming Fu, Jar-Der Luo, Margarete Boos. Social Network Analysis: Interdisciplinary Approaches and Case Studies. CRC Press, 2017.
+4. Reda Alhajj, Jon Rokne. Encyclopedia of Social Network Analysis and Mining. Springer, 2018.
+Tài liệu tham khảo thêm
+1. William P. Fox. Mathematical Modeling for Business Analytics. Chapman and Hall, 2018.
+2. P.M. Krishna Raj, Ankith Mohan, K.G. Srinivasa. Practical Social Network Analysis with Python. Springer, 2018.
+3. Mehmet Kaya, Jalal Kawash, Suheil Khoury, Min-Yuh Day. Social Network Based Big Data Analysis and Applications. Springer, 2018.

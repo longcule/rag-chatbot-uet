@@ -1,2 +1,0 @@
-# 9. Chính sách đối với học phần và các yêu cầu khác của giảng viên PHÂN TÍCH VÀ THIẾT KẾ HƯỚNG ĐỐI TƯỢNG
-Học phần yêu cầu sinh viên tham gia các buổi học và chuẩn bị các báo cáo tuần đầy đủ. Nhóm sinh viên có chương trình demo cùng tài liệu diễn giải chuyển từ thiết kế sang mã nguồn được cộng điểm vào phần bài tập lớn tối đa 1 điểm. Nội dung Tuần 9 có thể giao cho nhóm sinh viên tự tìm hiểu và trình bày trước lớp. Nhóm sinh viên trình bày tốt sẽ được cộng điểm vào phần bài tập tuần tối đa 1 điểm.

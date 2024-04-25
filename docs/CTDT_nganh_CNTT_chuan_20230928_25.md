@@ -1,21 +1,18 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thô
-## Danh mục tài liệu tham khảo học phần Thu thập và phân tích yêu cầu - Requirements Engineering là:
-Tài liệu bắt buộc
-1. Axel Van Lamsweerde. Requirements Engineering: From system Goals to UML Models to Software Specification. Wiley 2009
-Tài liệu tham khảo thêm
-1. Ian Sommerville. Software Engineering. Pearson. 9th Edition, 2010.
-2. Lefingwell, Dean & Widrig, Don. Managing Software Requirements. Addison-Wesley 2003.
-3. Bray, Ian K. An introduction to requirements Engineering . Addison- Wesley 2002.
-## Danh mục tài liệu tham khảo học phần Quản lý dự án phần mềm - Software Project Management là:
-Tài liệu bắt buộc
-1. Kathy Schwalbe, Information Technology Project Management, 9th edition, Course Technology, 2019.
-2. Phạm Ngọc Hùng, Trần Hoàng Việt, Giáo trình quản lý dự án phần mềm, NXB ĐHQGHN, 2022.
-Tài liệu tham khảo thêm
-1. Murali K. Chemuturi and Thomas M. Cagley Jr., Mastering Software Project Management: Best Practices, Tools and Techniques, J. Ross Publishing, 2010
-2. Steve McConnell, Rapid Development, Microsoft Press, 1996, ISBN 1-55615-900-5
-3. R. Futrell, D. Shafer, L. Shafer, Quality Software Project Management, Prentice-Hall PTR, 2002.
-## Danh mục tài liệu tham khảo học phần Thiết kế giao diện người dùng - User Interface Design là:
-Tài liệu bắt buộc
-1. Ben Shneiderman and Catherine Plaisant, Designing the User Interface, 6th Edition, 2016
-Tài liệu tham khảo thêm
-1. Jeff Johnson, Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines, 3rd Edition, Morgan Kaufmann, 2020.
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chuẩn
+## các giảng viên học phần: phương pháp hình thức - formal methods ngành công nghệ thông tin chuẩn
+Tên giảng viên: Tô Văn Khánh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trương Ninh Thuận, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+## các giảng viên học phần: lập trình nhúng và thời gian thực - real-time and embedded programming ngành công nghệ thông tin chuẩn
+Tên giảng viên: Tô Văn Khánh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Quang Minh, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Viện CNTT, ĐHQGHN
+## các giảng viên học phần: thu thập và phân tích yêu cầu - requirements engineering ngành công nghệ thông tin chuẩn
+Tên giảng viên: Đặng Đức Hạnh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Hoàng Việt, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+## các giảng viên học phần: quản lý dự án phần mềm - software project management ngành công nghệ thông tin chuẩn
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Hoàng Việt, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+## các giảng viên học phần: thiết kế giao diện người dùng - user interface design ngành công nghệ thông tin chuẩn
+Tên giảng viên: Ngô Thị Duyên, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN

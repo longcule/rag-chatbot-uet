@@ -1,25 +1,23 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin
-## Danh mục tài liệu tham khảo học phần Kiến trúc máy tính - Computer Architecture là:
-Tài liệu bắt buộc
-- William Stallings, Computer Organization and Architecture. Prentice Hall; 11th Edition, Prentice Hall, 2019.
-- Nguyễn Đình Việt, Kiến trúc máy tính, NXB ĐHQGHN, 2009.
-Tài liệu tham khảo thêm
-- John L. Hennessy & David A. Patterson, Computer Architecture, A quantitative approach, Morgan Kaufmann, 6th edition 2019.
-- Pranabananda Chakraborty, Computer Organisation and Architecture Evolutionary Concepts, Principles, and Designs Published October 29, 2020 by Chapman and Hall/CRC.
-## Danh mục tài liệu tham khảo học phần Toán học rời rạc - Discrete Mathematics là:
-Tài liệu bắt buộc
-- Toán rời rạc và ứng dụng trong tin học, Keneth Rosen, dịch giả: Phạm Văn Thiều, Đặng Hữu Thịnh.
-- Bài tập toán rời rạc của Đỗ Đức Giáo
-Tài liệu tham khảo thêm
-- Miguel A. Lerma. Notes on Discrete Mathematics. 2005.
-- John A. Dossey, Albert D. Otto, Lawrence E. Spence: Discrete Mathematics, Pearson, Education, 2006
-- L. Lovasz and K. Vesztergombi: Discrete Mathematics, Lecture Notes, Yale University, Spring 1999
-- Andrew S. Tanenbaum, Albert S Woodhull, Operating Systems: Design and Implementation, 3rd edition, Prentice-Hall. 2006.
-- Robert Love, Linux Kernel Development, Sams Publishing, 2003.
-- Daniel P. Bovet, Marco Cesati, Understanding Linux Kernel, 2nd edition, O'Reilly & Associates, 2002.
-- W. Richard Stevens, Advanced Programming in the UNIX Environment, Addison-Wesley, 1992.
-## Danh mục tài liệu tham khảo học phần Nguyên lý hệ điều hành - Principles of Operating Systems là:
-Tài liệu bắt buộc
-- Abraham Silberschatz, Peter Baer Galvin, Greg GagneOperating System Concepts,10th edition, John Wiley & Sons, Inc., 2018
-Tài liệu tham khảo thêm
-- Andrew S. Tanenbaum, Modern Operating Systems, 4th edition, Pearson, 2016.
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin
+## các giảng viên học phần: lập trình hướng đối tượng - object-oriented programming ngành công nghệ thông tin
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Tô Văn Khánh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Hoàng Việt, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+## các giảng viên học phần: công nghệ phần mềm - software engineering ngành công nghệ thông tin
+Tên giảng viên: Nguyễn Việt Hà, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Đức Hạnh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+## các giảng viên học phần: tiếng nhật 2a - japanese 2a ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp
+## các giảng viên học phần: tiếng nhật 2b - japanese 2b ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp
+## các giảng viên học phần: tiếng nhật 3a - japanese 3a ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp
+## các giảng viên học phần: tiếng nhật 3b - japanese 3b ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp
+## các giảng viên học phần: tiếng nhật 3c - japanese 3c ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp

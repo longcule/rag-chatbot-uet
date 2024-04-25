@@ -1,0 +1,19 @@
+# Danh mục tài liệu tham khảo
+## Danh mục tài liệu tham khảo học phần An ninh di động - Mobile Security là:
+Tài liệu bắt buộc
+1. Man Ho Au, Raymond Choo, Mobile Security and Privacy: Advances, Challenges and Future Research Directions 1st Edition, Syngress, 2016
+2. Anmol Misra, Abhishek Dubey, Android Security: Attacks and Defenses 1st Edition, Auerbach Publications, 2013
+Tài liệu tham khảo thêm
+1. OWASP Mobile Top 10
+2. OWASP Mobile Security Testing Guide
+## Danh mục tài liệu tham khảo học phần Các thiết bị mạng và môi trường truyền là:
+Tài liệu bắt buộc
+1. Tamara Dean, Network+ Guide to networks. Fifth edition. Cengage Learning, 2010
+Tài liệu tham khảo thêm
+Giảng viên cung cấp thêm trong giờ học
+## Danh mục tài liệu tham khảo học phần Lập trình mạng - Network programming là:
+Tài liệu bắt buộc
+1. W. Richard Stevens, Bill Fenner, Andrew M. Rudoff, UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API, Addison Wesley, 2003
+2. Bogdan Ciubotaru, Gabriel-Miro Muntean, Advances Network Programming - Principles and Techniques, Network Application Programming with Java, Springer, 2013
+Tài liệu tham khảo thêm
+1. Jan Graba, An Introduction to Network Programming with Java, Third Edition, Springer, 2013

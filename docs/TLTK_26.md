@@ -1,0 +1,20 @@
+# Danh mục tài liệu tham khảo
+## Danh mục tài liệu tham khảo học phần An toàn và an ninh mạng - Network Security là:
+Tài liệu bắt buộc
+1. William Stallings. Network Security Essentials: Applications and Standards, Fourth Edition. Prentice Hall, 2011
+2. Vincent Nestler, Gregory White, Wm. Arthur Conklin, and Matthew Hirsch. Principles of Computer Security: CompTIA Security+ and Beyond, Lab Manual, Second Edition. McGraw-Hill, 2011
+3. Mark Ciampa. Security+ Guide to Network Security Fundamentals, Third Edition. Course Technology, 2008.
+Tài liệu tham khảo thêm
+1. William Stallings. Cryptography and Network Security: Principles and Practice, Fifth Edition. Prentice Hall, 2010.
+2. Wm. Arthur Conklin and Gregory White. Principles of Computer Security, CompTIA Security+ and Beyond (Exam SY0-301), Third Edition. McGraw-Hill, 2011
+## Danh mục tài liệu tham khảo học phần Quản trị mạng - Network Administration là:
+Tài liệu bắt buộc
+1. Dương Lê Minh, Tập bài giảng điện tử, 2018.
+Tài liệu tham khảo thêm
+2. Thomas A. Limoncelli, Christina J. Hogan and Strata R. Chalup, “The Practice of System and Network Administration”, Addison-Wesley (2016).
+## Danh mục tài liệu tham khảo học phần Thực hành hệ điều hành mạng - Network operating system lab là:
+Tài liệu bắt buộc
+1. Christine Bresnahan and Richard Blum. Mastering Linus System Administration. Wiley, 2021.
+Tài liệu tham khảo thêm
+1. LPI level 1, 2, 2021.
+2. Alexandru Calcatinge and Julian Balog. Mastering Linux Administration: A Comprehensive Guide to Installing, Configuring, and Maintaining Linux Systems in the Modern Data Center. Packt, 2021

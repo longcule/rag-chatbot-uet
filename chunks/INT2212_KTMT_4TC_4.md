@@ -1,2 +1,0 @@
-# 7. Học liệu KIẾN TRÚC MÁY TÍNH
-7.1. Học liệu bắt buộc \[1\] William Stallings Computer Organization and Architecture. Prentice Hall; 11^th^ Edition Prentice Hall 2031. 7.2 Học liệu tham khảo \[2\] Nguyễn Đình Việt Kiến trúc máy tính NXB ĐHQGHN 2009. \[3\] John L. Hennessy & David A. Patterson Computer Architecture A quantitative approach Morgan Kaufmann 6^th^ edition 2019. \[4\] Pranabananda Chakraborty Computer Organisation and Architecture Evolutionary Concepts Principles and Designs Published October 29 2020 by Chapman and HallCRC.

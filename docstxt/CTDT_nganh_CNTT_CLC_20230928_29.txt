@@ -1,16 +1,16 @@
- 3. danh mục tài liệu tham khảo ngành công nghệ thông tin chất lượng cao(clc)
- Danh mục tài liệu tham khảo học phần Phát triển các hệ thống thông minh là:
-Tài liệu bắt buộc
-- Hulten, Geoff. Building intelligent systems: a guide to machine learning engineering. Apress, 2018.
-Tài liệu tham khảo
-- Sculley, David, Gary Holt, Daniel Golovin, Eugene Davydov, Todd Phillips, Dietmar Ebner, Vinay Chaudhary, Michael Young, Jean-Francois Crespo, and Dan Dennison. Hidden technical debt in machine learning systems. Advances in neural information processing systems 28 (2015).
-- Giray, Görkem. A software engineering perspective on engineering machine learning systems: State of the art and challenges. Journal of Systems and Software 180 (2021).
-- Nadia Nahar , Shurui Zhou , Grace Lewis , Christian Kästner, Collaboration Challenges in Building ML-Enabled Systems: Communication, Documentation, Engineering, and Process/ 2022 IEEE/ACM 44th International Conference on Software Engineering (ICSE), 2022
- Danh mục tài liệu tham khảo học phần Phân tích và thiết kế hướng đối tượng - Object-oriented Analysis and Design là:
-Tài liệu bắt buộc
-- Phân tích và thiết kế hướng đối tượng, Trương Ninh Thuận and Đặng Đức Hạnh, NXB ĐHQGHN, 2013.
-- Slides: ”Object oriented analysis and design”, IBM courses.
-Tài liệu tham khảo thêm
-- Unified Modeling Language User Guide, Grady Booch, James Rumbaugh and Ivar Jacobson, 2nd Edition, Addition Wesley Professional, 2005.
-- Object oriented software construction, Bertrand Meyer, Prentice Hall, 2000.
-- Design pattern: Elements of Reusable Object Oriented Software, Erich Gamma et al. Addison Wesley Professional, 1994.
+ 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chất lượng cao(clc)
+ các giảng viên học phần: khai phá dữ liệu - data mining ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Hà Quang Thuỵ, chức danh: PGS. TS, chuyên ngành: Đảm bảo toán học cho máy tính và hệ thống tính toán, đơn vị: Trường ĐHCN
+Tên giảng viên: Phan Xuân Hiếu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Mai Vũ, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Hoàng Quỳnh, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+ các giảng viên học phần: trí tuệ kinh doanh - business intelligence ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Hà Nam, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐH Điện lực
+Tên giảng viên: Bùi Quang Hưng, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+ các giảng viên học phần: kỹ thuật và công nghệ dữ liệu lớn - bigdata techniques and technologies ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Nguyễn Ngọc Hoá, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Hà Quang Thuỵ, chức danh: PGS.TS, chuyên ngành: Đảm bảo toán học cho máy tính và hệ thống tính toán, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Bá Duy, chức danh: ThS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN

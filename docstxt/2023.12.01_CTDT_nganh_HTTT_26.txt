@@ -1,18 +1,31 @@
- 3. danh mục tài liệu tham khảo ngành hệ thống thông tin
- Danh mục tài liệu tham khảo học phần Tích hợp dịch vụ - Service Integration là:
-Tài liệu bắt buộc
-1. Diogo R. Ferreira, Enterprise Systems Integration: A Process-Oriented Approach, Springer; 2013 edition (December 4, 2013).
-2. Sam Newman, Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith, O'Reilly Media; 1st edition (December 10, 2019).
-3. Waseem Roshen, SOA-Based Enterprise Integration: A Step-by-Step Guide to Services-based Application, McGraw-Hill Osborne Media; 1 edition (May 21, 2009), ISBN-13: 978-0071605526.
-4. Martin Kleppmann, Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems, O'Reilly Media; 1st edition (April 18, 2017)
-Tài liệu tham khảo thêm
-1. Beth Gold-Bernstein and William Ruh, Enterprise Integration: The Essential Guide to Integration Solutions. Addison-Wesley, 2005.
-2. Stephen Bennett, Thomas Erl, Clive Gee, Robert Laird, Anne Thomas Manes, Robert Schneider, Leo Shuster, Andre Tost, Chris Venable, “SOA Governance: Governing Shared Services On-Premise & in the Cloud”, Prentice Hall; 1 edition (April 24, 2011).
-3. Gregor Hohpe and Bobby Woolf, Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions, 1st Edition, Addison-Wesley Professional, ISBN-13: 9780321200686.
- Danh mục tài liệu tham khảo học phần Thiết kế và phân tích thực nghiệm - Design and Analysis of Experiments là:
-Tài liệu bắt buộc
-1. Douglas C. Montgomery. Design and Analysis of Experiments, 9th edition, John Wiley & Sons, 2017.
-2. M. Crawley, Statistics: An introduction using R, 2nd edition, John Wiley & Sons, 2015.
-3. Nguyễn Hải Châu, Bài giảng thiết kế phân tích thực nghiệm, cập nhật hằng năm.
-Tài liệu tham khảo thêm
-1. G. W. Oehlert, A first course in design and analysis of experiments, W. H. Freeman, 2010.
+ 4. đội ngũ cán bộ giảng dạy ngành hệ thống thông tin
+ các giảng viên học phần: khai phá dữ liệu hướng lĩnh vực - domain-driven data mining là:
+Tên giảng viên: Hà Quang Thụy, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Thanh Hải, chức danh: T
+Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS. T
+Tên giảng viên: Nguyễn Hà Nam, chức danh: PGS. T
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS. T
+ các giảng viên học phần: phân tích dữ liệu dự báo - predictive analytics là:
+Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS.TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Hà Quang Thụy, chức danh: PGS.TS
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS
+Tên giảng viên: Trần Trọng Hiếu, chức danh: PGS.TS
+Tên giảng viên: Trần Mai Vũ, chức danh: TS
+ các giảng viên học phần: phân tích mạng phương tiện xã hội trong kinh doanh - social media network analysis for business là:
+Tên giảng viên: Trần Mai Vũ, chức danh: TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS.TS
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS
+Tên giảng viên: Hà Quang Thụy, chức danh: PGS.TS
+ các giảng viên học phần: phát triển ứng dụng doanh nghiệp - application development for enterprise là:
+Tên giảng viên: Lê Hồng Hải, chức danh: TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Bá Duy, chức danh: ThS
+ 5. hướng dẫn thực hiện chương trình đào tạo ngành hệ thống thông tin
+ các môn học sẽ học trong học kỳ 1 chương trình đào tạo hệ thống thông tin(httt)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT1009,"Tin học cơ sở - Introduction to Informatics",3
+2,INT1008,"Nhập môn lập trình- Fundamentals of Programming",3
+3,MAT1093,"Đại số - Algebra",4
+4,MAT1041,"Giải tích 1 - Calculus 1",4
+5,EPN1095,"Vật lý đại cương 1- General Physics 1",2
+6,FLF1107,"Tiếng Anh B1 - English B1",5
+Tổng: 21 tín chỉ

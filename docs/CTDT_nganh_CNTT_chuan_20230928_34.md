@@ -1,29 +1,28 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thô
-## Danh mục tài liệu tham khảo học phần Quản trị mạng - Network Administration là:
-Tài liệu bắt buộc
-1. Dương Lê Minh, Tập bài giảng điện tử, 2018
-Tài liệu tham khảo thêm
-1. Thomas A. Limoncelli, Christina J. Hogan and Strata R. Chalup, The Practice of System and Network Administration, Addison-Wesley (2016).
-## Danh mục tài liệu tham khảo học phần Phát triển ứng dụng Internet of Things - IoT application development là:
-Tài liệu bắt buộc
-1. Bài giảng của giáo viên
-2. Marco Schwartz, Internet of Things with Arduino Cookbook, Packt Publishing, 2016
-Tài liệu tham khảo
-1. Halfacree, Gareth, and Eben Upton. Raspberry Pi user guide. John Wiley & Sons, 2012.
-2. Maciej Kranz, Building the Internet of Things: Implement New Business Models, Disrupt Competitors, Transform Your Industry, Wiley, 2016
-## Danh mục tài liệu tham khảo học phần Xử lý ảnh - Image Processing là:
-Tài liệu bắt buộc
-Đề cương giảng dạy của giảng viên
-Tài liệu tham khảo thêm
-1. R. C. Gonzalez, R. E. Woods, Digital Image Processing, Third Edition.
-## Danh mục tài liệu tham khảo học phần Tin sinh học ứng dụng - Bioinformatics and its Applications là:
-Tài liệu bắt buộc
-1. Lê Sỹ Vinh, Nhập môn Tin sinh học, NXB ĐHQGHN 2014.
-Tài liệu tham khảo thêm
-1. Jean-Michel Claverie & Cedric Notredame, Bioinformatics for Dummies, Wiley Publishing, Inc., 2006.
-2. R. Durbin, S. Eddy, A. Krogh, and G. Mitchison. Biological sequence analysis: probabilistic models of proteins and nucleic acids. Cambridge University Express, 2010.
-## Danh mục tài liệu tham khảo học phần Tin học y tế - Health Informatics là:
-Tài liệu bắt buộc
-1. Trần Quốc Dũng (2023). Bài giảng Tin học y tế.
-Tài liệu tham khảo thêm
-1. Hoyt, R.E., Hersh, W.R., (2018). Health Informatics: Practical Guide, Seventh Edition, Lulu.com.
+# 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin chuẩn
+## các môn học sẽ học trong học kỳ 5 chương trình đào tạo ngành công nghệ thông tin chuẩn
+STT,Mã học phần,Học phần,Số tín chỉ
+1,PEC1008,"Kinh tế chính trị Mác – Lênin - Marx-Lenin Political Economy",2
+2,INT3201,"Cơ sở các hệ thống thông tin  - Foundation of Information Systems",4
+3,HIS1001,"Lịch sử Đảng Cộng sản Việt Nam - Revolutionary Guidelines of Vietnam Communist Party",2
+4,INT3209E,"Khai phá dữ liệu  - Data Mining",3
+5-6,,02 học phần khối V.2,6-8
+7,INT3228E,"Thiết kế và phân tích thực nghiệm - Design and Analysis of Experiments",4
+INT3230E,"Mật mã và An toàn thông tin - Cryptography and Information security",4
+INT3506E,"Các hệ thống thương mại điện tử - E-commerce Systems",3
+INT3501E,"Khoa học dịch vụ - Service Science",3
+INT3505,"Kiến trúc hướng dịch vụ - Service-Oriented Architectures",3
+INT3401,"Trí tuệ nhân tạo  - Artificial Intelligence",3
+INT3306,"Phát triển ứng dụng Web - Web application development",3
+Tổng: 17-19 tín chỉ
+## các môn học sẽ học trong học kỳ 6 chương trình đào tạo ngành công nghệ thông tin chuẩn
+STT,Mã học phần,Học phần,Số tín chỉ
+1,POL1001,"Tư tưởng Hồ Chí Minh - Ho Chi Minh's Ideology",2
+2,INT2214,"Nguyên lý hệ điều hành- Principles of operating systems",4
+3,INT2020E,"Phân tích thiết kế các hệ thống thông tin - Information System Analysis and Design",3
+4-5,,02 học phần khối V.2,6-8
+6,INT3229E,"Kỹ thuật và công nghệ dữ liệu lớn- BigData Techniques and Technologies",4
+INT3231E,"Công nghệ Blockchain - Blockchain and Distributed Ledger Technologies",4
+INT3235E,"Phân tích mạng phương tiện xã hội trong kinh doanh - Social Media Network Analysis for Business",4
+INT2045E,"Quản lý dự án HTTT - Information System Project Management",4
+INT3224E,"Trí tuệ kinh doanh - Business Intelligence",4
+Tổng: 15-17 tín chỉ

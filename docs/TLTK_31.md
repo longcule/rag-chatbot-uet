@@ -1,0 +1,21 @@
+# Danh mục tài liệu tham khảo
+## Danh mục tài liệu tham khảo học phần Mạng truyền thông di động - Mobile Communication Systems là:
+Tài liệu bắt buộc
+1. E. Dahlman, S. Parkvall, J. Skold, and P. Beming, 3G Evolution: HSPA and LTE for Mobile Broadband, Second Edition, Academic Press, 2008
+2. Christian Mehfuehrer, Martin Wrilich, Josep Colom Ikuno, Dagmar Bosanska, Markus Rupp, Simulating the Long Term Evolution Physical Layer, EUSIPCO 2009, pp.1471-1478, Glasgow, Scotland, August 2009.
+3. Josep Colom Ikuno, Martin Wrulich, Markus Rupp, Simulating the Long Term Evolution Physical Layer, VTC 2010, Taipei, Taiwan, May 2010
+4. Amit Kumar et.al, Evolution of Mobile Wireless Communication Networks: 1G to 4G, IJECT vol.1, Issue 1, Dec 2010
+Tài liệu tham khảo thêm
+1. Harri Holma and Antti Toskala, LTE for UMTS – OFDMA and SC-FDMA Based Radio Access, John Wiley & Sons, 2009
+## Danh mục tài liệu tham khảo học phần Mạng truyền thông máy tính 2 - Networks and Computer Communications 2 là:
+Tài liệu bắt buộc
+1. Jean Walrand và Pravin Varaiya, High-Performance Communication Networks, John Wiley & Sons, 2007.
+2. Dimitri Bertsekas “Data networks” , MIT 1998
+Tài liệu tham khảo thêm
+1. William Stalling ,”Data and Computer Communication Networks”, Pearson Prentice Hall Pearson Education, Inc., 2009.
+2. Deepankar Medhi, “Netwwork routing” by ELSEVIER Inc 2007
+## Danh mục tài liệu tham khảo học phần Truyền thông vô tuyến - Wireless Communications là:
+Tài liệu bắt buộc
+1. David Tse, Pramod Viswanath, Fundamentals of Wireless Communications, Cambridge University Press, 2005.
+Tài liệu tham khảo thêm
+1. J. Proakis, M. Salehi, Digital Communications, 5th Edition, McGraw-Hill, 2007

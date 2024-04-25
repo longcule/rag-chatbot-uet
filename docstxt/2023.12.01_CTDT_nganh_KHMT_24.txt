@@ -1,22 +1,23 @@
- 3. danh mục tài liệu tham khảo ngành khoa học máy tính
- Danh mục tài liệu tham khảo học phần Lập trình hướng đối tượng - Object-oriented Programming là:
-Tài liệu bắt buộc
-1. Trần Thị Minh Châu, Nguyễn Việt Hà, Giáo trình Lập trình hướng đối tượng với Java, NXB ĐHQGHN 2013.
-Tài liệu tham khảo thêm
-1. Oracle, The Java tutorials, https://docs.oracle.com/javase/tutorial/
-2. Joshua Bloch, Effective Java3rd Edition , Addison Wesley Professiona , 2017
- Danh mục tài liệu tham khảo học phần Công nghệ phần mềm - Software Engineering là:
-Tài liệu bắt buộc
-1. Ian Sommerville, Software Engineering. 10th Ed., Addison-Wesley, 2016.
-2. Roger S. Pressman, Software Engineering : A Practitioner's Approach - 8th Ed., McGraw Hill, 2014.
-Tài liệu tham khảo thêm
-1. Nguyễn Văn Vỵ, Nguyễn Việt Hà, Giáo trình Công nghệ phần mềm, NXB ĐHQGHN 2008.
-2. Robert C. Martin, Agile Software Development, Principles, Patterns, and Practices. Prentice Hall; 2003.
- Danh mục tài liệu tham khảo học phần Trí tuệ nhân tạo - Artificial Intelligence là:
-Tài liệu bắt buộc
-1. Đinh Mạnh Tường. Trí tuệ nhân tạo. NXB Khoa học & Kỹ thuật, 2002
-2. Russel S. and Norvig P. Artificial Intelligence: A modern approach. Prentice Hall 2008.
-Tài liệu tham khảo thêm
-1. Ben Coppin. Artificial Intelligence Illuminated. Jones and Bartlett Publishers, 2004
- Danh mục tài liệu tham khảo học phần Các vấn đề hiện đại trong KHMT - Advanced topics in Computer Science là:
-Tài liệu do giảng viên học phần cung cấp
+ 4. đội ngũ cán bộ giảng dạy ngành khoa học máy tính
+ các giảng viên học phần: khoa học dữ liệu - introduction to data science ngành khoa học máy tính
+Tên giảng viên: Nguyễn Việt Anh, chức danh: PGS.TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Quang Hiếu, chức danh: TS
+ các giảng viên học phần: học máy - machine learning ngành khoa học máy tính
+Tên giảng viên: Hoàng Xuân Huấn, chức danh: PGS.TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Tạ Việt Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Trần Bình, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+ các giảng viên học phần: thực tập doanh nghiệp - industrial internship ngành khoa học máy tính
+Tên giảng viên: Các giảng viên Khoa CNTT, chức danh: , chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+ các giảng viên học phần: kiến trúc phần mềm - software architecture ngành khoa học máy tính
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Việt Hà, chức danh: PGS TS
+Tên giảng viên: Trương Ninh Thuận, chức danh: PGS. TS
+ các giảng viên học phần: kiểm thử và đảm bảo chất lượng phần mềm - software testing and quality assurance ngành khoa học máy tính
+Tên giảng viên: Trương Ninh Thuận, chức danh: PGS. TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: PGS. TS
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS
+Tên giảng viên: Nguyễn Thu Trang, chức danh: ThS
+ các giảng viên học phần: kỹ nghệ yêu cầu - requirement engineering ngành khoa học máy tính
+Tên giảng viên: Đặng Đức Hạnh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Hoàng Việt, chức danh: TS

@@ -1,7 +1,0 @@
-HỌC PHẦN: PHÁT TRIỂN ỨNG DỤNG ĐIỆN TOÁN ĐÁM MÂY
-# 1. Thông tin về các giảng viên học phần PHÁT TRIỂN ỨNG DỤNG ĐIỆN TOÁN ĐÁM MÂY
-Họ và Chức Địa Điện Ghi STT tên danh chỉ liên thoại chú học vị hệ Email 1 Phạm TS BM li Trưởng Mạnh M&TTMT nhmp\@vn học phần Linh u.edu.vn 2 Trần TS BM mai. Giảng Trúc Mai M&TTMT tran\@vn viên u.edu.vn
-# 2. Thông tin chung về học phần PHÁT TRIỂN ỨNG DỤNG ĐIỆN TOÁN ĐÁM MÂY
-Tên môn học: Phát Triển Ứng Dụng Điện Toán Đám Mây Mã số môn học: INT3326 Số tín chỉ: 3 Giờ tín chỉ đối với các hoạt động (LTBTThHTH): 153000 Học phần tiên quyết: INT1008 Các yêu cầu đối với học phần (nếu có): Bộ môn Khoa phụ trách học phần: Bộ môn Mạng và Truyền thông Khoa CNTT
-# 3. Mục tiêu học phần PHÁT TRIỂN ỨNG DỤNG ĐIỆN TOÁN ĐÁM MÂY
-Học phần này có mục tiêu cung cấp cho sinh viên những kiến thức và kỹ năng có tính cơ bản trong lĩnh vực phát triển ứng dụng Điện toán đám mây (ĐTĐM) với những nhà cung cấp dịch vụ ĐTĐM dẫn đầu thị trường hiện nay. Kỹ năng: Các bài tập rèn luyện cho học viên những kỹ năng sau đây: Hiểu được các thuận lợi và giới hạn của các mô hình phát triển ứng dụng ĐTĐM. Biết vận dụng những kiến thức nêu trên phát triển một số ứng dụng ĐTĐM đơn giản trên nền tảng được cung cấp bởi những nhà cung cấp dịch vụ ĐTĐM hàng đầu. Thái độ chuyên cần: Chuyên cần trong Học tập Có thái độ tích cực trong khi làm việc theo nhóm

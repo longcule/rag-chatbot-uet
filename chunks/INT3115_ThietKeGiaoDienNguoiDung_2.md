@@ -1,2 +1,0 @@
-# 5. Tóm tắt nội dung học phần: THIẾT KẾ GIAO DIỆN NGƯỜI DÙNG
-Học phần giới thiệu tổng quan về thiết kế giao diện cũng như khái niệm về tính dễ dùng các hệ thống tương tác. Sau đó sinh viên sẽ được tìm hiểu về các hướng dẫn các nguyên tắc và các lý thuyết thiết kế. Nội dung về các phương pháp quản lý thiết kế như phương pháp của IBM LUCID cũng sẽ được đề cập trong học phần. Sinh viên sẽ được tìm hiểu về các phương pháp đánh giá giao diện.

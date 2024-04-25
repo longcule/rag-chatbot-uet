@@ -1,31 +1,37 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin chất lượng cao(clc)
-## Danh mục tài liệu tham khảo học phần Phát triển ứng dụng Internet of Things - IoT application development là:
-Tài liệu bắt buộc
-- Bài giảng của giáo viên
-- Marco Schwartz,Internet of Things with Arduino Cookbook, Packt Publishing, 2016
-Tài liệu tham khảo
-- Halfacree, Gareth, and Eben Upton. Raspberry Pi user guide. John Wiley & Sons, 2012.
-- Maciej Kranz, Building the Internet of Things: Implement New Business Models, Disrupt Competitors, Transform Your Industry, Wiley, 2016
-## Danh mục tài liệu tham khảo học phần Chương trình dịch là:
-Tài liệu bắt buộc
-- Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman. Compilers: Principles, Techniques, and Tools. Prentice Hall Publisher. 2007.
-- Phạm Hồng Nguyên. Giáo trình chương trình dịch. NXB ĐHQG Hà Nội. 2009.
-Tài liệu tham khảo thêm
-- Keith Cooper, Linda Torczon. Engineering a Compiler. Morgan Kaufmann Publisher. 2011.
-## Danh mục tài liệu tham khảo học phần Học máy - Machine Learning là:
-Tài liệu bắt buộc
-- Hoàng xuân Huấn. Tập bài giảng môn học máy. 2014.
-- E. Alpaydın. Introduction to Machine Learning. Massachusetts Institute of Technology, Second Edition, 2010.
-Tài liệu tham khảo thêm
-- Hoàng Xuân Huấn. Giáo trình nhận dạng mẫu. Nhà xuất bản ĐHQG, 2012.
-- T. Mitchell. Machine learning. McGraw-Hill, 1997.
-## Danh mục tài liệu tham khảo học phần Xử lý ảnh là:
-Tài liệu bắt buộc
-- Đề cương giảng dạy của giảng viên
-Tài liệu tham khảo thêm
-- “Digital Image Processing”, R. C. Gonzalez, R. E. Woods, Third Edition.
-## Danh mục tài liệu tham khảo học phần Xử lý ngôn ngữ tự nhiên là:
-Tài liệu bắt buộc
-- Manning, C. and Schuetze, H. Foundations of Statistical Natural Language Processing. MIT Press 1999.
-- Daniel Jurafsky and James H. Martin, Speech and Language Processing:An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. 2nd Edition 2007. (www.cs.colorado.edu/~martin/slp.html)
-Tài liệu tham khảo thêm
+# 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin chất lượng cao(clc)
+## các môn học sẽ học trong học kỳ 7 chương trình đào tạo cntt chất lượng cao(clc)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,THL1057,Nhà nước và pháp luật đại cương,2
+2,INT3507,Các vấn đề hiện đại Công nghệ thông tin,3
+3,INT3508,Thực tập chuyên ngành,3
+4,Chọn 1 trong 2 học phần,,3
+INT3131,Dự án khoa học,3
+INT3132,Dự án công nghệ,3
+5,01 học phần bổ trợ,,2
+UET1002,Kỹ năng khởi nghiệp,2
+6,Sinh viên chọn 03 học phần từ các học phần lựa chọn,,9
+INT3117,Kiểm thử và đảm bảo chất lượng phần mềm,3
+INT3111,Quản lý dự án phần mềm,3
+INT3115,Thiết kế giao diện người dùng,3
+INT3506,Các hệ thống thương mại điện tử,3
+INT3301,Thực hành hệ điều hành mạng,3
+INT3303,Mạng không dây,3
+INT3304,Lập trình mạng,3
+INT3305,Truyền thông đa phương tiện,3
+INT3512,Lập trình thi đấu,3
+INT3423,Tin sinh học ứng dụng,3
+INT3404,Xử lý ảnh,3
+INT3501,Khoa học dịch vụ,3
+INT3423,Tin sinh học ứng dụng,3
+INT3422,Tin học y tế,3
+INT3323,Phát triển ứng dụng Internet of Things,3
+INT3405,Học máy,3
+INT3402,Chương trình dịch,3
+INT3411,Xử lý tiếng nói,3
+INT3424,Tác tử thông minh và Rô-bốt,3
+INT3227,Tích hợp dịch vụ,4
+Tổng: 22 môn học
+## các môn học sẽ học trong học kỳ 8 chương trình đào tạo cntt chất lượng cao(clc)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT4050,Khóa luận tốt nghiệp,10
+Tổng: 10 môn học

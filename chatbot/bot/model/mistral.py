@@ -59,6 +59,19 @@ Thông tin bối cảnh dưới đây về các học phần hoặc chương tr�
 Dựa vào thông tin ngữ cảnh chứ không phải kiến ​​thức có sẵn, hãy tận dụng tất cả thông tin có được và trả lời câu hỏi dưới đây, hãy trả lời một cách lịch sự và lễ phép:
 Câu hỏi như sau: {question}
 """
+
+    ctx_prompt_template_tree = """
+{system}
+Câu hỏi ban đầu: "{question}"
+Để hiểu rõ hơn về nhu cầu của người hỏi, chúng tôi đã thu thập các câu trả lời hiện có:
+- Câu trả lời 1: "{existing_answer_1}"
+- Câu trả lời 2: "{existing_answer_2}"
+Dựa trên những thông tin đã được cung cấp:
+1. Tổng hợp các thông tin từ hai câu trả lời đã cho để đề xuất một câu trả lời mới, toàn diện hơn, cung cấp thông tin đầy đủ và chính xác nhất có thể.
+2. Những thông tin bạn lấy để đưa vào câu trả lời mới phải được lấy từ các câu trả lời trước đó, không được tạo thêm bất kì chi tiết nào mới.
+3. Khi trả lời câu hỏi, không cần cố gắng giải thích những gì có các câu trả lời trước mà chỉ tập trung trả lời câu hỏi
+"""
+
     refined_ctx_prompt_template = """
 {system}
 Câu hỏi ban đầu như sau: {question}

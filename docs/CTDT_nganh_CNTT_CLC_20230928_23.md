@@ -1,25 +1,14 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin chất lượng cao(clc)
-## Danh mục tài liệu tham khảo học phần Kiến trúc máy tính - Computer Architecture là:
-Tài liệu bắt buộc
-- William Stallings, Computer Organization and Architecture. Prentice Hall; 11th Edition, Prentice Hall, 2019.
-- Nguyễn Đình Việt, Kiến trúc máy tính, NXB ĐHQGHN, 2009.
-Tài liệu tham khảo thêm
-- John L. Hennessy & David A. Patterson, Computer Architecture, A quantitative approach, Morgan Kaufmann, 6th edition 2019.
-- Pranabananda Chakraborty, Computer Organisation and Architecture Evolutionary Concepts, Principles, and Designs Published October 29, 2020 by Chapman and Hall/CRC.
-## Danh mục tài liệu tham khảo học phần Toán học rời rạc - Discrete Mathematics là:
-Tài liệu bắt buộc
-- Toán rời rạc và ứng dụng trong tin học, Keneth Rosen, dịch giả: Phạm Văn Thiều, Đặng Hữu Thịnh.
-- Bài tập toán rời rạc của Đỗ Đức Giáo
-Tài liệu tham khảo thêm
-- Miguel A. Lerma. Notes on Discrete Mathematics. 2005.
-- John A. Dossey, Albert D. Otto, Lawrence E. Spence: Discrete Mathematics, Pearson, Education, 2006
-- L. Lovasz and K. Vesztergombi: Discrete Mathematics, Lecture Notes, Yale University, Spring 1999
-- Andrew S. Tanenbaum, Albert S Woodhull, Operating Systems: Design and Implementation, 3rd edition, Prentice-Hall. 2006.
-- Robert Love, Linux Kernel Development, Sams Publishing, 2003.
-- Daniel P. Bovet, Marco Cesati, Understanding Linux Kernel, 2nd edition, O'Reilly & Associates, 2002.
-- W. Richard Stevens, Advanced Programming in the UNIX Environment, Addison-Wesley, 1992.
-## Danh mục tài liệu tham khảo học phần Nguyên lý hệ điều hành - Principles of Operating Systems là:
-Tài liệu bắt buộc
-- Abraham Silberschatz, Peter Baer Galvin, Greg GagneOperating System Concepts,10th edition, John Wiley & Sons, Inc., 2018
-Tài liệu tham khảo thêm
-- Andrew S. Tanenbaum, Modern Operating Systems, 4th edition, Pearson, 2016.
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chất lượng cao(clc)
+## các giảng viên học phần: nguyên lý hệ điều hành - principles of operating systems ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Nguyễn Hải Châu, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Phan Xuân Hiếu, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thị Hậu, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trọng Hiếu, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: mạng máy tính - computer network ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Hồ Đắc Phương, chức danh: ThS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trúc Mai, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: PGS. TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN

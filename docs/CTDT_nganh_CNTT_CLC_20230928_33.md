@@ -1,18 +1,16 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin chất lượng cao(clc)
-## Danh mục tài liệu tham khảo học phần Tích hợp dịch vụ - Service Integration là:
-Tài liệu bắt buộc
-- Diogo R. Ferreira Enterprise Systems Integration: A Process Oriented Approach, Springer; 2013 edition (December 4, 2013)
-- Sam Newman, Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith, O'Reilly Media; 1st edition (December 10, 2019)
-- Waseem Roshen, SOA Based Enterprise Integration: A Step by Step Guide to Services based Application, McGraw Hill Osborne Media; 1 edition (May 21, 2009), ISBN 13: 978 0071605526.
-- Martin Kleppmann, Designing Data Intensive Applications: The Big Ideas Behind Reliable Scalable, and Maintainable Systems, O'Reilly Media; 1st edition (April 18, 2017)
-Tài liệu tham khảo thêm
-- Beth Gold Bernstein and William Ruh, Enterprise Integration: The Essential Guide to Integration Solutions. Addison Wesley, 2005.
-- Stephen Bennett, Thomas Erl, Clive Gee, Robert Laird, Anne Thomas, Manes, Robert Schneider, Leo Shuster, Andre Tost, Chris Venable, “SOA Governance: Governing Shared Services On Premise & in the Cloud”, Prentice Hall; 1 edition (April 24, 2011)
-- Gregor Hohpe and Bobby Woolf, Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions, 1st Edition, Addison Wesley Professional, ISBN13: 9780321200686.
-## Danh mục tài liệu tham khảo học phần Kiến trúc hướng dịch vụ - Service Oriented Architecture là:
-Tài liệu bắt buộc
-- Võ Đình Hiếu, Giáo trình Kiến trúc hướng dịch vụ, NXB ĐHQGHN 2016
-Tài liệu tham khảo
-- Sam Newman, Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith, O'Reilly Media, 2019
-- Arnaud Lauret, The Design of Web APIs, Manning Publications, 2019
-- Neil Madden, API Security in Action, Manning Publications, 202
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chất lượng cao(clc)
+## các giảng viên học phần: an toàn và an ninh mạng - network safety and security ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+## các giảng viên học phần: điện toán đám mây - cloud computing ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+## các giảng viên học phần: quản trị mạng - network administration ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Dương Lê Minh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Đỗ Hoàng Kiên, chức danh: ThS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+## các giảng viên học phần: phát triển ứng dụng internet of things - iot application development ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+## các giảng viên học phần: chương trình dịch - compilers ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Nguyễn Phương Thái, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Văn Vinh, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN

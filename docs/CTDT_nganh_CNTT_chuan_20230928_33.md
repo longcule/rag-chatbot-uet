@@ -1,22 +1,28 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thô
-## Danh mục tài liệu tham khảo học phần Truyền thông đa phương tiện - Multimedia Communications là:
-Tài liệu bắt buộc
-1. James F. Kruso, Keith W. Ross, Computer Networking – A Top-Down Approach, Fifth Edition
-2. David Salomon: A Concise Introduction to Data Compression. Undergraduate Topics in Computer Science, Springer 2008, ISBN 978-1-84800-071-1, pp. i-xiii, 1-311
-Tài liệu tham khảo thêm
-1. RFC3261, "SIP: Session Initiation Protocol." J. Rosenberg, H. Schulzrinne, G. Camarillo, A. Johnston, J. Peterson, R. Sparks, M. Handley, E.
-2. Flavio E. Goncalves, Building Telephony Systems with OpenSIPS 1.6, Packt Publishing, 2010, ISBN -1849510741
-3. Alan B. Johnston, "Understanding the Session Initiation Protocol", third edition, Artech House telecommunication library, 2009
-## Danh mục tài liệu tham khảo học phần An toàn và an ninh mạng - Network Safety and Security là:
-Tài liệu bắt buộc
-1. William Stallings. Network Security Essentials: Applications and Standards, Fourth Edition. Prentice Hall, 2011.
-2. Vincent Nestler, Gregory White, Wm. Arthur Conklin, and Matthew Hirsch. Principles of Computer Security: CompTIA Security+ and Beyond, Lab Manual, Second Edition. McGraw-Hill, 2011.
-3. Mark Ciampa. Security+ Guide to Network Security Fundamentals, Third Edition. Course Technology, 2008.
-Tài liệu tham khảo thêm
-1. William Stallings. Cryptography and Network Security: Principles and Practice, Fifth Edition. Prentice Hall, 2010.
-2. Wm. Arthur Conklin and Gregory White. Principles of Computer Security, CompTIA Security+ and Beyond (Exam SY0-301), Third Edition. McGraw-Hill, 2011.
-## Danh mục tài liệu tham khảo học phần Điện toán đám mây - Cloud computing là:
-Tài liệu bắt buộc
-1. Nick Antonopoulos, Lee Gillam, Cloud Computing: Principles, Systems and Applications, Second Edition: The Sockets Networking API, Springer International Publishing, 2017.
-Tài liệu tham khảo thêm
-Giảng viên sẽ phát trong giờ học
+# 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin chuẩn
+## các môn học sẽ học trong học kỳ 2 chương trình đào tạo ngành công nghệ thông tin chuẩn
+STT,Mã học phần,Học phần,Số tín chỉ
+1,FLF1108,"Tiếng Anh B2 - nglish B2",5
+2,MAT1042,"Giải tích 2 - Calculus 2",4
+3,INT1050,"Toán học rời rạc - Discrete Mathematics",4
+4,INT2215,"Lập trình nâng cao - Advanced Programming",4
+5,EPN1096,"Vật lý đại cương 2 - General Physics 2",2
+6,THL1057,"Nhà nước và Pháp luật đại cương - State and Law",2
+Tổng: 21 tín chỉ
+## các môn học sẽ học trong học kỳ 3 chương trình đào tạo ngành công nghệ thông tin chuẩn
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT2204,"Lập trình hướng đối tượng - Object-oriented Programming",3
+2,INT2212,"Kiến trúc máy tính - Computer Architecture",4
+3,INT2210,"Cấu trúc dữ liệu và giải thuật - Data structures and algorithms",4
+4,INT2211,"Cơ sở dữ liệu - Database",4
+5,MAT1101,"Xác suất thống kê - Probability and Statistics",3
+6,PHI1006,"Triết học Mác – Lênin - Marxist-Leninist Philosophy",3
+Tổng: 21 tín chỉ
+## các môn học sẽ học trong học kỳ 4 chương trình đào tạo ngành công nghệ thông tin chuẩn
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT2208,"Công nghệ phần mềm - Software Engineering",3
+2,INT3202E,"Hệ quản trị cơ sở dữ liệu - Database Management Systems",3
+3,INT2213,"Mạng máy tính - Computer Network",4
+4,ELT2035,"Tín hiệu và hệ thống - Signals and systems",3
+5,PHI1002,"Chủ nghĩa xã hội khoa học - Scientific Socialism",2
+6,,Các học phần bổ trợ,5
+Tổng: 20 tín chỉ

@@ -1,27 +1,15 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin chất lượng cao(clc)
-## Danh mục tài liệu tham khảo học phần Nhập môn lập trình là:
-Tài liệu bắt buộc
-Lựa chọn 1. Lập trình căn bản với C
-- Bài giảng của giáo viên
-- Brian W. Kernighan and Dennis M. Ritchie, The C programming language, Prentice Hall 1988.
-Lựa chọn 2. Lập trình căn bản với C++
-- Bài giảng của giáo viên
-- Hồ Sĩ Đàm (chủ biên), Trần Thị Minh Châu, Lê Sỹ Vinh, Giáo trình: Lập trình căn bản C++, NXB ĐHQG 2011
-Tài liệu tham khảo thêm
-- Bài giảng của giáo viên
-- Robert Sedgewick (Author), Kevin Wayne, Introduction to Programming in Java: An Interdisciplinary Approach, 2nd Edition. Addison-Wesley Professional 2017
-Lựa chọn 1. Lập trình căn bản với C
-- K. N. King, C Programming: A Modern Approach, 2nd Edition, W. W. Norton & Company 2008
-- Paul J. Deitel, Harvey Deitel, C How to Program, 8th Edition, Pearson 2015
-- J. Glenn Brookshear, Computer Science: An Overview, Addision Wesley 2009
-Lựa chọn 2. Lập trình căn bản với C++
-- Andrew Koenig, Accelerated C++: Practical Programming by Example, Addison-Wesley Professional 2000
-- Stanley B. Lippman, C++ Primer, 5th Edition, Addison-Wesley Professional 2012
-- J. Glenn Brookshear, Computer Science: An Overview, Addision Wesley 2009
-## Danh mục tài liệu tham khảo học phần Tín hiệu và hệ thống - Signals and Systems là:
-Tài liệu bắt buộc
-- Lê Vũ Hà, Nguyễn Linh Trung, Đề cương giảng dạy của giảng viên
-- Haykin, Signals and Systems, John Wiley&Sons, 2005.
-Tài liệu tham khảo thêm
-- Kamen, Fundamentals of Signals and Systems using the Web and MATLAB, Prentice Hall, 2006.
-- Alan V. Oppenheim, Signals and Systems, Prentice Hall. 1996
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chất lượng cao(clc)
+## các giảng viên học phần: cấu trúc dữ liệu và giải thuật - data structure and algorithms ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Bùi Ngọc Thăng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Nguyên Khôi, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Thị Minh Châu, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Quang Hiếu, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thị Nhật Thanh, chức danh: PGS. TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Bảo Sơn, chức danh: PGS TS, chuyên ngành: Khoa học và kỹ thuật máy tính, đơn vị: ĐHQGHN
+## các giảng viên học phần: xác suất thống kê  - probability and statistics ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Xác suất thống kê, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Thị Điệp, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Cao Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Thanh Hải, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN

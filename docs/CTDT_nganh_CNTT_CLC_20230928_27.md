@@ -1,21 +1,17 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin chất lượng cao(clc)
-## Danh mục tài liệu tham khảo học phần Thu thập và phân tích yêu cầu - Requirements Engineering là:
-Tài liệu bắt buộc
-- Axel Van Lamsweerde. Requirements Engineering: From system Goals to UML Models to Software Specification. Wiley 2009
-Tài liệu tham khảo thêm
-- Ian Sommerville. Software Engineering. Pearson. 9th Edition, 2010.
-- Lefingwell, Dean & Widrig, Don. Managing Software Requirements. Addison-Wesley 2003.
-Bray, Ian K. An introduction to requirements Engineering . Addison- Wesley 2002.
-## Danh mục tài liệu tham khảo học phần Quản lý dự án phần mềm - Software Project Management là:
-Tài liệu bắt buộc
-- Kathy Schwalbe, Information Technology Project Management, 9th edition, Course Technology, 2019
-- Phạm Ngọc Hùng, Trần Hoàng Việt, Giáo trình quản lý dự án phần mềm, NXB ĐHQGHN, 2022
-Tài liệu tham khảo thêm:
-- Murali K. Chemuturi and Thomas M. Cagley Jr., Mastering Software Project Management: Best Practices, Tools and Techniques, J. Ross Publishing, 2010
-- Steve McConnell, Rapid Development, Microsoft Press, 1996, ISBN 1-55615-900-5
-- R. Futrell, D. Shafer, L. Shafer, Quality Software Project Management, Prentice-Hall PTR, 2002.
-## Danh mục tài liệu tham khảo học phần Thiết kế giao diện người dùng - User Interface Design là:
-Tài liệu bắt buộc
-- Ben Shneiderman and Catherine Plaisant, Designing the User Interface, 6th Edition, 2016
-Tài liệu tham khảo thêm
-- Jeff Johnson, Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines 3rd Edition, Morgan Kaufmann, 2020
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chất lượng cao(clc)
+## các giảng viên học phần: thiết kế giao diện người dùng - user interface design ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Ngô Thị Duyên, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: phát triển ứng dụng di động  - mobile application development ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Nguyễn Việt Tân, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Võ Đinh Hiếu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+## các giảng viên học phần: phát triển ứng dụng web - web application development ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Việt Anh, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+## các giảng viên học phần: phát triển các hệ thống thông minh ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Nguyễn Văn Sơn, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Võ Đình Hiếu, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN

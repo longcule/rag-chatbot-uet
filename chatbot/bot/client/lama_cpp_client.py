@@ -57,22 +57,26 @@ class LamaCppClient(LlmClient):
 
         return answer
 
-    # async def async_generate_answer(self, prompt: str, max_new_tokens: int = 512) -> str:
-    #     """
-    #     Generates an answer based on the given prompt using the language model.
+    async def async_generate_answer(self, prompt: str) -> str:
+        """
+        Generates an answer based on the given prompt using the language model.
 
-    #     Args:
-    #         prompt (str): The input prompt for generating the answer.
-    #         max_new_tokens (int): The maximum number of new tokens to generate (default is 512).
+        Args:
+            prompt (str): The input prompt for generating the answer.
+            max_new_tokens (int): The maximum number of new tokens to generate (default is 512).
 
-    #     Returns:
-    #         str: The generated answer.
-    #     """
-    #     output = self.llm(prompt, max_tokens=max_new_tokens, echo=False, **self.model_settings.config_answer)
+        Returns:
+            str: The generated answer.
+        """
+        genai.configure(api_key=os.environ.get("GOOGLE_API_KEY"))
+        model = genai.GenerativeModel(model_name = "gemini-pro")
+        response = model.generate_content(prompt)
+        # tweet_chain = LLMChain(llm=self.llm, prompt=prompt, verbose=True)
+        # resp = tweet_chain.run(topic=prompt)
+        answer = response.text
+        # print("ans llm: ", answer)
 
-    #     answer = output["choices"][0]["text"]
-
-    #     return answer
+        return answer
 
     # def stream_answer(self, prompt: str, skip_prompt: bool = True, max_new_tokens: int = 512) -> str:
     #     """
@@ -104,13 +108,22 @@ class LamaCppClient(LlmClient):
     #     )
     #     return stream
 
-    # async def async_start_answer_iterator_streamer(
-    #     self, prompt: str, skip_prompt: bool = True, max_new_tokens: int = 512
-    # ) -> Union[CreateCompletionResponse, Iterator[CreateCompletionStreamResponse]]:
-    #     stream = self.llm.create_completion(
-    #         prompt, max_tokens=max_new_tokens, stream=True, **self.model_settings.config_answer
-    #     )
-    #     return stream
+    async def async_start_answer_iterator_streamer(
+        self, prompt: str
+    ) -> Union[CreateCompletionResponse, Iterator[CreateCompletionStreamResponse]]:
+        # stream = self.llm.create_completion(
+        #     prompt, max_tokens=max_new_tokens, stream=True, **self.model_settings.config_answer
+        # )
+        # return stream
+        genai.configure(api_key=os.environ.get("GOOGLE_API_KEY"))
+        model = genai.GenerativeModel(model_name = "gemini-pro")
+        response = model.generate_content(prompt)
+        # tweet_chain = LLMChain(llm=self.llm, prompt=prompt, verbose=True)
+        # resp = tweet_chain.run(topic=prompt)
+        answer = response.text
+        # print("ans llm: ", answer)
+
+        return answer
 
     # def parse_token(self, token):
     #     return token["choices"][0]["text"]
@@ -150,22 +163,31 @@ class LamaCppClient(LlmClient):
 
 #         return answer
 
-#     async def async_generate_answer(self, prompt: str, max_new_tokens: int = 512) -> str:
-#         """
-#         Generates an answer based on the given prompt using the language model.
+    # async def async_generate_answer(self, prompt: str, max_new_tokens: int = 512) -> str:
+        """
+        Generates an answer based on the given prompt using the language model.
 
-#         Args:
-#             prompt (str): The input prompt for generating the answer.
-#             max_new_tokens (int): The maximum number of new tokens to generate (default is 512).
+        Args:
+            prompt (str): The input prompt for generating the answer.
+            max_new_tokens (int): The maximum number of new tokens to generate (default is 512).
 
-#         Returns:
-#             str: The generated answer.
-#         """
-#         output = self.llm(prompt, max_tokens=max_new_tokens, echo=False, **self.model_settings.config_answer)
+        Returns:
+            str: The generated answer.
+        """
+        # genai.configure(api_key=os.environ.get("GOOGLE_API_KEY"))
+        # model = genai.GenerativeModel(model_name = "gemini-pro")
+        # response = model.generate_content(prompt)
+        # # tweet_chain = LLMChain(llm=self.llm, prompt=prompt, verbose=True)
+        # # resp = tweet_chain.run(topic=prompt)
+        # answer = response.text
+        # # print("ans llm: ", answer)
 
-#         answer = output["choices"][0]["text"]
+        # return answer
+        # output = self.llm(prompt, max_tokens=max_new_tokens, echo=False, **self.model_settings.config_answer)
 
-#         return answer
+        # answer = output["choices"][0]["text"]
+
+        # return answer
 
 #     def stream_answer(self, prompt: str, skip_prompt: bool = True, max_new_tokens: int = 512) -> str:
 #         """
@@ -197,13 +219,22 @@ class LamaCppClient(LlmClient):
 #         )
 #         return stream
 
-#     async def async_start_answer_iterator_streamer(
-#         self, prompt: str, skip_prompt: bool = True, max_new_tokens: int = 512
-#     ) -> Union[CreateCompletionResponse, Iterator[CreateCompletionStreamResponse]]:
-#         stream = self.llm.create_completion(
-#             prompt, max_tokens=max_new_tokens, stream=True, **self.model_settings.config_answer
-#         )
-#         return stream
+    # async def async_start_answer_iterator_streamer(
+    #     self, prompt: str, skip_prompt: bool = True, max_new_tokens: int = 512
+    # ) -> Union[CreateCompletionResponse, Iterator[CreateCompletionStreamResponse]]:
+    #     # stream = self.llm.create_completion(
+    #     #     prompt, max_tokens=max_new_tokens, stream=True, **self.model_settings.config_answer
+    #     # )
+    #     # return stream
+    #     genai.configure(api_key=os.environ.get("GOOGLE_API_KEY"))
+    #     model = genai.GenerativeModel(model_name = "gemini-pro")
+    #     response = model.generate_content(prompt)
+    #     # tweet_chain = LLMChain(llm=self.llm, prompt=prompt, verbose=True)
+    #     # resp = tweet_chain.run(topic=prompt)
+    #     answer = response.text
+    #     # print("ans llm: ", answer)
+
+    #     return answer
 
 #     def parse_token(self, token):
 #         return token["choices"][0]["text"]

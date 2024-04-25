@@ -2,6 +2,17 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import json
+import os
+from dotenv import load_dotenv
+from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain.prompts import PromptTemplate
+from langchain.chains import LLMChain
+
+load_dotenv()
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+
+
+llm = ChatGoogleGenerativeAI(model="gemini-pro", google_api_key=GOOGLE_API_KEY)
 
 
 def merge_books(titles):
@@ -64,39 +75,55 @@ def calculate_cosine_similarity(text, dictionary):
     # max_item_contents = [item_contents[index] for index in max_indices]
     max_scores = [similarities[index, i] for i, index in enumerate(max_indices)]
 
-
+    list_book = []
     for i, line in enumerate(lines):
         if max_scores[i] > 0.6:
             # print(line)
-            modified_line = f"[{line}]({max_item_links[i]})"
-            # line = modified_line
-            num_spaces = count_blank(modified_line)
-            modified_line = modified_line[1:num_spaces+2]+" "+modified_line[0]+modified_line[num_spaces+3:]
-            lines[i] = modified_line
-        
-        lines[i] = lines[i] + "  "
-    
-    text_modified = "\n".join(line for line in lines)
-
+            modified_line = f"\"{line}\": {max_item_links[i]}"
+            list_book.append(modified_line)
+        # lines[i] = lines[i] + "  "
+    text_modified = "\n".join(line for line in list_book)
     return text_modified
 
 
-def modified_response(list_docs, response):
+def modified_response_v1(list_docs, response):
     data = merge_books(list_docs)
     result = calculate_cosine_similarity(response, data)
     return result
 
+def modified_response(docs_path, response):
+    data_link_book = modified_response_v1(docs_path, response)
+    if data_link_book  == '':
+        return response
+    prompt = f"""
+Tôi đã có câu trả lời ban đầu theo dạng Markdown: 
+>>>
+{response}
+>>>
+Tôi cung cấp link đường dẫn của các cuốn sách trên như sau:
+>>>
+{data_link_book}
+>>>
+Nhiệm vụ của bạn là viết lại câu trả lời dưới dạng Markdown và gắn kèm link của mỗi cuốn sách, link được chèn trực tiếp vào tên cuốn sách luôn, trong quá trình tạo lại câu trả lời, không thay đổi bất kì điều gì trong câu trả lời ban đầu.
+"""
+
+# Note that each chunk may contain more than one "token"
+    prompt_check_context_relevance = PromptTemplate.from_template(prompt)
+    tweet_chain = LLMChain(llm=llm, prompt=prompt_check_context_relevance, verbose=True)
+    resp = tweet_chain.run(topic=response)
+    return resp
+
+
+
+
+
 # text = """
 # **Tài liệu bắt buộc**
 
-# * Keneth Rosen, dịch giả: Phạm Văn Thiều, Đặng Hữu Thịnh, Toán rời rạc và ứng dụng trong tin học.
-# * Bài tập toán rời rạc của Đỗ Đức Giáo
+# * Bài tập abcsdf
 
 # **Tài liệu tham khảo thêm**
 
-# * Miguel A. Lerma. Notes on Discrete Mathematics. 2005.
-# * John A. Dossey, Albert D. Otto, Lawrence E. Spence: Discrete Mathematics, Pearson, Education, 2006.
-# * L. Lovasz and K. Vesztergombi: Discrete Mathematics, Lecture Notes, Yale University, Spring 1999.
 # """
 
 # dictionary = {

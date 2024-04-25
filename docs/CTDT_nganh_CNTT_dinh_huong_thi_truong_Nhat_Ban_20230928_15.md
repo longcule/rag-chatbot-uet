@@ -1,24 +1,27 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin
-## Danh mục tài liệu tham khảo học phần Đại số - Algebra là:
-Tài liệu bắt buộc
-- Nguyễn Đình Trí, Lê Trọng Vinh, Dương Thuỷ Vĩ. Giáo trình toán học cao cấp tập 1. NXB Giáo dục, 2007.
-- Nguyễn Hữu Việt Hưng. Đại số tuyến tính. NXB Đại học Quốc gia Hà Nội. Tái bản lần 2, 2004.
-- Ngô Việt Trung. Đại số tuyến tính. NXB ĐHQG HN, 2002.
-Tài liệu tham khảo thêm
-- Ron Lardson, Edward, Falvo. Elementary Linear Algebra, 6th- edition. Houghton Mifflin Hartcourt Publising Company, 2009.
-- Anton Rorres. Elementary Linear Algebra, 11th- edition. Wiley, 2013.
-- Gilbert Strang. Introduction to Linear Algebra - Fourth Edition. Published in 2009.
-## Danh mục tài liệu tham khảo học phần Giải tích 1 - Calculus 1 là:
-Tài liệu bắt buộc
-- Nguyễn Đình Trí, Tạ Văn Đĩnh, Nguyễn Hồ Quỳnh, Toán học cao cấp (Tập 2) - Phép tính giải tích một biến số, NXB Giáo dục, 2001.
-- Nguyễn Thủy Thanh, Toán cao cấp (Tập 2 và Tập 3) - Phép tính vi phân các hàm - Phép tính tích phân - Lý thuyết chuỗi - Phương trình vi phân, NXB Đại học Quốc gia Hà Nội, 2005.
-Tài liệu tham khảo thêm
-- Trần Đức Long, Nguyễn Đình Sang, Hoàng Quốc Toàn, Giải tích tập I, II, Bài tập giải tích tập I, II, NXB ĐHQGHN 2005.
-- James Stewart, Calculus: Early Transcendentals, Cengage Learning 7th edition, 2010.
-## Danh mục tài liệu tham khảo học phần Giải tích 2 - Calculus 2 là:
-Tài liệu bắt buộc
-- Nguyễn Đình Trí, Tạ Văn Đĩnh, Nguyễn Hồ Quỳnh, Toán học cao cấp (Tập 2) - Phép tính giải tích một biến số, NXB. Giáo dục, 2001.
-- Nguyễn Thủy Thanh, Toán cao cấp (Tập 2 và Tập 3) - Phép tính vi phân các hàm - Phép tính tích phân - Lý thuyết chuỗi - Phương trình vi phân, NXB Đại học Quốc gia Hà Nội, 2005.
-Tài liệu tham khảo thêm
-- Trần Đức Long, Nguyễn Đình Sang, Hoàng Quốc Toàn, Giải tích tập I, II, Bài tập giải tích tập I, II, NXB ĐHQGHN 2005.
-- James Stewart, Calculus: Early Transcendentals, Cengage Learning 7th edition, 2010.
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin
+## các giảng viên học phần: triết học mác – lênin - marxist-leninist philosophy ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
+## các giảng viên học phần: kinh tế chính trị mác – lênin - marx-lenin political economy ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
+## các giảng viên học phần: chủ nghĩa xã hội khoa học - scientific socialism ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
+## các giảng viên học phần: lịch sử đảng cộng sản việt nam - revolutionary guidelines of vietnam communist party ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
+## các giảng viên học phần: tư tưởng hồ chí minh - ho chi minh's ideology ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
+## các giảng viên học phần: nhà nước và pháp luật đại cương - state and law ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐH Luật
+## các giảng viên học phần: tiếng nhật 1a - japanese 1a ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp
+## các giảng viên học phần: tiếng nhật 1b - japanese 1b ngành công nghệ thông tin
+Tên giảng viên: Mời giảng Trường ĐHNN và doanh nghiệp
+## các giảng viên học phần: tin học cơ sở - introduction to informatics ngành công nghệ thông tin
+Tên giảng viên: Giảng viên Trường ĐHCN
+## các giảng viên học phần: kỹ năng bổ trợ - soft skills ngành công nghệ thông tin
+Tên giảng viên: Mời giảng TT Dự báo phát triển nguồn nhân lực
+## các giảng viên học phần: giáo dục thể chất  - physical education ngành công nghệ thông tin
+Tên giảng viên: Mời giảng TT GDTC&TT
+## các giảng viên học phần: giáo dục quốc phòng - an ninh - national defence education ngành công nghệ thông tin
+Tên giảng viên: Mời giảng TT GDQP&AN
+## các giảng viên học phần: đại số - algebra ngành công nghệ thông tin
+Tên giảng viên: Mời giảng

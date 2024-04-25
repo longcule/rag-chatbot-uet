@@ -1,0 +1,24 @@
+# Danh mục tài liệu tham khảo
+## Danh mục tài liệu tham khảo học phần Đánh giá hiệu năng mạng - Network Performance Evaluation là:
+Tài liệu bắt buộc
+1. Performance Evaluation for Network Services, System and Protocols, Stenio Fernandes. Springer, 2017
+Tài liệu tham khảo thêm
+1. A Short Introduction to Queueing Theory, Andreas Willig, Technical University Berlin, Telecommunication Networks Group, 1999
+2. NS-Tutorial, Marc Greis, VINT Group
+3. Wireshark Wireshark’s Guide for Wireshark 1.99; Ulf Lamping, Richard Sharpe, Ed Warnicke, 2014.
+## Danh mục tài liệu tham khảo học phần Phân tích và thiết kế mạng máy tính - Analysis and Design of Computer Networks là:
+Tài liệu bắt buộc
+1. James D. McCabe, Network Analysis, Architecture, and Design, Morgan Kaufmann Publisher, Inc., Third Edition, 2007.
+Tài liệu tham khảo thêm
+Giảng viên cung cấp thêm trong giờ học
+## Danh mục tài liệu tham khảo học phần Thực hành an ninh mạng - Network security lab là:
+Tài liệu bắt buộc
+1. Mark Ciampa. CompTIA Security+ Guide to Network Security Fundamentals, Sixth Edition. ISBN-10 1337288780, ISBN-13 978-1337288781. Course Technology, 2017
+2. Andrew Hurd. CompTIA Security+ Guide to Network Security Fundamentals, Lab Manual, Sixth Edition. ISBN-10 1337288799, ISBN-13 978-1337288798. Course Technology, 2017.
+## Danh mục tài liệu tham khảo học phần Kiểm thử an ninh mạng - Network Security Testing là:
+Tài liệu bắt buộc
+1. Rob Wilson. Hands-On Ethical Hacking and Network Defense, Fourth Edition. Cengage Learning, 2022.
+2. CEH (Certified Ethical Hacker). Ethical Hacking and Countermeasures Version 12 Lab Manual. EC-Council, 2022.
+Tài liệu tham khảo thêm
+1. Michael Gregg and Omar Santos. CEH Certified Ethical Hacker Cert Guide (Certificatation Guide), Fourth Edition. Pearson, 2022.
+2. Ric Messier. CEH v12 Certified Ethical Hacker Study Guide with 750 Practice Test Questions, First Edition. Sybex, 2023.

@@ -1,2 +1,0 @@
-# 7. Học liệu  ĐÁNH GIÁ HIỆU NĂNG MẠNG
-7.1. Học liệu bắt buộc \[1\]. Performance Evaluation for Network Services Systems and Protocols Stênio Fernandes. Springer 2017. 7.2 Học liệu tham khảo \[2\]. A Short Introduction to Queueing Theory Andreas Willig Technical University Berlin Telecommunication Networks Group 1999. \[3\]. NSTutorial Marc Greis VINT Group. \[4\]. Wireshark Wireshark User\'s Guide for Wireshark 1.99; Ulf Lamping Richard Sharpe Ed Warnicke 2014.

@@ -1,13 +1,22 @@
- 3. danh mục tài liệu tham khảo ngành công nghệ thông tin
- Danh mục tài liệu tham khảo học phần Vật lý đại cương 1 - General Physics 1 là:
-Tài liệu bắt buộc
-- Lương Duyên Bình, Vật lí đại cương 1, NXB KHKT 2010.
-- Halliday và cộng sự, Cơ sở Vật lí 1, NXB Giáo dục 2005.
-Tài liệu tham khảo thêm
-- Hoàng Nam Nhật, Cơ học Đại cương, NXB Giáo dục 2005.
- Danh mục tài liệu tham khảo học phần Vật lý đại cương 2 - General Physics 2 là:
-Tài liệu bắt buộc
-- D. Haliday, R. Resnick and J.Walker, Cơ sở vật lý Tập 3,4; Bản dịch NXB Giáo dục, Hà Nội – 2001.
-- Lương Duyên Bình, Dư Chí Công, Nguyễn Hữu Hồ, Vật lý đại cương, Tập 2 Điện -Dao động - Sóng, NXB Giáo dục, 2007.
-Tài liệu tham khảo thêm
-- Richard Wolfson and Jay M. Pasachoff, Physics with Modern Physics for Scientists and Engineers, Harper Collin College Publishers- New York,1995.
+ 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin
+ các giảng viên học phần: giải tích 1 - calculus 1 ngành công nghệ thông tin
+Tên giảng viên: Mời giảng
+ các giảng viên học phần: giải tích 2 - calculus 2 ngành công nghệ thông tin
+Tên giảng viên: Mời giảng
+ các giảng viên học phần: vật lý đại cương 1 - general physics 1 ngành công nghệ thông tin
+Tên giảng viên: Giảng viên Khoa Vật lý Kỹ thuật và Công nghệ nano, Trường ĐHCN
+ các giảng viên học phần: vật lý đại cương 2 - general physics 2 ngành công nghệ thông tin
+Tên giảng viên: Giảng viên Khoa Vật lý Kỹ thuật và Công nghệ nano, Trường ĐHCN
+ các giảng viên học phần: nhập môn lập trình - fundamentals of programming ngành công nghệ thông tin
+Tên giảng viên: Trần Quốc Long, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Bùi Ngọc Thăng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Nguyên Khôi, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Thị Minh Châu, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Thị Điệp, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Cao Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Ngô Thị Duyên, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Ma Thị Châu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+ các giảng viên học phần: tín hiệu và hệ thống - signals and systems ngành công nghệ thông tin
+Tên giảng viên: Lê Vũ Hà, chức danh: TS, chuyên ngành: ĐTVT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Linh Trung, chức danh: PGS.TS, chuyên ngành: ĐTVT, đơn vị: Trường ĐHCN

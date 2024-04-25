@@ -1,16 +1,18 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin
-## Danh mục tài liệu tham khảo học phần Phát triển ứng dụng di động - Mobile Application Development là:
-Tài liệu tham khảo bắt buộc
-- Bill Phillips, Android Programming: The Big Nerd Ranch Guide, Big Nerd Ranch Guides, ISBN: 978-0321804334, 2013.
-- Wei-Meng Lee, Beginning Android 4 Application Development, Wrox, ISBN: 978-1118199541, 2012.
-Tài liệu tham khảo lựa chọn
-- Barry Burd, Android Application Development All-in-One For Dummies, John Wiley & Sons, 978-1118027707, 2011
-## Danh mục tài liệu tham khảo học phần Thực hành phát triển phần mềm - Software Development Laboratory là:
-Tài liệu bắt buộc
-- Kathy Schwalbe, Information Technology Project Management, Revised, 9th edition, Course Technology, 2018.
-- Murali K. Chemuturi and Thomas M. Cagley Jr., Mastering Software Project Management: Best Practices, Tools and Techniques, J. Ross Publishing, 2010
-Tài liệu tham khảo thêm
-- Steve McConnell, Rapid Development, Microsoft Press, 1996, ISBN 1-55615-900-5.
-- R. Futrell, D. SHafer, L. Shafer, Quality Software Project Management, Prentice-Hall PTR, 2002.
-- Steve McConnel, Software Project Survival Guide, Microsoft Press, 1998.
-- Tài liệu do thầy/cô giáo hướng dẫn cung cấp, trực tiếp liên quan về nội dung chuyên môn của dự án. Phần tài liệu này hết sức đa dạng, có thể thuộc về các lĩnh vực chuyên môn khác nhau như kiểm thử phần mềm, xử lý ảnh, xử lý ngôn ngữ tự nhiên, mạng không dây, v.v.
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin
+## các giảng viên học phần: kiến trúc phần mềm - software architecture ngành công nghệ thông tin
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Việt Hà, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trương Ninh Thuận, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+## các giảng viên học phần: lập trình nhúng và thời gian thực - real-time and embedded programming ngành công nghệ thông tin
+Tên giảng viên: Tô Văn Khánh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Quang Minh, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Viện CNTT, ĐHQGHN
+## các giảng viên học phần: thu thập và phân tích yêu cầu - requirements engineering ngành công nghệ thông tin
+Tên giảng viên: Đặng Đức Hạnh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Hoàng Việt, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+## các giảng viên học phần: quản lý dự án phần mềm - software project management ngành công nghệ thông tin
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Hoàng Việt, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+## các giảng viên học phần: thiết kế giao diện người dùng - user interface design ngành công nghệ thông tin
+Tên giảng viên: Ngô Thị Duyên, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Thị Hồng Nhạn, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN

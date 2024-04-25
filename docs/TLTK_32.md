@@ -1,0 +1,26 @@
+# Danh mục tài liệu tham khảo
+## Danh mục tài liệu tham khảo học phần Phương pháp hình thức - Formal Methods là:
+Tài liệu bắt buộc
+1. Moller Faron; Struth, Georg. Modeling Computing Systems. Springer. 2013.
+2. Jean - Francois Monin. Understanding Formal Methods. Springer 2003
+Tài liệu tham khảo thêm
+1. Hossam A. Gabbar. Modern Formal Methods and Applications. Springer 2006.
+## Danh mục tài liệu tham khảo học phần Phương pháp hình thức - Formal Methods là:
+Tài liệu bắt buộc
+1. Moller Faron; Struth, Georg. Modeling Computing Systems. Springer. 2013.
+2. Jean - Francois Monin. Understanding Formal Methods. Springer 2003
+Tài liệu tham khảo thêm
+1. Hossam A. Gabbar. Modern Formal Methods and Applications. Springer 2006.
+## Danh mục tài liệu tham khảo học phần Lập trình nhúng và thời gian thực  - Real-time and embedded programming là:
+Tài liệu bắt buộc
+1. Yifeng Zhu, Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C, E-Man Press LLC, 2017, ISBN: 978-0982692660.
+2. Nguyễn Ngọc Bình, Công nghệ phần mềm nhúng, NXB ĐHQGHN, 2014.
+Tài liệu tham khảo thêm
+1. W. Wolf: Computers as Components – Principles of Embedded System Design, 4th edition, Morgan Kaufman Publishers, 2016.
+## Danh mục tài liệu tham khảo học phần Thu thập và phân tích yêu cầu - Requirements Engineering là:
+Tài liệu bắt buộc
+1. Axel Van Lamsweerde. Requirements Engineering: From system Goals to UML Models to Software Specification. Wiley 2009
+Tài liệu tham khảo thêm
+1. Ian Sommerville. Software Engineering. Pearson. 9th Edition, 2010.
+2. Lefingwell, Dean & Widrig, Don. Managing Software Requirements. Addison-Wesley 2003.
+3. Bray, Ian K. An introduction to requirements Engineering . Addison- Wesley 2002.

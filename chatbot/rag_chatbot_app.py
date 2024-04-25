@@ -189,7 +189,7 @@ def main(parameters) -> None:
             full_response = ""
             with st.spinner(
                 text="Tớ đang tìm kiếm thông tin, đợi tí bro!"
-                "Mất khoảng 1 phút đó."
+                " Mất khoảng 1 phút đó."
             ):
                 streamer, fmt_prompts = conversational_retrieval.context_aware_answer(
                     ctx_synthesis_strategy, refined_user_input, retrieved_contents
@@ -198,12 +198,12 @@ def main(parameters) -> None:
                 #     full_response += llm.parse_token(token)
                 #     message_placeholder.markdown(full_response + "▌")
 
-                print("stream: ", streamer)
-                print(docs_path)
-                print(data_link_book)
+                # print("stream: ", streamer)
+                # print(docs_path)
+                # print(data_link_book)
                 count = count_matching_elements(docs_path, data_link_book)
-                print(count)
-                if count >= 2:
+                # print(count)
+                if count >= 1:
                     streamer = modified_response(docs_path, streamer)
 
                 message_placeholder.markdown(streamer)

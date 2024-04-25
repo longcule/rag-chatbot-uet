@@ -1,2 +1,0 @@
-# 7. Học liệu LẬP TRÌNH NHÚNG VÀ THỜI GIAN THỰC
-7.1 Học liệu bắt buộc 1. Yifeng Zhu Embedded Systems with ARM CortexM Microcontrollers in Assembly Language and C EMan Press LLC 2017 ISBN: 9780982692660. 2. Nguyễn Ngọc Bình Công nghệ phần mềm nhúng NXB ĐHQGHN 2014. 7.2. Học liệu tham khảo 1. W. Wolf: Computers as Components Principles of Embedded System Design 4th edition Morgan Kaufman Publishers 2016

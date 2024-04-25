@@ -1,21 +1,18 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin
-## Danh mục tài liệu tham khảo học phần Chuẩn kỹ năng của CNTT - IT Skill Standards là:
-Tài liệu bắt buộc
-- Bộ tài liệu cung cấp bởi Trung tâm VTEC, Bộ KH&CN
-Tài liệu tham khảo thêm
-- Textbook for Fundamental Information Technology Engineers Series (Introduction to Computer Systems, System Development and Operations, Internal Design and Programming, Network and Database Systems)
-- Exercise Book For Fundamental Information Technology Engineers
-## Danh mục tài liệu tham khảo học phần Chuyên đề Công nghệ Nhật Bản - Workshop on Japanese Technology là:
-Tài liệu bắt buộc
-- Tài liệu do giảng viên cung cấp theo nội dung chuyên đề
-Tài liệu tham khảo thêm
-- Bill Phillips and Brian Hardy, Android Programming: The Big Nerd Ranch Guide, Big Nerd Ranch, 2013.
-- Jeffrey Richter, Applied Microsoft .NET Framework Programming (Pro-Developer), Microsoft Press, 2002.
-- Robert Clair, Learning Objective-C 2.0: A Hands-On Guide to Objective-C for Mac and iOS Developers, Addison-Wesley Professional, 2010.
-- Gary B. Shelly, Thomas J. Cashman, Joy L. Starks and Michael Mick, Java Programming, Comprehensive Concepts and Techniques, Course Technology, 2005
-## Danh mục tài liệu tham khảo học phần Trí tuệ nhân tạo - Artificial Intellegence là:
-Tài liệu bắt buộc
-- Đinh Mạnh Tường. Trí tuệ nhân tạo. NXB Khoa học & Kỹ thuật, 2002
-- Russel S. and Norvig P. Artificial Intelligence: A modern approach. Prentice Hall 2008.
-Tài liệu tham khảo thêm
-- Ben Coppin. Artificial Intelligence Illuminated. Jones and Bartlett Publishers, 2004.
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin
+## các giảng viên học phần: phát triển ứng dụng web  - web application development ngành công nghệ thông tin
+Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Việt Anh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+## các giảng viên học phần: hệ quản trị cơ sở dữ liệu - database management systems ngành công nghệ thông tin
+Tên giảng viên: Lê Hồng Hải, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Hải Châu, chức danh: PGS. TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Bá Duy, chức danh: ThS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Dư Phương Hạnh, chức danh: ThS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thị Hậu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: phát triển ứng dụng di động - mobile application development ngành công nghệ thông tin
+Tên giảng viên: Nguyễn Việt Tân, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+## các giảng viên học phần: thực hành phát triển phần mềm - software development laboratory ngành công nghệ thông tin
+Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Việt Tân, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN

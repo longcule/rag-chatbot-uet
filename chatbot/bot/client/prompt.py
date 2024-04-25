@@ -32,6 +32,22 @@ def generate_ctx_prompt(template: str, system: str, question: str, context: str 
     prompt = template.format(system=system, context=context, question=question)
     return prompt
 
+def generate_ctx_prompt_tree(template: str, system: str, question: str, existing_answer_1: str, existing_answer_2: str) -> str:
+    """
+    Generates a prompt for a context-aware question-answer task.
+
+    Args:
+        template (str): A string template with placeholders for system, question, and context.
+        system (str): The name or identifier of the system related to the question.
+        question (str): The question to be included in the prompt.
+        context (str, optional): Additional context information. Defaults to "".
+
+    Returns:
+        str: The generated prompt.
+    """
+
+    prompt = template.format(system=system, existing_answer_1=existing_answer_1, existing_answer_2=existing_answer_2, question=question)
+    return prompt
 
 def generate_refined_ctx_prompt(
     template: str, system: str, question: str, existing_answer: str, context: str = ""

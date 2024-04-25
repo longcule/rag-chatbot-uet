@@ -1,14 +1,17 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin chất lượng cao(clc)
-## Danh mục tài liệu tham khảo học phần Kỹ thuật và công nghệ dữ liệu lớn - BigData Techniques and Technologies là:
-Tài liệu bắt buộc
-- Vũ Bá Duy, Hà Quang Thuỵ, Nguyễn Ngọc Hóa. Bài giảng Kỹ thuật và công nghệ dữ liệu lớn (cập nhật hàng năm).
-- Hadoop: The Definitive Guide, by Tom White. O'Reilly Media, 4th Edition, 2015.
-- Beginning Apache Spark 3: With DataFrame, Spark SQL, Structured Streaming, and Spark Machine Learning Library, Apress (2021) by Hien Luu.
-- Learning Spark: Lightning-Fast Big Data Analysis, 2nd Edition, O’Reilly, 2020, by H. Karau, A. Konwinski, P. Wendell, and M. Zaharia
-- Data Science and Big Data Analytics (John Wiley & Sons, Indianapolis IN, 2015) by EMC Education Services
-Tài liệu tham khảo
-- Thomas Erl (with Wajid Khattak, Paul Buhler). Big Data Fundamentals: Concepts, Drivers & Techniques. Prentice Hall, 2016.
-- Albert Y. Zomaya, Sherif Sakr. Handbook of Big Data Technologies. Springer, 2017.
-- Bart Baesens. Analytics in a Big Data World: The Essential Guide to Data Science and its Applications, Wiley, 2014.
-- Borko Furht, Flavio Villanustre. Big Data Technologies and Applications. Springer International, 2016.
-- Learning Elastic Stack 7.0: distributed search, analytics, and visualization using Elasticsearch, Logstash, Beats, and Kibana (2019) by Sharath Kumar M. N. and Pranav Shukla
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chất lượng cao(clc)
+## các giảng viên học phần: các hệ thống thương mại điện tử - e-commerce systems ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Bùi Quang Hưng, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Hồng Hải, chức danh: ThS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Dư Phương Hạnh, chức danh: ThS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trọng Hiếu, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: phân tích thiết kế các httt - information system analysis and design ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Dư Phương Hạnh, chức danh: ThS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Bá Duy, chức danh: ThS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Hồng Hải, chức danh: ThS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: khoa học dịch vụ ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Hà Quang Thuỵ, chức danh: PGS. TS, chuyên ngành: Đảm bảo toán học cho máy tính và hệ thống tính toán, đơn vị:
+Tên giảng viên: Bùi Quang Hưng, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị:
+Tên giảng viên: Nguyễn Ngọc Hoá, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS. TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN

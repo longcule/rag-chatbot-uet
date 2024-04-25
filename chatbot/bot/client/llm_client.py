@@ -10,6 +10,7 @@ from tqdm import tqdm
 from bot.client.prompt import (
     generate_conversation_awareness_prompt,
     generate_ctx_prompt,
+    generate_ctx_prompt_tree,
     generate_qa_prompt,
     generate_refined_ctx_prompt,
 )
@@ -78,21 +79,21 @@ class LlmClient(ABC):
         """
         raise NotImplementedError
 
-    # @abstractmethod
-    # async def async_generate_answer(self, prompt: str, max_new_tokens: int = 512) -> str:
-    #     """
-    #     This method should be implemented to asynchronously generate an answer based on the given prompt.
+    @abstractmethod
+    async def async_generate_answer(self, prompt: str) -> str:
+        """
+        This method should be implemented to asynchronously generate an answer based on the given prompt.
 
-    #     Args:
-    #         prompt (str): The input prompt for generating the answer.
-    #         max_new_tokens (int): The maximum number of new tokens to generate (default is 1000).
+        Args:
+            prompt (str): The input prompt for generating the answer.
+            max_new_tokens (int): The maximum number of new tokens to generate (default is 1000).
 
-    #     Returns:
-    #         str: The generated answer.
+        Returns:
+            str: The generated answer.
 
-    #     """
+        """
 
-    #     raise NotImplementedError
+        raise NotImplementedError
 
     # @abstractmethod
     # def stream_answer(self, prompt: str, skip_prompt: bool = True, max_new_tokens: int = 512) -> str:
@@ -122,22 +123,22 @@ class LlmClient(ABC):
     #     """
     #     raise NotImplementedError
 
-    # @abstractmethod
-    # async def async_start_answer_iterator_streamer(
-    #     self, prompt: str, skip_prompt: bool = True, max_new_tokens: int = 512
-    # ) -> Any:
-    #     """
-    #     This abstract method should be implemented to asynchronously start an answer iterator streamer,
-    #     providing a flexible way to generate answers in a streaming fashion based on the given prompt.
+    @abstractmethod
+    async def async_start_answer_iterator_streamer(
+        self, prompt: str, skip_prompt: bool = True, max_new_tokens: int = 512
+    ) -> Any:
+        """
+        This abstract method should be implemented to asynchronously start an answer iterator streamer,
+        providing a flexible way to generate answers in a streaming fashion based on the given prompt.
 
-    #     Args:
-    #         prompt (str): The input prompt for generating the answer.
-    #         skip_prompt (bool): Whether to skip the prompt tokens during streaming (default is True).
-    #         max_new_tokens (int): The maximum number of new tokens to generate (default is 1000).
+        Args:
+            prompt (str): The input prompt for generating the answer.
+            skip_prompt (bool): Whether to skip the prompt tokens during streaming (default is True).
+            max_new_tokens (int): The maximum number of new tokens to generate (default is 1000).
 
-    #     """
+        """
 
-    #     raise NotImplementedError
+        raise NotImplementedError
 
     # @abstractmethod
     # def parse_token(self, token):
@@ -213,7 +214,15 @@ class LlmClient(ABC):
             question=question,
             context=context,
         )
+    def generate_ctx_prompt_tree(self, question: str, existing_answer_1: str, existing_answer_2: str) -> str:
 
+        return generate_ctx_prompt_tree(
+            template=self.model_settings.ctx_prompt_template_tree,
+            system=self.model_settings.system_template,
+            question=question,
+            existing_answer_1=existing_answer_1,
+            existing_answer_2=existing_answer_2,
+        )
     def generate_refined_ctx_prompt(self, question: str, context: str, existing_answer: str) -> str:
         """
         Generates a refined prompt for question-answering with existing answer.

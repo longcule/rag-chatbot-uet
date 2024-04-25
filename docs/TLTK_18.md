@@ -1,0 +1,21 @@
+# Danh mục tài liệu tham khảo
+## Danh mục tài liệu tham khảo học phần Kỹ nghệ yêu cầu - Requirement Engineering là:
+Học liệu bắt buộc
+1. Axel Van Lamsweerde. Requirements Engineering: From System Goals to UML Models to Software Specifications. Wiley 2009. ISBN-10: 0470012706 .
+Học liệu tham khảo thêm
+1. Ian Sommerville. Software Engineering. Pearson, 9th Edition, 2010. ISBN-10: 0137035152.
+2. Leffingwell, Dean & Widrig, Don. Managing Software Requirements. Addison-Wesley 2003.
+3. Bray, Ian K. An Introduction to Requirements Engineering. Addison-Wesley 2002.
+## Danh mục tài liệu tham khảo học phần Quản lý dự án phần mềm - Software Project Management là:
+Tài liệu bắt buộc
+1. Kathy Schwalbe, Information Technology Project Management, 9 t h edition, Course Technology, 2019
+2. Phạm Ngọc Hùng,Trần Hoàng Việt,Giáo trình quản lý dự án phần mềm, NXBĐHQGHN, 2022.
+Tài liệu tham khảo thêm
+1. Steve McConnell, Rapid Development , Microsoft Press, 1996, ISBN 1 - 55615 - 900 - 5
+2. R. Futrell, D. Shafer, L. Shafer, Quality Software Project Management, Prentice - Hall PTR, 2002.
+## Danh mục tài liệu tham khảo học phần Phát triển ứng dụng di động - Mobile Application Development là:
+Tài liệu bắt buộc
+1. Bill Phillips, Android Programming: The Big Nerd Ranch Guide, Big Nerd Ranch Guides, ISBN: 978 - 0321804334, 2013
+2. Wei - Meng Lee, Beginning Android 4 Application Development, Wrox , ISBN: 978 - 1118199541, 2012
+Tài liệu tham khảo thêm
+1. Barry Burd, Android Application Development All-in-One For Dummies, John Wiley & Sons, 978-1118027707, 2011

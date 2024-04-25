@@ -1,24 +1,17 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin
-## Danh mục tài liệu tham khảo học phần Thực hành phát triển ứng dụng Web  - Applied Web Application Development là:
-Tài liệu bắt buộc
-- Matt Lambert, Learning Bootstrap 4, 2nd Edition, Packt Publishing, 2016.
-- Kirupa Chinnathambi, Learning React, 1st Edition, Addision-Wesley Professional, 2016.
-- Matt Stauffer, Laravel: Up and Running: A Framework for Building Modern PHP Apps, 2nd Edition, O’Reilly Media, 2018.
-Tài liệu tham khảo thêm
-- Kyle Loudon, Developing Large Web Applications: Producing Code That Can Grow and Thrive, O’Reilly Media, 2010.
-- Lê Đình Thanh, Nguyễn Việt Anh, Phát triển ứng dụng web, NXB ĐHQGHN, 2018.
-## Danh mục tài liệu tham khảo học phần Thực hành phát triển ứng dụng di động  - Applied Mobile Application Development là:
-Tài liệu bắt buộc
-- Hồ Thị Thảo Trang, Giáo trình phát triển ứng dụng cho thiết bị di động, ĐH Mỏ Địa chất, 2013
-- Đề cương bài giảng của giảng viên- Võ Đình Hiếu, Vũ Quang Dũng
-Tài liệu tham khảo thêm
-- Bill Phillips, Android Programming: The Big Nerd Ranch Guide, Big Nerd Ranch Guides, ISBN: 978-0321804334, 2013.
-- Wei-Meng Lee, Beginning Android 4 Application Development, Wrox, ISBN: 978-1118199541, 2012.
-## Danh mục tài liệu tham khảo học phần Phân tích và thiết kế hướng đối tượng - Object-oriented Analysis and Design là:
-Tài liệu bắt buộc
-- Trương Ninh Thuận and Đặng Đức Hạnh, Phân tích và thiết kế hướng đối tượng, NXB ĐHQGHN, 2013.
-- Slides: ”Object oriented analysis and design”, IBM courses.
-Tài liệu tham khảo thêm
-- Grady Booch, James Rumbaugh and Ivar Jacobson, Unified Modeling Language User Guide, 2nd Edition, Addition Wesley Professional, 2005.
-- Bertrand Meyer, Object oriented software construction, Prentice Hall, 2000.
-- Erich Gamma et al., Design pattern: Elements of Reusable Object Oriented Software, Addison Wesley Professional, 1994.
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin
+## các giảng viên học phần: an toàn và an ninh mạng - network safety and security ngành công nghệ thông tin
+Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: xử lý ảnh  - image processing ngành công nghệ thông tin
+Tên giảng viên: Lê Thanh Hà, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thị Nhật Thanh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: xử lý ngôn ngữ tự nhiên - natural language processing ngành công nghệ thông tin
+Tên giảng viên: Nguyễn Văn Vinh, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Phương Thái, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+## các giảng viên học phần: khai phá dữ liệu  - data mining ngành công nghệ thông tin
+Tên giảng viên: Hà Quang Thuỵ, chức danh: PGS.TS, chuyên ngành: Đảm bảo toán học cho máy tính và hệ thống tính toán, đơn vị: Trường ĐHCN
+Tên giảng viên: Phan Xuân Hiếu, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Mai Vũ, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Hoàng Quỳnh, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN

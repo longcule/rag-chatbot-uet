@@ -1,0 +1,21 @@
+# Danh mục tài liệu tham khảo
+## Danh mục tài liệu tham khảo học phần Phân tích Dữ liệu không gian và Ứng dụng - Geospatial Data Analysis and Applications là:
+Học liệu bắt buộc
+1. Dominique Laffly, TORUS 1 – Toward an Open Resource Using Services: Cloud Computing for Environmental Data. ISTE Ltd 2020.
+2. Dominique Laffly, TORUS 2 – Toward an Open Resource Using Services: Cloud Computing for Environmental Data. ISTE Ltd 2020.
+3. Dominique Laffly, TORUS 3 – Toward an Open Resource Using Services: Cloud Computing for Environmental Data. ISTE Ltd 2020.
+Học liệu tham khảo thêm
+1. Peter Dauvergne. AI in the Wild. MIT Press (2020)
+## Danh mục tài liệu tham khảo học phần Học sâu và Ứng dụng - Deep learning and Applications là:
+Tài liệu bắt buộc
+1. Goodfellow Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016.
+2. Bài giảng Học sâu và Ứng dụng cập nhật hàng năm
+Tài liệu tham khảo thêm
+1. Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola. Dive into Deep Learning. Cambridge University Press. 2023.
+2. François Chollet. Deep Learning with Python. Manning. 2017
+## Danh mục tài liệu tham khảo học phần Phân tích dữ liệu trực quan - Visual Data Analytics là:
+Tài liệu bắt buộc
+1. Andrienko, N., Andrienko, G., Fuchs, G., Slingsby, A., Turkay, C., & Wrobel, S. . Visual analytics for data scientists. Basingstoke: Springer International Publishing. 2020
+2. Tài liệu tham khảo them
+1. Tamara Munzner. Visualization Analysis and Design. CRC Press. 2014.
+2. Now You See It: Simple Visualization Techniques for Quantitative Analysis, Stephen Few, Analytics Press, 2009.

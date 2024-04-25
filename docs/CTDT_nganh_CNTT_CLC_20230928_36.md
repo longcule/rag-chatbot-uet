@@ -1,21 +1,30 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin chất lượng cao(clc)
-## Danh mục tài liệu tham khảo học phần Mạng không dây - Wireless Networks là:
-Tài liệu bắt buộc
-- Jochen H Schileer. Mobile Communication Third Edition. Prentice Hall, 2007
-- Cory Beard, William Stallings, Wireless Communication Networks and Systems, Pearson, 2015
-Tài liệu tham khảo thêm
-- William Stallings, 5G Wireless: A Comprehensive Introduction, Addison-Wesley, 2021
-- Các bài báo của IEEE
-## Danh mục tài liệu tham khảo học phần Lập trình mạng - Network Programing là:
-Tài liệu bắt buộc
-- W. Richard Stevens, Bill Fenner, Andrew M. Rudoff, UNIX Network Programming Volume 1, Third Edition: The Sockets Networking API, Addison Wesley, 2003
-- Bogdan Ciubotaru, Gabriel-Miro Muntean, Advances Network Programming - Principles and Techniques, Network Application Programming with Java, Springer, 2013
-Tài liệu tham khảo thêm
-- Jan Graba, An Introduction to Network Programming with Java, Third Edition, Springer, 2013
-## Danh mục tài liệu tham khảo học phần Truyền thông đa phương tiện - Multimedia Communications là:
-Tài liệu bắt buộc- James F. Kruso, Keith W. Ross, “Computer Networking – A Top-Down Approach”, Fifth Edition
-- David Salomon: A Concise Introduction to Data Compression. Undergraduate Topics in Computer Science, Springer 2008, ISBN 978-1-84800-071-1, pp. i-xiii, 1-311
-Tài liệu tham khảo thêm
-- RFC3261, "SIP: Session Initiation Protocol." J. Rosenberg, H. Schulzrinne, G. Camarillo, A. Johnston, J. Peterson, R. Sparks, M. Handley, E.
-- Flavio E. Goncalves, "Building Telephony Systems with OpenSIPS 1.6", Packt Publishing, 2010, ISBN -1849510741
-- Alan B. Johnston, "Understanding the Session Initiation Protocol", third edition, Artech House telecommunication library, 2009
+# 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin chất lượng cao(clc)
+## các môn học sẽ học trong học kỳ 2 chương trình đào tạo cntt chất lượng cao(clc)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,FLF1107,Tiếng Anh B1,5
+3,MAT1042,Giải tích 2,4
+4,INT2215,Lập trình nâng cao,4
+5,INT1050,Toán học rời rạc,4
+6,EPN1096,Vật lý đại cương 2,2
+Tổng: 19 môn học
+## các môn học sẽ học trong học kỳ 3 chương trình đào tạo cntt chất lượng cao(clc)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,PEC1008,Kinh tế chính trị Mác – Lênin,2
+2,INT2210,Cấu trúc dữ liệu và giải thuật (*),4
+3,MAT1101,Xác suất thống kê,3
+4,INT2212,Kiến trúc máy tính (*),4
+5,INT2211,Cơ sở dữ liệu,4
+6,INT2204,Lập trình hướng đối tượng,3
+Tổng: 20 môn học
+## các môn học sẽ học trong học kỳ 4 chương trình đào tạo cntt chất lượng cao(clc)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,PHI1002,Chủ nghĩa xã hội khoa học,2
+2,ELT2035,Tín hiệu và hệ thống,3
+3,INT2213,Mạng máy tính (*),4
+4,INT2208,Công nghệ phần mềm (*),3
+5,FLF1108,Tiếng Anh B2,5
+6,01 học phần bổ trợ,,3
+1,INT3418,Thuật toán nâng cao và ứng dụng,3
+2,INT3102,Phương pháp tính,3
+3,INT3103,Tối ưu hóa,3
+Tổng: 20 môn học

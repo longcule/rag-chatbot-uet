@@ -1,7 +1,0 @@
-## V. Khối kiến thức ngành chương trình đào tạo ngành CNTT định hướng thị trường Nhật Bản, Tổng số tín chỉ: 54 ngành CÔNG NGHỆ THÔNG TIN
-### V.2. Các học phần bắt buộc chương trình đào tạo ngành CNTT định hướng thị trường Nhật Bản, Tổng số tín chỉ: 14 ngành CÔNG NGHỆ THÔNG TIN
-Mã số học phần: INT3510, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Chuẩn kỹ năng của CNTT - IT Skill Standards, số tín chỉ: 2, Lý thuyết: 10, Thực hành: 20, Tự học: , mã số học phần tiên quyết:
-Mã số học phần: INT3138, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Chuyên đề Công nghệ Nhật Bản (*) - Workshop on Japanese Technology, số tín chỉ: 3, Lý thuyết: 30, Thực hành: 15, Tự học: , mã số học phần tiên quyết: INT1008
-Mã số học phần: INT3140, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tiếng Nhật trong Công nghệ thông tin 1 (*) - Japanese for IT 1, số tín chỉ: 3, Lý thuyết: 15, Thực hành: 30, Tự học: , mã số học phần tiên quyết: INT1008, JAP2083
-Mã số học phần: INT3141, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Tiếng Nhật trong Công nghệ thông tin 2 (*) - Japanese for IT 2, số tín chỉ: 3, Lý thuyết: 15, Thực hành: 30, Tự học: , mã số học phần tiên quyết: INT3140
-Mã số học phần: INT4003, Tên học phần(Ghi bằng tiếng Việt và tiếng Anh): Thực tập doanh nghiệp Nhật Bản (*) - Japanese Enterprise Internship, số tín chỉ: 3, Lý thuyết: 3, Thực hành: 42, Tự học: , mã số học phần tiên quyết: INT1009

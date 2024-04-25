@@ -1,9 +1,0 @@
-# 4. Chuẩn đầu ra: MẠNG MÁY TÍNH
-Chuẩn đầu ra học phần: Mã\ Nội dung chuẩn đầu ra\ CĐR (Bắt đầu bằng động từ theo thang Bloom) Kiến thức CLO1 Hiểu cấu trúc mạng máy tính mô hình phân lớp (OSI và TCPIP) và khái niệm giao thức CLO2 Hiểu các khái niệm cơ bản và quan trọng ở từng tầng trong cấu trúc mạng: ứng dụng web email ... ở tầng ứng dụng nguyên lý trao đổi thông tin đáng tin cậy điều khiển luồngtắc nghẽn cơ chế bắt tay ở tầng giao vận. định tuyến ở tầng mạng đa truy cập ở tầng kết nối Kỹ năng CLO3 Hiểu được cách viết một ứng dụng mạng CLO4 Hiểu được cách sử dụng một số công cụ phần mềm mô phỏng hệ thống mạng như Wireshark Packet Tracer Mức độ tự chủ và trách nhiệm CLO5 Vận dụng được các kiến thức đã học để tự họcnghiên cứu về các công nghệ mới liên quan đến lĩnh vực mạng máy tính.
-# 5. Tóm tắt nội dung học phần: MẠNG MÁY TÍNH
-Học phần được chia thành 5 chương. MẠNG MÁY TÍNH
-● Chương 1 giới thiệu tổng quan về mạng máy tính và kiến trúc giao thức của mạng Internet. MẠNG MÁY TÍNH
-● Chương 2 trình bày các đặc tính của các ứng dụng mạng và các giao thức ở tầng ứng dụng. MẠNG MÁY TÍNH
-● Chương 3 giới thiệu về các phương thức truyền tin tin cậy điều khiển luồng điều khiển tắc nghẽn v.v. và các giao thức ở tầng giao vận bao gồm giao thức TCP và UDP. MẠNG MÁY TÍNH
-● Chương 4 giới thiệu về các thuật toán định tuyến cấu trúc router địa chỉ IP và các giao thức ở tầng mạng. MẠNG MÁY TÍNH
-● Chương 5 trình bày về các phương thức truyền thông và đa truy cập trên các đường truyền vật lý nguyên lý làm việc và các thiết bị của mạng LAN. MẠNG MÁY TÍNH

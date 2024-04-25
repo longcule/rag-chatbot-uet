@@ -1,20 +1,16 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin chất lượng cao(clc)
-## Danh mục tài liệu tham khảo học phần Lý thuyết thông tin - Information Theory là:
-Tài liệu bắt buộc
-- Nguyen Phuong Thai. Lecture on information theory, University of Technology, Hanoi National University.
-- Thomas M. Cover, Joy A. Thomas. Elements of Information Theory, second edition. A John Wiley & sons, Inc. 2006.
-Tài liệu tham khảo thêm
-- [3] David J.C MacKay. Information Theory, Learning, and Inference Algorithms. Cambridge University Press. 2005.
-## Danh mục tài liệu tham khảo học phần Đồ họa máy tính - Computer Graphics là:
-Tài liệu bắt buộc
-- Đề cương giảng dạy của giảng viên- Bùi Thế Duy, Ma Thị Châu (cập nhật hàng năm)
-- Hill, Francis S., Computer Graphics Using OpenGL, Prentice-Hall, 2001 (2nd ed.) /2017 (5rd ed).
-Tài liệu tham khảo thêm
-- Bùi Thế Duy, Đồ họa máy tính, NXB Đại học Quốc gia HN, 2009
-- R.S. Wright and M. Sweet, OpenGL SuperBible, Waite Group Press, 2016
-## Danh mục tài liệu tham khảo học phần Kiểm thử và đảm bảo chất lượng phần mềm - Software Testing and Quality Assurance là:
-Tài liệu bắt buộc
-- Trương Anh Hoàng, Phạm Ngọc Hùng, Đặng Văn Hưng. Giáo trình kiểm thử phần mềm. 2014.
-- Paul C. Jorgensen. Software Testing: A Craftsman's Approach, Third Edition. Auerbach. ISBN-10: 0849374758. 2013.
-Tài liệu tham khảo thêm
-- Paul Ammann and Jeff Offutt. Introduction to Software Testing. Cambridge University Press, Cambridge, UK, 2016.
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chất lượng cao(clc)
+## các giảng viên học phần: các vấn đề hiện đại của công nghệ thông tin - advanced topics in information technology ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Các giảng viên Khoa CNTT, Trường ĐHCN
+## các giảng viên học phần: thực tập chuyên ngành - professional internship ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Các giảng viên Khoa CNTT, Trường ĐHCN
+## các giảng viên học phần: lý thuyết thông tin - information theory ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Nguyễn Phương Thái, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Nguyên Khôi, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+## các giảng viên học phần: đồ họa máy tính - computer graphics ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Lê Thanh Hà, chức danh: PGS. TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Ma Thị Châu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: kiểm thử và đảm bảo chất lượng phần mềm - software testing and quality assurance ngành công nghệ thông tin chất lượng cao(clc)
+Tên giảng viên: Trương Ninh Thuận, chức danh: PGS. TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Võ Đình Hiếu, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thu Trang, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN

@@ -1,16 +1,20 @@
-# 3. danh mục tài liệu tham khảo ngành công nghệ thông tin
-## Danh mục tài liệu tham khảo học phần Lập trình nâng cao - Advanced Programming là:
-Tài liệu bắt buộc
-- Trần Quốc Long, Lê Quang Hiếu và Trần Thị Minh Châu, Bài giảng môn Lập trình nâng cao. 2017
-- (Online) Bộ dự án lập trình, kiểm thử tự động với Github Action, https://github.com/csuet
-Tài liệu tham khảo thêm
-- Lê Anh Cường, Nguyễn Văn Vinh, Lê Sỹ Vinh và Trần Thị Minh Châu, Bài giảng môn Lập trình nâng cao. 2012
-- Walter Savitch, Problem Solving with C++, 8th edition, Addison-Wesley, 2012.
-- Introduction to Programming in Java: An Interdisciplinary Approach, 2nd edition, Addison-Wesley, 2017
-## Danh mục tài liệu tham khảo học phần Cơ sở dữ liệu là:
-Tài liệu bắt buộc
-- Nguyễn Tuệ, Giáo trình cơ sở dữ liệu, Nhà xuất bản Đại học Quốc gia Hà Nội, 2008.
-- Ramez A. Elmasri, Shamkant Navathe, Fundamentals of Database Systems, 7th edition, John Wiley & Sons, Inc., 2016. (Học liệu online: https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-database systems/P200000003546?view=educator&tab=title-overview ).
-Tài liệu tham khảo thêm
-- Jagdish Chandra Patni, Hitesh Kumar Sharma, Ravi Tomar, Avita Katal, Database Management System: An Evolutionary Approach, Chapman and Hall/CRC, 2022. (Học liệu online: https://www.routledge.com/Database-Management-System-An-Evolutionary-Approach/Patni-Sharma-Tomar-Katal/p/book/9780367244934)
-- A. Silberschatz, H. F. Korth, S. Sudarshan, Database system concepts, 7th edition, McGraw Hill Education, 2011.
+# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin
+## các giảng viên học phần: toán học rời rạc - discrete mathematics ngành công nghệ thông tin
+Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Xác suất thống kê, đơn vị: Trường ĐHCN
+Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Thanh Hải, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Cao Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Thị Điệp, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: nguyên lý hệ điều hành - principles of operating systems ngành công nghệ thông tin
+Tên giảng viên: Nguyễn Hải Châu, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Phan Xuân Hiếu, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thị Hậu, chức danh: TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trọng Hiếu, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: mạng máy tính - computer network ngành công nghệ thông tin
+Tên giảng viên: Hồ Đắc Phương, chức danh: ThS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trúc Mai, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN

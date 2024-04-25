@@ -1,5 +1,5 @@
 from typing import Any, Dict, List, Tuple
-
+import asyncio
 from cleantext import clean
 from helpers.log import get_logger
 from langchain.vectorstores import Chroma, Qdrant
@@ -17,7 +17,9 @@ import pandas as pd
 import pickle
 from pyvi.ViTokenizer import tokenize
 import numpy as np
-import string
+import string, time
+from bot.memory.check_relevance_docs import check_context_docs
+
 logger = get_logger(__name__)
 QDRANT_URL='https://c0ce2559-a99b-436f-ac8c-591a14348a0d.us-east4-0.gcp.cloud.qdrant.io'
 QDRANT_API_KEY='8N_5UtXLjm-oqxE7QpS-VjyuWrb9yND5SGRSKZblOFM-2y3zxnq0Gw'
@@ -33,6 +35,7 @@ def split_text(text):
     return words
 
 def retrieve(question, embedder, bm25, courses_embs, meta_courses, topk=50):
+    start_time = time.time()
     """
     Get most relevant chunks to the question using combination of BM25 and semantic scores.
     """
@@ -70,6 +73,10 @@ def retrieve(question, embedder, bm25, courses_embs, meta_courses, topk=50):
     ## sort passages by the combined score
     sorted_passages = sorted(meta_courses, key=lambda x: x["combined_score"], reverse=True)
     # print("top k: ",sorted_passages[:topk])
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+    print("Thời gian chạy của hàm retrieve:", elapsed_time, "giây")
+
     return sorted_passages[:topk]
 
 
@@ -116,8 +123,8 @@ class VectorMemory:
             logger.error("No embedder passed to VectorMemory")
             raise Exception("No embedder passed to VectorMemory")
 
-        self.index = self.load_memory_index(vector_store_path)
-
+        # self.index = self.load_memory_index(vector_store_path)
+        self.meta_courses, self.bm25, self.courses_embs, self.embedder =  self.initialize_retriever(vector_store_path)
 
 
 
@@ -149,6 +156,29 @@ class VectorMemory:
         # print(corpus_embs[0])
         embedder = SentenceTransformer('bkai-foundation-models/vietnamese-bi-encoder')
         return embedder
+    def initialize_retriever(self, vector_store_path: str):
+        # Load meta_courses from dataset
+        meta_courses = load_dataset(
+            "json",
+            data_files=f"{vector_store_path}/courses_chunks.jsonl",
+            split="train"
+        ).to_list()
+
+        # Tokenize courses
+        tokenized_courses = [split_text(doc["passage"]) for doc in meta_courses]
+
+        # Initialize BM25 retriever
+        bm25 = BM25Okapi(tokenized_courses)
+
+        # Load courses embeddings
+        with open(f'{str(vector_store_path)}/courses_embedding.pkl', 'rb') as f:
+            courses_embs = pickle.load(f)
+
+        # Initialize SentenceTransformer embedder
+        embedder = SentenceTransformer('bkai-foundation-models/vietnamese-bi-encoder')
+
+        # Return the initialized retriever components
+        return meta_courses, bm25, courses_embs, embedder
 
     def similarity_search_doc(
         self, query: str, k: int = 4, threshold: float = 0.01
@@ -179,20 +209,21 @@ class VectorMemory:
         """
         # root_folder = Path(__file__).resolve().parent.parent
         print("que riiii: ",query)
-        vector_store_path = 'vector_store/docs_index'
-        meta_courses = load_dataset(
-            "json",
-            data_files=f"{vector_store_path}/courses_chunks.jsonl",
-            split="train"
-        ).to_list()
-        ## initiate BM25 retriever
-        tokenized_courses = [split_text(doc["passage"]) for doc in meta_courses]
-        bm25 = BM25Okapi(tokenized_courses)
+        # vector_store_path = 'vector_store/docs_index'
+        # meta_courses = load_dataset(
+        #     "json",
+        #     data_files=f"{vector_store_path}/courses_chunks.jsonl",
+        #     split="train"
+        # ).to_list()
+        # ## initiate BM25 retriever
+        # tokenized_courses = [split_text(doc["passage"]) for doc in meta_courses]
+        # bm25 = BM25Okapi(tokenized_courses)
 
-        with open(f'{str(vector_store_path)}/courses_embedding.pkl', 'rb') as f:
-            courses_embs = pickle.load(f)
-        embedder = SentenceTransformer('bkai-foundation-models/vietnamese-bi-encoder')
-        data = retrieve(query, embedder, bm25, courses_embs, meta_courses, topk=k)
+        # with open(f'{str(vector_store_path)}/courses_embedding.pkl', 'rb') as f:
+        #     courses_embs = pickle.load(f)
+
+        # embedder = SentenceTransformer('bkai-foundation-models/vietnamese-bi-encoder')
+        data = retrieve(query, self.embedder, self.bm25, self.courses_embs, self.meta_courses, topk=k)
         # print("data", data)
         data = remove_duplicates(data)
         # print("data2: ", data)
@@ -202,9 +233,25 @@ class VectorMemory:
             # print(file_path)
             data2 = read_md_file(file_path)
             doc['passage'] = data2
-            retrieved_contents.append(doc['passage'])
         
-        # print("data3: ",data)
+        print("data3: ",data)
+        # new_data = []  # Danh sách mới để chứa các tài liệu thỏa mãn điều kiện
+        start_time = time.time()
+        # tasks = [self.llm.async_generate_answer(p) for p in fmt_prompts]
+        #     node_responses = await asyncio.gather(*tasks)
+        for doc in data:
+            retrieved_contents.append(doc['passage'])
+        # list_check = check_context_docs(data, query)
+        # print(list_check)
+        # for idx, item in enumerate(data):
+        #     # if item == 'CÓ':
+        #         new_data.append(data[idx])
+        #         retrieved_contents.append(data[idx]['passage'])
+            # else:
+            #     continue
+        end_time = time.time()
+        elapsed_time = end_time - start_time
+        print("Thời gian chạy check context relevance:", elapsed_time, "giây")
         sources = []
         for doc in data:
             sources.append(

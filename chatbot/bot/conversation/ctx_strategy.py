@@ -87,36 +87,63 @@ class CreateAndRefineStrategy(BaseSynthesisStrategy):
         num_of_contents = len(retrieved_contents)
         print("num: ",num_of_contents)
         if num_of_contents > 0:
-            # for idx, node in enumerate(retrieved_contents, start=1):
-            for idx, node in enumerate(retrieved_contents[2::-1], start=3):
-                logger.info(f"--- Generating an answer for the chunk {idx} ... ---")
-                # context = node[0].page_content
-                context = node
-                logger.debug(f"--- Context: '{context}' ... ---")
-                # print(f"--- Context: '{context}' ... ---")
-                if idx == 3:
-                    fmt_prompt = self.llm.generate_ctx_prompt(question=question, context=context)
-                    print("prompt_1: ", fmt_prompt)
-                else:
-                    fmt_prompt = self.llm.generate_refined_ctx_prompt(
-                        context=context,
-                        question=question,
-                        existing_answer=str(cur_response),
-                    )
-                    print("prompt_2: ", fmt_prompt)
-                # if idx == num_of_contents:
-                #     cur_response = self.llm.start_answer_iterator_streamer(fmt_prompt, max_new_tokens=max_new_tokens)
-                # else:
-                print("hello1")
-                cur_response = self.llm.generate_answer(fmt_prompt)
-                print("hello2")
-                logger.debug(f"--- Current response: '{cur_response}' ... ---")
-                fmt_prompts.append(fmt_prompt)
-                # if idx == 3:
-                #     break
+            if len(retrieved_contents) < 3:
+                for idx, node in enumerate(retrieved_contents[::-1], start=1):
+                    logger.info(f"--- Generating an answer for the chunk {idx} ... ---")
+                    # context = node[0].page_content
+                    context = node
+                    logger.debug(f"--- Context: '{context}' ... ---")
+                    # print(f"--- Context: '{context}' ... ---")
+                    if idx == 1:
+                        fmt_prompt = self.llm.generate_ctx_prompt(question=question, context=context)
+                        print("prompt_1: ", fmt_prompt)
+                    else:
+                        fmt_prompt = self.llm.generate_refined_ctx_prompt(
+                            context=context,
+                            question=question,
+                            existing_answer=str(cur_response),
+                        )
+                        print("prompt_2: ", fmt_prompt)
+                    # if idx == num_of_contents:
+                    #     cur_response = self.llm.start_answer_iterator_streamer(fmt_prompt, max_new_tokens=max_new_tokens)
+                    # else:
+                    print("hello1")
+                    cur_response = self.llm.generate_answer(fmt_prompt)
+                    print("hello2")
+                    logger.debug(f"--- Current response: '{cur_response}' ... ---")
+                    fmt_prompts.append(fmt_prompt)
+                    # if idx == 3:
+                    #     break
+            else: 
+                for idx, node in enumerate(retrieved_contents[2::-1], start=1):
+                    logger.info(f"--- Generating an answer for the chunk {idx} ... ---")
+                    # context = node[0].page_content
+                    context = node
+                    logger.debug(f"--- Context: '{context}' ... ---")
+                    # print(f"--- Context: '{context}' ... ---")
+                    if idx == 1:
+                        fmt_prompt = self.llm.generate_ctx_prompt(question=question, context=context)
+                        print("prompt_1: ", fmt_prompt)
+                    else:
+                        fmt_prompt = self.llm.generate_refined_ctx_prompt(
+                            context=context,
+                            question=question,
+                            existing_answer=str(cur_response),
+                        )
+                        print("prompt_2: ", fmt_prompt)
+                    # if idx == num_of_contents:
+                    #     cur_response = self.llm.start_answer_iterator_streamer(fmt_prompt, max_new_tokens=max_new_tokens)
+                    # else:
+                    print("hello1")
+                    cur_response = self.llm.generate_answer(fmt_prompt)
+                    print("hello2")
+                    logger.debug(f"--- Current response: '{cur_response}' ... ---")
+                    fmt_prompts.append(fmt_prompt)
+                    # if idx == 3:
+                    #     break
         else:
             fmt_prompt = self.llm.generate_qa_prompt(question=question)
-            cur_response = self.llm.start_answer_iterator_streamer(fmt_prompt, max_new_tokens=max_new_tokens)
+            cur_response = self.llm.start_answer_iterator_streamer(fmt_prompt)
             fmt_prompts.append(fmt_prompt)
         print(f"cur_res: {cur_response}", f"fmt_prompt: {fmt_prompts}")
         return cur_response, fmt_prompts
@@ -247,8 +274,9 @@ class AsyncTreeSummarizationStrategy(BaseSynthesisStrategy):
         """
         fmt_prompts = []
         for idx, content in enumerate(retrieved_contents, start=1):
-            context = content.page_content
+            context = content
             logger.info(f"--- Generating a response for the chunk {idx} ... ---")
+            # create prompt
             fmt_qa_prompt = self.llm.generate_ctx_prompt(question=question, context=context)
             fmt_prompts.append(fmt_qa_prompt)
 
@@ -291,14 +319,20 @@ class AsyncTreeSummarizationStrategy(BaseSynthesisStrategy):
         fmt_prompts = []
         for idx in range(0, len(texts), num_children):
             text_batch = texts[idx : idx + num_children]
-            context = "\n\n".join([t for t in text_batch])
-            fmt_qa_prompt = self.llm.generate_ctx_prompt(question=question, context=context)
+            print("text_batch: ", text_batch)
+            # context = "\n\n".join([t for t in text_batch])
+            if len(text_batch) == 1:
+                existing_answer_2 = 'Tôi không có câu trả lời cho câu hỏi trên'
+            else: 
+                existing_answer_2 = text_batch[1]
+            fmt_qa_prompt = self.llm.generate_ctx_prompt_tree(question=question, existing_answer_1=existing_answer_2, existing_answer_2=text_batch[0])
+            print("fmt_qa_prompt: ", fmt_qa_prompt)
             fmt_prompts.append(fmt_qa_prompt)
 
         if len(fmt_prompts) == 1:
             logger.info("--- Generating final response ... ---")
             combined_responses_stream = await asyncio.gather(
-                self.llm.async_start_answer_iterator_streamer(fmt_prompts[0], max_new_tokens=max_new_tokens)
+                self.llm.async_start_answer_iterator_streamer(fmt_prompts[0])
             )
             return combined_responses_stream[0]
         else:
