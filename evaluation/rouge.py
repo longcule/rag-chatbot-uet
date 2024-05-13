@@ -4,8 +4,8 @@ scorer = rouge_scorer.RougeScorer(['rouge1', 'rouge2', 'rougeL'], use_stemmer=Tr
 candidate_summary = ""
 reference_summaries = []
 scores = {key: [] for key in ['rouge1', 'rouge2', 'rougeL']}
-txt_file = '/home/longcule/Videos/rag-chatbot/output_rouge.txt'
-input_file = '/home/longcule/Videos/rag-chatbot/testset_final.json'
+txt_file = '/home/longcule/Videos/rag-chatbot/json_file/testset_final_rouge.txt'
+input_file = '/home/longcule/Videos/rag-chatbot/output_rag_250_clean.json'
 with open(input_file, "r", encoding='utf-8') as file:
     input_data = json.load(file)
 k = 0
@@ -14,8 +14,8 @@ for items in input_data:
         k += 1
         candidate_summary = ""
         reference_summaries = []
-        candidate_summary = items["ground_truth"]
-        reference_summaries.append(items["answer"])
+        candidate_summary = items["answer_gpt4"]
+        reference_summaries.append(items["answer_rag"])
         for ref in reference_summaries:
             temp_scores = scorer.score(ref, candidate_summary)
             for key in temp_scores:

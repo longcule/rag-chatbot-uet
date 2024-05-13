@@ -1,0 +1,26 @@
+## các giảng viên học phần: thực tập doanh nghiệp - industrial internship
+Tên giảng viên: Trần Trúc Mai, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Giảng viên của Khoa CNTT
+Tên giảng viên: Cán bộ phía cơ quan, doanh nghiệp nhận sinh viên thực tập
+## các giảng viên học phần: thực hành hệ điều hành mạng - network operating system lab
+Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đình Thanh, chức danh: TS
+Tên giảng viên: Đỗ Hoàng Kiên, chức danh: Ths
+## các giảng viên học phần: đánh giá hiệu năng mạng - network performance evaluation
+Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Ngọc Tân, chức danh: TS
+## các giảng viên học phần: phân tích và thiết kế mạng máy tính - analysis and design of computer networks
+Tên giảng viên: Phạm Mạnh Linh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trúc Mai, chức danh: TS
+## các giảng viên học phần: thực hành an ninh mạng
+Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đình Thanh, chức danh: TS
+## các giảng viên học phần: kiểm thử an ninh mạng - network security testing
+Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đình Thanh, chức danh: TS
+## các giảng viên học phần: an ninh di động - mobile security
+Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Thị Hợi, chức danh: TS
+## các giảng viên học phần: các thiết bị mạng và môi trường truyền - network devices and transmission media
+Tên giảng viên: Trần Trúc Mai, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Mạnh Linh, chức danh: TS

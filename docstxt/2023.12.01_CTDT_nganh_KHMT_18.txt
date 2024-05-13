@@ -1,29 +1,50 @@
- 4. đội ngũ cán bộ giảng dạy ngành khoa học máy tính
- các giảng viên học phần: chủ nghĩa xã hội khoa học - scientific socialism ngành khoa học máy tính
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
- các giảng viên học phần: lịch sử đảng cộng sản việt nam - revolutionary guidelines of vietnam communist party ngành khoa học máy tính
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
- các giảng viên học phần: tư tưởng hồ chí minh - ho chi minh's ideology ngành khoa học máy tính
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
- các giảng viên học phần: nhà nước và pháp luật đại cương - state and law ngành khoa học máy tính
-Tên giảng viên: Mời giảng Trường ĐH Luật
- các giảng viên học phần: tiếng anh b1 - english b1 ngành khoa học máy tính
-Tên giảng viên: Mời giảng Trường ĐHNN
- các giảng viên học phần: tiếng anh b2 - english b2 ngành khoa học máy tính
-Tên giảng viên: Mời giảng Trường ĐHNN
- các giảng viên học phần: tin học cơ sở - introduction to informatics ngành khoa học máy tính
-Tên giảng viên: Giảng viên Trường ĐHCN
- các giảng viên học phần: kỹ năng bổ trợ - soft skills ngành khoa học máy tính
-Tên giảng viên: Mời giảng TT Dự báo phát triển nguồn nhân lực
- các giảng viên học phần: giáo dục thể chất  - physical education ngành khoa học máy tính
-Tên giảng viên: Mời giảng TT GDTC&TT
- các giảng viên học phần: giáo dục quốc phòng - an ninh - national defence education ngành khoa học máy tính
-Tên giảng viên: Mời giảng TT GDQP&AN
- các giảng viên học phần: đại số - algebra ngành khoa học máy tính
-Tên giảng viên: Mời giảng
- các giảng viên học phần: giải tích 1 - calculus 1 ngành khoa học máy tính
-Tên giảng viên: Mời giảng
- các giảng viên học phần: giải tích 2 - calculus 2 ngành khoa học máy tính
-Tên giảng viên: Mời giảng
- các giảng viên học phần: vật lý đại cương 1 - general physics 1 ngành khoa học máy tính
-Tên giảng viên: Giảng viên Khoa Vật lý Kỹ thuật, Trường ĐHCN
+ 5. hướng dẫn thực hiện chương trình đào tạo ngành khoa học máy tính
+ các môn học sẽ học trong học kỳ 2 chương trình đào tạo khoa học máy tính(khmt)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,MAT1042,Giải tích 2,4
+2,INT1050,Toán học rời rạc,4
+3,INT2215,Lập trình nâng cao,4
+4,EPN1096,Vật lý đại cương 2,2
+5,FLF1108,Tiếng Anh B2,5
+Tổng số tín chỉ: 19
+ các môn học sẽ học trong học kỳ 3 chương trình đào tạo khoa học máy tính(khmt)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT2204,Lập trình hướng đối tượng,3
+2,INT2212,Kiến trúc máy tính,4
+3,INT2210,Cấu trúc dữ liệu và giải thuật,4
+4,INT2211,Cơ sở dữ liệu,4
+5,MAT1101,Xác suất thống kê,3
+6,PHI1006,Triết học Mác – Lênin,3
+Tổng số tín chỉ: 21
+ các môn học sẽ học trong học kỳ 4 chương trình đào tạo khoa học máy tính(khmt)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT3401E,Trí tuệ nhân tạo,3
+2,INT3425,Khoa học dữ liệu,3
+3,INT2208,Công nghệ phần mềm,3
+4,INT2213,Mạng máy tính,4
+5,ELT2035,Tín hiệu và hệ thống,3
+6,PEC1008,Kinh tế Chính trị Mác-Lênin,2
+7,THL1057,Nhà nước và Pháp luật Đại cương,2
+Tổng số tín chỉ: 20
+ các môn học sẽ học trong học kỳ 5 chương trình đào tạo khoa học máy tính(khmt)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT3405E,Học máy,3
+2,HIS1001,Lịch sử Đảng Cộng sản Việt Nam,2
+3,PHI1002,Chủ nghĩa xã hội khoa học,2
+4,UET1002,Kỹ năng khởi nghiệp (#### Các môn học sẽ học trong học kỳ 1 chương trình đào tạo Khoa học máy tính(KHMT)2
+5-7,,"Sinh viên chọn 03 học phần khối V.2 trong các HP sau:
+INT3105 - Kiến trúc phần mềm
+INT3111 - Quản lý dự án phần mềm
+INT3120 - Phát triển ứng dụng di động
+INT3306 - Phát triển ứng dụng Web
+INT3505E - Kiến trúc hướng dịch vụ
+INT3319 - Điện toán Đám mây
+INT3230E – Mật mã và An toàn thông tin
+INT3307E – An toàn và An ninh mạng
+INT2044E - Lý thuyết thông tin
+INT3407E - Tin sinh học ứng dụng
+INT3121 - Các chuyên đề trong KHMT
+INT3403 - Đồ họa máy tính
+INT3421 - Khoa học thần kinh
+INT2041 - Tương tác người máy",9
+Tổng số tín chỉ: 18

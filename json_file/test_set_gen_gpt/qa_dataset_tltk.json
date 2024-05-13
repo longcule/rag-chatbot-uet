@@ -1,0 +1,827 @@
+[
+    {
+        "question": "Ai là tác giả của cuốn \"Internet of Things with Arduino Cookbook\"?",
+        "answer": "Marco Schwartz",
+        "file_path": "docs_book/TLTK_19.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Công nghệ là gì?",
+        "answer": "Bill Phillips và Brian Hardy, Android Programming",
+        "file_path": "docs_book/TLTK_19.md"
+    },
+    {
+        "question": "Tác giả của cuốn sách \"Raspberry Pi user guide\" là ai?",
+        "answer": "Gareth Halfacree và Eben Upton",
+        "file_path": "docs_book/TLTK_19.md"
+    },
+    {
+        "question": "Tên tác giả của cuốn \"Raspberry Pi user guide\" là gì?",
+        "answer": "Gareth Halfacree và Eben Upton",
+        "file_path": "docs_book/TLTK_19.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Chương trình dịch là gì?",
+        "answer": "Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman. Compilers",
+        "file_path": "docs_book/TLTK_19.md"
+    },
+    {
+        "question": "Tác giả của cuốn \"Business intelligence analytics, and data science",
+        "answer": "Ramesh Sharda, Dursun Delen, Efraim Turban",
+        "file_path": "docs_book/TLTK_13.md"
+    },
+    {
+        "question": "Có bao nhiêu tài liệu tham khảo được liệt kê cho học phần Khoa học dịch vụ?",
+        "answer": "8",
+        "file_path": "docs_book/TLTK_13.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc của học phần Trí tuệ nhân tạo là gì?",
+        "answer": "Đinh Mạnh Tường. Trí tuệ nhân tạo. NXB Khoa học & Kỹ thuật, 2002 và Russel S. and Norvig P. Artificial Intelligence",
+        "file_path": "docs_book/TLTK_13.md"
+    },
+    {
+        "question": "Học phần Trí tuệ kinh doanh có bao nhiêu tài liệu tham khảo bắt buộc?",
+        "answer": "2",
+        "file_path": "docs_book/TLTK_13.md"
+    },
+    {
+        "question": "Có bao nhiêu tài liệu tham khảo bắt buộc cho khóa học Trí tuệ nhân tạo?",
+        "answer": "2",
+        "file_path": "docs_book/TLTK_13.md"
+    },
+    {
+        "question": "Tài liệu tham khảo nào là bắt buộc cho học phần Phân tích dữ liệu dự báo?",
+        "answer": "Applied Predictive Analytics",
+        "file_path": "docs_book/TLTK_15.md"
+    },
+    {
+        "question": "Tài liệu tham khảo bắt buộc cho học phần Phân tích mạng phương tiện xã hội trong kinh doanh là gì?",
+        "answer": "1. Trần Mai Vũ, Phan Xuân Hiếu, Lê Hoàng Quỳnh. Bài giảng Phân tích mạng phương tiện xã hội trong kinh doanh (cập nhật hàng năm).",
+        "file_path": "docs_book/TLTK_15.md"
+    },
+    {
+        "question": "Có bao nhiêu tài liệu bắt buộc trong danh mục tài liệu tham khảo của học phần Phân tích mạng phương tiện xã hội trong kinh doanh - Social Media Network Analysis for Business?",
+        "answer": "4",
+        "file_path": "docs_book/TLTK_15.md"
+    },
+    {
+        "question": "Tác giả của cuốn sách \"Fundamentals of Machine Learning for Predictive Data Analytics\" là ai?",
+        "answer": "John D. Kelleher, Brian Mac Namee, and Aoife D’Arcy",
+        "file_path": "docs_book/TLTK_15.md"
+    },
+    {
+        "question": "Tên của tài liệu tham khảo số 3 được đề xuất cho khóa học Phân tích mạng phương tiện xã hội trong kinh doanh là gì?",
+        "answer": "Fundamentals of Machine Learning for Predictive Data Analytics",
+        "file_path": "docs_book/TLTK_15.md"
+    },
+    {
+        "question": "Có bao nhiêu tài liệu tham khảo thêm trong danh mục tài liệu tham khảo cho học phần Phát triển ứng dụng Web?",
+        "answer": "3",
+        "file_path": "docs_book/TLTK_12.md"
+    },
+    {
+        "question": "Tác giả của cuốn \"Phát triển ứng dụng web\" là ai?",
+        "answer": "Lê Đình Thanh và Nguyễn Việt Anh",
+        "file_path": "docs_book/TLTK_12.md"
+    },
+    {
+        "question": "Tài liệu tham khảo nào được yêu cầu cho khóa học Phát triển ứng dụng Web?",
+        "answer": "Lê Đình Thanh, Nguyễn Việt Anh, Phát triển ứng dụng web, NXB ĐHQGHN, 2019.",
+        "file_path": "docs_book/TLTK_12.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Phát triển ứng dụng Web là gì?",
+        "answer": "Lê Đình Thanh, Nguyễn Việt Anh, Phát triển ứng dụng web, NXB ĐHQGHN, 2019.",
+        "file_path": "docs_book/TLTK_12.md"
+    },
+    {
+        "question": "Tác giả của cuốn sách \"Digital Business and E-Commerce Management, Seventh Edition\" là ai?",
+        "answer": "Dave Chaffey, Tanya Hemphill, David Edmundson-Bird",
+        "file_path": "docs_book/TLTK_12.md"
+    },
+    {
+        "question": "Tác giả của cuốn sách Network Security Essentials là ai?",
+        "answer": "William Stallings",
+        "file_path": "docs_book/TLTK_20.md"
+    },
+    {
+        "question": "Tác giả của cuốn sách \"Cloud Computing",
+        "answer": "Nick Antonopoulos và Lee Gillam",
+        "file_path": "docs_book/TLTK_20.md"
+    },
+    {
+        "question": "Tài liệu tham khảo bắt buộc cho học phần nào?",
+        "answer": "Tài liệu tham khảo bắt buộc cho học phần Kiến trúc hướng dịch vụ.",
+        "file_path": "docs_book/TLTK_20.md"
+    },
+    {
+        "question": "Tác giả của cuốn sách \"Principles of Computer Security\" là ai?",
+        "answer": "Wm. Arthur Conklin và Gregory White",
+        "file_path": "docs_book/TLTK_20.md"
+    },
+    {
+        "question": "Giáo trình nào là tài liệu bắt buộc cho học phần Kiến trúc hướng dịch vụ?",
+        "answer": "Giáo trình Kiến trúc hướng dịch vụ của Võ Đình Hiếu",
+        "file_path": "docs_book/TLTK_20.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Tin sinh học ứng dụng là gì?",
+        "answer": "Tài liệu bắt buộc cho học phần Tin sinh học ứng dụng là",
+        "file_path": "docs_book/TLTK_22.md"
+    },
+    {
+        "question": "Tên sách nào là tài liệu bắt buộc cho học phần Xử lý tiếng nói?",
+        "answer": "Speech and Language Processing",
+        "file_path": "docs_book/TLTK_22.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn sách \"Các phương pháp phân tích dữ liệu sinh học có kích thước lớn\"?",
+        "answer": "Lê Sỹ Vinh",
+        "file_path": "docs_book/TLTK_22.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn sách \"Speech and Language Processing\" được liệt kê trong danh mục tài liệu tham khảo của học phần Xử lý tiếng nói?",
+        "answer": "Daniel Jurafsky và James H. Martin",
+        "file_path": "docs_book/TLTK_22.md"
+    },
+    {
+        "question": "Tên sách giáo khoa bắt buộc cho lớp học Xử lý ngôn ngữ tự nhiên là gì?",
+        "answer": "Foundations of Statistical Natural Language Processing",
+        "file_path": "docs_book/TLTK_22.md"
+    },
+    {
+        "question": "Tên tác giả của cuốn sách \"Requirements Engineering",
+        "answer": "Axel Van Lamsweerde",
+        "file_path": "docs_book/TLTK_18.md"
+    },
+    {
+        "question": "Học liệu yêu cầu bắt buộc cho học phần Kỹ nghệ yêu cầu - Requirement Engineering là gì?",
+        "answer": "Axel Van Lamsweerde. Requirements Engineering",
+        "file_path": "docs_book/TLTK_18.md"
+    },
+    {
+        "question": "Tác giả của sách \"Requirements Engineering",
+        "answer": "Axel Van Lamsweerde",
+        "file_path": "docs_book/TLTK_18.md"
+    },
+    {
+        "question": "ISBN của sách Managing Software Requirements là gì?",
+        "answer": "0137035152",
+        "file_path": "docs_book/TLTK_18.md"
+    },
+    {
+        "question": "Mã ISBN của sách \"Requirements Engineering",
+        "answer": "0470012706",
+        "file_path": "docs_book/TLTK_18.md"
+    },
+    {
+        "question": "Có bao nhiêu tài liệu tham khảo được đề xuất cho học phần Phương pháp hình thức - Formal Methods?",
+        "answer": "3",
+        "file_path": "docs_book/TLTK_32.md"
+    },
+    {
+        "question": "Tác giả của cuốn sách \"Modeling Computing Systems\" là ai?",
+        "answer": "Moller Faron và Georg Struth",
+        "file_path": "docs_book/TLTK_32.md"
+    },
+    {
+        "question": "Tài liệu nào được liệt kê là tài liệu tham khảo thêm cho học phần Thu thập và phân tích yêu cầu?",
+        "answer": "1. Ian Sommerville. Software Engineering. Pearson. 9th Edition, 2010.",
+        "file_path": "docs_book/TLTK_32.md"
+    },
+    {
+        "question": "Tác giả của cuốn sách \"Requirements Engineering",
+        "answer": "Axel Van Lamsweerde",
+        "file_path": "docs_book/TLTK_32.md"
+    },
+    {
+        "question": "Những tài liệu nào được liệt kê là tài liệu bắt buộc cho học phần Thu thập và phân tích yêu cầu?",
+        "answer": "Tài liệu bắt buộc cho học phần Thu thập và phân tích yêu cầu là",
+        "file_path": "docs_book/TLTK_32.md"
+    },
+    {
+        "question": "Học liệu tham khảo thêm nào được sử dụng trong học phần Phân tích dữ liệu trực quan?",
+        "answer": "Tamara Munzner. Visualization Analysis and Design. CRC Press. 2014.",
+        "file_path": "docs_book/TLTK_23.md"
+    },
+    {
+        "question": "Kể tên một tài liệu tham khảo bắt buộc cho học phần Phân tích dữ liệu trực quan.",
+        "answer": "Visual analytics for data scientists, Andrienko, N., Andrienko, G., Fuchs, G., Slingsby, A., Turkay, C., & Wrobel, S. .",
+        "file_path": "docs_book/TLTK_23.md"
+    },
+    {
+        "question": "Tài liệu nào là tài liệu tham khảo bắt buộc cho học phần Phân tích dữ liệu không gian và Ứng dụng?",
+        "answer": "1. Dominique Laffly, TORUS 1 – Toward an Open Resource Using Services",
+        "file_path": "docs_book/TLTK_23.md"
+    },
+    {
+        "question": "Ai là tác giả của \"Deep Learning\"?",
+        "answer": "Goodfellow Ian, Yoshua Bengio, và Aaron Courville",
+        "file_path": "docs_book/TLTK_23.md"
+    },
+    {
+        "question": "Học liệu bắt buộc nào được liệt kê trong danh mục tài liệu tham khảo cho học phần \"Học sâu và Ứng dụng\"?",
+        "answer": "Goodfellow Ian, Yoshua Bengio, và Aaron Courville. Deep learning. MIT press, 2016.",
+        "file_path": "docs_book/TLTK_23.md"
+    },
+    {
+        "question": "Tác giả của \"The C programming language\" là ai?",
+        "answer": "Brian W. Kernighan và Dennis M. Ritchie",
+        "file_path": "docs_book/TLTK_3.md"
+    },
+    {
+        "question": "Có bao nhiêu tài liệu bắt buộc cho học phần Nhập môn lập trình?",
+        "answer": "1 tài liệu",
+        "file_path": "docs_book/TLTK_3.md"
+    },
+    {
+        "question": "Tên tác giả của cuốn sách \"The C programming language\"?",
+        "answer": "Brian W. Kernighan và Dennis M. Ritchie",
+        "file_path": "docs_book/TLTK_3.md"
+    },
+    {
+        "question": "Tên của cuốn sách nào được sử dụng làm tài liệu tham khảo cho môn Nhập môn lập trình?",
+        "answer": "The C programming language",
+        "file_path": "docs_book/TLTK_3.md"
+    },
+    {
+        "question": "Học phần Nhập môn lập trình có tài liệu tham khảo bắt buộc nào không?",
+        "answer": "Bài giảng của giáo viên",
+        "file_path": "docs_book/TLTK_3.md"
+    },
+    {
+        "question": "Tên của tác giả thứ hai của cuốn \"Bài giảng Kỹ thuật và công nghệ dữ liệu lớn\"?",
+        "answer": "Hà Quang Thuỵ",
+        "file_path": "docs_book/TLTK_10.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc trong danh mục tài liệu tham khảo của học phần Kỹ thuật và công nghệ dữ liệu lớn là gì?",
+        "answer": "1. Bài giảng Kỹ thuật và công nghệ dữ liệu lớn (cập nhật hàng năm) của Vũ Bá Duy, Hà Quang Thuỵ, Nguyễn Ngọc Hóa.",
+        "file_path": "docs_book/TLTK_10.md"
+    },
+    {
+        "question": "Có bao nhiêu tài liệu bắt buộc được liệt kê trong ngữ cảnh này?",
+        "answer": "5",
+        "file_path": "docs_book/TLTK_10.md"
+    },
+    {
+        "question": "Quyển sách nào của Hien Luu trong danh sách?",
+        "answer": "Beginning Apache Spark 3",
+        "file_path": "docs_book/TLTK_10.md"
+    },
+    {
+        "question": "Một trong những tài liệu tham khảo bắt buộc là gì?",
+        "answer": "Hadoop",
+        "file_path": "docs_book/TLTK_10.md"
+    },
+    {
+        "question": "Có tài liệu nào về Xử lý ảnh trong danh sách tài liệu tham khảo không?",
+        "answer": "Có, tài liệu bắt buộc về Xử lý ảnh là “Digital Image Processing”, R. C. Gonzalez, R. E. Woods, Third Edition.",
+        "file_path": "docs_book/TLTK_24.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho khóa Xử lý ảnh là gì?",
+        "answer": "\"Digital Image Processing\", R. C. Gonzalez, R. E. Woods, Third Edition.",
+        "file_path": "docs_book/TLTK_24.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Khoa học thần kinh - Introduction to Cognitive Intelligence là gì?",
+        "answer": "Walmsley, J., 2011. Cognitive Science. An Introduction to the Science of Mind. và Bishop, C.M., 2006. Pattern recognition and machine learning",
+        "file_path": "docs_book/TLTK_24.md"
+    },
+    {
+        "question": "Sách nào được sử dụng làm tài liệu tham khảo bắt buộc cho học phần Đồ họa máy tính?",
+        "answer": "Computer Graphics Using OpenGL của Francis S. Hill",
+        "file_path": "docs_book/TLTK_24.md"
+    },
+    {
+        "question": "Tác giả của tài liệu \"Cognitive Science. An Introduction to the Science of Mind\" là ai?",
+        "answer": "Walmsley, J.",
+        "file_path": "docs_book/TLTK_24.md"
+    },
+    {
+        "question": "Tên của tài liệu bắt buộc trong danh mục tài liệu tham khảo cho học phần Lập trình mạng là gì?",
+        "answer": "UNIX Network Programming Volume 1, Third Edition",
+        "file_path": "docs_book/TLTK_28.md"
+    },
+    {
+        "question": "Có bao nhiêu tài liệu tham khảo bắt buộc cho học phần An ninh di động - Mobile Security?",
+        "answer": "2",
+        "file_path": "docs_book/TLTK_28.md"
+    },
+    {
+        "question": "Trong danh mục tài liệu tham khảo của môn học Network programming, có bao nhiêu tài liệu bắt buộc?",
+        "answer": "2",
+        "file_path": "docs_book/TLTK_28.md"
+    },
+    {
+        "question": "Kể tên một tài liệu tham khảo bổ sung cho học phần Các thiết bị mạng và môi trường truyền.",
+        "answer": "Giảng viên cung cấp thêm trong giờ học",
+        "file_path": "docs_book/TLTK_28.md"
+    },
+    {
+        "question": "Tài liệu tham khảo bắt buộc cho học phần Lập trình mạng là gì?",
+        "answer": "1. W. Richard Stevens, Bill Fenner, Andrew M. Rudoff, UNIX Network Programming Volume 1, Third Edition",
+        "file_path": "docs_book/TLTK_28.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Computer Vision là gì?",
+        "answer": "Đề cương bài giảng của giảng viên- Lê Thanh Hà, Ma Thị Châu và Computer Vision",
+        "file_path": "docs_book/TLTK_25.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc của học phần Thị giác máy là gì?",
+        "answer": "Đề cương bài giảng của giảng viên- Lê Thanh Hà, Ma Thị Châu và Computer Vision",
+        "file_path": "docs_book/TLTK_25.md"
+    },
+    {
+        "question": "Tác giả nào đã viết cuốn \"Computer Vision",
+        "answer": "Richard Szeliski",
+        "file_path": "docs_book/TLTK_25.md"
+    },
+    {
+        "question": "Ai là tác giả của sách giáo khoa \"Tương tác người máy\"?",
+        "answer": "Alan Dix, Janet E. Finlay, Gregory D. Abowd, Russell Beale",
+        "file_path": "docs_book/TLTK_25.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc của học phần Tương tác người máy là gì?",
+        "answer": "Alan Dix, Janet E. Finlay, Gregory D. Abowd, Russell Beale, Human - Computer Interaction, Harlow, England",
+        "file_path": "docs_book/TLTK_25.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn sách \"Mastering Embedded Linux Programming - Third Edition\"?",
+        "answer": "Frank Vasquez và Chris Simmonds",
+        "file_path": "docs_book/TLTK_29.md"
+    },
+    {
+        "question": "Tên tác giả cuốn \"Mastering Embedded Linux Programming\" là gì?",
+        "answer": "Frank Vasquez và Chris Simmonds",
+        "file_path": "docs_book/TLTK_29.md"
+    },
+    {
+        "question": "Tác giả cuốn \"Computer Networking",
+        "answer": "James F. Kurose và Keith W. Ross",
+        "file_path": "docs_book/TLTK_29.md"
+    },
+    {
+        "question": "Sách nào được sử dụng làm tài liệu tham khảo thêm cho học phần Truyền thông đa phương tiện?",
+        "answer": "1. RFC3261, \"SIP",
+        "file_path": "docs_book/TLTK_29.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Truyền thông đa phương tiện là gì?",
+        "answer": "1. James F. Kurose, Keith W. Ross. Computer Networking",
+        "file_path": "docs_book/TLTK_29.md"
+    },
+    {
+        "question": "Có bao nhiêu tài liệu tham khảo bắt buộc cho khóa học Thực hành an ninh mạng?",
+        "answer": "2",
+        "file_path": "docs_book/TLTK_27.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Phân tích và thiết kế mạng máy tính là gì?",
+        "answer": "James D. McCabe, Network Analysis, Architecture, and Design, Morgan Kaufmann Publisher, Inc., Third Edition, 2007.",
+        "file_path": "docs_book/TLTK_27.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Kiểm thử an ninh mạng là gì?",
+        "answer": "1. Rob Wilson. Hands-On Ethical Hacking and Network Defense, Fourth Edition. Cengage Learning, 2022. 2. CEH (Certified Ethical Hacker). Ethical Hacking and Countermeasures Version 12 Lab Manual. EC-Council, 2022.",
+        "file_path": "docs_book/TLTK_27.md"
+    },
+    {
+        "question": "Có bao nhiêu tài liệu tham khảo được liệt kê cho lớp học Phân tích và thiết kế mạng máy tính?",
+        "answer": "1",
+        "file_path": "docs_book/TLTK_27.md"
+    },
+    {
+        "question": "Học phần Phân tích và thiết kế mạng máy tính có những tài liệu tham khảo nào?",
+        "answer": "Tài liệu bắt buộc",
+        "file_path": "docs_book/TLTK_27.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn sách Vật lý đại cương 1?",
+        "answer": "Lương Duyên Bình",
+        "file_path": "docs_book/TLTK_2.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho môn Vật lý Đại cương 2 là gì?",
+        "answer": "1. D. Haliday, R. Resnick and J.Walker, Cơ sở vật lý Tập 3,4; Bản dịch NXB Giáo dục, Hà Nội – 2001. 2. Lương Duyên Bình, Dư Chí Công, Nguyễn Hữu Hồ, Vật lý đại cương, Tập 2 Điện -Dao động - Sóng, NXB Giáo dục, 2007.",
+        "file_path": "docs_book/TLTK_2.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn sách \"Vật lý đại cương 1\"?",
+        "answer": "Lương Duyên Bình",
+        "file_path": "docs_book/TLTK_2.md"
+    },
+    {
+        "question": "Ai là tác giả của sách \"Cơ sở vật lý Tập 3,4\"?",
+        "answer": "D. Haliday, R. Resnick and J.Walker",
+        "file_path": "docs_book/TLTK_2.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Vật lý đại cương 1 là gì?",
+        "answer": "Lương Duyên Bình, Vật lí đại cương 1, NXB KHKT 2010 và Halliday và cộng sự, Cơ sở Vật lí 1, NXB Giáo dục 2005.",
+        "file_path": "docs_book/TLTK_2.md"
+    },
+    {
+        "question": "Giáo trình Công nghệ phần mềm được xuất bản năm nào?",
+        "answer": "2008",
+        "file_path": "docs_book/TLTK_7.md"
+    },
+    {
+        "question": "Tên tác giả của giáo trình Lập trình hướng đối tượng với Java là gì?",
+        "answer": "Trần Thị Minh Châu, Nguyễn Việt Hà",
+        "file_path": "docs_book/TLTK_7.md"
+    },
+    {
+        "question": "Ai là tác giả cuốn \"Giáo trình Công nghệ phần mềm\"?",
+        "answer": "Nguyễn Văn Vỵ, Nguyễn Việt Hà",
+        "file_path": "docs_book/TLTK_7.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn \"Agile Software Development, Principles, Patterns, and Practices\"?",
+        "answer": "Robert C. Martin",
+        "file_path": "docs_book/TLTK_7.md"
+    },
+    {
+        "question": "Ai là tác giả chính của \"Giáo trình Công nghệ phần mềm\" được đề cập trong danh mục tài liệu tham khảo?",
+        "answer": "Nguyễn Văn Vỵ",
+        "file_path": "docs_book/TLTK_7.md"
+    },
+    {
+        "question": "Giáo trình cơ sở dữ liệu của Nguyễn Tuệ được xuất bản năm nào?",
+        "answer": "2008",
+        "file_path": "docs_book/TLTK_5.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn \"Problem Solving with C++\"?",
+        "answer": "Walter Savitch",
+        "file_path": "docs_book/TLTK_5.md"
+    },
+    {
+        "question": "Walter Savitch đã xuất bản lần thứ mấy \"Problem Solving with C++\"?",
+        "answer": "Lần thứ 8",
+        "file_path": "docs_book/TLTK_5.md"
+    },
+    {
+        "question": "Walter Savitch là tác giả của cuốn sách nào?",
+        "answer": "Problem Solving with C++",
+        "file_path": "docs_book/TLTK_5.md"
+    },
+    {
+        "question": "Lấy thông tin về sách \"Database system concepts\"",
+        "answer": "Database system concepts, 7th edition, McGraw Hill Education, 2011",
+        "file_path": "docs_book/TLTK_5.md"
+    },
+    {
+        "question": "ISBN của \"Enterprise Integration Patterns",
+        "answer": "9780321200686",
+        "file_path": "docs_book/TLTK_9.md"
+    },
+    {
+        "question": "Người xuất bản của cuốn sách \"Bài giảng thiết kế phân tích thực nghiệm\" là ai?",
+        "answer": "Nguyễn Hải Châu",
+        "file_path": "docs_book/TLTK_9.md"
+    },
+    {
+        "question": "Năm xuất bản của \"Enterprise Integration Patterns",
+        "answer": "2003",
+        "file_path": "docs_book/TLTK_9.md"
+    },
+    {
+        "question": "ISBN của sách \"Enterprise Integration Patterns",
+        "answer": "9780321200686",
+        "file_path": "docs_book/TLTK_9.md"
+    },
+    {
+        "question": "Tác giả của cuốn sách \"Enterprise Systems Integration",
+        "answer": "Diogo R. Ferreira",
+        "file_path": "docs_book/TLTK_9.md"
+    },
+    {
+        "question": "Tác giả của cuốn sách \"Building Microservices\" là ai?",
+        "answer": "Sam Newman",
+        "file_path": "docs_book/TLTK_16.md"
+    },
+    {
+        "question": "Tác giả của cuốn \"Building Microservices\" là ai?",
+        "answer": "Sam Newman",
+        "file_path": "docs_book/TLTK_16.md"
+    },
+    {
+        "question": "Học liệu bắt buộc của học phần Khoa học dữ liệu là gì?",
+        "answer": "1. Bài giảng “Khoa học dữ liệu”, Nguyễn Việt Anh, Lê Quang Hiếu, Trường Đạị học Công nghệ, 2024 (Lưu hành nội bộ).",
+        "file_path": "docs_book/TLTK_16.md"
+    },
+    {
+        "question": "Ai là tác giả của sách \"Solutions Architect's Handbook\"?",
+        "answer": "Saurabh Shrivastava và Neelanjali Srivastav",
+        "file_path": "docs_book/TLTK_16.md"
+    },
+    {
+        "question": "Ai đã viết cuốn sách \"Introduction to Data Science - A Python Approach to Concepts, Techniques and Applications\"?",
+        "answer": "Laura Igual và Santi Seguí",
+        "file_path": "docs_book/TLTK_16.md"
+    },
+    {
+        "question": "NXB nào đã xuất bản cuốn sách \"Optical Fiber Communications\"?",
+        "answer": "McGraw-Hill",
+        "file_path": "docs_book/TLTK_30.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn sách \"Optical Fiber Communication Networks\"?",
+        "answer": "John M. Senior",
+        "file_path": "docs_book/TLTK_30.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc nào được sử dụng trong học phần Xử lý tín hiệu số?",
+        "answer": "Nguyễn Linh Trung, Trần Đức Tân, Huỳnh Hữu Tuệ. Xử lý tín hiệu số. NXB ĐHQGHN, 2012.",
+        "file_path": "docs_book/TLTK_30.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn sách \"Optical Fiber Communications\"?",
+        "answer": "Gerd Keiser",
+        "file_path": "docs_book/TLTK_30.md"
+    },
+    {
+        "question": "Tác giả của tài liệu \"Thông tin quang\" là ai?",
+        "answer": "Phạm Văn Hội",
+        "file_path": "docs_book/TLTK_30.md"
+    },
+    {
+        "question": "Jeff Johnson là tác giả của cuốn sách nào?",
+        "answer": "Designing with the Mind in Mind",
+        "file_path": "docs_book/TLTK_33.md"
+    },
+    {
+        "question": "Jeff Johnson đã xuất bản cuốn sách \"Designing with the Mind in Mind\" lần thứ mấy?",
+        "answer": "Thứ 3",
+        "file_path": "docs_book/TLTK_33.md"
+    },
+    {
+        "question": "Ai là tác giả của \"Designing the User Interface, 6th Edition\"?",
+        "answer": "Ben Shneiderman và Catherine Plaisant",
+        "file_path": "docs_book/TLTK_33.md"
+    },
+    {
+        "question": "Thiết kế giao diện người dùng là gì?",
+        "answer": "Thiết kế giao diện người dùng (UI) là quá trình tạo ra giao diện của phần mềm hoặc ứng dụng, giúp người dùng có thể tương tác với sản phẩm một cách hiệu quả và dễ chịu.",
+        "file_path": "docs_book/TLTK_33.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn sách \"Designing the User Interface\"?",
+        "answer": "Ben Shneiderman và Catherine Plaisant",
+        "file_path": "docs_book/TLTK_33.md"
+    },
+    {
+        "question": "Tên tác giả của cuốn sách \"Computer Organization and Architecture\"?",
+        "answer": "William Stallings",
+        "file_path": "docs_book/TLTK_6.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn sách \"Computer Organization and Architecture\"?",
+        "answer": "William Stallings",
+        "file_path": "docs_book/TLTK_6.md"
+    },
+    {
+        "question": "Tên tác giả của cuốn sách \"Computer Organization and Architecture\" là gì?",
+        "answer": "William Stallings",
+        "file_path": "docs_book/TLTK_6.md"
+    },
+    {
+        "question": "Ai là dịch giả của cuốn sách \"Toán rời rạc và ứng dụng trong tin học\" của Keneth Rosen?",
+        "answer": "Phạm Văn Thiều và Đặng Hữu Thịnh",
+        "file_path": "docs_book/TLTK_6.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Kiến trúc máy tính là gì?",
+        "answer": "William Stallings, Computer Organization and Architecture. Prentice Hall; 11th Edition, Prentice Hall, 2019 và Nguyễn Đình Việt, Kiến trúc máy tính, NXB ĐHQGHN, 2009.",
+        "file_path": "docs_book/TLTK_6.md"
+    },
+    {
+        "question": "Sách nào bắt buộc trong học phần Mạng truyền thông máy tính 2?",
+        "answer": "Jean Walrand và Pravin Varaiya, High-Performance Communication Networks",
+        "file_path": "docs_book/TLTK_31.md"
+    },
+    {
+        "question": "Tác giả của cuốn sách \"High-Performance Communication Networks\" là gì?",
+        "answer": "Jean Walrand và Pravin Varaiya",
+        "file_path": "docs_book/TLTK_31.md"
+    },
+    {
+        "question": "Tài liệu tham khảo bắt buộc cho học phần Mạng truyền thông di động - Mobile Communication Systems là gì?",
+        "answer": "Tài liệu tham khảo bắt buộc cho học phần Mạng truyền thông di động - Mobile Communication Systems là",
+        "file_path": "docs_book/TLTK_31.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Mạng truyền thông di động - Mobile Communication Systems là gì?",
+        "answer": "1. E. Dahlman, S. Parkvall, J. Skold, and P. Beming, 3G Evolution",
+        "file_path": "docs_book/TLTK_31.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc nào được sử dụng trong học phần Mạng truyền thông di động?",
+        "answer": "3G Evolution",
+        "file_path": "docs_book/TLTK_31.md"
+    },
+    {
+        "question": "Trong danh mục tài liệu tham khảo của học phần Hệ quản trị cơ sở dữ liệu, cuốn sách nào được xuất bản bởi McGraw-Hill Science/Engineering/Math?",
+        "answer": "Database System Concepts, 7th Edition",
+        "file_path": "docs_book/TLTK_8.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Khai phá dữ liệu là gì?",
+        "answer": "Giáo trình khai phá dữ liệu (Các chương",
+        "file_path": "docs_book/TLTK_8.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Khai phá dữ liệu là gì?",
+        "answer": "Giáo trình khai phá dữ liệu (Các chương",
+        "file_path": "docs_book/TLTK_8.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Hệ quản trị cơ sở dữ liệu là gì?",
+        "answer": "Nguyễn Tuệ, Nguyễn Hải Châu, Nguyễn Ngọc Hóa, Cơ sở dữ liệu nâng cao, NXB ĐHQGHN, 2015.",
+        "file_path": "docs_book/TLTK_8.md"
+    },
+    {
+        "question": "Tài liệu tham khảo bắt buộc cho học phần Hệ quản trị cơ sở dữ liệu là gì?",
+        "answer": "Nguyễn Tuệ, Nguyễn Hải Châu, Nguyễn Ngọc Hóa, Cơ sở dữ liệu nâng cao, NXB ĐHQGHN, 2015. Abraham Silberschatz, S. Sudershan, Henry F. Korth, Database System Concepts, 7th Edition, McGraw-Hill Science/Engineering/Math; 2019. Ramez Elmasri and Shamkant B. Navathe, Fundamentals of Database Systems, 7th Edition by Addison-Wesley, 2016.",
+        "file_path": "docs_book/TLTK_8.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc nào được liệt kê cho học phần An toàn và an ninh mạng - Network Security?",
+        "answer": "1. William Stallings. Network Security Essentials",
+        "file_path": "docs_book/TLTK_26.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho khóa học Network Security là gì?",
+        "answer": "William Stallings. Network Security Essentials",
+        "file_path": "docs_book/TLTK_26.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc của môn An toàn và an ninh mạng - Network Security là gì?",
+        "answer": "William Stallings. Network Security Essentials",
+        "file_path": "docs_book/TLTK_26.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Quản trị mạng là gì?",
+        "answer": "Dương Lê Minh, Tập bài giảng điện tử, 2018.",
+        "file_path": "docs_book/TLTK_26.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc cho học phần Thực hành hệ điều hành mạng là gì?",
+        "answer": "Mastering Linus System Administration.",
+        "file_path": "docs_book/TLTK_26.md"
+    },
+    {
+        "question": "Đề cương bài giảng của giảng viên cho học phần nào?",
+        "answer": "Các chuyên đề trong KHMT",
+        "file_path": "docs_book/TLTK_21.md"
+    },
+    {
+        "question": "Cấu trúc tài liệu tham khảo của học phần Lý thuyết thông tin là gì?",
+        "answer": "Tài liệu bắt buộc và Tài liệu tham khảo thêm",
+        "file_path": "docs_book/TLTK_21.md"
+    },
+    {
+        "question": "Học phần nào có tài liệu tham khảo từ tác giả Luis Pedro Coelho?",
+        "answer": "Building Machine Learning Systems with Python - Second Edition",
+        "file_path": "docs_book/TLTK_21.md"
+    },
+    {
+        "question": "Tên của cuốn sách tài liệu tham khảo bắt buộc cho môn học Thiết kế và Triển khai các Hệ thống ứng dụng Học máy là gì?",
+        "answer": "Building Intelligent Systems - A Guide to Machine Learning Engineering",
+        "file_path": "docs_book/TLTK_21.md"
+    },
+    {
+        "question": "Tài liệu tham khảo bắt buộc cho học phần Lý thuyết thông tin là gì?",
+        "answer": "Đề cương bài giảng của giảng viên- Nguyễn Phương Thái, Nguyễn Việt Hà; Thomas M. Cover, Joy A. Thomas. Elements of Information Theory, second edition. A John Wiley & sons, Inc. 2006.",
+        "file_path": "docs_book/TLTK_21.md"
+    },
+    {
+        "question": "Tên tác giả của cuốn sách \"Data structures and Algorithms in C++\"?",
+        "answer": "Michael T. Goodrich và Roberto Tamassia",
+        "file_path": "docs_book/TLTK_4.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn sách \"Algorithms\" (4th edition)?",
+        "answer": "Robert Sedgewick và Kevin Wayne",
+        "file_path": "docs_book/TLTK_4.md"
+    },
+    {
+        "question": "Tác giả của cuốn \"Algorithms\" là ai?",
+        "answer": "Robert Sedgewick và Kevin Wayne",
+        "file_path": "docs_book/TLTK_4.md"
+    },
+    {
+        "question": "Tên tài liệu bắt buộc học phần Cấu trúc dữ liệu và giải thuật bằng C++ là gì?",
+        "answer": "Cấu trúc dữ liệu và giải thuật",
+        "file_path": "docs_book/TLTK_4.md"
+    },
+    {
+        "question": "Tác giả của sách \"Data structures and Algorithms in C++\" là ai?",
+        "answer": "Michael T. Goodrich và Roberto Tamassia",
+        "file_path": "docs_book/TLTK_4.md"
+    },
+    {
+        "question": "Giáo trình nào là tài liệu bắt buộc cho học phần Kiến trúc hướng dịch vụ?",
+        "answer": "Giáo trình Kiến trúc hướng dịch vụ của Võ Đình Hiếu",
+        "file_path": "docs_book/TLTK_11.md"
+    },
+    {
+        "question": "Có bao nhiêu tài liệu bắt buộc trong danh mục tài liệu tham khảo cho học phần Công nghệ Blockchain?",
+        "answer": "1 tài liệu",
+        "file_path": "docs_book/TLTK_11.md"
+    },
+    {
+        "question": "Ai là tác giả của giáo trình \"Giáo trình An toàn dữ liệu\"?",
+        "answer": "Trịnh Nhật Tiến",
+        "file_path": "docs_book/TLTK_11.md"
+    },
+    {
+        "question": "Ai là tác giả của giáo trình \"Giáo trình An toàn dữ liệu\"?",
+        "answer": "Trịnh Nhật Tiến",
+        "file_path": "docs_book/TLTK_11.md"
+    },
+    {
+        "question": "Cuốn sách nào là tài liệu bắt buộc cho học phần Kiến trúc hướng dịch vụ?",
+        "answer": "Giáo trình Kiến trúc hướng dịch vụ của Võ Đình Hiếu",
+        "file_path": "docs_book/TLTK_11.md"
+    },
+    {
+        "question": "Khi nào Gilbert Strang xuất bản \"Introduction to Linear Algebra\"?",
+        "answer": "2009",
+        "file_path": "docs_book/TLTK_1.md"
+    },
+    {
+        "question": "Tác giả của cuốn sách \"Đại số tuyến tính\" tái bản lần 2 năm 2004 là ai?",
+        "answer": "Nguyễn Hữu Việt Hưng",
+        "file_path": "docs_book/TLTK_1.md"
+    },
+    {
+        "question": "Tác giả của cuốn \"Elementary Linear Algebra, 11th- edition\" là ai?",
+        "answer": "Anton Rorres",
+        "file_path": "docs_book/TLTK_1.md"
+    },
+    {
+        "question": "Ai là tác giả chính của giáo trình \"Toán học cao cấp tập 1\"?",
+        "answer": "Nguyễn Đình Trí",
+        "file_path": "docs_book/TLTK_1.md"
+    },
+    {
+        "question": "Sách \"Elementary Linear Algebra\" của Anton Rorres được xuất bản năm nào?",
+        "answer": "2013",
+        "file_path": "docs_book/TLTK_1.md"
+    },
+    {
+        "question": "Người viết sách \"Neural network design\" là ai?",
+        "answer": "H.B. Demuth và M. Beale",
+        "file_path": "docs_book/TLTK_17.md"
+    },
+    {
+        "question": "Tác giả của cuốn sách \"Clean Architecture\" là gì?",
+        "answer": "Robert C. Martin",
+        "file_path": "docs_book/TLTK_17.md"
+    },
+    {
+        "question": "Giáo trình nào là tài liệu tham khảo bắt buộc cho môn Học máy - Machine Learning?",
+        "answer": "Lê Đức Trọng, Đặng Trần Bình. Tập bài giảng môn học máy . 2022",
+        "file_path": "docs_book/TLTK_17.md"
+    },
+    {
+        "question": "Có những tài liệu tham khảo nào cho môn Học máy?",
+        "answer": "",
+        "file_path": "docs_book/TLTK_17.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn sách \"Giáo trình kiểm thử phần mềm\"?",
+        "answer": "Phạm Ngọc Hùng, Trương Anh Hoàng, Đặng Văn Hưng",
+        "file_path": "docs_book/TLTK_17.md"
+    },
+    {
+        "question": "\"Essentials of Business Analytics\" được xuất bản năm nào?",
+        "answer": "2015",
+        "file_path": "docs_book/TLTK_14.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn sách \"Business analytics",
+        "answer": "S. Christian Albright và Wayne L. Winston",
+        "file_path": "docs_book/TLTK_14.md"
+    },
+    {
+        "question": "Năm xuất bản của cuốn sách \"Advanced Business Analytics\" là gì?",
+        "answer": "2015",
+        "file_path": "docs_book/TLTK_14.md"
+    },
+    {
+        "question": "Có bao nhiêu tài liệu tham khảo được liệt kê cho học phần Khai phá dữ liệu hướng lĩnh vực?",
+        "answer": "4",
+        "file_path": "docs_book/TLTK_14.md"
+    },
+    {
+        "question": "Ai là tác giả của cuốn sách \"Khai phá dữ liệu web\"?",
+        "answer": "Phan Xuân Hiếu, Đoàn Sơn, Nguyễn Trí Thành, Hà Quang Thụy, Nguyễn Thu Trang, Nguyễn Cẩm Tú",
+        "file_path": "docs_book/TLTK_14.md"
+    }
+]

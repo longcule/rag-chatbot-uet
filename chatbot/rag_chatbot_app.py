@@ -140,7 +140,6 @@ def main(parameters) -> None:
     init_chat_history(conversational_retrieval)
     init_welcome_message()
     display_messages_from_history()
-
     with open('/home/longcule/Videos/rag-chatbot/list_link_book.json', 'r', encoding='utf-8') as file:
         data_link_book = json.load(file)
 
@@ -155,6 +154,7 @@ def main(parameters) -> None:
 
         # Display retrieved documents with content previews, and updates the chat interface with the assistant's
         # responses.
+        start_time = time.time()
         with st.chat_message("assistant"):
             message_placeholder = st.empty()
             full_response = ""
@@ -178,42 +178,41 @@ def main(parameters) -> None:
 
                     st.session_state.messages.append({"role": "assistant", "content": full_response})
                 else:
-                    full_response += "I did not detect any pertinent chunk of text from the documents. \n\n"
+                    full_response += "Xin lỗi, với câu hỏi của bạn, tôi không thể tìm thấy thông tin hữu ích trong cơ sở dữ liệu của mình! \n\n"
                     message_placeholder.markdown(full_response)
                     st.session_state.messages.append({"role": "assistant", "content": full_response})
 
         # Display assistant response in chat message container
-        start_time = time.time()
-        with st.chat_message("assistant"):
-            message_placeholder = st.empty()
-            full_response = ""
-            with st.spinner(
-                text="Tớ đang tìm kiếm thông tin, đợi tí bro!"
-                " Mất khoảng 1 phút đó."
-            ):
-                streamer, fmt_prompts = conversational_retrieval.context_aware_answer(
-                    ctx_synthesis_strategy, refined_user_input, retrieved_contents
-                )
-                # for token in streamer:
-                #     full_response += llm.parse_token(token)
-                #     message_placeholder.markdown(full_response + "▌")
+        if sources:
+            with st.chat_message("assistant"):
+                message_placeholder = st.empty()
+                full_response = ""
+                with st.spinner(
+                    text="Tớ đang tìm kiếm thông tin, đợi tí bro!"
+                    " Mất khoảng 1 phút đó."
+                ):
+                    streamer, fmt_prompts = conversational_retrieval.context_aware_answer(
+                        ctx_synthesis_strategy, refined_user_input, retrieved_contents
+                    )
+                    # for token in streamer:
+                    #     full_response += llm.parse_token(token)
+                    #     message_placeholder.markdown(full_response + "▌")
 
-                # print("stream: ", streamer)
-                # print(docs_path)
-                # print(data_link_book)
-                count = count_matching_elements(docs_path, data_link_book)
-                # print(count)
-                if count >= 1:
-                    streamer = modified_response(docs_path, streamer)
+                    # print("stream: ", streamer)
+                    # print(docs_path)
+                    # print(data_link_book)
+                    count = count_matching_elements(docs_path, data_link_book)
+                    # print(count)
+                    if count >= 1:
+                        streamer = modified_response(docs_path, streamer)
 
-                message_placeholder.markdown(streamer)
+                    message_placeholder.markdown(streamer)
 
-                conversational_retrieval.update_chat_history(user_input, streamer)
-        # Add assistant response to chat history
-        st.session_state.messages.append({"role": "assistant", "content": streamer})
+                    conversational_retrieval.update_chat_history(user_input, streamer)
+            # Add assistant response to chat history
+            st.session_state.messages.append({"role": "assistant", "content": streamer})
         took = time.time() - start_time
         logger.info(f"\n--- Took {took:.2f} seconds ---")
-
 
 def get_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="RAG Chatbot")
@@ -269,7 +268,6 @@ def get_args() -> argparse.Namespace:
     )
 
     return parser.parse_args()
-
 
 # streamlit run rag_chatbot_app.py
 if __name__ == "__main__":

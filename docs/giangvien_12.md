@@ -1,0 +1,20 @@
+## các giảng viên học phần: đồ án tốt nghiệp - graduation thesis
+Tên giảng viên: Các giảng viên khoa CNTT và ĐTVT
+Tên giảng viên: Vũ Bá Duy, chức danh: ThS.
+Danh sách cán bộ giảng dậy chỉ bao gồm các học phần do khoa CNTT và ĐTVT trực tiếp phụ trách giảng dậy. Các học phần còn lại do các trường ĐHQGHN phụ trách phân giảng viên.
+## các giảng viên học phần: dự án công nghệ - technology project
+Tên giảng viên: Các giảng viên Khoa CNTT và mời giảng
+## các giảng viên học phần: trí tuệ nhân tạo - artificial intellegence
+Tên giảng viên: Nguyễn Thị Nhật Thanh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Bảo Sơn, chức danh: PGS.TS, chuyên ngành: KH và KT máy tính, đơn vị: ĐHQGHN
+Tên giảng viên: Nguyễn Thanh Thủy, chức danh: GS.TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Văn Vinh, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+## các giảng viên học phần: các vấn đề hiện đại của công nghệ thông tin
+Tên giảng viên: Các giảng viên Khoa CNTT và mời giảng
+## các giảng viên học phần: thực tập chuyên ngành - professional internship
+Tên giảng viên: Các giảng viên Khoa CNTT và mời giảng
+## các giảng viên học phần: kiểm thử và đảm bảo chất lượng phần mềm - software testing and quality assurance
+Tên giảng viên: Trương Ninh Thuận, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Phạm Ngọc Hùng, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Võ Đình Hiếu, chức danh: PGS.TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thu Trang, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN

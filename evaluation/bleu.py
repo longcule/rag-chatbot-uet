@@ -3,10 +3,10 @@ import json
 import evaluate
 bleu = evaluate.load('bleu')
 # Đường dẫn đến file CSV
-input_file = '/home/longcule/Videos/rag-chatbot/testset_final.json'
+input_file = '/home/longcule/Videos/rag-chatbot/output_rag_250_clean.json'
 
 # Đường dẫn đến file .txt để lưu kết quả
-txt_file = '/home/longcule/Videos/rag-chatbot/output_bleu.txt'
+txt_file = '/home/longcule/Videos/rag-chatbot/json_file/testset_final_bleu.txt'
 
 # Lưu kết quả vào list
 predictions = []
@@ -21,10 +21,10 @@ with open(input_file, "r", encoding='utf-8') as file:
     for row in input_data:
         # if row['year'] >= 2023:
             k += 1
-            data_test_value = row['ground_truth']  # Giá trị cột "data_test"
+            data_test_value = row['answer_gpt4']  # Giá trị cột "data_test"
             predictions.append(data_test_value)
 
-            reference_values = row['answer']  # Các giá trị cột "references"
+            reference_values = row['answer_rag']  # Các giá trị cột "references"
             references.append(reference_values)
 
             # Tính toán kết quả

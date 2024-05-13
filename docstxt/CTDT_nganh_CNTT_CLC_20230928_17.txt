@@ -9,8 +9,13 @@ Ghi chú:
 Học phần cùng số tín chỉ nhưng nội dung và chuẩn đầu ra được nâng cao hơn so với học phần cùng tên của chương trình đào tạo chuẩn ngành tương ứng;
 Học phần tăng số tín chỉ, nội dung và chuẩn đầu ra được nâng cao hơn so với học phần cùng tên của chương trình đào tạo chuẩn ngành tương ứng;
 Học phần mới nhằm đạt chuẩn cao hơn so với chương trình đào tạo chuẩn ngành tương ứng.
- 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chất lượng cao(clc)
- các giảng viên học phần: triết học mác – lênin - marxist-leninist philosophy ngành công nghệ thông tin chất lượng cao(clc)
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
- các giảng viên học phần: kinh tế chính trị mác – lênin - marx-lenin political economy ngành công nghệ thông tin chất lượng cao(clc)
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
+ 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin chất lượng cao(clc)
+ các môn học sẽ học trong học kỳ 1 chương trình đào tạo cntt chất lượng cao(clc)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT1009,Tin học cơ sở,3
+3,INT1008,Nhập môn lập trình,3
+4,MAT1093,Đại số,4
+5,MAT1041,Giải tích 1,4
+6,EPN1095,Vật lý đại cương 1,2
+7,PHI1006,Triết học Mác – Lênin,3
+Tổng: 19 môn học

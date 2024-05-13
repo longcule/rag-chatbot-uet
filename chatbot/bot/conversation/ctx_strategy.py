@@ -349,9 +349,9 @@ class AsyncTreeSummarizationStrategy(BaseSynthesisStrategy):
 
 
 STRATEGIES = {
+    SynthesisStrategyType.ASYNC_TREE_SUMMARIZATION.value: AsyncTreeSummarizationStrategy,
     SynthesisStrategyType.CREATE_AND_REFINE.value: CreateAndRefineStrategy,
     SynthesisStrategyType.TREE_SUMMARIZATION.value: TreeSummarizationStrategy,
-    SynthesisStrategyType.ASYNC_TREE_SUMMARIZATION.value: AsyncTreeSummarizationStrategy,
 }
 
 

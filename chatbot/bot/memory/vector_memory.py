@@ -225,16 +225,21 @@ class VectorMemory:
         # embedder = SentenceTransformer('bkai-foundation-models/vietnamese-bi-encoder')
         data = retrieve(query, self.embedder, self.bm25, self.courses_embs, self.meta_courses, topk=k)
         # print("data", data)
-        data = remove_duplicates(data)
+        # data = remove_duplicates(data)
         # print("data2: ", data)
+        sources = []
         retrieved_contents = []
+        # if data[0]['combined_score'] < 0.5:
+        #     return retrieved_contents, sources
         for doc in data:
-            file_path= f"docstxt/{doc['title']}.txt"
+            file_path= f"/home/longcule/Videos/rag-chatbot/docstxt/{doc['title']}.txt"
             # print(file_path)
+            print(file_path)
             data2 = read_md_file(file_path)
+            print("ghi")
             doc['passage'] = data2
         
-        print("data3: ",data)
+        # print("data3: ",data)
         # new_data = []  # Danh sách mới để chứa các tài liệu thỏa mãn điều kiện
         start_time = time.time()
         # tasks = [self.llm.async_generate_answer(p) for p in fmt_prompts]
@@ -252,7 +257,7 @@ class VectorMemory:
         end_time = time.time()
         elapsed_time = end_time - start_time
         print("Thời gian chạy check context relevance:", elapsed_time, "giây")
-        sources = []
+        
         for doc in data:
             sources.append(
                 {
@@ -261,7 +266,7 @@ class VectorMemory:
                     "content_preview": f"{doc['passage'][:100]}...",
                 }
             )
-        print("source: ", sources)
+        # print("source: ", sources)
         return retrieved_contents, sources
 
     @staticmethod

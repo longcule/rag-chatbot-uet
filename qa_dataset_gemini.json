@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Những chương nào được sinh viên chuẩn bị cho bài tiểu luận?",
+        "answer": "Chương 3, Chương 4, Chương 5, Chương 6, Chương 7, Chương 8, Chương 10",
+        "file_path": "docs/INT3501E_KHDV_092023-V_5.md"
+    },
+    {
+        "question": "Chương nào được sinh viên đọc ở tuần thứ 2?",
+        "answer": "Chương 2",
+        "file_path": "docs/INT3501E_KHDV_092023-V_5.md"
+    },
+    {
+        "question": "Sinh viên chuẩn bị bài tiểu luận từ tuần nào?",
+        "answer": "Từ tuần thứ 4",
+        "file_path": "docs/INT3501E_KHDV_092023-V_5.md"
+    },
+    {
+        "question": "Tuần thứ 3 của chương trình giảng dạy bao gồm các chương nào?",
+        "answer": "Chương 3",
+        "file_path": "docs/INT3501E_KHDV_092023-V_5.md"
+    },
+    {
+        "question": "Tuần nào sinh viên bắt đầu chuẩn bị bài tiểu luận?",
+        "answer": "Từ tuần thứ 4",
+        "file_path": "docs/INT3501E_KHDV_092023-V_5.md"
+    },
+    {
+        "question": "Mục tiêu của nội dung chi tiết học phần phân tích và thiết kế hướng đối tượng là gì?",
+        "answer": "Nội dung chi tiết học phần phân tích và thiết kế hướng đối tượng bao gồm các khái niệm chính, giới thiệu quy trình phát triển RUP, mô hình hóa hướng đối tượng và cung cấp các kỹ thuật để phân tích và thiết kế các hệ thống hướng đối tượng.",
+        "file_path": "docs/INT3110_PhanTichThietKeHuongDoiTuong_revised-2023-09-15_3.md"
+    },
+    {
+        "question": "Chương 5 của học phần này bao gồm những chủ đề nào?",
+        "answer": "Phân tích kiến trúc",
+        "file_path": "docs/INT3110_PhanTichThietKeHuongDoiTuong_revised-2023-09-15_3.md"
+    },
+    {
+        "question": "Học phần này bao gồm những nội dung chính nào?",
+        "answer": "Học phần bao gồm các nội dung chính như sau",
+        "file_path": "docs/INT3110_PhanTichThietKeHuongDoiTuong_revised-2023-09-15_3.md"
+    },
+    {
+        "question": "Học phần này bao gồm các chủ đề chính nào?",
+        "answer": "Bộ kinh nghiệm về phát triển phần mềm, Mô hình hóa hướng đối tượng, Tổng quan về yêu cầu phần mềm, Tổng quan về phân tích và thiết kế, Phân tích kiến trúc, Phân tích ca sử dụng, Xác định các phần tử thiết kế, Xác định các cơ chế thiết kế, Mô tả kiến trúc thực thi và phân tán, Thiết kế ca sử dụng, Thiết kế hệ thống con, Thiết kế lớp",
+        "file_path": "docs/INT3110_PhanTichThietKeHuongDoiTuong_revised-2023-09-15_3.md"
+    },
+    {
+        "question": "Học phần bao gồm bao nhiêu chương?",
+        "answer": "12 chương",
+        "file_path": "docs/INT3110_PhanTichThietKeHuongDoiTuong_revised-2023-09-15_3.md"
+    }
+]

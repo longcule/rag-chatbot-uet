@@ -1,7 +1,7 @@
 import json
 import matplotlib.pyplot as plt
 # Đọc file JSON
-with open('/home/longcule/Videos/rag-chatbot/chatbot/retrieve_docs_1.json', encoding='utf-8') as file:
+with open('/home/longcule/Videos/rag-chatbot/json_file/retrieve_topk/retrieve_docs_1.json', encoding='utf-8') as file:
     data = json.load(file)
 
 # Tính tỷ lệ trúng top k
@@ -17,8 +17,9 @@ def calculate_topk_accuracy(k):
     return accuracy
 
 
+
 # Tính và in ra tỷ lệ trúng top k cho k = 1, 3, 5, 10
-topk_values = [1, 3, 5, 10]
+topk_values = [1, 3, 4, 5, 10]
 # for k in topk_values:
 #     accuracy = calculate_topk_accuracy(k)
 #     print(f'Tỷ lệ trúng top {k}: {accuracy}%')
@@ -41,4 +42,4 @@ for i, accuracy in enumerate(accuracies):
     plt.annotate(f'{rounded_accuracy}%', (topk_values[i], accuracy), textcoords="offset points", xytext=(0,10), ha='center')
 
 # Lưu biểu đồ thành file PNG
-plt.savefig('accuracy_plot_1.png')
+plt.savefig('accuracy_plot_2.png')

@@ -1,0 +1,377 @@
+[
+    {
+        "question": "Tổng số tín chỉ của ngành Hệ thống thông tin là bao nhiêu?",
+        "answer": "19",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_8.txt"
+    },
+    {
+        "question": "Giải tích 2 có bao nhiêu tín chỉ?",
+        "answer": "4",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_8.txt"
+    },
+    {
+        "question": "Học phần Đại số có bao nhiêu tín chỉ?",
+        "answer": "4",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_8.txt"
+    },
+    {
+        "question": "Số tín chỉ của học phần \"Đại số\" là bao nhiêu?",
+        "answer": "4",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_8.txt"
+    },
+    {
+        "question": "Tổng số tín chỉ của khối kiến thức theo lĩnh vực chương trình đào tạo ngành hệ thống thông tin là bao nhiêu?",
+        "answer": "19",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_8.txt"
+    },
+    {
+        "question": "Cử nhân hệ thống thông tin có thể đảm nhiệm những vị trí công việc nào?",
+        "answer": "Chuyên viên/chuyên gia khoa học dữ liệu/phân tích kinh doanh/quản lý dữ liệu lớn/thiết kế, xây dựng giải pháp và phát triển HTTT; Giám đốc thông tin (CIO); Kiến trúc sư HTTT (system architect); Chuyên gia an ninh/an toàn HTTT; Kỹ sư dữ liệu (data engineer); Lập trình viên, quản trị viên HTTT, CSDL; Lập trình viên, chuyên gia phát triển hệ thống thông minh, giải pháp full-stack; Chuyên viên/chuyên gia phát triển ứng dụng thương mại điện tử (e-commerce), chính quyền điện tử (e-government), xã hội điện tử (e-society) ...",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_5.txt"
+    },
+    {
+        "question": "Học viên tốt nghiệp ngành hệ thống thông tin có thể làm những công việc gì?",
+        "answer": "Chuyên viên/chuyên gia khoa học dữ liệu, phân tích kinh doanh, quản lý dữ liệu lớn, thiết kế, xây dựng giải pháp và phát triển HTTT; Giám đốc thông tin (CIO); Kiến trúc sư HTTT (system architect); Chuyên gia an ninh/an toàn HTTT; Kỹ sư dữ liệu (data engineer); Lập trình viên, quản trị viên HTTT, CSDL; Lập trình viên, chuyên gia phát triển hệ thống thông minh, giải pháp full-stack; Chuyên viên/chuyên gia phát triển ứng dụng thương mại điện tử (e-commerce), chính quyền điện tử (e-government), xã hội điện tử (e-society) ...",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_5.txt"
+    },
+    {
+        "question": "Học viên tốt nghiệp ngành hệ thống thông tin có thể đảm nhiệm những vị trí công việc nào?",
+        "answer": "Chuyên viên/chuyên gia khoa học dữ liệu/phân tích kinh doanh/quản lý dữ liệu lớn/thiết kế, xây dựng giải pháp và phát triển HTTT; Giám đốc thông tin (CIO); Kiến trúc sư HTTT (system architect); Chuyên gia an ninh/an toàn HTTT; Kỹ sư dữ liệu (data engineer); Lập trình viên, quản trị viên HTTT, CSDL; Lập trình viên, chuyên gia phát triển hệ thống thông minh, giải pháp full-stack; Chuyên viên/chuyên gia phát triển ứng dụng thương mại điện tử (e-commerce), chính quyền điện tử (e-government), xã hội điện tử (e-society).",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_5.txt"
+    },
+    {
+        "question": "Chuyên gia nào có thể làm việc tại các cơ quan nhà nước sau khi tốt nghiệp ngành hệ thống thông tin?",
+        "answer": "Chuyên viên/chuyên gia khoa học dữ liệu/phân tích kinh doanh/quản lý dữ liệu lớn/thiết kế, xây dựng giải pháp và phát triển HTTT",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_5.txt"
+    },
+    {
+        "question": "Một số vị trí mà học viên có thể đảm nhiệm sau khi tốt nghiệp ngành hệ thống thông tin là gì?",
+        "answer": "Học viên có thể làm việc ở các vị trí như chuyên viên khoa học dữ liệu, phân tích kinh doanh, quản lý dữ liệu lớn, thiết kế, xây dựng giải pháp và phát triển HTTT, giám đốc thông tin (CIO), kiến trúc sư HTTT (system architect), chuyên gia an ninh/an toàn HTTT, kỹ sư dữ liệu (data engineer), lập trình viên, quản trị viên HTTT, CSDL, lập trình viên, chuyên gia phát triển hệ thống thông minh, giải pháp full-stack, chuyên viên/chuyên gia phát triển ứng dụng thương mại điện tử (e-commerce), chính quyền điện tử (e-government), xã hội điện tử (e-society).",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_5.txt"
+    },
+    {
+        "question": "Các chuẩn đầu ra về kiến thức ngành Hệ thống thông tin là gì?",
+        "answer": "Các chuẩn đầu ra về kiến thức ngành Hệ thống thông tin bao gồm kiến thức cơ bản về khoa học xã hội, khoa học chính trị và pháp luật; kiến thức cơ bản của Toán học, khoa học cơ bản và CNTT; kiến thức nền tảng trong lĩnh vực máy tính; kiến thức chuyên sâu về khoa học dữ liệu, tính toán hướng dữ liệu, an ninh không gian số; và kiến thức cốt lõi về tầm nhìn, kiến trúc nghiệp vụ, dữ liệu, ứng dụng, công nghệ, an toàn thông tin của tổ chức.",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_3.txt"
+    },
+    {
+        "question": "Kiến thức nền tảng nào trong lĩnh vực máy tính được chuẩn đầu ra ngành hệ thống thông tin đề cập đến?",
+        "answer": "Hệ thống máy tính, giải thuật và lập trình, cơ sở dữ liệu, phân tích thiết kế và phát triển phần mềm, mạng máy tính",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_3.txt"
+    },
+    {
+        "question": "Chuẩn đầu ra về kiến thức ngành hệ thống thông tin là gì?",
+        "answer": "Kiến thức cơ bản về khoa học xã hội, khoa học chính trị, văn hóa, xã hội, nhân văn, rèn luyện thể chất và quốc phòng.",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_3.txt"
+    },
+    {
+        "question": "PLO1.2 là gì?",
+        "answer": "PLO1.2 là vận dụng được kiến thức cơ bản của Toán học, khoa học cơ bản, và CNTT để giải quyết các bài toán liên quan đến lĩnh vực kỹ thuật.",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_3.txt"
+    },
+    {
+        "question": "PLO1.4 đề cập đến những kiến thức chuyên sâu nào?",
+        "answer": "PLO1.4 đề cập đến các kiến thức chuyên sâu về khoa học dữ liệu, tính toán hướng dữ liệu, an ninh không gian số theo định hướng phát triển chính phủ số, kinh tế số và xã hội số.",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_3.txt"
+    },
+    {
+        "question": "PLO2.3 là gì?",
+        "answer": "Lập kế hoạch, điều phối, tổ chức, dẫn dắt và đánh giá công việc nhóm và quản lý dự án CNTT hiệu quả.",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_4.txt"
+    },
+    {
+        "question": "PLO2.2 đề cập đến những kỹ năng nào?",
+        "answer": "Sử dụng thành thạo kiến thức và công cụ CNTT, phân tích dữ liệu và kết quả, đánh giá kỹ thuật để rút ra kết luận.",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_4.txt"
+    },
+    {
+        "question": "PLO2.1 đề cập đến những yêu cầu nào?",
+        "answer": "Phát hiện, mô tả vấn đề, đề xuất giải pháp sử dụng kiến thức khoa học, CNTT, các công cụ và công nghệ tiên tiến.",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_4.txt"
+    },
+    {
+        "question": "PLO nào đề cập đến khả năng sử dụng kiến thức CNTT và công cụ để phân tích dữ liệu?",
+        "answer": "PLO2.2",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_4.txt"
+    },
+    {
+        "question": "Ngôn ngữ nào được yêu cầu đối với sinh viên tốt nghiệp ngành hệ thống thông tin?",
+        "answer": "Tiếng Anh",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_4.txt"
+    },
+    {
+        "question": "Mã số đào tạo của ngành Hệ thống thông tin là gì?",
+        "answer": "7480104",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_1.txt"
+    },
+    {
+        "question": "Chương trình đào tạo hệ thống thông tin được đào tạo tại trường nào?",
+        "answer": "Trường Đại học Công nghệ (ĐHCN), Đại học Quốc gia Hà Nội (ĐHQGHN).",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_1.txt"
+    },
+    {
+        "question": "Chương trình đào tạo ngành Hệ thống thông tin kéo dài bao lâu?",
+        "answer": "4 năm",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_1.txt"
+    },
+    {
+        "question": "Trường nào đào tạo ngành Hệ thống thông tin với mã số 7480104?",
+        "answer": "Trường Đại học Công nghệ (ĐHCN), Đại học Quốc gia Hà Nội (ĐHQGHN).",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_1.txt"
+    },
+    {
+        "question": "Chương trình đào tạo ngành Hệ thống thông tin cấp bằng gì?",
+        "answer": "Cử nhân ngành Hệ thống thông tin",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_1.txt"
+    },
+    {
+        "question": "Tổng số tín chỉ của chương trình đào tạo ngành hệ thống thông tin là bao nhiêu?",
+        "answer": "136 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_6.txt"
+    },
+    {
+        "question": "Chương trình đào tạo ngành hệ thống thông tin yêu cầu bao nhiêu tín chỉ?",
+        "answer": "136 tín chỉ (không bao gồm Giáo dục thể chất, Giáo dục Quốc phòng - An ninh, Kỹ năng bổ trợ)",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_6.txt"
+    },
+    {
+        "question": "Tổng số tín chỉ của khối kiến thức ngành là bao nhiêu?",
+        "answer": "51 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_6.txt"
+    },
+    {
+        "question": "Tổng số tín chỉ của chương trình đào tạo hệ thống thông tin là bao nhiêu?",
+        "answer": "136 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_6.txt"
+    },
+    {
+        "question": "Tổng số tín chỉ của chương trình đào tạo hệ thống thông tin là bao nhiêu?",
+        "answer": "136 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_6.txt"
+    },
+    {
+        "question": "Môn học nào có mã số INT3224E?",
+        "answer": "Trí tuệ kinh doanh",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_14.txt"
+    },
+    {
+        "question": "Khoa học dịch vụ có bao nhiêu tín chỉ?",
+        "answer": "3",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_14.txt"
+    },
+    {
+        "question": "Có bao nhiêu tín chỉ cho học phần \"Trí tuệ nhân tạo\"?",
+        "answer": "3",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_14.txt"
+    },
+    {
+        "question": "Ngành hệ thống thông tin có bao nhiêu tín chỉ?",
+        "answer": "63 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_14.txt"
+    },
+    {
+        "question": "Học phần có mã INT3233 tên tiếng Việt là gì?",
+        "answer": "Khai phá dữ liệu hướng lĩnh vực",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_14.txt"
+    },
+    {
+        "question": "Học phần INT2212 có tổng số tiết thực hành là bao nhiêu?",
+        "answer": "0",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_10.txt"
+    },
+    {
+        "question": "Học phần nào là học phần tiên quyết của học phần \"Lập trình nâng cao\"?",
+        "answer": "INT1008",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_10.txt"
+    },
+    {
+        "question": "Có bao nhiêu tín chỉ dành cho học phần \"Lập trình nâng cao\"?",
+        "answer": "4",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_10.txt"
+    },
+    {
+        "question": "Có bao nhiêu tín chỉ cho học phần Cơ sở dữ liệu?",
+        "answer": "4 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_10.txt"
+    },
+    {
+        "question": "Mã số học phần cho môn Nguyên lý hệ điều hành là gì?",
+        "answer": "INT2214",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_10.txt"
+    },
+    {
+        "question": "Học phần UET1002 có bao nhiêu tín chỉ?",
+        "answer": "2",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_15.txt"
+    },
+    {
+        "question": "Môn học \"Kỹ năng khởi nghiệp\" có bao nhiêu tín chỉ?",
+        "answer": "2 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_15.txt"
+    },
+    {
+        "question": "Mã số học phần của học phần \"Thủ thuật toán nâng cao và ứng dụng\" là gì?",
+        "answer": "INT3418",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_15.txt"
+    },
+    {
+        "question": "Mã số học phần nào là mã số học phần tiên quyết của học phần Thuật toán nâng cao và ứng dụng?",
+        "answer": "INT2210",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_15.txt"
+    },
+    {
+        "question": "Tên tiếng Anh của môn học có mã số INT3102 là gì?",
+        "answer": "Numerical Methods",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_15.txt"
+    },
+    {
+        "question": "Ngành hệ thống thông tin có bao nhiêu tín chỉ học phần tự chọn?",
+        "answer": "20 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_13.txt"
+    },
+    {
+        "question": "Tổng số tín chỉ của chương trình đào tạo ngành hệ thống thông tin là bao nhiêu?",
+        "answer": "51 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_13.txt"
+    },
+    {
+        "question": "Tổng số tín chỉ trong chương trình đào tạo ngành Hệ thống thông tin là bao nhiêu?",
+        "answer": "63 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_13.txt"
+    },
+    {
+        "question": "Tổng số tín chỉ của chương trình đào tạo ngành hệ thống thông tin là bao nhiêu?",
+        "answer": "63 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_13.txt"
+    },
+    {
+        "question": "Tổng số tín chỉ của chương trình đào tạo ngành Hệ thống thông tin là bao nhiêu?",
+        "answer": "63 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_13.txt"
+    },
+    {
+        "question": "Tổng số tín chỉ của các học phần tự chọn trong chương trình đào tạo ngành hệ thống thông tin là bao nhiêu?",
+        "answer": "20/63",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_11.txt"
+    },
+    {
+        "question": "Học phần INT3201 có bao nhiêu tín chỉ?",
+        "answer": "4 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_11.txt"
+    },
+    {
+        "question": "Học phần nào có mã số INT2020E?",
+        "answer": "Phân tích thiết kế các hệ thống thông tin",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_11.txt"
+    },
+    {
+        "question": "Mã số học phần của học phần \"Phân tích thiết kế các hệ thống thông tin\" là gì?",
+        "answer": "INT2020E",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_11.txt"
+    },
+    {
+        "question": "Có bao nhiêu tín chỉ được yêu cầu trong các học phần bắt buộc của chương trình đào tạo ngành hệ thống thông tin?",
+        "answer": "19 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_11.txt"
+    },
+    {
+        "question": "Tổng số tín chỉ của ngành Hệ thống thông tin là bao nhiêu?",
+        "answer": "26",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_7.txt"
+    },
+    {
+        "question": "Có bao nhiêu tín chỉ cho môn Triết học Mác-Lênin?",
+        "answer": "3 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_7.txt"
+    },
+    {
+        "question": "Ngành hệ thống thông tin có bao nhiêu tín chỉ?",
+        "answer": "26",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_7.txt"
+    },
+    {
+        "question": "Tổng cộng có bao nhiêu tín chỉ trong chương trình đào tạo ngành hệ thống thông tin?",
+        "answer": "26 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_7.txt"
+    },
+    {
+        "question": "Ngành hệ thống thông tin khối kiến thức chung có tổng cộng bao nhiêu tín chỉ?",
+        "answer": "26",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_7.txt"
+    },
+    {
+        "question": "Mã số học phần của học phần Tín hiệu và hệ thống là gì?",
+        "answer": "ELT2035",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_9.txt"
+    },
+    {
+        "question": "Học phần INT2210 có bao nhiêu tín chỉ?",
+        "answer": "4 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_9.txt"
+    },
+    {
+        "question": "Mã học phần của học phần \"Xác suất thống kê\" là gì?",
+        "answer": "MAT1101",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_9.txt"
+    },
+    {
+        "question": "Số tín chỉ của môn Tín hiệu và hệ thống là bao nhiêu?",
+        "answer": "3",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_9.txt"
+    },
+    {
+        "question": "Tín chỉ của học phần \"Cấu trúc dữ liệu và giải thuật\" là bao nhiêu?",
+        "answer": "4",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_9.txt"
+    },
+    {
+        "question": "Ngành hệ thống thông tin được trang bị những kĩ năng gì?",
+        "answer": "Ngành hệ thống thông tin được trang bị các kĩ năng hiện đại đáp ứng nhu cầu phát triển và ứng dụng kiến thức về khoa học máy tính, trí tuệ nhân tạo, khoa học dữ liệu nói riêng và công nghệ thông tin nói chung.",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_2.txt"
+    },
+    {
+        "question": "Các sinh viên theo chương trình hệ thống thông tin có được học những gì?",
+        "answer": "Các sinh viên theo chương trình hệ thống thông tin sẽ được trang bị kiến thức và kỹ năng hiện đại, bao gồm khoa học máy tính, trí tuệ nhân tạo, khoa học dữ liệu và công nghệ thông tin.",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_2.txt"
+    },
+    {
+        "question": "Các sinh viên theo chương trình đào tạo hệ thống thông tin sẽ được trang bị những kiến thức gì?",
+        "answer": "Kiến thức và kỹ năng hiện đại về khoa học máy tính, trí tuệ nhân tạo, khoa học dữ liệu và công nghệ thông tin nói chung.",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_2.txt"
+    },
+    {
+        "question": "Những kiến thức và kĩ năng nào mà sinh viên chương trình HTTT sẽ được trang bị?",
+        "answer": "Kiến thức và kĩ năng hiện đại về khoa học máy tính, trí tuệ nhân tạo, khoa học dữ liệu và công nghệ thông tin nói chung.",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_2.txt"
+    },
+    {
+        "question": "Mục tiêu cụ thể của ngành hệ thống thông tin là gì?",
+        "answer": "Trang bị cho sinh viên kiến thức và kĩ năng về khoa học máy tính, trí tuệ nhân tạo, khoa học dữ liệu và công nghệ thông tin để hình thành hệ thống thông tin phục vụ nhu cầu phát triển kinh tế số và xã hội số.",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_2.txt"
+    },
+    {
+        "question": "Mã số học phần cho học phần \"Tích hợp dịch vụ\" là gì?",
+        "answer": "INT3227",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_12.txt"
+    },
+    {
+        "question": "Mã số học phần tiên quyết cho môn \"Công nghệ Blockchain\" là gì?",
+        "answer": "INT2211",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_12.txt"
+    },
+    {
+        "question": "Mã học phần của học phần \"Kỹ thuật và công nghệ dữ liệu lớn\" là gì?",
+        "answer": "INT3229E",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_12.txt"
+    },
+    {
+        "question": "Có bao nhiêu tín chỉ bắt buộc trong ngành hệ thống thông tin?",
+        "answer": "63 tín chỉ",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_12.txt"
+    },
+    {
+        "question": "Học phần INT3505 có bao nhiêu tín chỉ?",
+        "answer": "3",
+        "file_path": "data/2023.12.01_CTDT_nganh_HTTT_12.txt"
+    }
+]

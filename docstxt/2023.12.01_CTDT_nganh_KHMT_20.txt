@@ -1,15 +1,42 @@
- 4. đội ngũ cán bộ giảng dạy ngành khoa học máy tính
- các giảng viên học phần: cấu trúc dữ liệu và giải thuật - data structures and algorithms ngành khoa học máy tính
-Tên giảng viên: Bùi Ngọc Thăng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Nguyên Khôi, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Trần Thị Minh Châu, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Quang Hiếu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Thị Nhật Thanh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Phạm Bảo Sơn, chức danh: PGS TS, chuyên ngành: KH và KT máy tính, đơn vị: ĐHQGHN
- các giảng viên học phần: xác suất thống kê  - probability and statistics ngành khoa học máy tính
-Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Xác suất thống kê, đơn vị: Trường ĐHCN
-Tên giảng viên: Hoàng Thị Điệp, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Đặng Cao Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Đặng Thanh Hải, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+ 5. hướng dẫn thực hiện chương trình đào tạo ngành khoa học máy tính
+ các môn học sẽ học trong học kỳ 7(lựa chọn 1) chương trình đào tạo khoa học máy tính(khmt)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,"INT3131
+hoặc INT3132",Một trong hai học phần: Dự án Khoa học và Dự án Công nghệ,3
+2-3,,"Sinh viên chọn 02 học phần khối V.2 trong các học phần sau:
+INT3417 - Thiết kế và Triển khai các Hệ thống ứng dụng Học máy
+INT3229E - Kỹ thuật và công nghệ dữ liệu lớn
+INT3022 - Phát triển ứng dụng Internet of Things
+INT3231 - Công nghệ Blockchain
+INT3411 - Xử lý tiếng nói
+INT3123 - Các thuật toán đồ thị và ứng dụng
+INT3402E - Chương trình dịch
+INT3412E - Thị giác máy",6
+4,,"Sinh viên 01 học phần khối V.3 trong các học phần sau:
+INT3418 - Thuật toán nâng cao và ứng dụng
+INT3102 - Phương pháp tính
+INT3103 - Tối ưu hoá",3
+Tổng số tín chỉ: 12
+ các môn học sẽ học trong học kỳ 7(lựa chọn 2) chương trình đào tạo khoa học máy tính(khmt)
+STT,Mã học phần,Học phần,Số tín chỉ
+1-3,,"Sinh viên chọn 02 học phần khối V.2 trong các học phần sau:
+INT3417 - Thiết kế và Triển khai các Hệ thống ứng dụng Học máy
+INT3229E - Kỹ thuật và công nghệ dữ liệu lớn
+INT3022 - Phát triển ứng dụng Internet of Things
+INT3231 - Công nghệ Blockchain
+INT3411 - Xử lý tiếng nói
+INT3123 - Các thuật toán đồ thị và ứng dụng
+INT3402E - Chương trình dịch
+INT3412E - Thị giác máy",9
+4,,"Sinh viên 01 học phần khối V.3 trong các học phần sau:
+INT3418 - Thuật toán nâng cao và ứng dụng
+INT3102 - Phương pháp tính
+INT3103 - Tối ưu hoá",3
+Tổng số tín chỉ: 12
+ các môn học sẽ học trong học kỳ 8 chương trình đào tạo khoa học máy tính(khmt)
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT4050,Khóa luận tốt nghiệp,7
+,hoặc các học phần thay thế khóa luận tốt nghiệp,,
+1,,Dự án,4
+2,,Sinh viên chọn 01 học phần tự chọn khối V.2 mở trong kỳ,3
+Tổng số tín chỉ: 7

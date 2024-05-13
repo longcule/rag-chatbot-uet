@@ -1,0 +1,22 @@
+## các giảng viên học phần: các nguyên lý truyền thông - principles of communications
+Tên giảng viên: Hoàng Văn Xiêm, chức danh: PGS.TS, chuyên ngành: Điện tử viễn thông, đơn vị: Trường ĐHCN
+Tên giảng viên: Đinh Triều Dương, chức danh: TS
+## các giảng viên học phần: truyền thông quang - optical communications
+Tên giảng viên: Bùi Trung Ninh
+Nguyễn Nam Hoàng, chức danh: TS, chuyên ngành: Điện tử viễn thông, đơn vị: Trường ĐHCN
+Tên giảng viên: , chức danh: PGS.TS
+## các giảng viên học phần: xử lý tín hiệu số - digital signal processing
+Tên giảng viên: Nguyễn Linh Trung, chức danh: PGS. TS, chuyên ngành: Điện tử viễn thông, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Hồng Thịnh, chức danh: TS
+## các giảng viên học phần: truyền thông vệ tinh - satellite communication
+Tên giảng viên: Trịnh Anh Vũ, chức danh: PGS.TS, chuyên ngành: Điện tử viễn thông, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Thị Thúy Quỳnh, chức danh: TS
+## các giảng viên học phần: mạng truyền thông di động - mobile communication systems
+Tên giảng viên: Đinh Thị Thái Mai, chức danh: TS, chuyên ngành: Điện tử viễn thông, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Nam Hoàng, chức danh: PGS.TS
+## các giảng viên học phần: mạng truyền thông máy tính 2 - networks and computer communications 2
+Tên giảng viên: Đinh Thị Thái Mai, chức danh: TS, chuyên ngành: Điện tử viễn thông, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Nam Hoàng, chức danh: PGS.TS
+## các giảng viên học phần: truyền thông vô tuyến - wireless communications
+Tên giảng viên: Nguyễn Linh Trung, chức danh: PGS.TS, chuyên ngành: Điện tử viễn thông, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Thị Thúy Quỳnh, chức danh: TS

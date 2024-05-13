@@ -1,0 +1,19 @@
+## các giảng viên học phần: dự án công nghệ - technology project ngành khoa học máy tính
+Tên giảng viên: Các giảng viên của Khoa CNTT, chức danh: , chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: các vấn đề hiện đại trong khmt - advanced topics in computer science ngành khoa học máy tính
+Tên giảng viên: Các giảng viên của Khoa CNTT, chức danh: , chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: khoa học dữ liệu - introduction to data science ngành khoa học máy tính
+Tên giảng viên: Nguyễn Việt Anh, chức danh: PGS.TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Quang Hiếu, chức danh: TS
+## các giảng viên học phần: kỹ nghệ yêu cầu - requirement engineering ngành khoa học máy tính
+Tên giảng viên: Đặng Đức Hạnh, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Hoàng Việt, chức danh: TS
+## các giảng viên học phần: phát triển ứng dụng web ngành khoa học máy tính
+Tên giảng viên: Lê Đình Thanh, chức danh: TS, chuyên ngành: Mạng máy tính và TTDL, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Mạng máy tính và TTDL, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Việt Anh, chức danh: PGS. TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+## các giảng viên học phần: phát triển ứng dụng internet of things - iot application development ngành khoa học máy tính
+Tên giảng viên: Hoàng Xuân Tùng, chức danh: TS, chuyên ngành: Mạng máy tính và TTDL, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: TS
+## các giảng viên học phần: chuyên đề công nghệ - technology workshop ngành khoa học máy tính
+Tên giảng viên: Các giảng viên Khoa CNTT, chức danh: , chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN

@@ -18,8 +18,8 @@ class ModelType(Enum):
 
 
 SUPPORTED_MODELS = {
-    ModelType.ZEPHYR.value: ZephyrSettings,
     ModelType.MISTRAL.value: MistralSettings,
+    ModelType.ZEPHYR.value: ZephyrSettings,
     ModelType.DOLPHIN.value: DolphinSettings,
     ModelType.STABLELM_ZEPHYR.value: StableLMZephyrSettings,
     ModelType.OPENCHAT.value: OpenChatSettings,

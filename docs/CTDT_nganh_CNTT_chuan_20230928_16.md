@@ -7,10 +7,13 @@ Tổng cộng chương trình đào tạo ngành CNTT, Tổng số tín chỉ: 1
 Ghi chú:
 -   Học phần Kỹ năng bổ trợ, Giáo dục thể chất, Giáo dục quốc phòng -- an ninh, không được tính vào tổng số tín chỉ của chương trình đào tạo, không tính vào điểm trung bình chung học kỳ, điểm trung bình chung các học phần và điểm trung bình chung tích lũy, nhưng là điều kiện để xét tốt nghiệp.
 -   01 giờ tín chỉ thực hành tương ứng với 02 giờ thực tế trên lớp.
-# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chuẩn
-## các giảng viên học phần: triết học mác – lênin - marxist-leninist philosophy ngành công nghệ thông tin chuẩn
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
-## các giảng viên học phần: kinh tế chính trị mác – lênin - marx-lenin political economy ngành công nghệ thông tin chuẩn
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
-## các giảng viên học phần: chủ nghĩa xã hội khoa học - scientific socialism ngành công nghệ thông tin chuẩn
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
+# 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin chuẩn
+## các môn học sẽ học trong học kỳ 1 chương trình đào tạo ngành công nghệ thông tin chuẩn
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT1009,"Tin học cơ sở - Introduction to Informatics",3
+2,INT1008,"Nhập môn lập trình- Fundamentals of Programming",3
+3,MAT1093,"Đại số - Algebra",4
+4,MAT1041,"Giải tích 1 - Calculus 1",4
+5,EPN1095,"Vật lý đại cương 1- General Physics 1",2
+6,FLF1107,"Tiếng Anh B1 - English B1",5
+Tổng: 21 tín chỉ

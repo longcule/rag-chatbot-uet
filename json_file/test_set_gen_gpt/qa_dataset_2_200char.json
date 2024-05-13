@@ -1,0 +1,507 @@
+[
+    {
+        "question": "Học phần phân tích thiết kế hướng đối tượng bao gồm các nội dung chính nào?",
+        "answer": "Chương 1. Bộ kinh nghiệm về phát triển phần mềm, Chương 2. Mô hình hóa hướng đối tượng, Chương 3. Tổng quan về yêu cầu phần mềm, Chương 4. Tổng quan về phân tích và thiết kế, Chương 5. Phân tích kiến trúc, Chương 6. Phân tích ca sử dụng, Chương 7. Xác định các phần tử thiết kế, Chương 8. Xác định các cơ chế thiết kế, Chương 9. Mô tả kiến trúc thực thi và phân tán, Chương 10. Thiết kế ca sử dụng, Chương 11. Thiết kế hệ thống con và Chương 12. Thiết kế lớp",
+        "file_path": "docs/INT3110_PhanTichThietKeHuongDoiTuong_revised-2023-09-15_3.md"
+    },
+    {
+        "question": "Khai phá dữ liệu hướng lĩnh vực là gì?",
+        "answer": "Khai phá dữ liệu hướng lĩnh vực là một cách tiếp cận khai phá dữ liệu giải quyết các vấn đề cụ thể của một lĩnh vực cụ thể. Nó xem xét các ràng buộc và đặc điểm độc đáo của miền, cũng như các kiến thức và chuyên môn của chuyên gia trong miền để nâng cao hiệu quả của quá trình khai phá dữ liệu.",
+        "file_path": "docs/INT3233.Khai_phá_dữ_liệu_hướng_lĩnh_vực_3.md"
+    },
+    {
+        "question": "Các kiến thức được bao gồm trong học phần lập trình mạng?",
+        "answer": "Mô hình truyền thông của các ứng dụng mạng, cách thức lập trình ứng dụng mạng thông qua giao diện socket, các vấn đề về xử lý dữ liệu gửi và nhận qua giao diện socket, cách thức lập trình máy chủ với nhiều kiểu lập trình máy chủ khác nhau.",
+        "file_path": "docs/INT3304_Lập_trình_mạng_2023_2.md"
+    },
+    {
+        "question": "Học phần Lập trình mạng bao gồm những kiến thức nào?",
+        "answer": "Học phần Lập trình mạng bao gồm kiến thức về các mô hình truyền thông của các ứng dụng mạng, cách thức lập trình ứng dụng mạng thông qua giao diện socket, cách xử lý dữ liệu gửi và nhận qua giao diện socket, cũng như cách lập trình máy chủ với nhiều kiểu lập trình máy chủ khác nhau.",
+        "file_path": "docs/INT3304_Lập_trình_mạng_2023_2.md"
+    },
+    {
+        "question": "Các chủ đề nào được đề cập trong lý thuyết chung của Lập trình nâng cao?",
+        "answer": "Các khái niệm cơ bản và kỹ thuật lập trình nâng cao thể hiện trong ngôn ngữ lập trình bậc cao, các kiểu cấu trúc dữ liệu thông dụng, các thuật toán tìm kiếm sắp xếp đơn giản, hàm đệ quy, thao tác với tệp, lập trình trên nhiều tệp, lập trình đồ họa, tương tác với người dùng và cách tổ chức chương trình tối ưu.",
+        "file_path": "docs/INT2215_Lap_trinh_nang_cao_2023_3.md"
+    },
+    {
+        "question": "Học phần nào sẽ được học trong học kỳ 5 của chương trình đào tạo ngành công nghệ thông tin chuẩn?",
+        "answer": "Cơ sở các hệ thống thông tin, Khai phá dữ liệu, Thiết kế và phân tích thực nghiệm, Mật mã và An toàn thông tin, Các hệ thống thương mại điện tử, Khoa học dịch vụ, Kiến trúc hướng dịch vụ, Trí tuệ nhân tạo, Phát triển ứng dụng Web",
+        "file_path": "docs/CTDT_nganh_CNTT_chuan_20230928_34.md"
+    },
+    {
+        "question": "Trong chương trình đào tạo ngành công nghệ thông tin chuẩn, môn học nào được giảng dạy trong học kỳ 5?",
+        "answer": "Cơ sở các hệ thống thông tin, Khai phá dữ liệu, Thiết kế và phân tích thực nghiệm, Mật mã và An toàn thông tin, Các hệ thống thương mại điện tử, Khoa học dịch vụ, Kiến trúc hướng dịch vụ, Trí tuệ nhân tạo, Phát triển ứng dụng Web",
+        "file_path": "docs/CTDT_nganh_CNTT_chuan_20230928_34.md"
+    },
+    {
+        "question": "Phân tích mạng phương tiện xã hội bao gồm những kiến thức cơ bản nào?",
+        "answer": "Kiến thức cơ bản về phân tích mạng phương tiện xã hội bao gồm Giới thiệu mạng phương tiện xã hội, Giới thiệu về phân tích mạng phương tiện xã hội và Áp dụng các thông tin từ mạng phương tiện xã hội vào kinh doanh",
+        "file_path": "docs/INT3235E.Phân_tích_mạng_phương_tiện_xã_hội_trong_kinh_doanh_vi_2.md"
+    },
+    {
+        "question": "Môn học dữ liệu lớn sẽ có nội dung gì?",
+        "answer": "Giới thiệu kiến thức cơ bản về phân tích và quản lý dữ liệu lớn, Lý thuyết và phương pháp phân tích dữ liệu lớn, Tìm hiểu các kỹ thuật và công cụ để quản lý và phân tích dữ liệu lớn, Tiến hành các nghiên cứu điển hình về ứng dụng để chỉ ra việc sử dụng dữ liệu lớn.",
+        "file_path": "docs/INT3229E_Ky_thuat_va_cong_nghe_du_lieu_lon_3.md"
+    },
+    {
+        "question": "Môn học sẽ có những nội dung chính nào?",
+        "answer": "Giới thiệu kiến thức cơ bản về phân tích và quản lý dữ liệu lớn, Lý thuyết và phương pháp phân tích dữ liệu lớn, Các kỹ thuật và công cụ để quản lý và phân tích dữ liệu lớn, Các nghiên cứu điển hình về ứng dụng để chỉ ra việc sử dụng dữ liệu lớn.",
+        "file_path": "docs/INT3229E_Ky_thuat_va_cong_nghe_du_lieu_lon_3.md"
+    },
+    {
+        "question": "Môn Kỹ thuật và Công nghệ Dữ liệu lớn sẽ bao gồm những nội dung chính nào?",
+        "answer": "Giới thiệu kiến thức cơ bản về phân tích và quản lý dữ liệu lớn, lý thuyết và phương pháp phân tích dữ liệu lớn, các kỹ thuật và công cụ quản lý và phân tích dữ liệu lớn, nghiên cứu điển hình về ứng dụng và ứng dụng phân tích dữ liệu lớn trong các lĩnh vực khác nhau.",
+        "file_path": "docs/INT3229E_Ky_thuat_va_cong_nghe_du_lieu_lon_3.md"
+    },
+    {
+        "question": "Môn học sẽ bao gồm những nội dung chính nào?",
+        "answer": "Giới thiệu kiến thức cơ bản về phân tích và quản lý dữ liệu lớn, Lý thuyết và phương pháp phân tích dữ liệu lớn, Tìm hiểu các kỹ thuật và công cụ để quản lý và phân tích dữ liệu lớn, Tiến hành các nghiên cứu điển hình về ứng dụng để chỉ ra việc sử dụng dữ liệu lớn.",
+        "file_path": "docs/INT3229E_Ky_thuat_va_cong_nghe_du_lieu_lon_3.md"
+    },
+    {
+        "question": "Kỹ năng nào được đề cập trong chuẩn đầu ra học phần?",
+        "answer": "Các kỹ năng được đề cập trong chuẩn đầu ra học phần bao gồm lập kế hoạch, sắp xếp công việc, quản lý thời gian, tối ưu hóa phương pháp triển khai công việc, hợp tác nhóm, quản lý dự án, lập luận, giao tiếp văn bản, giao tiếp điện tử, đa truyền thông và làm tài liệu dự án.",
+        "file_path": "docs/INT3139_Thuc_hanh_phat_trien_phan_mem_2.md"
+    },
+    {
+        "question": "Học phần cung cấp những kiến thức và kỹ năng nào cho sinh viên?",
+        "answer": "Học phần cung cấp kiến thức về vai trò, chức năng, khó khăn trong quản lý dự án phần mềm. Về kỹ năng, học phần giúp sinh viên định hướng tốt trong các công việc, giới thiệu các pha chính trong quản lý dự án, các kỹ thuật cần thiết như quản lý rủi ro, nguồn lực, thay đổi, chất lượng, tài chính và phát triển. Ngoài ra, sinh viên còn được học kỹ năng giao tiếp và làm việc nhóm.",
+        "file_path": "docs/INT3111_QuanLyDuAnPhanMem_2.md"
+    },
+    {
+        "question": "Khái niệm KPDL và phát hiện tri thức từ cơ sở dữ liệu là gì?",
+        "answer": "Khái niệm KPDL liên quan đến việc trích xuất các mô hình và thông tin hữu ích từ cơ sở dữ liệu lớn, trong khi phát hiện tri thức từ cơ sở dữ liệu tập trung vào việc tìm kiếm các mẫu và mối quan hệ ẩn trong dữ liệu.",
+        "file_path": "docs/INT3209E_KPDL_092023-V_4.md"
+    },
+    {
+        "question": "Các vị trí công tác mà sinh viên tốt nghiệp ngành Khoa học máy tính có thể đảm nhiệm là gì?",
+        "answer": "Các vị trí công tác mà sinh viên tốt nghiệp ngành Khoa học máy tính có thể đảm nhiệm bao gồm chuyên viên, lập trình viên, kỹ sư xử lý và phân tích dữ liệu, kỹ sư xây dựng và triển khai mô hình Trí tuệ nhân tạo, giảng viên, nhà nghiên cứu và khởi nghiệp sáng tạo giải pháp.",
+        "file_path": "docs/2023.12.01_CTDT_nganh_KHMT_5.md"
+    },
+    {
+        "question": "Mục đích của khóa học là gì?",
+        "answer": "Chuẩn bị học sinh về các khái niệm đồ thị cơ bản để giải quyết các vấn đề thực tế, sử dụng các thuật toán đồ thị nâng cao, áp dụng các mô hình lý thuyết để phân tích dữ liệu đồ thị, phát triển kỹ năng tư duy logic, vận dụng các công cụ lập trình và triển khai các phương pháp làm việc nhóm hiệu quả.",
+        "file_path": "docs/INT3123_Cac_thuat_toan_Do_thi_va_Ung_dung_2.md"
+    },
+    {
+        "question": "Học phần phân tích và thiết kế hướng đối tượng cung cấp cho sinh viên những kiến thức và kỹ năng gì?",
+        "answer": "Học phần cung cấp kiến thức cơ bản về phương pháp luận phát triển phần mềm hướng đối tượng và rèn luyện kỹ năng mô hình hóa sử dụng ngôn ngữ mô hình hóa thống nhất UML, kỹ năng phân tích và thiết kế hướng đối tượng.",
+        "file_path": "docs/INT3110_PhanTichThietKeHuongDoiTuong_revised-2023-09-15_2.md"
+    },
+    {
+        "question": "Kỹ năng nào được đề cập trong chuẩn đầu ra về kỹ năng ngành công nghệ thông tin chuẩn?",
+        "answer": "Phát hiện, mô tả vấn đề về CNTT và truyền thông bằng cách áp dụng các kiến thức khoa học, CNTT, các công cụ và công nghệ hiện đại; Triển khai được các giải pháp CNTT, phân tích dữ liệu và kết quả, đánh giá kỹ thuật để rút ra kết luận; Lập kế hoạch, điều phối, tổ chức, dẫn dắt và đánh giá công việc nhóm và quản lý dự án CNTT hiệu quả; Tư duy logic, biện chứng để giải quyết vấn đề thực tế hiệu quả và sáng tạo; Thành thạo một số ngôn ngữ và công cụ lập trình hiện đại; Làm việc độc lập, cập nhật các công nghệ, kiến thức mới, khả năng học tập suốt đời trong môi trường chuyên nghiệp; Vận dụng được kiến thức về tiếng Anh tương đương trình độ 3/6 Khung năng lực ngoại ngữ Việt Nam.",
+        "file_path": "docs/CTDT_nganh_CNTT_chuan_20230928_3.md"
+    },
+    {
+        "question": "Các mục tiêu học tập của khóa học này là gì?",
+        "answer": "Các mục tiêu học tập của khóa học này là cung cấp kiến thức và kỹ năng về các khái niệm cơ bản về hệ thống học máy, quy trình xây dựng hệ thống học máy, các vấn đề hiện đại và công nghệ mới trong Khoa học máy tính, tư duy logic, sử dụng các công cụ thư viện lập trình python, triển khai phương pháp làm việc độc lập và làm việc nhóm hiệu quả, sử dụng tiếng Anh để nghiên cứu khái niệm quy trình thiết kế xây dựng hệ thống học máy cơ bản và hiện đại, thể hiện tinh thần trung thực chịu trách nhiệm khi thực hiện các hoạt động học tập thực hành cá nhân hoặc theo nhóm.",
+        "file_path": "docs/INT3417_Thiết_kế_và_Triển_khai_các_Hệ_thống_ứng_dụng_Học_máy_2.md"
+    },
+    {
+        "question": "Học phần khai phá dữ liệu bao gồm những nội dung chính nào?",
+        "answer": "Giới thiệu về khai phá dữ liệu, công nghệ tri thức, phát hiện tri thức từ dữ liệu, hiểu và tiền xử lý dữ liệu, khai phá luật kết hợp, phân cụm dữ liệu, phân lớp dữ liệu, và một số chủ đề thời sự của khai phá dữ liệu.",
+        "file_path": "docs/INT3209E_KPDL_092023-V_3.md"
+    },
+    {
+        "question": "Nội dung chính của chương trình giảng dạy \"Phân tích và thiết kế mạng máy tính\" là gì?",
+        "answer": "Tiếp cận các mô hình OSI TCPIP và topo mạng từ góc độ thực tiễn, các chuẩn công nghệ mạng, hệ thống các thiết bị ghép nối mạng và phạm vi ứng dụng của chúng, khái quát về các bước xây dựng thiết kế mạng, các nội dung quản trị và các giải pháp giám sát mạng.",
+        "file_path": "docs/INT3309_Phan-tich-va-thiet-ke-MMT_BMM_updated-0923_VI_2.md"
+    },
+    {
+        "question": "Học máy có những phương pháp nào?",
+        "answer": "Học có giám sát, học không giám sát, sử dụng hàm quyết định để phân biệt mẫu, học thống kê cho bài toán phân lớp, học tăng cường, mạng nơron nhân tạo, các phương pháp học địa phương, các phương pháp kết hợp các bộ học",
+        "file_path": "docs/INT3405_Hoc_may_vi_2023_2.md"
+    },
+    {
+        "question": "Đâu là mục tiêu tổng quát của chương trình đào tạo Công nghệ thông tin tại Trường ĐHCN, ĐHQGHN?",
+        "answer": "Đào tạo nguồn nhân lực cử nhân có trình độ chuyên môn cao về Công nghệ thông tin, có năng lực phát triển, triển khai và vận hành các hệ thống phần mềm và các giải pháp Công nghệ thông tin, đáp ứng nhu cầu của xã hội về nhân lực chất lượng cao trong lĩnh vực Công nghệ thông tin.",
+        "file_path": "docs/CTDT_nganh_CNTT_chuan_20230928_1.md"
+    },
+    {
+        "question": "Kỹ năng nào liên quan đến việc phân tích các phẩm chất của mô hình AI?",
+        "answer": "CLO5 Có kỹ năng phân tích sự cân bằng trong thiết kế hệ thống phần mềm với các thành phần AI phân tích các phẩm chất khác nhau của mô hình ngoài độ chính xác như chi phí vận hành độ trễ khả năng cập nhật và khả năng giải thích.",
+        "file_path": "docs/INT3143-Phat_trien_he_thong_thong_minh_2.md"
+    },
+    {
+        "question": "Quản lý dự án phần mềm bao gồm những miền tri thức nào?",
+        "answer": "Các miền tri thức trong quản lý dự án bao gồm các khái niệm cơ bản, các tiêu chí đánh giá dự án, các kỹ năng cần có của người quản lý dự án, các vấn đề về đạo đức nghề nghiệp và các pha và vòng đời của một dự án phần mềm.",
+        "file_path": "docs/INT3111_QuanLyDuAnPhanMem_3.md"
+    },
+    {
+        "question": "Mục đích của môn học khai phá dữ liệu là gì?",
+        "answer": "Mục đích của môn học khai phá dữ liệu là cung cấp cho sinh viên kiến thức và kỹ năng về dữ liệu, tri thức, cũng như các phương pháp khai phá dữ liệu, giúp sinh viên có thể giải quyết các vấn đề tính toán, thiết kế mô hình giải pháp khai phá dữ liệu và dữ liệu lớn để cải thiện quy trình và thay đổi tổ chức.",
+        "file_path": "docs/INT3209E_KPDL_092023-V_2.md"
+    },
+    {
+        "question": "Mục tiêu của chương trình đào tạo ngành MMT&TTDL là gì?",
+        "answer": "Trang bị cho sinh viên kiến thức chuyên môn và kỹ năng nghề nghiệp có hệ thống về mạng máy tính và truyền thông dữ liệu, đào tạo sinh viên có phẩm chất chính trị, đạo đức nghề nghiệp, có kỹ năng bổ trợ, và có khả năng làm việc ở nhiều vị trí khác nhau trong các đơn vị, doanh nghiệp phát triển và ứng dụng CNTT hàng đầu trong nước.",
+        "file_path": "docs/2023.12.01_CTDT_nganh_MMT_TTDL_2.md"
+    },
+    {
+        "question": "Mục tiêu của chương trình đào tạo ngành mạng máy tính và truyền thông dữ liệu là gì?",
+        "answer": "Trang bị cho sinh viên các kiến thức chuyên môn, kỹ năng nghề nghiệp về mạng máy tính và truyền thông dữ liệu, đào tạo sinh viên có phẩm chất đạo đức nghề nghiệp, có khả năng làm việc trong môi trường cạnh tranh, tự học và cập nhật kiến thức.",
+        "file_path": "docs/2023.12.01_CTDT_nganh_MMT_TTDL_2.md"
+    },
+    {
+        "question": "Mục tiêu của chương trình đào tạo MMT&TTDL là gì?",
+        "answer": "Trang bị cho sinh viên kiến thức chuyên môn và kỹ năng nghề nghiệp về mạng máy tính và truyền thông dữ liệu; Đào tạo sinh viên có phẩm chất chính trị, đạo đức nghề nghiệp, có kỹ năng bổ trợ cần thiết để làm việc trong môi trường cạnh tranh, có khả năng tự học, tự cập nhật kiến thức, công nghệ mới; Sinh viên có khả năng làm việc ở nhiều vị trí khác nhau trong các đơn vị, doanh nghiệp phát triển và ứng dụng CNTT hàng đầu trong nước.",
+        "file_path": "docs/2023.12.01_CTDT_nganh_MMT_TTDL_2.md"
+    },
+    {
+        "question": "Học phần này giới thiệu về những nội dung gì?",
+        "answer": "Lý thuyết chung về các thiết bị mạng và môi trường truyền, bao gồm giới thiệu về mạng, chuẩn mạng, mô hình OSI, phương tiện truyền dẫn, giao thức TCPIP, tô pô và chuẩn Ethernet, phần cứng mạng WAN, kết nối từ xa, mạng không dây, hệ điều hành mạng, mạng TCPIP chuyên sâu, thoại và video qua IP, an ninh mạng, khắc phục sự cố mạng và quản trị mạng.",
+        "file_path": "docs/INT3318_-_Cac_thiet_bi_mang_va_moi_truong_truyen_2023_2.md"
+    },
+    {
+        "question": "Học phần kiến trúc máy tính bao gồm những chủ đề chính nào?",
+        "answer": "Các chủ đề chính bao gồm khái niệm chung liên quan đến kiến trúc và tổ chức máy tính, các thành phần chính của máy tính, nguyên lý Von Neumann, chức năng chính của máy tính, liên kết trong máy tính, tổ chức và kiến trúc hệ thống bus, bộ nhớ chính, bộ nhớ cache, thiết bị lưu trữ dữ liệu, tập lệnh, phương thức truy cập dữ liệu trong bộ nhớ, bộ xử lý CPU, xử lý song song và đa lõi.",
+        "file_path": "docs/INT2212_KTMT_4TC_3.md"
+    },
+    {
+        "question": "Nội dung của học phần Kiến trúc máy tính là gì?",
+        "answer": "Nội dung chính của học phần Kiến trúc máy tính bao gồm các khái niệm chung về kiến trúc và tổ chức máy tính, các thành phần chính của máy tính, nguyên lý Von Neumann, các chức năng chính của máy tính, liên kết trong máy tính, tổ chức và kiến trúc hệ thống bus, kiến trúc bộ nhớ chính, bộ nhớ đệm và thiết bị lưu trữ dữ liệu, lệnh và phương thức truy cập dữ liệu trong bộ nhớ, tổ chức và chức năng của bộ vi xử lý CPU, cũng như các vấn đề liên quan đến xử lý song song và đa lõi.",
+        "file_path": "docs/INT2212_KTMT_4TC_3.md"
+    },
+    {
+        "question": "Sinh viên cần thực hiện những nhiệm vụ nào trong môn học?",
+        "answer": "Sinh viên cần lên lớp học ghi chép đầy đủ, đọc và nghiên cứu kỹ các tài liệu được giao, làm đủ các bài tập về nhà, tìm thêm các tài liệu theo chủ đề liên quan được giao, thực hiện bài tập lớn theo nhóm, triển khai lập trình các ứng dụng thực tế, báo cáo kết quả, thực hiện các bài kiểm tra và thi hết môn, góp ý kiến nghị để rút kinh nghiệm cho những khóa sau.",
+        "file_path": "docs/INT3424_Tac_tu_thong_minh_va_Robot_vi_3.md"
+    },
+    {
+        "question": "Sinh viên cần thực hiện những nhiệm vụ nào trong môn học Tác tử thông minh và Rôbốt?",
+        "answer": "Lên lớp học ghi chép đầy đủ, đọc và nghiên cứu các tài liệu được giao, làm đủ bài tập về nhà, tìm tài liệu tham khảo, thực hiện bài tập lớn theo nhóm, triển khai lập trình ứng dụng thực tế, báo cáo kết quả, thực hiện bài kiểm tra và thi hết môn, góp ý kiến nghị.",
+        "file_path": "docs/INT3424_Tac_tu_thong_minh_va_Robot_vi_3.md"
+    },
+    {
+        "question": "Sinh viên cần làm gì trong môn học Tác tử thông minh và Rôbốt?",
+        "answer": "Lên lớp học ghi chép đầy đủ, đọc và nghiên cứu kỹ tài liệu, làm đủ bài tập về nhà, tìm thêm tài liệu liên quan, thực hiện bài tập lớn theo nhóm, triển khai lập trình các ứng dụng thực tế, báo cáo kết quả, thực hiện các bài kiểm tra và thi hết môn, góp ý kiến nghị để rút kinh nghiệm cho những khóa sau.",
+        "file_path": "docs/INT3424_Tac_tu_thong_minh_va_Robot_vi_3.md"
+    },
+    {
+        "question": "Học sinh được yêu cầu làm gì để thành công trong lớp học?",
+        "answer": "Họ cần lên lớp ghi chép đầy đủ, đọc và nghiên cứu các tài liệu được giao, hoàn thành đủ bài tập về nhà, tìm thêm tài liệu trong chủ đề liên quan, thực hiện các bài tập lớn theo nhóm, báo cáo kết quả, thực hiện các bài kiểm tra và kỳ thi cuối khóa, và đóng góp ý kiến phản hồi để cải thiện khóa học.",
+        "file_path": "docs/INT3424_Tac_tu_thong_minh_va_Robot_vi_3.md"
+    },
+    {
+        "question": "Sinh viên cần phải làm gì để hoàn thành học phần này?",
+        "answer": "Sinh viên cần lên lớp học, ghi chép đầy đủ, đọc và nghiên cứu kỹ các tài liệu được giao, làm đủ các bài tập về nhà, tìm thêm các tài liệu liên quan, thực hiện bài tập lớn theo nhóm, triển khai lập trình phần mềm nhúng cho ứng dụng thực tế, báo cáo kết quả, thực hiện các bài kiểm tra và thi hết môn, góp ý kiến nghị để rút kinh nghiệm cho những khóa sau.",
+        "file_path": "docs/INT3108_Lap_trinh_nhung_va_thoi_gian_thuc_vi_revised2023_2.md"
+    },
+    {
+        "question": "Học phần nào có thể được chọn trong Học kỳ 7 chương trình đào tạo CNTT hướng tới thị trường Nhật Bản?",
+        "answer": "Thực hành phát triển ứng dụng di động, Kiểm thử và đảm bảo chất lượng phần mềm, Quản lý dự án phần mềm, Thiết kế giao diện người dùng, An toàn và an ninh mạng, Khai phá dữ liệu, Xử lý ảnh, Các hệ thống thương mại điện tử, Tin học y tế",
+        "file_path": "docs/CTDT_nganh_CNTT_dinh_huong_thi_truong_Nhat_Ban_20230928_29.md"
+    },
+    {
+        "question": "Các chủ đề trong lịch trình dạy cụ thể của chuyên đề công nghệ là gì?",
+        "answer": "Giới thiệu tổng quan về công nghệ, phân tích các yếu tố nền tảng, thiết kế chương trình, phát triển kỹ năng lập trình, giao diện người dùng, triển khai hệ thống, seminar về công nghệ, báo cáo dự án và tổng kết.",
+        "file_path": "docs/INT3114_Chuyen_de_Cong_nghe_2023_4.md"
+    },
+    {
+        "question": "Sinh viên sẽ được học những gì trong khóa học tiếng Nhật trong CNTT 1?",
+        "answer": "Sinh viên sẽ được học vốn từ vựng, hướng dẫn đọc hiểu tài liệu liên quan đến CNTT đang được ứng dụng trong công nghiệp Nhật Bản, cách viết các tài liệu chuyên ngành, kỹ năng mềm để thích nghi với môi trường làm việc tại các công ty CNTT Nhật Bản và phần trình bày văn bản bằng tiếng Nhật.",
+        "file_path": "docs/INT3140_Tiếng_Nhật_trong_CNTT_1_2023.08.18_v1_2.md"
+    },
+    {
+        "question": "Học sinh có được học những gì trong học phần tiếng Nhật trong CNTT 1?",
+        "answer": "Học sinh được trang bị vốn từ vựng, học đọc hiểu tài liệu CNTT liên quan đến Nhật Bản, học cách viết tài liệu chuyên ngành theo chủ đề, kỹ năng mềm để thích nghi với môi trường làm việc tại các công ty CNTT Nhật Bản và trình bày văn bản bằng tiếng Nhật.",
+        "file_path": "docs/INT3140_Tiếng_Nhật_trong_CNTT_1_2023.08.18_v1_2.md"
+    },
+    {
+        "question": "Mục tiêu chung của chương trình đào tạo ngành công nghệ thông tin là gì?",
+        "answer": "Sinh viên tốt nghiệp chương trình Công nghệ thông tin (CNTT) định hướng thị trường Nhật Bản có khả năng đảm nhiệm các công việc với vai trò kỹ sư CNTT, sẵn sàng làm việc tại các doanh nghiệp Nhật Bản cũng như một số nước phát triển khác.",
+        "file_path": "docs/CTDT_nganh_CNTT_dinh_huong_thi_truong_Nhat_Ban_20230928_1.md"
+    },
+    {
+        "question": "Học phần trí tuệ kinh doanh cung cấp những kỹ năng gì cho sinh viên?",
+        "answer": "Học phần cung cấp các kỹ năng như thiết kế kho dữ liệu, trích xuất, chuyển đổi và tải dữ liệu vào kho dữ liệu, phát triển phần trình diễn cho hệ thống trí tuệ kinh doanh và thiết kế hệ thống BI cho bài toán thực tế.",
+        "file_path": "docs/INT3224E_TriTueKinhDoanh-2023_2.md"
+    },
+    {
+        "question": "Nội dung của học phần \"Phát triển ứng dụng cho doanh nghiệp\" là gì?",
+        "answer": "Các nội dung liên quan đến phát triển ứng dụng cho doanh nghiệp, bao gồm các mô hình kiến trúc phát triển ứng dụng, xem xét về hiệu năng ứng dụng, bảo mật ứng dụng, tăng tính tin cậy cho ứng dụng, quá trình tự động từ phát triển đến triển khai ứng dụng và một số công nghệ điện toán đám mây phổ biến hỗ trợ triển khai ứng dụng.",
+        "file_path": "docs/INT3236E_PhatTrienUngDungChoDoanhNghiep-4TC_2.md"
+    },
+    {
+        "question": "Sinh viên tốt nghiệp có thể đảm nhận những vị trí công tác nào sau khi tốt nghiệp ngành công nghệ thông tin chuẩn?",
+        "answer": "Lập trình viên hệ thống và cơ sở dữ liệu, Lập trình viên trên môi trường di động, Web, Lập trình viên phát triển các hệ thống thông minh, Chuyên viên phân tích, thiết kế, phát triển hệ thống, Quản trị mạng, chuyên viên an ninh mạng, Chuyên viên thiết kế và xử lý nội dung số, Chuyên viên tư vấn dịch vụ công nghệ thông tin, Chuyên viên kiểm thử phần mềm",
+        "file_path": "docs/CTDT_nganh_CNTT_chuan_20230928_4.md"
+    },
+    {
+        "question": "Sinh viên tốt nghiệp ngành Công nghệ thông tin chuẩn có khả năng đảm nhiệm những vị trí công tác nào?",
+        "answer": "Lập trình viên hệ thống và cơ sở dữ liệu, Lập trình viên trên môi trường di động, Web, Lập trình viên phát triển các hệ thống thông minh, Chuyên viên phân tích, thiết kế, phát triển hệ thống, Quản trị mạng, chuyên viên an ninh mạng, Chuyên viên thiết kế và xử lý nội dung số, Chuyên viên tư vấn dịch vụ công nghệ thông tin, Chuyên viên kiểm thử phần mềm",
+        "file_path": "docs/CTDT_nganh_CNTT_chuan_20230928_4.md"
+    },
+    {
+        "question": "Khái niệm chung của trí tuệ kinh doanh là gì?",
+        "answer": "Trí tuệ kinh doanh (BI) là một tập hợp các công nghệ, quy trình và thực tiễn được sử dụng để chuyển đổi dữ liệu thô thành thông tin có thể hành động, giúp các tổ chức cải thiện quá trình ra quyết định và hiệu suất kinh doanh.",
+        "file_path": "docs/INT3224E_TriTueKinhDoanh-2023_3.md"
+    },
+    {
+        "question": "Học phần Cơ sở các hệ thống thông tin cung cấp những kiến thức và kỹ năng cốt lõi nào?",
+        "answer": "Học phần cung cấp kiến thức về các thành phần, đặc điểm và vai trò của HTTT, cũng như các kỹ năng sử dụng thông tin, phân tích trường hợp kinh doanh, xác định các giải pháp HTTT phù hợp và truyền tải bảo mật thông tin.",
+        "file_path": "docs/INT3201E_CSHTTT_092023-V_3.md"
+    },
+    {
+        "question": "Học phần cơ sở các hệ thống thông tin cung cấp những kỹ năng nào?",
+        "answer": "Học phần cung cấp các kỹ năng như đề xuất kỹ thuật sử dụng thông tin và tri thức để ra quyết định kinh doanh, phân tích trường hợp kinh doanh và bình luận các giải pháp HTTT phù hợp cho các vấn đề kinh doanh phổ biến.",
+        "file_path": "docs/INT3201E_CSHTTT_092023-V_3.md"
+    },
+    {
+        "question": "Các vị trí công việc nào mà học viên có thể đảm nhiệm sau khi tốt nghiệp ngành hệ thống thông tin tại cơ quan nhà nước?",
+        "answer": "Chuyên viên/chuyên gia khoa học dữ liệu/phân tích kinh doanh/quản lý dữ liệu lớn/thiết kế, xây dựng giải pháp và phát triển HTTT; Giám đốc thông tin (CIO); Kiến trúc sư HTTT (system architect); Chuyên gia an ninh/an toàn HTTT; Kỹ sư dữ liệu (data engineer); Lập trình viên, quản trị viên HTTT, CSDL; Lập trình viên, chuyên gia phát triển hệ thống thông minh, giải pháp full-stack; Chuyên viên/chuyên gia phát triển ứng dụng thương mại điện tử (e-commerce), chính quyền điện tử (e-government), xã hội điện tử (e-society) ...",
+        "file_path": "docs/2023.12.01_CTDT_nganh_HTTT_5.md"
+    },
+    {
+        "question": "Các vị trí việc làm mà sinh viên tốt nghiệp ngành hệ thống thông tin có thể đảm nhận là gì?",
+        "answer": "Sinh viên tốt nghiệp ngành hệ thống thông tin có thể đảm nhận nhiều vị trí công việc, bao gồm Chuyên gia khoa học dữ liệu, Phân tích kinh doanh, Quản lý dữ liệu lớn, Thiết kế và xây dựng giải pháp HTTT, Giám đốc thông tin (CIO), Kiến trúc sư HTTT, Chuyên gia an ninh/an toàn HTTT, Kỹ sư dữ liệu, Lập trình viên, Quản trị viên HTTT, CSDL, Lập trình viên, Chuyên gia phát triển hệ thống thông minh, giải pháp full-stack, Chuyên viên/chuyên gia phát triển ứng dụng thương mại điện tử (e-commerce), chính quyền điện tử (e-government), xã hội điện tử (e-society), Nghiên cứu viên/giảng viên về Khoa học dữ liệu, HTTT và CNTT, và các vai trò khởi nghiệp liên quan đến khoa học dữ liệu, nghiệp vụ, ứng dụng học máy và an toàn thông tin.",
+        "file_path": "docs/2023.12.01_CTDT_nganh_HTTT_5.md"
+    },
+    {
+        "question": "Các vị trí công việc mà sinh viên tốt nghiệp ngành hệ thống thông tin có thể đảm nhiệm là gì?",
+        "answer": "Chuyên viên/chuyên gia khoa học dữ liệu, phân tích kinh doanh, quản lý dữ liệu lớn, thiết kế, xây dựng giải pháp và phát triển HTTT, giám đốc thông tin (CIO), kiến trúc sư HTTT (system architect), chuyên gia an ninh/an toàn HTTT, kỹ sư dữ liệu (data engineer), lập trình viên, quản trị viên HTTT, CSDL, lập trình viên, chuyên gia phát triển hệ thống thông minh, giải pháp full-stack, chuyên viên/chuyên gia phát triển ứng dụng thương mại điện tử (e-commerce), chính quyền điện tử (e-government), xã hội điện tử (e-society).",
+        "file_path": "docs/2023.12.01_CTDT_nganh_HTTT_5.md"
+    },
+    {
+        "question": "Sau khi tốt nghiệp ngành Hệ thống thông tin, học viên có thể đảm nhiệm các vị trí công việc nào?",
+        "answer": "Chuyên viên/chuyên gia khoa học dữ liệu, phân tích kinh doanh, quản lý dữ liệu lớn, thiết kế giải pháp, giám đốc thông tin (CIO), kiến trúc sư hệ thống (system architect), chuyên gia an ninh/an toàn hệ thống, kỹ sư dữ liệu, lập trình viên, quản trị viên hệ thống, lập trình viên ứng dụng thương mại điện tử, chính quyền điện tử, xã hội điện tử, ...",
+        "file_path": "docs/2023.12.01_CTDT_nganh_HTTT_5.md"
+    },
+    {
+        "question": "Học phần này bao gồm những nội dung chính nào?",
+        "answer": "Tổng quan về phân tích và thiết kế HTTT, Vòng đời phát triển HTTT, Phương pháp và kỹ thuật phân tích HTTT, Phương pháp và kỹ thuật thiết kế HTTT, Vận dụng kiến thức phân tích thiết kế trong việc xây dựng HTTT cụ thể",
+        "file_path": "docs/INT2020E_PTTK_HTTT_vi_2.md"
+    },
+    {
+        "question": "Học phần phân tích thiết kế các hệ thống thông tin bao gồm những nội dung chính nào?",
+        "answer": "Tổng quan về phân tích và thiết kế HTTT, Vòng đời phát triển HTTT, Phương pháp và kỹ thuật phân tích HTTT, Phương pháp và kỹ thuật thiết kế HTTT, Vận dụng kiến thức phân tích thiết kế trong việc xây dựng HTTT cụ thể",
+        "file_path": "docs/INT2020E_PTTK_HTTT_vi_2.md"
+    },
+    {
+        "question": "Học phần này bao gồm những nội dung chính nào?",
+        "answer": "Tổng quan về phân tích và thiết kế HTTT, Vòng đời phát triển HTTT, Phương pháp và kỹ thuật phân tích HTTT, Phương pháp và kỹ thuật thiết kế HTTT, Vận dụng kiến thức phân tích thiết kế trong việc xây dựng HTTT cụ thể",
+        "file_path": "docs/INT2020E_PTTK_HTTT_vi_2.md"
+    },
+    {
+        "question": "Phân tích thiết kế hệ thống thông tin bao gồm chủ đề nào?",
+        "answer": "Tổng quan về phân tích và thiết kế hệ thống thông tin, vòng đời phát triển hệ thống thông tin, phương pháp và kỹ thuật phân tích hệ thống thông tin, phương pháp và kỹ thuật thiết kế hệ thống thông tin.",
+        "file_path": "docs/INT2020E_PTTK_HTTT_vi_2.md"
+    },
+    {
+        "question": "Sau khi tốt nghiệp ngành công nghệ thông tin, sinh viên có thể làm những công việc gì?",
+        "answer": "Họ có thể làm các công việc như kỹ sư cầu nối Nhật Bản, lập trình viên trên môi trường di động, web, lập trình viên hệ thống và cơ sở dữ liệu, lập trình viên phát triển các hệ thống thông minh, chuyên viên phân tích, thiết kế, phát triển hệ thống, chuyên viên phân tích nghiệp vụ, chuyên viên thiết kế và xử lý nội dung số, chuyên viên tư vấn dịch vụ công nghệ thông tin, chuyên viên kiểm thử phần mềm, chuyên viên phân tích dữ liệu bằng máy tính.",
+        "file_path": "docs/CTDT_nganh_CNTT_dinh_huong_thi_truong_Nhat_Ban_20230928_4.md"
+    },
+    {
+        "question": "Các vị trí công tác nào mà sinh viên ngành Công nghệ thông tin có thể đảm nhiệm sau khi tốt nghiệp?",
+        "answer": "Kỹ sư cầu nối Nhật Bản, Lập trình viên trên môi trường di động, Web, Lập trình viên hệ thống và cơ sở dữ liệu, Lập trình viên phát triển các hệ thống thông minh, Chuyên viên phân tích, thiết kế, phát triển hệ thống, Chuyên viên phân tích nghiệp vụ, Chuyên viên thiết kế và xử lý nội dung số, Chuyên viên tư vấn dịch vụ công nghệ thông tin, Chuyên viên kiểm thử phần mềm, Chuyên viên phân tích dữ liệu bằng máy tính",
+        "file_path": "docs/CTDT_nganh_CNTT_dinh_huong_thi_truong_Nhat_Ban_20230928_4.md"
+    },
+    {
+        "question": "Chương trình dịch cung cấp những kiến thức nào cho sinh viên tự học?",
+        "answer": "Lịch sử phát triển của chương trình dịch, kiến trúc một hệ sinh bộ phân tích từ vựng, cách chuyển đổi văn phạm từ dạng EBNF sang BNF, kiến trúc một hệ sinh bộ phân tích cú pháp theo phương pháp LR, cách tạo và quản lý bảng ký hiệu, một số kỹ thuật tối ưu mã, tập lệnh của một số bộ vi xử lý thực, một số vấn đề liên quan đến máy ảo Java, thực hành viết cú pháp điều khiển cho một số thành phần của chương trình.",
+        "file_path": "docs/INT3402_Chuong_trinh_dich_vi_4.md"
+    },
+    {
+        "question": "Nội dung của học phần Trí tuệ nhân tạo là gì?",
+        "answer": "Nội dung của học phần Trí tuệ nhân tạo bao gồm các chiến lược tìm kiếm, biểu diễn tri thức, lập luận tự động, lập luận không chắc chắn, học máy, ngôn ngữ lập trình logic và các công cụ để xây dựng hệ thống thông minh.",
+        "file_path": "docs/INT3401_Tri_tue_nhan_tao_vi_2.md"
+    },
+    {
+        "question": "Học kỳ 5 của chương trình đào tạo hệ thống thông tin sẽ học các môn gì?",
+        "answer": "Kinh tế chính trị Mác – Lênin, Cơ sở các hệ thống thông tin, Lịch sử Đảng Cộng sản Việt Nam, Khai phá dữ liệu, Thiết kế và phân tích thực nghiệm, Mật mã và An toàn thông tin, Các hệ thống thương mại điện tử, Khoa học dịch vụ, Kiến trúc hướng dịch vụ, Trí tuệ nhân tạo, Phát triển ứng dụng Web",
+        "file_path": "docs/2023.12.01_CTDT_nganh_HTTT_28.md"
+    },
+    {
+        "question": "Học sinh hệ thống thông tin sẽ học môn nào trong học kỳ 5?",
+        "answer": "Kinh tế chính trị Mác – Lênin, Cơ sở các hệ thống thông tin, Lịch sử Đảng Cộng sản Việt Nam, Khai phá dữ liệu, Thiết kế và phân tích thực nghiệm, Mật mã và An toàn thông tin, Các hệ thống thương mại điện tử, Khoa học dịch vụ, Kiến trúc hướng dịch vụ, Trí tuệ nhân tạo, Phát triển ứng dụng Web.",
+        "file_path": "docs/2023.12.01_CTDT_nganh_HTTT_28.md"
+    },
+    {
+        "question": "Học phần nào được dạy trong học kỳ 5 chương trình đào tạo hệ thống thông tin?",
+        "answer": "Cơ sở các hệ thống thông tin, Khai phá dữ liệu, Thiết kế và phân tích thực nghiệm, Mật mã và An toàn thông tin, Các hệ thống thương mại điện tử, Khoa học dịch vụ, Kiến trúc hướng dịch vụ, Trí tuệ nhân tạo, Phát triển ứng dụng Web",
+        "file_path": "docs/2023.12.01_CTDT_nganh_HTTT_28.md"
+    },
+    {
+        "question": "Môn Kiểm thử An ninh mạng dạy sinh viên về điều gì?",
+        "answer": "Môn Kiểm thử An ninh mạng dạy sinh viên về các nguyên tắc cơ bản của ethical hacking, bao gồm cách bảo vệ hệ thống mạng máy tính bằng cách sử dụng các công cụ mà kẻ tấn công thường sử dụng để xâm nhập hệ thống.",
+        "file_path": "docs/INT3327_Kiem_thu_an_ninh_mang_2023_2.md"
+    },
+    {
+        "question": "Mục tiêu của lớp kiểm thử an ninh mạng là gì?",
+        "answer": "Mục đích của lớp học kiểm thử an ninh mạng là giới thiệu cho sinh viên các nguyên tắc cơ bản về ethical hacking, dạy họ cách bảo vệ hệ thống mạng máy tính bằng cách sử dụng các công cụ và phương pháp mà kẻ tấn công thường sử dụng để xâm nhập hệ thống cũng như vượt qua sự phòng thủ với mục đích là bảo vệ hệ thống đó.",
+        "file_path": "docs/INT3327_Kiem_thu_an_ninh_mang_2023_2.md"
+    },
+    {
+        "question": "Mục tiêu của môn học kiểm thử an ninh mạng là gì?",
+        "answer": "Mục tiêu của môn học kiểm thử an ninh mạng là dạy cho sinh viên cách bảo vệ hệ thống mạng máy tính bằng cách sử dụng các công cụ và phương pháp mà kẻ tấn công sử dụng để xâm nhập hệ thống nhằm mục đích bảo vệ hệ thống đó.",
+        "file_path": "docs/INT3327_Kiem_thu_an_ninh_mang_2023_2.md"
+    },
+    {
+        "question": "Sau khi tốt nghiệp ngành mạng máy tính và truyền thông dữ liệu, sinh viên có thể đảm nhiệm những vị trí việc làm nào?",
+        "answer": "Kỹ sư thiết kế và triển khai các hệ thống mạng Internet, viễn thông và các dịch vụ mạng; Kỹ sư quản trị các hệ thống/dịch vụ mạng; Chuyên viên phát triển phần mềm và dịch vụ trên nền tảng mạng Internet và truyền thông; Kỹ sư phần mềm; Chuyên viên nghiên cứu và phát triển về Công nghệ thông tin và truyền thông; Chuyên viên về an ninh/an toàn hệ thống mạng và truyền thông; Chuyên viên tư vấn dịch vụ Công nghệ thông tin và truyền thông; Giảng viên, nghiên cứu viên về Công nghệ thông tin và Điện tử viễn thông; Các vị trí khác về Công nghệ thông tin và truyền thông.",
+        "file_path": "docs/2023.12.01_CTDT_nganh_MMT_TTDL_5.md"
+    },
+    {
+        "question": "Sau khi tốt nghiệp ngành mạng máy tính và truyền thông dữ liệu, học viên có thể đảm nhiệm vị trí nào?",
+        "answer": "Kỹ sư thiết kế và triển khai các hệ thống mạng Internet, viễn thông và các dịch vụ mạng. Kỹ sư quản trị các hệ thống/dịch vụ mạng cho các doanh nghiệp, tổ chức nhà nước, các nhà cung cấp dịch vụ. Chuyên viên phát triển phần mềm và dịch vụ trên nền tảng mạng Internet và truyền thông. Kỹ sư phần mềm. Chuyên viên nghiên cứu và phát triển về Công nghệ thông tin và truyền thông. Chuyên viên về an ninh/an toàn hệ thống mạng và truyền thông. Chuyên viên tư vấn dịch vụ Công nghệ thông tin và truyền thông. Giảng viên, nghiên cứu viên về Công nghệ thông tin và Điện tử viễn thông. Các vị trí khác về Công nghệ thông tin và truyền thông.",
+        "file_path": "docs/2023.12.01_CTDT_nganh_MMT_TTDL_5.md"
+    },
+    {
+        "question": "Những vị trí việc làm nào mà sinh viên có thể làm sau khi hoàn thành ngành mạng máy tính và truyền thông dữ liệu?",
+        "answer": "Kỹ sư thiết kế và triển khai các hệ thống mạng Internet, viễn thông và các dịch vụ mạng; Kỹ sư quản trị các hệ thống/dịch vụ mạng; Chuyên viên phát triển phần mềm và dịch vụ trên nền tảng mạng Internet và truyền thông; Kỹ sư phần mềm; Chuyên viên nghiên cứu và phát triển về Công nghệ thông tin và truyền thông; Chuyên viên về an ninh/an toàn hệ thống mạng và truyền thông; Chuyên viên tư vấn dịch vụ Công nghệ thông tin và truyền thông; Giảng viên, nghiên cứu viên về Công nghệ thông tin và Điện tử viễn thông; Các vị trí khác về Công nghệ thông tin và truyền thông.",
+        "file_path": "docs/2023.12.01_CTDT_nganh_MMT_TTDL_5.md"
+    },
+    {
+        "question": "Chuẩn đầu ra về kỹ năng khoa học máy tính là gì?",
+        "answer": "Phát hiện, mô tả vấn đề, đề xuất giải pháp; triển khai được các giải pháp CNTT, phân tích dữ liệu và kết quả, đánh giá kỹ thuật để rút ra kết luận; lập kế hoạch, điều phối, tổ chức, dẫn dắt và đánh giá công việc nhóm và quản lý dự án CNTT hiệu quả; tư duy logic, biện chứng để giải quyết các vấn đề thực tế hiệu quả và sáng tạo; thành thạo một số ngôn ngữ và công cụ lập trình hiện đại; khả năng phân tích, đánh giá và cập nhật các kiến thức, công nghệ mới trong lĩnh vực CNTT, Khoa học máy tính để nâng cao khả năng tự học và học tập suốt đời; khả năng nghiên cứu, phát triển và thử nghiệm các giải pháp định hướng khởi nghiệp; vận dụng được kiến thức tiếng Anh tương đương trình độ 3/6 Khung năng lực ngoại ngữ Việt Nam.",
+        "file_path": "docs/2023.12.01_CTDT_nganh_KHMT_4.md"
+    },
+    {
+        "question": "Tài liệu bắt buộc của học phần Quản lý dự án HTTT là những tài liệu nào?",
+        "answer": "Bài giảng Quản lý dự án HTTT (cập nhật hàng năm), Kathy Schwalbe, Information Technology Project Management, PMI, A Guide to the PROJECT MANAGEMENT BODY OF KNOWLEDGE (PMBOK Guide), Kenneth Laudon, Jane Laudon, Essentials of Management Information Systems.",
+        "file_path": "docs/TLTK_8.md"
+    },
+    {
+        "question": "Môn học phát triển ứng dụng web bao gồm những nội dung chính nào?",
+        "answer": "Khái niệm về ứng dụng web, kiến trúc ứng dụng web, mô hình client-server, vai trò của web server và web client, HTTP và URL, HTML, CSS, JavaScript, DOM, thiết kế thích ứng, PWA, promise, service worker, CacheStorage, mô hình ba tầng, mẫu thiết kế MVC, REST API, viết lại và định tuyến URL, thao tác với cơ sở dữ liệu, xử lý hợp thức, phiên, cookie, xác thực, an ninh, khung phát triển web, kiểm thử ứng dụng web và xu hướng phát triển web.",
+        "file_path": "docs/INT3306_Phat_trien_ung_dung_web_2023_2.md"
+    },
+    {
+        "question": "PLO1.3 là về gì?",
+        "answer": "Giải thích được kiến thức nền tảng trong lĩnh vực máy tính gồm hệ thống máy tính, giải thuật và lập trình, cơ sở dữ liệu, phân tích thiết kế và phát triển phần mềm, mạng máy tính ... trong nghiên cứu và phát triển các hệ thống, sản phẩm, giải pháp kỹ thuật CNTT.",
+        "file_path": "docs/CTDT_nganh_CNTT_dinh_huong_thi_truong_Nhat_Ban_20230928_2.md"
+    },
+    {
+        "question": "Học phần lập trình nhúng và thời gian thực bao gồm những chủ đề nào?",
+        "answer": "Học phần lập trình nhúng và thời gian thực bao gồm các chủ đề như giới thiệu về hệ thống nhúng, đặc trưng và thiết kế hệ thống nhúng, mô hình tính toán thông dụng trong hệ thống nhúng, hệ điều hành thời gian thực, hệ thống điều khiển thời gian thực, mô hình thời gian thực, phương pháp tính thời gian, nhiệm vụ tuần hoàn và không tuần hoàn, thành phần hệ thống và giao tiếp, lập trình thời gian thực trong Java, đồng hồ và lập lịch trong hệ thời gian thực Java, quản lý bộ nhớ, giới thiệu về công cụ lập trình nhúng và thời gian thực.",
+        "file_path": "docs/INT3108_Lap_trinh_nhung_va_thoi_gian_thuc_vi_revised2023_3.md"
+    },
+    {
+        "question": "Học phần này phù hợp với ai?",
+        "answer": "Học phần này phù hợp với các kỹ sư phần mềm muốn xây dựng hệ thống vững chắc và có trách nhiệm đáp ứng các thách thức cụ thể khi làm việc với các thành phần AI và các nhà khoa học dữ liệu muốn hiểu các yêu cầu của mô hình để sử dụng trong các hệ thống phần mềm và muốn đưa mô hình nguyên mẫu vào sản phẩm thực tiễn.",
+        "file_path": "docs/INT3143-Phat_trien_he_thong_thong_minh_3.md"
+    },
+    {
+        "question": "Học phần Phát triển hệ thống thông minh phù hợp với những đối tượng nào?",
+        "answer": "Học phần phù hợp với các kỹ sư phần mềm muốn xây dựng hệ thống vững chắc và có trách nhiệm đáp ứng các thách thức cụ thể khi làm việc với các thành phần AI, cũng như các nhà khoa học dữ liệu muốn hiểu các yêu cầu của mô hình để sử dụng trong các hệ thống phần mềm và muốn đưa mô hình nguyên mẫu vào sản phẩm thực tiễn.",
+        "file_path": "docs/INT3143-Phat_trien_he_thong_thong_minh_3.md"
+    },
+    {
+        "question": "Môn học truyền thông đa phương tiện trang bị cho sinh viên những kỹ năng nào?",
+        "answer": "Kỹ năng đánh giá chất lượng dữ liệu thông tin tín hiệu, kỹ năng sử dụng công cụ lập trình python để xử lý dữ liệu âm thanh hình ảnh và kỹ năng nghiên cứu cập nhật và tiếp thu các kiến thức thức mới công nghệ mới liên quan đến dữ liệu và hệ thống đa phương tiện.",
+        "file_path": "docs/INT3305_Truyen_thong_da_phuong_tien_2023_2.md"
+    },
+    {
+        "question": "Các kỹ năng nào được đề cập trong chuẩn đầu ra của môn học truyền thông đa phương tiện?",
+        "answer": "Đánh giá chất lượng dữ liệu/thông tin/tín hiệu, sử dụng công cụ lập trình Python để xử lý dữ liệu âm thanh/hình ảnh, nghiên cứu cập nhật kiến thức/công nghệ mới về dữ liệu và hệ thống đa phương tiện, tư duy sáng tạo để đề xuất sáng kiến cải tiến.",
+        "file_path": "docs/INT3305_Truyen_thong_da_phuong_tien_2023_2.md"
+    },
+    {
+        "question": "Nhiệm vụ của sinh viên trong môn học này là gì?",
+        "answer": "Lên lớp học ghi chép đầy đủ, đọc và nghiên cứu kỹ các tài liệu được giao, làm đủ các bài tập về nhà, tìm thêm các tài liệu liên quan, thực hiện bài tập lớn theo nhóm, triển khai lập trình các ứng dụng thực tế, báo cáo kết quả, thực hiện các bài kiểm tra và thi hết môn, góp ý kiến nghị để rút kinh nghiệm cho những khóa sau.",
+        "file_path": "docs/INT3123_Cac_thuat_toan_Do_thi_va_Ung_dung_3.md"
+    },
+    {
+        "question": "Phương pháp hình thức giúp sinh viên đạt được những mục tiêu nào?",
+        "answer": "Phương pháp hình thức giúp sinh viên hiểu các khái niệm cơ bản về phương pháp hình thức và ứng dụng của chúng trong quy trình phát triển phần mềm; có khả năng đặc tả được một số môđun phần mềm đơn giản sử dụng một trong những phương pháp hình thức; biết sử dụng một số công cụ để chứng minh tính đúng đắn của các hệ thống phần mềm đối với đặc tả hình thức của chúng.",
+        "file_path": "docs/INT3106_Phuong_phap_hinh_thuc_2023_1.md"
+    },
+    {
+        "question": "Mục tiêu chính của học phần Phân tích dữ liệu trực quan là gì?",
+        "answer": "Giúp sinh viên hiểu các nguyên lý biểu diễn thông tin trực quan, các kỹ thuật và hệ thống BDTTTQ hiện thời, vận dụng và so sánh được các kỹ thuật BDTTTQ khác nhau khi trình bày dữ liệu, đánh giá các hệ thống BDTTTQ và có nền tảng để thiết kế sáng tạo các cách BDTTTQ mới.",
+        "file_path": "docs/INT3137_Phan_tich_du_lieu_truc_quan_1.md"
+    },
+    {
+        "question": "Các chủ đề nào được đề cập trong Chương 7?",
+        "answer": "Loại bỏ bề mặt quay vào trong, Thuật toán ưu tiên theo danh sách Schumacker, Sắp xếp theo chiều sâu NewellNewellSancha, Thuật toán BSP, Phép chia nhỏ từng vùng Warnock và WeilerAtherton, Thuật toán bộ đệm Z, Thuật toán dòng quét Watkins",
+        "file_path": "docs/INT3403_Do_hoa_may_tinh_3.md"
+    },
+    {
+        "question": "Các yêu cầu chính của một dự án là gì?",
+        "answer": "Phân tích yêu cầu bài toán và lựa chọn nền tảng tính toán; Lựa chọn dữ liệu và tiền xử lý dữ liệu đầu vào; Thiết kế thuật toán trên nền tảng tính toán đã chọn; Lập trình; Triển khai chương trình để xử lý dữ liệu đã chọn; Sản phẩm tài liệu báo cáo",
+        "file_path": "docs/INT3131_Cac_chuyen_de_trong_KHMT_3.md"
+    },
+    {
+        "question": "Mục tiêu học phần là gì?",
+        "answer": "Sinh viên hoàn thành học phần này có kiến thức và hiểu biết về một chủ đề công nghệ phù hợp với thị trường Nhật Bản đồng thời được nâng cao trình độ tiếng Nhật cho ngành CNTT và các doanh nghiệp CNTT Nhật Bản.",
+        "file_path": "docs/INT3140_Tiếng_Nhật_trong_CNTT_1_2023.08.18_v1_1.md"
+    },
+    {
+        "question": "Mục đích của môn học \"Các hệ thống thương mại điện tử\" là gì?",
+        "answer": "Mục đích của môn học là cung cấp kiến thức và kỹ năng về các thành phần và cách thức xây dựng hệ thống thương mại điện tử, chuỗi giá trị, hệ thống thanh toán, an toàn và bảo mật trong thương mại điện tử.",
+        "file_path": "docs/INT3506_TMDT_HTTT_vi_2.md"
+    },
+    {
+        "question": "Môn học Các hệ thống thương mại điện tử tập trung vào những chủ đề chính nào?",
+        "answer": "Tổng quan về Thương mại điện tử, Mô hình kinh doanh trong Thương mại điện tử, Giao dịch Thương mại điện tử, Đảm bảo an toàn cho Thương mại điện tử, Quản trị dự án Thương mại điện tử và Dự án xây dựng một hệ thống TMĐT.",
+        "file_path": "docs/INT3506_TMDT_HTTT_vi_2.md"
+    },
+    {
+        "question": "Môn học \"Các hệ thống thương mại điện tử\" bao gồm những nội dung chính nào?",
+        "answer": "Tổng quan về Thương mại điện tử, Mô hình kinh doanh trong Thương mại điện tử, Giao dịch Thương mại điện tử, Đảm bảo an toàn cho Thương mại điện tử, Quản trị dự án Thương mại điện tử, Dự án xây dựng một hệ thống TMĐT.",
+        "file_path": "docs/INT3506_TMDT_HTTT_vi_2.md"
+    },
+    {
+        "question": "Mục tiêu của mục học phần khoa học dịch vụ liên quan đến kiến thức là gì?",
+        "answer": "Cung cấp cho sinh viên sự hiểu biết sâu rộng về xu hướng kinh tế hướng dịch vụ trên thế giới, kinh tế tri thức, tài nguyên toán tử và toán hạng, các loại dịch vụ phổ biến, khái niệm dịch vụ và các khung nhìn phổ biến về dịch vụ và KHDV.",
+        "file_path": "docs/INT3501E_KHDV_092023-V_2.md"
+    },
+    {
+        "question": "Sinh viên sẽ học được những nguyên lý và cách vận dụng nào trong môn khoa học dịch vụ?",
+        "answer": "Sinh viên sẽ nắm vững các nguyên lý và vận dụng được tiến hóa từ logic hướng hàng hóa tới logic hướng dịch vụ, mười tiên đề trong logic hướng dịch vụ, hệ thống các khái niệm cơ bản trong KHDV, logic hướng dịch vụ, bốn mô hình hệ thống dịch vụ, tiếp thị dịch vụ, mục tiêu tối ưu hóa lợi ích cho các bên liên quan của dịch vụ, mô hình hàng đợi trong dịch vụ, mô hình định vị, kinh tế số.",
+        "file_path": "docs/INT3501E_KHDV_092023-V_2.md"
+    },
+    {
+        "question": "Học phần này sẽ cung cấp cho sinh viên kiến thức, kỹ năng và phẩm chất nào?",
+        "answer": "Kiến thức về khái niệm thông tin, hệ thống, hệ thống thông tin (HTTT) và ba vai trò của HTTT; kỹ năng tự phát triển HTTT và lập kế hoạch phát triển HTTT; phẩm chất giải quyết vấn đề tính toán và thiết kế HTTT để cải thiện quy trình và thay đổi tổ chức.",
+        "file_path": "docs/INT3201E_CSHTTT_092023-V_2.md"
+    },
+    {
+        "question": "Mục đích của việc học môn Hệ thống thông tin cơ sở là gì?",
+        "answer": "Cung cấp cho sinh viên kiến thức, kỹ năng và phẩm chất cơ bản về hệ thống thông tin, bao gồm các khái niệm về thông tin, hệ thống, hệ thống thông tin và vai trò của chúng trong tổ chức và phát triển kinh tế.",
+        "file_path": "docs/INT3201E_CSHTTT_092023-V_2.md"
+    },
+    {
+        "question": "Mục đích của chương trình đào tạo ngành hệ thống thông tin là gì?",
+        "answer": "Trang bị cho sinh viên kiến thức và kỹ năng về khoa học máy tính, trí tuệ nhân tạo, khoa học dữ liệu và công nghệ thông tin để hình thành hệ thống thông tin phục vụ nhu cầu phát triển kinh tế số và xã hội số.",
+        "file_path": "docs/2023.12.01_CTDT_nganh_HTTT_2.md"
+    },
+    {
+        "question": "Sinh viên ngành Hệ thống thông tin được trang bị những kiến thức và kỹ năng gì?",
+        "answer": "Sinh viên ngành Hệ thống thông tin được trang bị các kiến thức và kỹ năng hiện đại đáp ứng nhu cầu phát triển và ứng dụng kiến thức về khoa học máy tính, trí tuệ nhân tạo, khoa học dữ liệu nói riêng và công nghệ thông tin nói chung để hình thành hệ thống thông tin phục vụ nhu cầu phát triển kinh tế số, xã hội số.",
+        "file_path": "docs/2023.12.01_CTDT_nganh_HTTT_2.md"
+    },
+    {
+        "question": "Các vị trí việc làm có thể đảm nhận sau khi tốt nghiệp ngành công nghệ thông tin chất lượng cao là gì?",
+        "answer": "Giảng viên, nghiên cứu sinh về nhóm ngành Máy tính và Công nghệ thông tin; Chuyên gia nghiên cứu và phát triển về Máy tính và Công nghệ thông tin; Lập trình viên hệ thống và cơ sở dữ liệu; Lập trình viên trên môi trường di động, Web; Lập trình viên phát triển các hệ thống thông minh; Chuyên viên phân tích, thiết kế, phát triển hệ thống; Quản trị mạng, chuyên viên an ninh mạng; Chuyên viên thiết kế và xử lý nội dung số; Chuyên viên tư vấn dịch vụ công nghệ thông tin; Chuyên viên kiểm thử phần mềm; Chuyên viên phân tích dữ liệu bằng máy tính.",
+        "file_path": "docs/CTDT_nganh_CNTT_CLC_20230928_4.md"
+    },
+    {
+        "question": "Vai trò quan trọng của phân tích kinh doanh là gì?",
+        "answer": "Phân tích kinh doanh đóng vai trò quan trọng trong việc nâng cao hiệu quả hoạt động của các tổ chức doanh nghiệp ở nhiều khía cạnh như tài chính, sản xuất, chuỗi cung ứng, khách hàng, marketing, bán hàng, v.v.",
+        "file_path": "docs/INT3232E-PhanTichKinhDoanh-Vi_2.md"
+    },
+    {
+        "question": "Chuẩn đầu ra học phần này giúp người học đạt được những kỹ năng nào?",
+        "answer": "Chuẩn đầu ra học phần giúp người học đạt được các kỹ năng đánh giá và phân tích hiệu quả của các giải pháp phân tích kinh doanh, thành thạo các công cụ, thư viện và ngôn ngữ lập trình hỗ trợ phân tích kinh doanh, đánh giá được các công cụ, thư viện, giải pháp công nghệ mới phù hợp với các vấn đề phân tích kinh doanh, tính toán và vận dụng được các phương pháp mô hình phân tích vào giải quyết các vấn đề thực tiễn về chuyển đổi số.",
+        "file_path": "docs/INT3232E-PhanTichKinhDoanh-Vi_2.md"
+    },
+    {
+        "question": "Các chuẩn đầu ra trong học phần Mật mã và An toàn thông tin là gì?",
+        "answer": "Các chuẩn đầu ra trong học phần Mật mã và An toàn thông tin bao gồm kiến thức về nền tảng toán học, khái niệm cơ bản, thuật toán và ứng dụng mật mã, cũng như các kỹ năng thực hiện phương pháp bảo vệ thông tin, viết chương trình ứng dụng thuật toán mật mã và sử dụng các kỹ thuật cơ bản của Mật mã và An toàn thông tin.",
+        "file_path": "docs/INT3230E__Mật_mã_và_an_toàn_thông_tin_2.md"
+    },
+    {
+        "question": "Mục tiêu chung của môn học Mật mã và An toàn thông tin là gì?",
+        "answer": "Mục tiêu chung của môn học Mật mã và An toàn thông tin là trang bị cho sinh viên kiến thức cơ bản về các kiến thức toán học nền tảng cho Mật mã và An toàn thông tin, các thuật toán mã hóa khóa đối xứng và khóa công khai, các sơ đồ chữ ký số, các chứng chỉ số và mã thám; quản lý và phân phối khóa; các giao thức định danh và xác thực người dùng; các sự cố an ninh an toàn và tấn công hệ thống thông tin; các phương pháp phát hiện ngăn chặn và xử lý các sự cố an toàn thông tin.",
+        "file_path": "docs/INT3230E__Mật_mã_và_an_toàn_thông_tin_2.md"
+    },
+    {
+        "question": "Trong Mật mã và An toàn thông tin, sinh viên có thể thực hiện các kỹ năng nào?",
+        "answer": "Sinh viên có thể thực hiện các phương pháp bảo vệ thông tin, viết chương trình ứng dụng các thuật toán và giao thức mật mã đảm bảo an toàn thông tin và sử dụng các kỹ thuật cơ bản của Mật mã và An toàn thông tin.",
+        "file_path": "docs/INT3230E__Mật_mã_và_an_toàn_thông_tin_2.md"
+    }
+]

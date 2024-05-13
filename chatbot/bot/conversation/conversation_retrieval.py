@@ -166,3 +166,4 @@ class ConversationRetrieval:
                 retrieved_contents, question, max_new_tokens=max_new_tokens
             )
         return streamer, fmt_prompts
+

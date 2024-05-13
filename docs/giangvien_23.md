@@ -1,0 +1,18 @@
+## các giảng viên học phần: thực hành phát triển ứng dụng di động (*) - applied mobile application development
+Tên giảng viên: Võ Đình Hiếu, chức danh: TS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Anh, chức danh: ThS, chuyên ngành: Công nghệ phần mềm, đơn vị: Trường ĐHCN
+## các giảng viên học phần: tin học y tế - health informatics
+Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Quốc Dũng, chức danh: ThS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+## các giảng viên học phần: phương pháp tính - numerical methods
+Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đức Bằng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Bộ quốc phòng
+## các giảng viên học phần: tối ưu hóa - optimization
+Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Hoàng Xuân Huấn, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+## các giảng viên học phần: bổ trợ
+Tên giảng viên: Các giảng viên Khoa CNTT và giảng viên mời
+## các giảng viên học phần: khóa luận tốt nghiệp - graduation thesis
+Tên giảng viên: Các giảng viên Khoa CNTT và giảng viên mời
+## các giảng viên học phần: dự án - projects
+Tên giảng viên:

@@ -1,15 +1,17 @@
-# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin chuẩn
-## các giảng viên học phần: cấu trúc dữ liệu và giải thuật - data structures and algorithms ngành công nghệ thông tin chuẩn
-Tên giảng viên: Bùi Ngọc Thăng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Nguyên Khôi, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Trần Thị Minh Châu, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Quang Hiếu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Thị Nhật Thanh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Phạm Bảo Sơn, chức danh: PGS TS, chuyên ngành: KH và KT máy tính, đơn vị: ĐHQGHN
-## các giảng viên học phần: xác suất thống kê  - probability and statistics ngành công nghệ thông tin chuẩn
-Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Xác suất thống kê, đơn vị: Trường ĐHCN
-Tên giảng viên: Hoàng Thị Điệp, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Đặng Cao Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Đặng Thanh Hải, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+# 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin chuẩn
+## các môn học sẽ học trong học kỳ 7 chương trình đào tạo ngành công nghệ thông tin chuẩn
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT3220E,"Các chủ đề hiện đại của HTTT - Advanced topics in Information systems",3
+2,INT4002,"Thực tập doanh nghiệp - Industrial Internship",3
+3,,"Kỹ năng bổ trợ - Soft Skills",3
+4-5,,02 học phần khối V.2,6-8
+6,INT3227,"Tích hợp dịch vụ - Service Integration",4
+INT3232E,"Phân tích kinh doanh - Business Analytics",4
+INT3233,"Khai phá dữ liệu hướng lĩnh vực - Domain-driven Data Mining",4
+INT3234E,"Phân tích dữ liệu dự báo - Predictive analytics",4
+INT3236E,"Phát triển ứng dụng doanh nghiệp - Application Development for Enterprise",4
+Tổng: 15-17 tín chỉ
+## các môn học sẽ học trong học kỳ 8 chương trình đào tạo ngành công nghệ thông tin chuẩn
+STT,Mã học phần,Học phần,Số tín chỉ
+1,,"Khóa luận tốt nghiệp - Các học phần thay thế khóa luận tốt nghiệp",7
+Tổng tín chỉ: 7

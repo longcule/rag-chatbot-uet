@@ -1,25 +1,43 @@
- 4. đội ngũ cán bộ giảng dạy ngành mạng máy tính và truyền thông dữ liệu
- các giảng viên học phần: lịch sử đảng cộng sản việt nam - revolutionary guidelines of vietnam communist party ngành mạng máy tính và truyền thông dữ liệu
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
- các giảng viên học phần: tư tưởng hồ chí minh - ho chi minh's ideology ngành mạng máy tính và truyền thông dữ liệu
-Tên giảng viên: Mời giảng Trường ĐH KHXH&NV
- các giảng viên học phần: nhà nước và pháp luật đại cương - state and law ngành mạng máy tính và truyền thông dữ liệu
-Tên giảng viên: Mời giảng Trường ĐH Luật
- các giảng viên học phần: tiếng anh b1 - english b1 ngành mạng máy tính và truyền thông dữ liệu
-Tên giảng viên: Mời giảng Trường ĐHNN
- các giảng viên học phần: tiếng anh b2 - english b2 ngành mạng máy tính và truyền thông dữ liệu
-Tên giảng viên: Mời giảng Trường ĐHNN
- các giảng viên học phần: tin học cơ sở - introduction to informatics ngành mạng máy tính và truyền thông dữ liệu
-Tên giảng viên: Giảng viên Trường ĐHCN
- các giảng viên học phần: kỹ năng bổ trợ - soft skills ngành mạng máy tính và truyền thông dữ liệu
-Tên giảng viên: Mời giảng TT Dự báo phát triển nguồn nhân lực
- các giảng viên học phần: giáo dục thể chất  - physical education ngành mạng máy tính và truyền thông dữ liệu
-Tên giảng viên: Mời giảng TT GDTC&TT
- các giảng viên học phần: giáo dục quốc phòng - an ninh - national defence education ngành mạng máy tính và truyền thông dữ liệu
-Tên giảng viên: Mời giảng TT GDQP&AN
- các giảng viên học phần: đại số - algebra ngành mạng máy tính và truyền thông dữ liệu
-Tên giảng viên: Mời giảng
- các giảng viên học phần: giải tích 1 - calculus 1 ngành mạng máy tính và truyền thông dữ liệu
-Tên giảng viên: Mời giảng
- các giảng viên học phần: giải tích 2 - calculus 2 ngành mạng máy tính và truyền thông dữ liệu
-Tên giảng viên: Mời giảng
+ 5. hướng dẫn thực hiện chương trình đào tạo ngành mạng máy tính và truyền thông dữ liệu
+ các môn học sẽ học trong học kỳ 2 chương trình đào tạo mạng máy tính(mmt)
+Số TT,Mã số,Học phần,Số tín chỉ
+1,FLF1108,Tiếng Anh B2,5
+2,MAT1042,Giải tích 2,4
+3,INT1050,Toán học rời rạc,4
+4,INT2215,Lập trình nâng cao,4
+5,EPN1096,Vật lý đại cương 2,2
+6,UET102,Kĩ năng khởi nghiệp 🡪 dạy vào hè,2
+Tổng số tín chỉ: 21
+ các môn học sẽ học trong học kỳ 3 chương trình đào tạo mạng máy tính(mmt)
+Số TT,Mã số,Học phần,Số tín chỉ
+1,INT2204,Lập trình hướng đối tượng,3
+2,INT2212,Kiến trúc máy tính,4
+3,INT2210,Cấu trúc dữ liệu và giải thuật,4
+4,INT2211,Cơ sở dữ liệu,4
+5,MAT1101,Xác suất thống kê,3
+6,PEC1008,Kinh tế chính trị Mác – Lênin,2
+Tổng số tín chỉ: 20
+ các môn học sẽ học trong học kỳ 4 chương trình đào tạo mạng máy tính(mmt)
+Số TT,Mã số,Học phần,Số tín chỉ
+1,INT2208,Công nghệ phần mềm,3
+2,INT2213,Mạng máy tính,4
+3,ELT2035,Tín hiệu và hệ thống,3
+4,ELT3243E,Các nguyên lý truyền thông,3
+5,ELT3057E,Truyền thông số và mã hóa,3
+6,PHI1002,Chủ nghĩa xã hội khoa học,2
+7,,Học phần bổ trợ,3
+Tổng số tín chỉ: 21
+ các môn học sẽ học trong học kỳ 5 chương trình đào tạo mạng máy tính(mmt)
+Số TT,Mã số,Học phần,Số tín chỉ
+1,INT3303,Mạng không dây,3
+2,INT3307E,An toàn và an ninh mạng,3
+3,INT3310,Quản trị mạng,3
+4,INT3306,Phát triển ứng dụng web,3
+5,HIS1001,Lịch sử Đảng Cộng sảng Việt Nam,2
+6,,Sinh viên chọn 1 học phần (3 tín chỉ mỗi học phần) trong danh sách sau,3
+,INT3301,Thực hành hệ điều hành mạng,3
+,INT3120,Phát triển ứng dụng di động,3
+,INT3319,Điện toán đám mây,3
+,INT3304,Lập trình mạng,3
+,INT3305,Truyền thông đa phương tiện,3
+Tổng số tín chỉ: 20

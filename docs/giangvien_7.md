@@ -1,0 +1,25 @@
+## các giảng viên học phần: xử lý ảnh ngành khoa học máy tính
+Tên giảng viên: Lê Thanh Hà, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thị Nhật Thanh, chức danh: PGS.TS
+## các giảng viên học phần: thị giác máy ngành khoa học máy tính
+Tên giảng viên: Lê Thanh Hà, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Tạ Việt Cường, chức danh: TS
+## các giảng viên học phần: tương tác người máy ngành khoa học máy tính
+Tên giảng viên: Ngô Thị Duyên, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Ma Thị Châu, chức danh: TS
+## các giảng viên học phần: truyền thông số và mã hóa - digital communications and coding
+Tên giảng viên: Trịnh Anh Vũ, chức danh: PGS.TS, chuyên ngành: Điện tử viễn thông, đơn vị: Trường ĐHCN
+Tên giảng viên: Đinh Triều Dương, chức danh: TS, chuyên ngành: Điện tử viễn thông, đơn vị: Trường ĐHCN
+## các giảng viên học phần: mạng không dây - wireless networks
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: PGS.TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Trần Trúc Mai, chức danh: TS
+## các giảng viên học phần: an toàn và an ninh mạng - network security
+Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Đình Thanh, chức danh: TS
+## các giảng viên học phần: quản trị mạng - network administration
+Tên giảng viên: Dương Lê Minh, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Đỗ Hoàng Kiên, chức danh: ThS
+## các giảng viên học phần: các vấn đề hiện đại của tt&mmt - advanced topics in communications and computer networks
+Tên giảng viên: Trần Trúc Mai, chức danh: TS, chuyên ngành: Truyền thông và MMT, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Đại Thọ, chức danh: TS
+Tên giảng viên: Nguyễn Hoài Sơn, chức danh: PGS.TS

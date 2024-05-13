@@ -1,0 +1,21 @@
+ các giảng viên học phần: phân tích dữ liệu không gian và ứng dụng - geospatial data analysis and applications ngành khoa học máy tính
+Tên giảng viên: Nguyễn Thị Nhật Thanh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Bùi Quang Hưng, chức danh: TS
+ các giảng viên học phần: học sâu và ứng dụng - deep learning and applications ngành khoa học máy tính
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Tạ Việt Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Trần Bình, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+ các giảng viên học phần: phân tích dữ liệu trực quan ngành khoa học máy tính
+Tên giảng viên: Lê Đức Trọng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+Tên giảng viên: Đặng Trần Bình, chức danh: TS
+Tên giảng viên: Bùi Ngọc Thăng, chức danh: TS
+ các giảng viên học phần: khoa học thần kinh - introduction to cognitive intelligence ngành khoa học máy tính
+Tên giảng viên: Lê Thanh Hà, chức danh: PGS. TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Thế Hoàng Anh, chức danh: TS
+ các giảng viên học phần: tác tử thông minh và rô-bốt - intelligence agents and robotics ngành khoa học máy tính
+Tên giảng viên: Tạ Việt Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Lê Nguyên Khôi, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
+ các giảng viên học phần: đồ họa máy tính ngành khoa học máy tính
+Tên giảng viên: Bùi Thế Duy, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Ma Thị Châu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Ngô Thị Duyên, chức danh: TS.

@@ -16,7 +16,7 @@ llm = ChatGoogleGenerativeAI(model="gemini-pro", google_api_key=GOOGLE_API_KEY)
 
 
 def merge_books(titles):
-    file_path = '/home/longcule/Videos/rag-chatbot/output.json'
+    file_path = '/home/longcule/Videos/rag-chatbot/data_link_book.json'
     with open(file_path, 'r', encoding='utf-8') as file:
         data = json.load(file)
 

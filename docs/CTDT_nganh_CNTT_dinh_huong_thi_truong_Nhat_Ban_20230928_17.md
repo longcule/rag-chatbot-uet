@@ -1,15 +1,25 @@
-# 4. đội ngũ cán bộ giảng dạy ngành công nghệ thông tin
-## các giảng viên học phần: cấu trúc dữ liệu và giải thuật - data structures and algorithms ngành công nghệ thông tin
-Tên giảng viên: Bùi Ngọc Thăng, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Nguyên Khôi, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Trần Thị Minh Châu, chức danh: TS, chuyên ngành: Khoa học máy tính, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Quang Hiếu, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Nguyễn Thị Nhật Thanh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Phạm Bảo Sơn, chức danh: PGS TS, chuyên ngành: KH và KT máy tính, đơn vị: ĐHQGHN
-## các giảng viên học phần: xác suất thống kê  - probability and statistics ngành công nghệ thông tin
-Tên giảng viên: Lê Phê Đô, chức danh: TS, chuyên ngành: Xác suất thống kê, đơn vị: Trường ĐHCN
-Tên giảng viên: Hoàng Thị Điệp, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Lê Sỹ Vinh, chức danh: PGS.TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Đỗ Đức Đông, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Đặng Cao Cường, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
-Tên giảng viên: Đặng Thanh Hải, chức danh: TS, chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+# 5. hướng dẫn thực hiện chương trình đào tạo ngành công nghệ thông tin
+## các môn học sẽ học trong học kỳ 7 chương trình đào tạo ngành cntt định hướng thị trường nhật bản
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT3138,Chuyên đề công nghệ Nhật Bản (*),3
+2,THL1057,Nhà nước và Pháp luật Đại cương,2
+3,JAP2086,Tiếng Nhật 3C,3
+4,INT3141,Tiếng Nhật trong Công nghệ thông tin 2,3
+5,INT3510,Chuẩn kỹ năng của CNTT,2
+6,Sinh viên chọn 01 học phần (03 tín chỉ) từ các học phần lựa chọn,,3
+INT3321,Thực hành phát triển ứng dụng di động (*),3
+INT3117,Kiểm thử và đảm bảo chất lượng phần mềm,3
+INT3111,Quản lý dự án phần mềm (*),3
+INT3115,Thiết kế giao diện người dung (*),3
+INT3307,An toàn và an ninh mạng,3
+INT3209,Khai phá dữ liệu,3
+INT3404,Xử lý ảnh,3
+INT3506,Các hệ thống thương mại điện tử,3
+INT3404,Xử lý ảnh,3
+INT3422,Tin học y tế,3
+Tổng: 16 môn học
+## các môn học sẽ học trong học kỳ 8 chương trình đào tạo ngành cntt định hướng thị trường nhật bản
+STT,Mã học phần,Học phần,Số tín chỉ
+1,INT4050,"Khóa luận tốt nghiệp
+Các học phần thay thế khóa luận tốt nghiệp",7
+Tổng: 7 môn học

@@ -1,0 +1,24 @@
+## các giảng viên học phần: khoa học dịch vụ - service science là:
+Tên giảng viên: Hà Quang Thụy, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Ngọc Hóa, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS, chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Bùi Quang Hưng, chức danh: TS., chuyên ngành: Công nghệ thông tin, đơn vị: Trường ĐHCN
+## các giảng viên học phần: phân tích kinh doanh - business analytics là:
+Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS.TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS
+Tên giảng viên: Trần Mai Vũ, chức danh: TS
+## các giảng viên học phần: phân tích dữ liệu dự báo - predictive analytics là:
+Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS.TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Hà Quang Thụy, chức danh: PGS.TS
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS
+Tên giảng viên: Trần Trọng Hiếu, chức danh: PGS.TS
+Tên giảng viên: Trần Mai Vũ, chức danh: TS
+## các giảng viên học phần: phân tích mạng phương tiện xã hội trong kinh doanh - social media network analysis for business là:
+Tên giảng viên: Trần Mai Vũ, chức danh: TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Phan Xuân Hiếu, chức danh: PGS.TS
+Tên giảng viên: Nguyễn Trí Thành, chức danh: PGS.TS
+Tên giảng viên: Hà Quang Thụy, chức danh: PGS.TS
+## các giảng viên học phần: phát triển ứng dụng doanh nghiệp - application development for enterprise là:
+Tên giảng viên: Lê Hồng Hải, chức danh: TS., chuyên ngành: Hệ thống thông tin, đơn vị: Trường ĐHCN
+Tên giảng viên: Vũ Bá Duy, chức danh: ThS

@@ -1,0 +1,14 @@
+Generation:
+- Semantic_score = 0.8924148594141006 (bi-encoder)
+- BertScore: F1 score = 0.778
+ 	   	     P score = 0.778
+	         R score = 0.782
+- Bleu = 0.417083667698648
+- Rouge 1 = 0.6781816105726616
+- Rouge 2 = 0.5453250533976784
+
+Retrieval:
+- Top 10 = 94,04%
+- Top 5 = 88,74%
+- Top 3 = 80,79%
+- Top 1 = 57,95%
