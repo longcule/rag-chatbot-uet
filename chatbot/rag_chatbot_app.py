@@ -181,6 +181,7 @@ def main(parameters) -> None:
                     full_response += "Xin lỗi, với câu hỏi của bạn, tôi không thể tìm thấy thông tin hữu ích trong cơ sở dữ liệu của mình! \n\n"
                     message_placeholder.markdown(full_response)
                     st.session_state.messages.append({"role": "assistant", "content": full_response})
+                    # pass
 
         # Display assistant response in chat message container
         if sources:

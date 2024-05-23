@@ -148,33 +148,33 @@ def get_args() -> argparse.Namespace:
 
     return parser.parse_args()
 
-# if __name__ == "__main__":
-#     try:
-#         args = get_args()
-#         # user_input = 'Khoa học dịch vụ là gì?'
-#         # gen_qa_dataset(args, user_input)
-#         # Đọc file JSON
-#         with open('/home/longcule/Videos/rag-chatbot/qa_dataset_prompt.json', 'r', encoding='utf-8') as file:
-#             data = json.load(file)
+if __name__ == "__main__":
+    try:
+        args = get_args()
+        # user_input = 'Khoa học dịch vụ là gì?'
+        # gen_qa_dataset(args, user_input)
+        # Đọc file JSON
+        with open('/home/longcule/Videos/rag-chatbot/json_file/answer_rag/output_rag_250_clean.json', 'r', encoding='utf-8') as file:
+            data = json.load(file)
 
-#         ans_1 = []
-#         for item in data:
-#             question = item['question']
+        ans_1 = []
+        for item in data:
+            question = item['question']
             
-#             # print("context: ", context, "question: ", question)
-#             # Kiểm tra và lưu câu trả lời
-#             resp = gen_qa_dataset(args, question)
-#             # ans_1.append(resp)
-#             ans_1.append({"question": question, "answer_rag": resp, "answer_gpt4": item['answer_gpt4'], "contexts": item['context']})
+            # print("context: ", context, "question: ", question)
+            # Kiểm tra và lưu câu trả lời
+            resp = gen_qa_dataset(args, question)
+            # ans_1.append(resp)
+            ans_1.append({"question": question, "answer_rag_": resp, "answer_gpt4": item['answer_gpt4'], "contexts": item['context']})
 
 
-#             # Lưu kết quả vào file mới
-#             with open('output_rag_250_4.json', 'w', encoding='utf-8') as file:
-#                 json.dump(ans_1, file, ensure_ascii=False)
+            # Lưu kết quả vào file mới
+            with open('output_rag_250_4.json', 'w', encoding='utf-8') as file:
+                json.dump(ans_1, file, ensure_ascii=False)
 
-#     except Exception as error:
-#         print(error(f"An error occurred: {str(error)}", exc_info=True, stack_info=True))
-#         sys.exit(1)
+    except Exception as error:
+        print(error(f"An error occurred: {str(error)}", exc_info=True, stack_info=True))
+        sys.exit(1)
 
 args = get_args()
 question = 'Vấn đề bảo mật nào liên quan đến Jailbreak iOS?'

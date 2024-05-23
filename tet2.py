@@ -8,7 +8,7 @@ import json
 #     return text
 
 # Đường dẫn tới file JSON gốc và file JSON mới
-input_file_path = '/home/longcule/Videos/rag-chatbot/output_rag_250.json'
+input_file_path = '/home/longcule/Videos/rag-chatbot/output_rag_250_clean.json'
 output_file_path_1 = '/home/longcule/Videos/rag-chatbot/output_rag_250_rag.txt'
 output_file_path_2 = '/home/longcule/Videos/rag-chatbot/output_rag_250_gpt4.txt'
 # Đọc file JSON gốc
@@ -27,7 +27,7 @@ for item in data:
         # item['answer_gpt4'] = remove_special_characters(item['answer_gpt4'])
 
 # Ghi dữ liệu đã được xử lý ra file JSON mới
-# with open(output_file_path_1, 'w', encoding='utf-8') as output_file:
-#     json.dump(list1, output_file, indent=4, ensure_ascii=False)
+with open(output_file_path_1, 'w', encoding='utf-8') as output_file:
+    json.dump(list1, output_file, indent=4, ensure_ascii=False)
 with open(output_file_path_2, 'w', encoding='utf-8') as output_file:
     json.dump(list2, output_file, indent=4, ensure_ascii=False)

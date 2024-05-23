@@ -67,8 +67,7 @@ def retrieve(question, embedder, bm25, courses_embs, meta_courses, topk=50):
 
     ## compute combined score (BM25 + semantic)
     for passage in meta_courses:
-        passage["combined_score"] = passage["bm25_normed_score"] * 0.4 + \
-                                    passage["semantic_score"] * 0.6
+        passage["combined_score"] = passage["semantic_score"]
 
     ## sort passages by the combined score
     sorted_passages = sorted(meta_courses, key=lambda x: x["combined_score"], reverse=True)
@@ -263,7 +262,7 @@ class VectorMemory:
                 {
                     "score": round(doc['combined_score'], 3),
                     "document": doc['title'],
-                    "content_preview": f"{doc['passage'][:100]}...",
+                    "content_preview": f"{doc['passage'][:10]}...",
                 }
             )
         # print("source: ", sources)

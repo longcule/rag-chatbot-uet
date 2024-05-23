@@ -152,36 +152,36 @@ def get_args() -> argparse.Namespace:
 
     return parser.parse_args()
 
-# if __name__ == "__main__":
-#     try:
-#         args = get_args()
-#         # user_input = 'Khoa học dịch vụ là gì?'
-#         # gen_qa_dataset(args, user_input)
-#         # Đọc file JSON
-#         with open('/home/longcule/Videos/rag-chatbot/retrieve_testset_final.json', 'r', encoding='utf-8') as file:
-#             data = json.load(file)
+if __name__ == "__main__":
+    try:
+        args = get_args()
+        # user_input = 'Khoa học dịch vụ là gì?'
+        # gen_qa_dataset(args, user_input)
+        # Đọc file JSON
+        with open('/home/longcule/Videos/rag-chatbot/json_file/retrieve_topk/retrieve_testset_final.json', 'r', encoding='utf-8') as file:
+            data = json.load(file)
 
-#         ans_1 = []
-#         for item in data:
-#             question = item['question']
+        ans_1 = []
+        for item in data:
+            question = item['question']
             
-#             # print("context: ", context, "question: ", question)
-#             # Kiểm tra và lưu câu trả lời
-#             resp = retrieve_docs(args, question)
-#             # ans_1.append(resp)
-#             ans_1.append({"question": question, "file_path_retrieve": resp, "file_path_target": item['file_path_target']})
+            # print("context: ", context, "question: ", question)
+            # Kiểm tra và lưu câu trả lời
+            resp = retrieve_docs(args, question)
+            # ans_1.append(resp)
+            ans_1.append({"question": question, "file_path_semantic_retrieve": resp, "file_path_target": item['file_path_target']})
 
 
-#             # Lưu kết quả vào file mới
-#             with open('retrieve_docs_1.json', 'w', encoding='utf-8') as file:
-#                 json.dump(ans_1, file, ensure_ascii=False)
+            # Lưu kết quả vào file mới
+            with open('/home/longcule/Videos/rag-chatbot/json_file/retrieve_topk/retrieve_docs_semantic.json', 'w', encoding='utf-8') as file:
+                json.dump(ans_1, file, ensure_ascii=False)
 
-#     except Exception as error:
-#         # logger.error(f"An error occurred: {str(error)}", exc_info=True, stack_info=True)
-#         print(str(error))
-#         sys.exit(1)
+    except Exception as error:
+        # logger.error(f"An error occurred: {str(error)}", exc_info=True, stack_info=True)
+        print(str(error))
+        sys.exit(1)
 
-args = get_args()
-question = 'Sinh viên cần làm gì trong môn tác tử thông minh và robot'
-resp = retrieve_docs(args, question)
-print(resp)
+# args = get_args()
+# question = 'Sinh viên cần làm gì trong môn tác tử thông minh và robot'
+# resp = retrieve_docs(args, question)
+# print(resp)
